@@ -39,6 +39,8 @@ Total estimate: 20 minutes per month, or 5 minutes per week on
 average. Work done once a month, to add in the most recent month's
 data into bart.vipulnaik.com
 
+Details: https://github.com/vipulnaik/bart/blob/master/monthly-update-process.md
+
 Commits: https://github.com/vipulnaik/bart/commits
 
 Can the frequency be changed? I'd like to do the updates monthly to
