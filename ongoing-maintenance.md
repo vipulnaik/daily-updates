@@ -18,6 +18,21 @@ Frequently occurring tasks:
 * Coordinate improvements made by Issa and update live database to
   reflect those improvements
 
+## Org Watch
+
+Total estimate: 1 to 2 hours per week
+
+Commits: https://github.com/riceissa/aiwatch/commits
+
+Frequently occurring tasks:
+
+* Add organization documents related to people's job experience, job
+  application experience, hiring etc.
+
+## Diet Watch
+
+Forthcoming!
+
 ## Contract work for Vipul Naik
 
 Total estimate: 1-1.5 hours per week
