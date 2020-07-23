@@ -11,7 +11,7 @@ print '</head>';
 include_once("backend/globalVariables/passwordFile.inc");
 print "<body>\n";
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
-print '<h3>Finances for Vipul Naik</h3>';
+print '<h3>Updates for Vipul Naik</h3>';
 include_once('preamble.inc');
 print '<h4>Table of contents</h4>';
 print '<ul>';
