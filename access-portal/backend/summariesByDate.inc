@@ -21,12 +21,12 @@ print '<th>Time spent on other activities</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
-function convertToHoursAndMinutes($minutes_spent) {
-  if (!isset($minutes_spent)) {
+function convertToHoursAndMinutes($minutesSpent) {
+  if (!isset($minutesSpent)) {
     return "N/A";
   } else {
-    $hoursSpent = floor($minutes_spent/60);
-    $residualMinutesSpent = $row['minutes_spent'] - ($hoursSpent * 60);
+    $hoursSpent = floor($minutesSpent/60);
+    $residualMinutesSpent = $minutesSpent - ($hoursSpent * 60);
     return $hoursSpent.":".sprintf("%02d",$residualMinutesSpent);
   }
 }
