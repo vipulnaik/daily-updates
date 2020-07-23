@@ -35,15 +35,25 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   $row = $summariesResult -> fetch_assoc();
   print "<tr><td>".$row['date']."</td>";
   print "<td>".$row['dow']."</td>";
-  print '<td><a href="https://github.com/liftigniter/daily-updates/issues/'.$row['day_job_daily_update'].'">#'.$row['day_job_daily_update'].'</a></td>';
-  print '<td><a href="https://github.com/vipulnaik/daily-updates/issues/'.$row['personal_daily_update'].'">#'.$row['personal_daily_update'].'</a></td>';
+  if (!isset($row['day_job_daily_update'])) {
+    print '<td>N/A</td>';
+  } else {
+    print '<td><a href="https://github.com/liftigniter/daily-updates/issues/'.$row['day_job_daily_update'].'">#'.$row['day_job_daily_update'].'</a></td>';
+  }
+  if (!isset($row['personal_daily_update'])) {
+    print '<td>N/A</td>';
+  } else {
+    print '<td><a href="https://github.com/vipulnaik/daily-updates/issues/'.$row['personal_daily_update'].'">#'.$row['personal_daily_update'].'</a></td>';
+  }
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_day_job']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_projects']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_finances']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_chores']).'</td>';  
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_house_chores']).'</td>';  
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_other_activities']).'</td>';
-  print '<td>'.$row['notes'].'</td>';
+  if (isset($row['notes'])) {
+    print '<td>'.$row['notes'].'</td>';
+  }
   print "</tr>\n";
 }
 
