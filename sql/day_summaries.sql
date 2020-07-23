@@ -101,7 +101,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-06-13',2910,199,200,NULL),
   ('2020-06-14',2911,200,168,NULL),
   /* Week of 2020-06-15 */
-  ('2020-06-15',2913,NULL,467,NULL),
+  ('2020-06-15',2913,NULL,407,NULL),
   ('2020-06-16',2927,NULL,345,NULL),
   ('2020-06-17',2935,201,395,NULL),
   ('2020-06-18',2937,NULL,405,NULL),
