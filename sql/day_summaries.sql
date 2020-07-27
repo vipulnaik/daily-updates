@@ -138,7 +138,16 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-07-15',3001,NULL,380,NULL);
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_other_activities, notes) values
+  /* Week of 2020-07-13 */
   ('2020-07-16',3005,225,468,30,0,20,0,0,NULL),
   ('2020-07-17',3006,NULL,310,0,0,0,0,0,NULL),
   ('2020-07-18',3009,226,258,77,5,130,0,0,NULL),
-  ('2020-07-19',3010,227,230,75,10,0,0,0,NULL);
+  ('2020-07-19',3010,227,230,75,10,0,0,0,NULL),
+  /* Week of 2020-07-20 */
+  ('2020-07-20',3032,228,272,165,0,60,0,0,NULL),
+  ('2020-07-21',3034,229,327,15,0,15,0,60,NULL),
+  ('2020-07-22',3038,230,263,70,0,40,0,0,NULL),
+  ('2020-07-23',3039,231,280,0,0,105,0,30,NULL),
+  ('2020-07-24',3042,232,360,10,0,0,0,10,NULL),
+  ('2020-07-25',3046,233,265,125,80,0,0,0,NULL),
+  ('2020-07-26',3047,234,260,5,0,70,0,90,NULL);
