@@ -12,6 +12,54 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2020-02-17 */
+  ('2020-02-17',NULL,NULL,NULL,'This was a holiday for President''s Day.'),
+  ('2020-02-18',NULL,NULL,NULL,'This was my first day reporting for work at my new company; see https://vipulnaik.com/maven-experience/ for more.'),
+  ('2020-02-19',NULL,NULL,NULL,NULL),
+  ('2020-02-20',NULL,NULL,NULL,NULL),
+  ('2020-02-21',NULL,NULL,NULL,NULL),
+  ('2020-02-22',NULL,NULL,NULL,NULL),
+  ('2020-02-23',NULL,NULL,NULL,NULL), 
+  /* Week of 2020-02-24 */
+  ('2020-02-24',NULL,NULL,NULL,'I flew to Seattle on this date to visit the headquarters of the new company I was working for; see https://vipulnaik.com/maven-experience/ for more.'),
+  ('2020-02-25',NULL,NULL,NULL,NULL),
+  ('2020-02-26',NULL,NULL,NULL,'I flew back from Seattle on this date; see https://vipulnaik.com/maven-experience/ for more.'),
+  ('2020-02-27',NULL,NULL,NULL,NULL),
+  ('2020-02-28',NULL,NULL,NULL,NULL),
+  ('2020-02-29',NULL,NULL,NULL,NULL),
+  ('2020-03-01',NULL,NULL,NULL,NULL), 
+  /* Week of 2020-03-02 */
+  ('2020-03-02',NULL,NULL,NULL,NULL),
+  ('2020-03-03',NULL,NULL,NULL,NULL),
+  ('2020-03-04',NULL,NULL,NULL,NULL),
+  ('2020-03-05',NULL,NULL,NULL,NULL),
+  ('2020-03-06',NULL,NULL,NULL,'This was the last day I went to a physical office, and the last day I took BART. See https://vipulnaik.com/maven-experience/ and https://vipulnaik.com/covid-19/ for more.'),
+  ('2020-03-07',NULL,NULL,NULL,NULL),
+  ('2020-03-08',NULL,NULL,NULL,NULL),  
+  /* Week of 2020-03-09 */
+  ('2020-03-09',2614,NULL,210,'I resumed day job daily updates on this date after a while; my most recent day job daily update before this was on 2020-01-29.'),
+  ('2020-03-10',2616,NULL,355,NULL),
+  ('2020-03-11',2618,NULL,269,NULL),
+  ('2020-03-12',2625,126,145,NULL),
+  ('2020-03-13',2628,127,295,NULL),
+  ('2020-03-14',2631,128,45,'There is a single daily update issue for Saturday 2020-03-14 and 2020-03-15. I have put the entirety of it for 2020-03-14.'),
+  ('2020-03-15',NULL,129,0,'There is a single daily update issue for Saturday 2020-03-14 and 2020-03-15. I have put the entirety of it for 2020-03-14.'),
+  /* Week of 2020-03-16 */
+  ('2020-03-16',2633,130,370,NULL),
+  ('2020-03-17',2636,131,343,NULL),
+  ('2020-03-18',2638,132,277,NULL),
+  ('2020-03-19',2642,NULL,375,NULL),
+  ('2020-03-20',2645,133,175,NULL),
+  ('2020-03-21',2647,134,70,NULL),
+  ('2020-03-22',2648,135,20,NULL),
+  /* Week of 2020-03-23 */
+  ('2020-03-23',2650,NULL,360,NULL),
+  ('2020-03-24',2664,137,370,NULL),
+  ('2020-03-25',2666,136,335,NULL),
+  ('2020-03-26',2670,138,230,NULL),
+  ('2020-03-27',2673,NULL,410,NULL),
+  ('2020-03-28',NULL,139,NULL,NULL),
+  ('2020-03-29',NULL,140,NULL,NULL),
   /* Week of 2020-03-30 */
   ('2020-03-30',2676,NULL,290,NULL),
   ('2020-03-31',2679,141,305,NULL),
