@@ -38,7 +38,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   if (!isset($row['day_job_daily_update'])) {
     print '<td>N/A</td>';
   } else {
-    print '<td><a href="https://github.com/liftigniter/daily-updates/issues/'.$row['day_job_daily_update'].'">#'.$row['day_job_daily_update'].'</a></td>';
+    print '<td><a href="https://github.com/liftigniter/daily-updates/issues/'.$row['day_job_daily_update'].'" rel="nofollow">#'.$row['day_job_daily_update'].'</a></td>';
   }
   if (!isset($row['personal_daily_update'])) {
     print '<td>N/A</td>';
@@ -52,7 +52,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_house_chores']).'</td>';  
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_other_activities']).'</td>';
   if (isset($row['notes'])) {
-    print '<td>'.$row['notes'].'</td>';
+    print '<td>'.cleanNotes($row['notes']).'</td>';
   }
   print "</tr>\n";
 }
