@@ -12,6 +12,38 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2020-01-20 */
+  ('2020-01-20',2498,NULL,65,'This was a holiday for Martin Luther King, Jr. Day, so my work was limited to a customer call and some loose ends.'),
+  ('2020-01-21',2499,NULL,505,NULL),
+  ('2020-01-22',2500,NULL,340,NULL),
+  ('2020-01-23',2501,NULL,280,NULL),
+  ('2020-01-24',2502,NULL,190,NULL),
+  ('2020-01-25',2503,NULL,305,NULL),
+  ('2020-01-26',2504,NULL,265,NULL),
+  /* Week of 2020-01-27 */
+  ('2020-01-27',2518,NULL,315,NULL),
+  ('2020-01-28',2523,NULL,310,NULL),
+  ('2020-01-29',2524,NULL,320,'This was my last day job daily update for a while; I would resume daily updates on 2020-03-09.'),
+  ('2020-01-30',NULL,NULL,NULL,NULL),
+  ('2020-01-31',NULL,NULL,NULL,NULL),
+  ('2020-02-01',NULL,123,NULL,NULL),
+  ('2020-02-02',NULL,124,NULL,NULL),
+  /* Week of 2020-02-03 */
+  ('2020-02-03',NULL,NULL,NULL,NULL),
+  ('2020-02-04',NULL,NULL,NULL,NULL),
+  ('2020-02-05',NULL,NULL,NULL,NULL),
+  ('2020-02-06',NULL,NULL,NULL,NULL),
+  ('2020-02-07',NULL,NULL,NULL,NULL),
+  ('2020-02-08',NULL,125,NULL,NULL),
+  ('2020-02-09',NULL,NULL,NULL,NULL),
+  /* Week of 2020-02-10 */
+  ('2020-02-10',NULL,NULL,NULL,NULL),
+  ('2020-02-11',NULL,NULL,NULL,NULL),
+  ('2020-02-12',NULL,NULL,NULL,NULL),
+  ('2020-02-13',NULL,NULL,NULL,NULL),
+  ('2020-02-14',NULL,NULL,NULL,'This was my last day in the San Bruno LiftIgniter office, and the last official working day as a LiftIgniter employee.'),
+  ('2020-02-15',NULL,NULL,NULL,'This was my last day as a LiftIgniter employee (albeit it was Saturday so not a working day per se).'),
+  ('2020-02-16',NULL,NULL,NULL,'This was my first day as a Maven employee (albeit it was Sunday so not a working day per se).'),
   /* Week of 2020-02-17 */
   ('2020-02-17',NULL,NULL,NULL,'This was a holiday for President''s Day.'),
   ('2020-02-18',NULL,NULL,NULL,'This was my first day reporting for work at my new company; see https://vipulnaik.com/maven-experience/ for more.'),
@@ -198,4 +230,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-07-23',3039,231,280,0,0,105,0,30,NULL),
   ('2020-07-24',3042,232,360,10,0,0,0,10,NULL),
   ('2020-07-25',3046,233,265,125,80,0,0,0,NULL),
-  ('2020-07-26',3047,234,260,5,0,70,0,90,NULL);
+  ('2020-07-26',3047,234,260,5,0,70,0,90,NULL),
+  /* Week of 2020-07-27 */
+  ('2020-07-27',3048,235,270,30,0,0,0,0,'I was feeling unwell on this day, so the total across work time and personal time was low. I napped a little bit.'),
+  ('2020-07-28',3052,236,255,15,0,0,0,0,'I was feeling unwell on this day, so the total across work time and personal time was low.'),
+  ('2020-07-29',3056,237,190,210,0,50,0,0,'The high proportion of time spent on personal projects was due to somewhat time-sensitive debugging needed regarding downtime on my Linode'),
+  ('2020-07-30',3060,238,299,20,0,60,0,0,NULL),
+  ('2020-07-31',3062,NULL,475,0,0,0,0,0,NULL),
+  ('2020-08-01',3064,239,25,95,85,215,0,0,NULL),
+  ('2020-08-02',3065,240,180,45,0,3,10,10,NULL);
