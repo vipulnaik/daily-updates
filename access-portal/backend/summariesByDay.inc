@@ -1,12 +1,11 @@
 <?php
 
-print '<h4 id="summariesByDate">Summaries by date</h4>';
-
 $summariesQuery = "select *, dayname(date) as dow from day_summaries order by date desc;";
 $summariesResult = $mysqli -> query($summariesQuery);
 
+print '<h4 id="summariesByDay">Summaries by day ('.$summariesResult -> num_rows.' rows)</h4>';
 print "\n";
-print '<table id="myTableSummariesByDate" class="tablesorter">'."\n";
+print '<table id="myTableSummariesByDay" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Date</th>';
 print '<th>Day of week</th>';

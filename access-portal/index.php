@@ -14,10 +14,10 @@ print '<h3>Updates for Vipul Naik</h3>';
 include_once('preamble.inc');
 print '<h4>Table of contents</h4>';
 print '<ul>';
-print '<li><a href="#summariesByDate">Summaries by date</a></li>';
+print '<li><a href="#summariesByDay">Summaries by day</a></li>';
 print '</ul>';
 
-include ("backend/summariesByDate.inc");
+include ("backend/summariesByDay.inc");
 
 include_once('anchorjs.inc');
 print '</body>';
