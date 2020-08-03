@@ -1,5 +1,15 @@
 <?php
 
+function convertToHoursAndMinutes($minutesSpent) {
+  if (!isset($minutesSpent)) {
+    return "N/A";
+  } else {
+    $hoursSpent = floor($minutesSpent/60);
+    $residualMinutesSpent = $minutesSpent - ($hoursSpent * 60);
+    return $hoursSpent.":".sprintf("%02d",$residualMinutesSpent);
+  }
+}
+
 function cleanNotes($notes) {
   $notesList = explode(" ",$notes);
   $augmentedNotes = "";

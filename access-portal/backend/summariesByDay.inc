@@ -20,16 +20,6 @@ print '<th>Time spent on other activities</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
-function convertToHoursAndMinutes($minutesSpent) {
-  if (!isset($minutesSpent)) {
-    return "N/A";
-  } else {
-    $hoursSpent = floor($minutesSpent/60);
-    $residualMinutesSpent = $minutesSpent - ($hoursSpent * 60);
-    return $hoursSpent.":".sprintf("%02d",$residualMinutesSpent);
-  }
-}
-
 for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   $row = $summariesResult -> fetch_assoc();
   print "<tr><td>".$row['date']."</td>";
