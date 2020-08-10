@@ -18,7 +18,7 @@ $weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   count(1) as num_days
   from day_summaries
   group by round(unix_timestamp(cast(date as datetime)) / (60 * 60 * 24 * 7))
-  order by min(date);";
+  order by min(date) desc;";
 $weekSummariesResult = $mysqli -> query($weekSummariesQuery);
 
 print '<h4 id="summariesByWeek">Summaries by week ('.$weekSummariesResult -> num_rows.' rows)</h4>';
