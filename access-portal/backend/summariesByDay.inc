@@ -35,7 +35,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   } else {
     print '<td><a href="https://github.com/vipulnaik/daily-updates/issues/'.$row['personal_daily_update'].'">#'.$row['personal_daily_update'].'</a></td>';
   }
-  print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_day_job'] ?? 0 + $row['minutes_spent_on_personal_projects'] ?? 0 + $row['minutes_spent_on_personal_finances'] ?? 0 + $row['minutes_spent_on_personal_chores'] ?? 0 + $row['minutes_spent_on_house_chores'] ?? 0 + $row['minutes_spent_on_other_activities'] ?? 0).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_day_job']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_projects']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_finances']).'</td>';
