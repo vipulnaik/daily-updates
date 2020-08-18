@@ -12,6 +12,54 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2019-12-09 */
+  ('2019-12-09',2329,NULL,302,NULL),
+  ('2019-12-10',2335,NULL,260,NULL),
+  ('2019-12-11',2339,NULL,390,NULL),
+  ('2019-12-12',2343,NULL,231,NULL),
+  ('2019-12-13',2347,NULL,175,NULL),
+  ('2019-12-14',2350,118,25,NULL),
+  ('2019-12-15',2351,119,45,NULL),
+  /* Week of 2019-12-16 */
+  ('2019-12-16',2365,120,200,NULL),
+  ('2019-12-17',2366,121,365,NULL),
+  ('2019-12-18',2382,NULL,368,NULL),
+  ('2019-12-19',2391,NULL,425,NULL),
+  ('2019-12-20',2395,NULL,307,NULL),
+  ('2019-12-21',2396,NULL,80,NULL),
+  ('2019-12-22',2397,NULL,243,NULL),
+  /* Week of 2019-12-23 */
+  ('2019-12-23',2398,NULL,283,NULL),
+  ('2019-12-24',2400,NULL,270,NULL),
+  ('2019-12-25',2403,NULL,336,NULL),
+  ('2019-12-26',2404,NULL,277,NULL),
+  ('2019-12-27',2405,NULL,230,NULL),
+  ('2019-12-28',2406,NULL,30,NULL),
+  ('2019-12-29',2407,NULL,220,NULL),
+  /* Weeek of 2019-12-30 */
+  ('2019-12-30',2419,254,155,'I took a lot of time off for diet/exercise/health notes.'),
+  ('2019-12-31',NULL,255,0,'I took an almost-complete holiday from day job work; I focused on hardware disposal. A small amount of time that I spent on day job work was recorded in my 2020-01-02 daily update.'),
+  ('2020-01-01',NULL,256,0,'I took a complete holiday from work; I focused on VCD disposal.'),
+  ('2020-01-02',2420,NULL,383,'This includes a few minutes of time spent on 2019-12-31.'),
+  ('2020-01-03',2424,NULL,165,NULL),
+  ('2020-01-04',NULL,122,0,'Judging from the absence of a day job daily update, I believe I did not do any day job work on this day.'),
+  ('2020-01-05',2428,NULL,110,NULL),
+  /* Week of 2020-01-06 */
+  ('2020-01-06',2429,NULL,260,NULL),
+  ('2020-01-07',2435,NULL,360,NULL),
+  ('2020-01-08',2443,NULL,325,'According to my notes, I ended the day early and attended to some personal matters in the afternoon and evening.'),
+  ('2020-01-09',2444,NULL,297,NULL),
+  ('2020-01-10',2449,NULL,300,NULL),
+  ('2020-01-11',2450,NULL,180,NULL),
+  ('2020-01-12',2451,NULL,190,NULL),
+  /* Week of 2020-01-13 */
+  ('2020-01-13',2464,NULL,230,NULL),
+  ('2020-01-14',2469,NULL,274,NULL),
+  ('2020-01-15',2481,NULL,290,NULL),
+  ('2020-01-16',2482,NULL,505,NULL),
+  ('2020-01-17',2483,NULL,285,NULL),
+  ('2020-01-18',2484,NULL,190,NULL),
+  ('2020-01-19',2485,NULL,30,NULL),
   /* Week of 2020-01-20 */
   ('2020-01-20',2498,NULL,65,'This was a holiday for Martin Luther King, Jr. Day, so my work was limited to a customer call and some loose ends.'),
   ('2020-01-21',2499,NULL,505,NULL),
@@ -234,7 +282,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   /* Week of 2020-07-27 */
   ('2020-07-27',3048,235,270,30,0,0,0,0,'I was feeling unwell on this day, so the total across work time and personal time was low. I napped a little bit.'),
   ('2020-07-28',3052,236,255,15,0,0,0,0,'I was feeling unwell on this day, so the total across work time and personal time was low.'),
-  ('2020-07-29',3056,237,190,210,0,50,0,0,'The high proportion of time spent on personal projects was due to somewhat time-sensitive debugging needed regarding downtime on my Linode'),
+  ('2020-07-29',3056,237,190,210,0,50,0,0,'The high proportion of time spent on personal projects was due to somewhat time-sensitive debugging needed regarding downtime on my Linode.'),
   ('2020-07-30',3060,238,299,20,0,60,0,0,NULL),
   ('2020-07-31',3062,NULL,475,0,0,0,0,0,NULL),
   ('2020-08-01',3064,239,25,95,85,215,0,0,NULL),
@@ -246,4 +294,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-08-06',3075,244,405,15,0,0,0,0,NULL),
   ('2020-08-07',3081,245,421,30,5,10,5,0,NULL),
   ('2020-08-08',3083,246,295,0,0,60,0,0,NULL),
-  ('2020-08-09',3084,247,175,60,3,150,0,65,NULL);
+  ('2020-08-09',3084,247,175,60,3,150,0,65,NULL),
+  /* Week of 2020-08-10 */
+  ('2020-08-10',3104,NULL,321,0,0,0,0,0,NULL),
+  ('2020-08-11',3108,248,345,63,0,11,15,0,NULL),
+  ('2020-08-12',3111,249,258,5,90,0,0,120,NULL),
+  ('2020-08-13',3114,250,332,0,0,0,0,65,NULL),
+  ('2020-08-14',3119,251,330,25,0,15,5,5,NULL),
+  ('2020-08-15',3121,252,325,0,0,70,0,0,NULL),
+  ('2020-08-16',3124,253,198,0,0,160,0,0,NULL);
