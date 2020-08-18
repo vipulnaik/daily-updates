@@ -12,6 +12,14 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2019-12-02 */
+  ('2019-12-02',2309,NULL,335,NULL),
+  ('2019-12-03',2310,NULL,442,NULL),
+  ('2019-12-04',2312,116,445,NULL),
+  ('2019-12-05',2317,117,336,NULL),
+  ('2019-12-06',2325,NULL,375,NULL),
+  ('2019-12-07',2326,NULL,122,NULL),
+  ('2019-12-08',2327,NULL,108,NULL),
   /* Week of 2019-12-09 */
   ('2019-12-09',2329,NULL,302,NULL),
   ('2019-12-10',2335,NULL,260,NULL),
