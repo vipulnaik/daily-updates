@@ -28,7 +28,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   if (!isset($row['day_job_daily_update'])) {
     print '<td>N/A</td>';
   } else {
-    print '<td><a href="https://github.com/liftigniter/daily-updates/issues/'.$row['day_job_daily_update'].'" rel="nofollow">#'.$row['day_job_daily_update'].'</a></td>';
+    print '<td><a href="https://github.com/themaven-net/daily-updates/issues/'.$row['day_job_daily_update'].'" rel="nofollow">#'.$row['day_job_daily_update'].'</a></td>';
   }
   if (!isset($row['personal_daily_update'])) {
     print '<td>N/A</td>';
