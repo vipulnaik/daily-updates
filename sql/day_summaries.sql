@@ -12,6 +12,22 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2019-09-30 */
+  ('2019-09-30',1991,NULL,377,NULL),
+  ('2019-10-01',2008,NULL,342,NULL),
+  ('2019-10-02',2009,NULL,487,NULL),
+  ('2019-10-03',2011,NULL,260,NULL),
+  ('2019-10-04',2013,NULL,310,NULL),
+  ('2019-10-05',2018,102,225,NULL),
+  ('2019-10-06',2019,103,165,NULL),
+  /* Week of 2019-10-07 */
+  ('2019-10-07',2033,NULL,345,NULL),
+  ('2019-10-08',2046,NULL,438,NULL),
+  ('2019-10-09',2078,NULL,465,NULL),
+  ('2019-10-10',2060,NULL,470,NULL),
+  ('2019-10-11',2079,NULL,165,'For various reasons I had a shorter work day than usual, and I fell asleep very late.'),
+  ('2019-10-12',2080,104,20,'This was a very unusual day; I didn''t get good sleep the previous night so I went to sleep at 5:40 PM.'),
+  ('2019-10-13',2081,105,108,NULL),
   /* Week of 2019-10-14 */
   ('2019-10-14',2082,NULL,335,NULL),
   ('2019-10-15',2083,106,320,NULL),
