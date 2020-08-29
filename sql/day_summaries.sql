@@ -12,6 +12,62 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2019-10-14 */
+  ('2019-10-14',2082,NULL,335,NULL),
+  ('2019-10-15',2083,106,320,NULL),
+  ('2019-10-16',2088,NULL,505,NULL),
+  ('2019-10-17',2090,NULL,340,NULL),
+  ('2019-10-18',2096,NULL,385,NULL),
+  ('2019-10-19',2097,107,142,NULL),
+  ('2019-10-20',2098,NULL,168,NULL),
+  /* Week of 2019-10-21 */
+  ('2019-10-21',2109,NULL,450,NULL),
+  ('2019-10-22',2116,NULL,320,NULL),
+  ('2019-10-23',2125,NULL,380,NULL),
+  ('2019-10-24',2135,NULL,287,NULL),
+  ('2019-10-25',2154,NULL,285,NULL),
+  ('2019-10-26',2150,NULL,330,NULL),
+  ('2019-10-27',2151,NULL,255,NULL),
+  /* Week of 2019-10-28 */
+  ('2019-10-28',2155,NULL,350,NULL),
+  ('2019-10-29',2156,NULL,280,NULL),
+  ('2019-10-30',2157,NULL,390,NULL),
+  ('2019-10-31',2161,NULL,233,NULL),
+  ('2019-11-01',2167,109,390,NULL),
+  ('2019-11-02',2169,108,230,NULL),
+  ('2019-11-03',2170,110,310,NULL),
+  /* Week of 2019-11-04 */
+  ('2019-11-04',2196,NULL,305,NULL),
+  ('2019-11-05',2197,NULL,320,NULL),
+  ('2019-11-06',2198,NULL,415,NULL),
+  ('2019-11-07',2208,NULL,362,NULL),
+  ('2019-11-08',2209,NULL,375,NULL),
+  ('2019-11-09',2210,111,90,NULL),
+  ('2019-11-10',2225,NULL,32,NULL),
+  /* Week of 2019-11-11 */
+  ('2019-11-11',2226,NULL,370,NULL),
+  ('2019-11-12',2227,NULL,410,NULL),
+  ('2019-11-13',2229,NULL,372,NULL),
+  ('2019-11-14',2231,NULL,455,NULL),
+  ('2019-11-15',2241,NULL,335,NULL),
+  ('2019-11-16',2243,NULL,90,NULL),
+  ('2019-11-17',2244,NULL,195,NULL),
+  /* Week of 2019-11-18 */
+  ('2019-11-18',2283,NULL,270,'I made the daily update issue more than a week after the fact so it''s quite likely to be incomplete. However, I did head home a little early this day and likely worked shorter hours.'),
+  ('2019-11-19',2284,NULL,305,NULL),
+  ('2019-11-20',2285,NULL,425,NULL),
+  ('2019-11-21',2286,NULL,235,NULL),
+  ('2019-11-22',2287,NULL,365,NULL),
+  ('2019-11-23',2288,NULL,107,NULL),
+  ('2019-11-24',2289,NULL,305,NULL),
+  /* Week of 2019-11-25 */
+  ('2019-11-25',2290,NULL,495,'This included four hours of travel + meeeting with Maven, who would ultiamtely acquire LiftIgniter, the company I was working for.'),
+  ('2019-11-26',2291,NULL,388,'This included a farewell lunch for a colleague (100 minutes of the total time).'),
+  ('2019-11-27',2292,112,250,'This was the Wednesday before Thanksgiving. It was declared a holiday, but I still worked for a large fraction of the day.'),
+  ('2019-11-28',2293,113,105,'This was Thanksgiving. I worked reduced hours and spent the remaining time on personal items.'),
+  ('2019-11-29',2294,NULL,330,NULL),
+  ('2019-11-30',2295,114,110,NULL),
+  ('2019-12-01',2296,115,25,NULL),
   /* Week of 2019-12-02 */
   ('2019-12-02',2309,NULL,335,NULL),
   ('2019-12-03',2310,NULL,442,NULL),
