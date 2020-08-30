@@ -12,6 +12,38 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2019-09-02 */
+  ('2019-09-02',1844,99,60,'Although this was a Monday (a working day), it looks like I spent a large proportion of my time on personal projects. I do not remember the exact history.'),
+  ('2019-09-03',1847,NULL,253,NULL),
+  ('2019-09-04',1849,NULL,113,NULL),
+  ('2019-09-05',1865,NULL,310,NULL),
+  ('2019-09-06',1866,NULL,265,NULL),
+  ('2019-09-07',NULL,100,0,'I spent a small amount of time on day job work yesterday; both the work and the time spent have been added into the data for Sunday (2019-09-08).'),
+  ('2019-09-08',1867,NULL,81,'The day job daily update issue and the time spent estimate include some time spent on Saturday 2019-09-07; the daily update issue for Saturday is missing and the time spent on Saturday has been marked as 0.'),
+  /* Week of 2019-09-09 */
+  ('2019-09-09',1876,NULL,373,NULL),
+  ('2019-09-10',1880,NULL,358,'I had an accident in the evening; https://github.com/vipulnaik/working-drafts/blob/master/traffic-accident-2019-09-10.md has the details.'),
+  ('2019-09-11',1900,NULL,248,'My productivity was lower on this day because I was resting/recovering from an accident (working from home), and also catching up with laundry. This meant both that I worked fewer hours and that I was slower in the hours I did work.'),
+  ('2019-09-12',1901,NULL,370,'I had mostly recovered from the accident, and went back to work.'),
+  ('2019-09-13',1908,101,163,'I worked only in the morning. Officially, this was a day off for me.'),
+  ('2019-09-14',NULL,268,0,'I believe I did no day job work. My personal daily update issue was created retrospectively based on my vague memory of what I did, confirmed through GitHub commits.'),
+  ('2019-09-15',NULL,269,0,'I believe I did no day job work. My personal daily update issue was created retrospectively based on my vague memory of what I did, confirmed through GitHub commits.'),
+  /* Week of 2019-09-16 */
+  ('2019-09-16',1930,NULL,275,NULL),
+  ('2019-09-17',1940,NULL,320,NULL),
+  ('2019-09-18',1941,NULL,295,NULL),
+  ('2019-09-19',1942,NULL,378,NULL),
+  ('2019-09-20',1952,NULL,333,NULL),
+  ('2019-09-21',1956,NULL,202,NULL),
+  ('2019-09-22',1957,NULL,170,NULL),
+  /* Week of 2019-09-23 */
+  ('2019-09-23',1964,NULL,315,NULL),
+  ('2019-09-24',1965,NULL,488,NULL),
+  ('2019-09-25',1975,NULL,328,NULL),
+  ('2019-09-26',1979,NULL,348,NULL),
+  ('2019-09-27',1988,NULL,380,NULL),
+  ('2019-09-28',1989,NULL,395,NULL),
+  ('2019-09-29',1990,NULL,203,NULL),
   /* Week of 2019-09-30 */
   ('2019-09-30',1991,NULL,377,NULL),
   ('2019-10-01',2008,NULL,342,NULL),
@@ -195,7 +227,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-03-05',NULL,NULL,NULL,NULL),
   ('2020-03-06',NULL,NULL,NULL,'This was the last day I went to a physical office, and the last day I took BART. See https://vipulnaik.com/maven-experience/ and https://vipulnaik.com/covid-19/ for more.'),
   ('2020-03-07',NULL,NULL,NULL,NULL),
-  ('2020-03-08',NULL,NULL,NULL,NULL),  
+  ('2020-03-08',NULL,NULL,NULL,NULL),
   /* Week of 2020-03-09 */
   ('2020-03-09',2614,NULL,210,'I resumed day job daily updates on this date after a while; my most recent day job daily update before this was on 2020-01-29.'),
   ('2020-03-10',2616,NULL,355,NULL),
