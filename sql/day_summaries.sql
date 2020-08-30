@@ -12,8 +12,24 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2019-08-19 */
+  ('2019-08-19',1769,NULL,366,NULL),
+  ('2019-08-20',1777,NULL,442,NULL),
+  ('2019-08-21',1785,NULL,422,'The estimate of time spent on work includes 2 hours of travel and socialization overhead for a meeting with the CTO of an e-commerce customer website.'),
+  ('2019-08-22',1794,NULL,380,NULL),
+  ('2019-08-23',1800,NULL,220,NULL),
+  ('2019-08-24',1804,NULL,205,NULL),
+  ('2019-08-25',1805,NULL,169,NULL),
+  /* Week of 2019-08-26 */
+  ('2019-08-26',1807,NULL,341,NULL),
+  ('2019-08-27',1815,NULL,305,NULL),
+  ('2019-08-28',1829,NULL,320,NULL),
+  ('2019-08-29',1831,NULL,270,NULL),
+  ('2019-08-30',1836,NULL,220,'This was my first takeout from Bangkok Thai Cuisine in recent times. I had a runny nose for a few days after this. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2019-08-30-thai-yellow-curry-and-subsequent-cold.md for more details.'),
+  ('2019-08-31',1837,97,31,NULL),
+  ('2019-09-01',1838,98,48,NULL),
   /* Week of 2019-09-02 */
-  ('2019-09-02',1844,99,60,'Although this was a Monday (a working day), it looks like I spent a large proportion of my time on personal projects. I do not remember the exact history.'),
+  ('2019-09-02',1844,99,60,'Although this was a Monday (a working day), it looks like I spent a large proportion of my time on personal projects. I do not remember the exact history. According to the notes at https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2019-08-30-thai-yellow-curry-and-subsequent-cold.md I was still recovering from a runny nose, though I believe the situation was pretty mild.'),
   ('2019-09-03',1847,NULL,253,NULL),
   ('2019-09-04',1849,NULL,113,NULL),
   ('2019-09-05',1865,NULL,310,NULL),
