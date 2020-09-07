@@ -29,7 +29,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-08-31',1837,97,31,NULL),
   ('2019-09-01',1838,98,48,NULL),
   /* Week of 2019-09-02 */
-  ('2019-09-02',1844,99,60,'Although this was a Monday (a working day), it looks like I spent a large proportion of my time on personal projects. I do not remember the exact history. According to the notes at https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2019-08-30-thai-yellow-curry-and-subsequent-cold.md I was still recovering from a runny nose, though I believe the situation was pretty mild.'),
+  ('2019-09-02',1844,99,60,'This was a work holiday for Labor Day in the United States, so I spent a large share of my time on personal projects. According to the notes at https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2019-08-30-thai-yellow-curry-and-subsequent-cold.md I was still recovering from a runny nose, though I believe the situation was pretty mild.'),
   ('2019-09-03',1847,NULL,253,NULL),
   ('2019-09-04',1849,NULL,113,NULL),
   ('2019-09-05',1865,NULL,310,NULL),
