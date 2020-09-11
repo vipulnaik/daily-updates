@@ -12,6 +12,62 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2019-07-01 */
+  ('2019-07-01',1520,NULL,386,NULL),
+  ('2019-07-02',1529,NULL,418,NULL),
+  ('2019-07-03',1538,NULL,487,'This was a long working day, possibly because I was trying to wrap up several items before the long Fourth of July weekend.'),
+  ('2019-07-04',1542,87,172,'As part of the extended Fourth of July holiday, I worked only a half-day on this Thursday.'),
+  ('2019-07-05',1546,88,10,'As part of the extended Fourth of July holiday, I took this Friday almost completely off from work.'),
+  ('2019-07-06',NULL,90,0,'As part of the extended Fourth of July holiday, I took this Saturday completely off from work.'),
+  ('2019-07-07',NULL,91,0,'As part of the extended Fourth of July holiday, I took this Sunday completely off from work.'),
+  /* Week of 2019-07-08 */
+  ('2019-07-08',1555,NULL,315,NULL),
+  ('2019-07-09',1561,NULL,325,NULL),
+  ('2019-07-10',1569,NULL,318,NULL),
+  ('2019-07-11',1579,NULL,356,NULL),
+  ('2019-07-12',1589,NULL,340,NULL),
+  ('2019-07-13',1590,89,145,'It looks like I did some shuffling around of daily update issues; I had created this issue on 2019-07-06 but I ended up doing the items in it on 2019-07-13, so I changed the date on it later.'),
+  ('2019-07-14',1591,92,90,NULL),
+  /* Week of 2019-07-15 */
+  ('2019-07-15',1594,NULL,318,NULL),
+  ('2019-07-16',1600,NULL,328,NULL),
+  ('2019-07-17',1623,NULL,260,NULL),
+  ('2019-07-18',1624,NULL,380,NULL),
+  ('2019-07-19',1625,NULL,315,NULL),
+  ('2019-07-20',1626,NULL,160,NULL),
+  ('2019-07-21',1627,NULL,50,NULL),
+  /* Week of 2019-07-22 */
+  ('2019-07-22',1636,NULL,428,NULL),
+  ('2019-07-23',1643,NULL,340,NULL),
+  ('2019-07-24',1645,NULL,305,NULL),
+  ('2019-07-25',1653,NULL,344,NULL),
+  ('2019-07-26',1660,NULL,323,NULL),
+  ('2019-07-27',NULL,NULL,0,NULL),
+  ('2019-07-28',1664,94,242,NULL),
+  /* Week of 2019-07-29 */
+  ('2019-07-29',1668,NULL,308,NULL),
+  ('2019-07-30',1675,NULL,348,NULL),
+  ('2019-07-31',1683,NULL,290,NULL),
+  ('2019-08-01',1693,NULL,387,NULL),
+  ('2019-08-02',1695,NULL,285,NULL),
+  ('2019-08-03',1707,NULL,105,NULL),
+  ('2019-08-04',1708,NULL,98,NULL),
+  /* Week of 2019-08-05 */
+  ('2019-08-05',1709,NULL,347,NULL),
+  ('2019-08-06',1710,NULL,385,NULL),
+  ('2019-08-07',1717,NULL,391,NULL),
+  ('2019-08-08',1725,NULL,333,NULL),
+  ('2019-08-09',1731,NULL,316,NULL),
+  ('2019-08-10',1732,NULL,180,NULL),
+  ('2019-08-11',1733,NULL,175,NULL),
+  /* Week of 2019-08-12 */
+  ('2019-08-12',1738,NULL,247,NULL),
+  ('2019-08-13',1746,NULL,325,NULL),
+  ('2019-08-14',1745,NULL,335,NULL),
+  ('2019-08-15',1764,NULL,293,NULL),
+  ('2019-08-16',1765,NULL,340,NULL),
+  ('2019-08-17',1766,95,73,NULL),
+  ('2019-08-18',1767,96,159,NULL),
   /* Week of 2019-08-19 */
   ('2019-08-19',1769,NULL,366,NULL),
   ('2019-08-20',1777,NULL,442,NULL),
