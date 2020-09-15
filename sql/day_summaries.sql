@@ -12,8 +12,24 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+  /* Week of 2019-05-06 */
+  ('2019-05-06',1127,NULL,429,NULL),
+  ('2019-05-07',1138,NULL,403,NULL),
+  ('2019-05-08',1147,NULL,290,NULL),
+  ('2019-05-09',1161,NULL,281,NULL),
+  ('2019-05-10',1167,NULL,37,'My laptop and phone were stolen on BART on this day; see https://github.com/vipulnaik/working-drafts/blob/master/laptop-and-phone-theft-and-return-to-normalcy.md for more details. I spent a large part of the day dealing with the theft and then the return to normalcy.'),
+  ('2019-05-11',1168,NULL,100,'I spent time working on recovering from the theft of my phone and laptop; in particular, I purchased a new phone device and set it up.'),
+  ('2019-05-12',1169,74,150,'I was still wrapping up recovery from the theft of my phone and laptop on Friday 2019-05-10.'),
+  /* Week of 2019-05-13 */
+  ('2019-05-13',1176,NULL,365,NULL),
+  ('2019-05-14',1179,NULL,298,NULL),
+  ('2019-05-15',1191,NULL,320,NULL),
+  ('2019-05-16',1214,NULL,356,NULL),
+  ('2019-05-17',1219,NULL,438,NULL),
+  ('2019-05-18',1224,71,190,NULL),
+  ('2019-05-19',1225,NULL,115,NULL),
   /* Week of 2019-05-20 */
-  ('2019-05-20',1228,NULL,435,NULL),
+  ('2019-05-20',1228,76,435,NULL),
   ('2019-05-21',1233,NULL,392,NULL),
   ('2019-05-22',1246,NULL,364,NULL),
   ('2019-05-23',1250,NULL,339,NULL),
@@ -34,7 +50,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-06-05',1351,NULL,213,NULL),
   ('2019-06-06',1358,NULL,252,NULL),
   ('2019-06-07',1361,NULL,273,NULL),
-  ('2019-06-08',NULL,NULL,0,NULL),
+  ('2019-06-08',NULL,72,0,NULL),
   ('2019-06-09',1370,82,125,NULL),
   /* Week of 2019-06-10 */
   ('2019-06-10',1371,NULL,361,NULL),
@@ -90,7 +106,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-07-24',1645,NULL,305,NULL),
   ('2019-07-25',1653,NULL,344,NULL),
   ('2019-07-26',1660,NULL,323,NULL),
-  ('2019-07-27',NULL,NULL,0,NULL),
+  ('2019-07-27',NULL,73,0,NULL),
   ('2019-07-28',1664,94,242,NULL),
   /* Week of 2019-07-29 */
   ('2019-07-29',1668,NULL,308,NULL),
