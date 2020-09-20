@@ -576,7 +576,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-09-05',3181,276,125,20,5,100,0,0,NULL),
   ('2020-09-06',3182,277,302,15,7,60,12,0,NULL),
   /* Week of 2020-09-07 */
-  ('2020-09-07',3183,278,149,0,105,160,0,0,'This Monday was a work holiday due to Labor Day in the United States. I had deferred weekend cooking to this day, instead focusing on buying shoes and catching up with more time-sensitive cooking over the weekend.'),
+  ('2020-09-07',3183,278,149,0,105,160,0,0,'This Monday was a work holiday due to Labor Day in the United States. I had deferred weekend cooking to this day, instead focusing on buying shoes and catching up with more time-sensitive tasks over the weekend.'),
   ('2020-09-08',3184,NULL,383,0,0,0,0,0,NULL),
   ('2020-09-09',3187,279,399,0,0,65,0,0,NULL),
   ('2020-09-10',3192,280,435,60,0,0,0,0,NULL),
