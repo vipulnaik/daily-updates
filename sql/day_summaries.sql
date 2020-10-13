@@ -606,5 +606,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-10-01',3253,299,408,0,15,0,0,0,NULL),
   ('2020-10-02',3254,300,392,25,0,10,20,60,NULL),
   ('2020-10-03',3257,301,279,30,7,64,0,0,NULL),
-  ('2020-10-04',3258,302,141,120,0,120,0,125,NULL);
-
+  ('2020-10-04',3258,302,141,120,0,120,0,125,NULL),
+  /* Week of 2020-10-05 */
+  ('2020-10-05',3259,303,370,0,0,0,75,0,'An unexpected incident happened at my home in the evening; thus used up my energy for this day and the coming days.'),
+  ('2020-10-06',3264,304,248,0,0,0,85,0,'I was still recovering from the incident of Monday 2020-10-05, so my overall output was lower.'),
+  ('2020-10-07',3265,305,276,30,0,25,30,0,'I was still recovering from the incident of Monday 2020-10-05, so my overall output was lower.'),
+  ('2020-10-08',3267,306,452,0,0,120,18,15,NULL),
+  ('2020-10-09',3268,307,279,0,5,85,27,0,NULL),
+  ('2020-10-10',3271,308,180,130,0,157,27,0,NULL),
+  ('2020-10-11',3272,309,112,10,50,81,80,85,NULL);
