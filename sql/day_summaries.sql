@@ -11,15 +11,65 @@ create table day_summaries(
   `notes` varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+insert into day_summaries(date, day_job_daily_update, personal_daily_update, notes) values
+  /* 2019-01-28 */
+  ('2019-01-28',534,NULL,NULL),
+  ('2019-01-29',539,NULL,NULL),
+  ('2019-01-30',547,NULL,NULL),
+  ('2019-01-31',555,NULL,NULL),
+  ('2019-02-01',560,NULL,NULL),
+  ('2019-02-02',561,36,NULL),
+  ('2019-02-03',562,37,NULL),
+  /* 2019-02-04 */
+  ('2019-02-04',568,NULL,NULL),
+  ('2019-02-05',570,NULL,NULL),
+  ('2019-02-06',577,NULL,NULL),
+  ('2019-02-07',590,NULL,NULL),
+  ('2019-02-08',593,NULL,NULL),
+  ('2019-02-09',594,38,NULL),
+  ('2019-02-10',595,39,NULL),
+  /* 2019-02-11 */
+  ('2019-02-11',599,NULL,NULL),
+  ('2019-02-12',603,NULL,NULL),
+  ('2019-02-13',613,NULL,NULL),
+  ('2019-02-14',616,NULL,NULL),
+  ('2019-02-15',620,NULL,NULL),
+  ('2019-02-16',626,40,NULL),
+  ('2019-02-17',627,NULL,NULL),
+  /* 2019-02-18 */
+  ('2019-02-18',628,NULL,NULL),
+  ('2019-02-19',629,NULL,NULL),
+  ('2019-02-20',637,NULL,NULL),
+  ('2019-02-21',645,NULL,NULL),
+  ('2019-02-22',656,NULL,NULL),
+  ('2019-02-23',665,41,NULL),
+  ('2019-02-24',668,NULL,NULL),
+  /* 2019-02-25 */
+  ('2019-02-25',675,NULL,NULL),
+  ('2019-02-26',686,NULL,NULL),
+  ('2019-02-27',693,NULL,NULL),
+  ('2019-02-28',694,NULL,NULL),
+  ('2019-03-01',701,NULL,NULL),
+  ('2019-03-02',706,42,NULL),
+  ('2019-03-03',707,NULL,NULL),
+  /* 2019-03-04 */
+  ('2019-03-04',708,NULL,NULL),
+  ('2019-03-05',719,NULL,NULL),
+  ('2019-03-06',724,NULL,NULL),
+  ('2019-03-07',733,NULL,NULL),
+  ('2019-03-08',741,NULL,NULL),
+  ('2019-03-09',742,NULL,NULL),
+  ('2019-03-10',743,NULL,NULL),
   /* 2019-03-11 */
-  ('2019-03-11',750,NULL,NULL,NULL),
-  ('2019-03-12',753,NULL,NULL,NULL),
-  ('2019-03-13',765,NULL,NULL,NULL),
-  ('2019-03-14',773,43,NULL,NULL),
-  ('2019-03-15',781,44,NULL,NULL),
-  ('2019-03-16',782,45,NULL,NULL),
-  ('2019-03-17',783,NULL,NULL,NULL),
+  ('2019-03-11',750,NULL,NULL),
+  ('2019-03-12',753,NULL,NULL),
+  ('2019-03-13',765,NULL,NULL),
+  ('2019-03-14',773,43,NULL),
+  ('2019-03-15',781,44,NULL),
+  ('2019-03-16',782,45,NULL),
+  ('2019-03-17',783,NULL,NULL);
+
+insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
   /* 2019-03-18 */
   ('2019-03-18',789,NULL,380,NULL),
   ('2019-03-19',795,NULL,450,NULL),
