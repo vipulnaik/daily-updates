@@ -943,4 +943,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-10-22',3298,320,349,0,0,0,30,120,NULL),
   ('2020-10-23',3299,321,261,0,0,60,20,0,'I believe I woke up late and started the day late due to a late-night phone call the previous night.'),
   ('2020-10-24',3301,322,10,0,0,270,13,40,NULL),
-  ('2020-10-25',3303,323,205,0,0,100,11,25,NULL);
+  ('2020-10-25',3303,323,205,0,0,100,11,25,NULL),
+  /* Week of 2020-10-26 */
+  ('2020-10-26',3306,324,377,0,0,0,23,0,NULL),
+  ('2020-10-27',3309,NULL,360,0,0,0,0,0,NULL),
+  ('2020-10-28',3312,NULL,334,0,0,0,0,0,NULL),
+  ('2020-10-29',3313,325,314,0,0,100,0,0,NULL),
+  ('2020-10-30',3316,326,299,0,5,10,12,0,NULL),
+  ('2020-10-31',3318,327,115,70,0,86,75,180,'I combined cooking with talking with a friend, so ended up counting a small amount of my meal prep time toward personal chores.'),
+  ('2020-11-01',3319,328,95,60,15,0,45,55,NULL);
