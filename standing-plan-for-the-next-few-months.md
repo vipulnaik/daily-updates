@@ -1,5 +1,7 @@
 # Standing plan for the next few months
 
+Last major update: November 28, 2020
+
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
 though possibly less frequently (once in 2 or 3 months is also
@@ -9,7 +11,7 @@ actually did, and I am more committed to keeping that up-to-date.
 
 ## DMV visit to get my state ID card renewed
 
-I should do this ideally some time in the week of Decemmber 7 or
+I should do this ideally some time in the week of December 7 or
 December 14.
 
 ## Personal finances, income and taxes updates (likely January 2021, may start in December and may continue to February)
