@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: November 28, 2020
+Last major update: December 10, 2020
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -8,11 +8,6 @@ though possibly less frequently (once in 2 or 3 months is also
 okay). My daily updates with summaries at
 https://updates.vipulnaik.com/ is a more accurate record of what I
 actually did, and I am more committed to keeping that up-to-date.
-
-## DMV visit to get my state ID card renewed
-
-I should do this ideally some time in the week of December 7 or
-December 14.
 
 ## Personal finances, income and taxes updates (likely January 2021, may start in December and may continue to February)
 
@@ -22,16 +17,12 @@ prospective 2021 data. I'll also use the opportunity to finish the
 bulk of the legwork for filing my 2020 US federal and California state
 income tax.
 
-I may also use the occasion to finish some backfilling related to my
-personal finances, though I might also do that earlier or later.
-
-**How much time might this take?**: Probably 5 to 12 hours, spread over
+**How much time might this take?**: Probably 5 to 9 hours, spread over
 a few weekends.
 
-**How optimized and how repeated is this?**: Other than the
-backfilling portion, I expect the rest of the process to be the kind
-of work that I will do every year while I'm in a situation like my
-current one. I believe I've already exhausted most
+**How optimized and how repeated is this?**: I expect most of the
+process to be the kind of work that I will do every year while I'm in
+a situation like my current one. I believe I've already exhausted most
 optimization/streamlining opportunities that passed a cost-benefit
 analysis.
 
