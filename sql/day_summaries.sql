@@ -991,4 +991,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-12-03',3453,359,237,0,3,55,22,80,NULL),
   ('2020-12-04',3457,360,320,20,0,0,7,0,NULL),
   ('2020-12-05',3462,361,153,0,120,150,40,0,'After several weeks of deferring, I decided to finally tackle the remaining big pieces of backfilling personal finances this weekend.'),
-  ('2020-12-06',3463,362,52,0,315,0,0,65,'After several weeks of deferring, I decided to finally tackle the remaining big pieces of backfilling personal finances this weekend.');
+  ('2020-12-06',3463,362,52,0,315,0,0,65,'After several weeks of deferring, I decided to finally tackle the remaining big pieces of backfilling personal finances this weekend.'),
+  /* Week of 2020-12-07 */
+  ('2020-12-07',3467,363,230,23,0,28,42,7,NULL),
+  ('2020-12-08',3483,NULL,372,0,0,0,0,0,NULL),
+  ('2020-12-09',3490,364,213,0,13,135,0,0,'I renewed my California state ID card on this date, so it was an unusually low number of work hours for a working day.'),
+  ('2020-12-10',3493,365,255,12,0,5,0,60,NULL),
+  ('2020-12-11',3495,366,283,30,0,0,12,40,NULL),
+  ('2020-12-12',3496,367,59,0,0,160,80,0,NULL),
+  ('2020-12-13',3497,368,201,0,0,0,10,15,'This was a low-energy day for me; I got up late and went to sleep early.');
