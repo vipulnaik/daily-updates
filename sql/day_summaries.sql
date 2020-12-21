@@ -999,4 +999,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-12-10',3493,365,255,12,0,5,0,60,NULL),
   ('2020-12-11',3495,366,283,30,0,0,12,40,NULL),
   ('2020-12-12',3496,367,59,0,0,160,80,0,NULL),
-  ('2020-12-13',3497,368,201,0,0,0,10,15,'This was a low-energy day for me; I got up late and went to sleep early.');
+  ('2020-12-13',3497,368,201,0,0,0,10,15,'This was a low-energy day for me; I got up late and went to sleep early.'),
+  /* Week of 2020-12-14 */
+  ('2020-12-14',3498,369,284,20,5,22,57,0,NULL),
+  ('2020-12-15',3516,370,309,63,7,0,20,0,NULL),
+  ('2020-12-16',3522,371,339,5,0,0,0,0,NULL),
+  ('2020-12-17',3525,372,337,45,0,0,5,0,NULL),
+  ('2020-12-18',3528,373,178,15,0,55,30,5,NULL),
+  ('2020-12-19',3535,374,142,0,0,174,35,0,NULL),
+  ('2020-12-20',3536,375,10,128,0,0,115,30,'I woke up somewhat early but I went to sleep very early (before 7 PM) due to a mix of physical exhaustion after cleaning and general mental exhaustion. Hence, it was a shorter day than usual for me.');
