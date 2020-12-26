@@ -20,6 +20,13 @@ $weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   group by round(unix_timestamp(cast(date as datetime)) / (60 * 60 * 24 * 7))
   order by min(date) desc;";
 $weekSummariesResult = $mysqli -> query($weekSummariesQuery);
+$weekSummariesNotesQuery = "select * from week_summaries;";
+$weekSummariesNotesResult = $mysqli -> query($weekSummariesNotesQuery);
+$notesMap = [];
+for ($i = 0; $i < $weekSummariesNotesResult -> num_rows; $i++) {
+  $row = $weekSummariesNotesResult -> fetch_assoc();
+  $notesMap[$row['week_start_date']] = $row['notes'];
+}
 
 print '<h4 id="summariesByWeek">Summaries by week ('.$weekSummariesResult -> num_rows.' rows)</h4>';
 print "\n";
@@ -35,6 +42,7 @@ print '<th>Time spent on personal finances</th>';
 print '<th>Time spent on personal chores</th>';
 print '<th>Time spent on house chores</th>';
 print '<th>Time spent on other activities</th>';
+print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
 function printMinutesWithNumDaysToolTip($minutesSpent, $numDays) {
@@ -53,6 +61,9 @@ for ($i = 0; $i < $weekSummariesResult -> num_rows; $i++) {
   print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
   foreach($typesOfTimeSpent as $columnFragment) {
     printBasedOnColumnFragment($row, $columnFragment);
+  }
+  if (isset($notesMap[$row['start_date']])) {
+    print "<td>".$notesMap[$row['start_date']]."</td>";
   }
   print "</tr>\n";
 }
