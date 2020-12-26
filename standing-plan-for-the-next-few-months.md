@@ -67,8 +67,3 @@ situation.
 
 Details unclear, but I will probably pick up from where I left off in
 July 2020.
-
-## Entertainment and self-education portal (ese.vipulnaik.com) some time in 2021
-
-I will probably just do this at some point in 2021 when I feel like
-it, but it shouldn't cause anything else important to get delayed.
