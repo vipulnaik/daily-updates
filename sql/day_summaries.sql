@@ -1007,4 +1007,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-12-17',3525,372,337,45,0,0,5,0,NULL),
   ('2020-12-18',3528,373,178,15,0,55,30,5,NULL),
   ('2020-12-19',3535,374,142,0,0,174,35,0,NULL),
-  ('2020-12-20',3536,375,10,128,0,0,115,30,'I woke up somewhat early but I went to sleep very early (before 7 PM) due to a mix of physical exhaustion after cleaning and general mental exhaustion. Hence, it was a shorter day than usual for me.');
+  ('2020-12-20',3536,375,10,128,0,0,115,30,'I woke up somewhat early but I went to sleep very early (before 7 PM) due to a mix of physical exhaustion after cleaning and general mental exhaustion. Hence, it was a shorter day than usual for me.'),
+  /* Week of 2020-12-21 */
+  ('2020-12-21',3538,376,214,10,0,10,60,120,NULL),
+  ('2020-12-22',3544,377,232,5,0,4,25,25,NULL),
+  ('2020-12-23',3546,378,68,0,0,61,20,200,'Although this was a working day, I ended up spending a large share of my time on personal backups; I was hoping to catch up on the work backlog over the next few days of holidays.'),
+  ('2020-12-24',3548,379,217,0,0,35,70,7,'This was a work holiday for Christmas Eve. I was mostly catching up with a backlog of work built over the past few days, and also dealing with a new not-yet-tamed alert source.'),
+  ('2020-12-25',3549,380,146,12,0,20,2,102,'This was a work holiday for Christmas Day. After spending part of the day catching up on work backlog, I spent a large remaining share of time working on getting https://ese.vipulnaik.com/ off the ground.'),
+  ('2020-12-26',3550,381,50,0,0,190,20,130,'I continued to work on https://ese.vipulnaik.com/ for a bit and then returned to my usual mix of day job work and personal and house chores.'),
+  ('2020-12-27',3551,382,152,0,0,79,17,35,NULL);
