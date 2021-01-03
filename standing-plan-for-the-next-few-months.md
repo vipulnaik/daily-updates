@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: December 10, 2020
+Last major update: January 3, 2021
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -9,24 +9,35 @@ okay). My daily updates with summaries at
 https://updates.vipulnaik.com/ is a more accurate record of what I
 actually did, and I am more committed to keeping that up-to-date.
 
-## Personal finances, income and taxes updates (likely January 2021, may start in December and may continue to February)
+## Personal finances, income and taxes updates (remaining parts for January/February 2021)
 
-With 2020 ending, I'll consolidate my finances for the year so that
-https://finances.vipulnaik.com/ has accurate 2020 data plus some
-prospective 2021 data. I'll also use the opportunity to finish the
-bulk of the legwork for filing my 2020 US federal and California state
-income tax.
+I have mostly updated my 2020 personal finances
+(https://finances.vipulnaik.com/) and done an initial draft of work
+for my US federal income tax return. I also discovered that I need to
+file 2017 and 2019 amendments, so that created some extra work.
 
-**How much time might this take?**: Probably 5 to 9 hours, spread over
-a few weekends.
+I'm currently waiting to get various forms officially and also for the
+official USD/INR exchange rate so that I can finish the 2020 tax
+filings.
+
+**How much time might this take (remaining)?**: Probably 5 to 9 hours,
+spread over a few weekends.
 
 **How optimized and how repeated is this?**: I expect most of the
 process to be the kind of work that I will do every year while I'm in
 a situation like my current one. I believe I've already exhausted most
 optimization/streamlining opportunities that passed a cost-benefit
-analysis.
+analysis. With that said, I expect the extra work of filing amendments
+to not be present next year.
 
-## Physical possessions downsizing (December 2020 if I get some free time, otherwise January/February 2021 after finances/taxes stuff)
+## Physical possessions downsizing (deferred to ~July 2021 except paper mail disposal)
+
+UPDATE January 3, 2021: In light of COVID raging, I am trying to
+reduce all in-person interactions to ~zero until the COVID trend
+changes sharply. For this reason, I am deferring all disposal except
+paper mail disposal to ~July 2021, by which time I expect COVID to get
+back to summer 2020 levels (i.e., 10% of current daily infection
+rate).
 
 I would like the task of moving from one house to another to be less
 daunting, thereby making it easier for me to think of changing my
