@@ -1015,4 +1015,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-12-24',3548,379,217,0,0,35,70,7,'This was a work holiday for Christmas Eve. I was mostly catching up with a backlog of work built over the past few days, and also dealing with a new not-yet-tamed alert source.'),
   ('2020-12-25',3549,380,146,12,0,20,2,102,'This was a work holiday for Christmas Day. After spending part of the day catching up on work backlog, I spent a large remaining share of time working on getting https://ese.vipulnaik.com/ off the ground.'),
   ('2020-12-26',3550,381,50,0,0,190,20,130,'I continued to work on https://ese.vipulnaik.com/ for a bit and then returned to my usual mix of day job work and personal and house chores.'),
-  ('2020-12-27',3551,382,152,0,0,79,17,35,NULL);
+  ('2020-12-27',3551,382,152,0,0,79,17,35,NULL),
+  /* Week of 2020-12-28 */
+  ('2020-12-28',3552,383,268,0,0,12,10,0,NULL),
+  ('2020-12-29',3557,384,279,0,0,12,0,3,NULL),
+  ('2020-12-30',3561,385,278,8,0,0,0,30,NULL),
+  ('2020-12-31',3563,386,172,0,0,60,15,60,'Reading https://www.lesswrong.com/posts/n8PEMJNrns4d3FjY5/covid-12-31-meet-the-new-year got me somewhat concerned so I spent a large unplanned chunk of time catching up with COVID news.'),
+  ('2021-01-01',3564,387,23,20,255,0,30,0,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.'),
+  ('2021-01-02',3565,388,28,20,125,145,3,0,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.'),
+  ('2021-01-03',NULL,389,0,50,133,10,5,150,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.');
