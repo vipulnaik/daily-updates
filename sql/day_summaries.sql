@@ -1023,4 +1023,4 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-12-31',3563,386,172,0,0,60,15,60,'Reading https://www.lesswrong.com/posts/n8PEMJNrns4d3FjY5/covid-12-31-meet-the-new-year got me somewhat concerned so I spent a large unplanned chunk of time catching up with COVID news.'),
   ('2021-01-01',3564,387,23,20,255,0,30,0,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.'),
   ('2021-01-02',3565,388,28,20,125,145,3,0,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.'),
-  ('2021-01-03',NULL,389,0,50,133,10,5,150,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.');
+  ('2021-01-03',NULL,389,0,65,133,10,5,150,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.');
