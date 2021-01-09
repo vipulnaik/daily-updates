@@ -13,8 +13,9 @@ actually did, and I am more committed to keeping that up-to-date.
 
 I have mostly updated my 2020 personal finances
 (https://finances.vipulnaik.com/) and done an initial draft of work
-for my US federal income tax return. I also discovered that I need to
-file 2017 and 2019 amendments, so that created some extra work.
+for my US federal income tax return. I also finished filing 2017 and
+2019 amendments for US federal income tax and California state income
+tax.
 
 I'm currently waiting to get various forms officially and also for the
 official USD/INR exchange rate so that I can finish the 2020 tax
