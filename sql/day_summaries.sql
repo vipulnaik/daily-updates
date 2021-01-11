@@ -1023,4 +1023,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-12-31',3563,386,172,0,0,60,15,60,'Reading https://www.lesswrong.com/posts/n8PEMJNrns4d3FjY5/covid-12-31-meet-the-new-year got me somewhat concerned so I spent a large unplanned chunk of time catching up with COVID news.'),
   ('2021-01-01',3564,387,23,20,255,0,30,0,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.'),
   ('2021-01-02',3565,388,28,20,125,145,3,0,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.'),
-  ('2021-01-03',NULL,389,0,65,133,10,5,150,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.');
+  ('2021-01-03',NULL,389,0,65,133,10,5,150,'With the change of year, I spent a fair amount of time on end-of-year finalizations, including my personal finances, income and taxes.'),
+  /* Week of 2021-01-04 */
+  ('2021-01-04',3567,390,333,25,17,10,0,0,NULL),
+  ('2021-01-05',3574,391,296,0,5,10,0,30,NULL),
+  ('2021-01-06',3577,392,192,46,16,7,0,0,NULL),
+  ('2021-01-07',3579,393,172,45,0,60,0,28,NULL),
+  ('2021-01-08',3581,394,332,0,3,60,0,10,NULL),
+  ('2021-01-09',3582,395,284,0,0,0,0,0,'I watched many episodes of "Crash Landing on You" multiplexed with some repetitive, mechanical work. Since this was multiplexed time, I do not count the time spent.'),
+  ('2021-01-10',3583,396,240,0,0,86,0,10,'I watched many episodes of "Crash Landing on You" multiplexed with some repetitive, mechanical work. Since this was multiplexed time, I do not count the time spent.');
