@@ -1031,4 +1031,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-01-07',3579,393,172,45,0,60,0,28,NULL),
   ('2021-01-08',3581,394,332,0,3,60,0,10,NULL),
   ('2021-01-09',3582,395,284,0,0,0,0,0,'I watched many episodes of "Crash Landing on You" multiplexed with some repetitive, mechanical work. Since this was multiplexed time, I do not count the time spent.'),
-  ('2021-01-10',3583,396,240,0,0,86,0,10,'I watched many episodes of "Crash Landing on You" multiplexed with some repetitive, mechanical work. Since this was multiplexed time, I do not count the time spent.');
+  ('2021-01-10',3583,396,240,0,0,86,0,10,'I watched many episodes of "Crash Landing on You" multiplexed with some repetitive, mechanical work. Since this was multiplexed time, I do not count the time spent.'),
+  /* Week of 2021-01-11 */
+  ('2021-01-11',3585,397,315,18,0,25,12,0,NULL),
+  ('2021-01-12',3604,398,232,10,5,10,17,4,NULL),
+  ('2021-01-13',3608,399,266,13,0,0,0,2,NULL),
+  ('2021-01-14',3609,400,260,0,0,0,0,15,NULL),
+  ('2021-01-15',3610,401,350,0,0,45,0,10,NULL),
+  ('2021-01-16',3611,402,194,0,0,50,0,0,NULL),
+  ('2021-01-17',3612,403,130,0,120,26,0,30,NULL);
