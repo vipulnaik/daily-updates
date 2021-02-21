@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: January 3, 2021
+Last major update: February 21, 2021
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -9,35 +9,33 @@ okay). My daily updates with summaries at
 https://updates.vipulnaik.com/ is a more accurate record of what I
 actually did, and I am more committed to keeping that up-to-date.
 
-## Personal finances, income and taxes updates (remaining parts for February 2021)
+I am planning to go down to 75% time at work for 4 weeks in May, and
+then more long-term starting August.
 
-I have mostly updated my 2020 personal finances
-(https://finances.vipulnaik.com/) and done an initial draft of work
-for my US federal income tax return. I also finished filing 2017 and
-2019 amendments for US federal income tax and California state income
-tax.
+## Diet, exercise, and health (February 2021 onward, off and on)
 
-I'm currently waiting for free file fillable forms to open up so that
-I can finish filing my 2020 US federal income tax return; I will then
-file my 2020 California state tax return.
+### Nutrition stuff
 
-**How much time might this take (remaining)?**: Probably 5 to 9 hours,
-spread over a few weekends.
+I started some effort toward systematic macro-tracking of my food
+consumption (by recording all food purchases, that should give me a
+sensee of my "average" food consumption even though it doesn't give
+sufficiently granular mmicro-level detail for daily food consumption).
 
-**How optimized and how repeated is this?**: I expect most of the
-process to be the kind of work that I will do every year while I'm in
-a situation like my current one. I believe I've already exhausted most
-optimization/streamlining opportunities that passed a cost-benefit
-analysis. With that said, I expect the extra work of filing amendments
-to not be present next year.
+### Blood tests
 
-## Semi-revival of migration-related work on Timelines wiki, Wikipedia, and elsewhere (February 021)
+I started recording 2021 blood test plans at
+https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-blood-test-plans.md
+and plan to continue augmenting that list as I think through the
+issues more.
 
-I started a semi-revival on the last weekend of January 2021 and
-expect to continue spending some of my personal project time on it in
-February.
+### Other rethinking of exercise and measurement tools
 
-## Revival of donations list website (DLW) (likely starting March 2021, end date unclear as it may be somewhat ongoing)
+I would like to start thinking about regular exercise beyond my daily
+jog and crushing exercises -- basically some flexibility-type exercise
+(e.g., yoga, tai chi) and possibly also weight training. I will need
+to think more about this and introduce gradually.
+
+## Revival of donations list website (DLW) (likely starting April 2021, end date unclear as it may be somewhat ongoing)
 
 I've put DLW on hibernation for quite a long time. I need to revive it
 and figure out a long-term plan for it. One component of the long-term
@@ -45,7 +43,7 @@ plan might be transitioning some pieces of the work to Sebastian, but
 I want to first get back in the groove and get on top of the
 situation.
 
-## Migration stuff (likely starting March 2021, alternated with DLW)
+## Migration stuff (likely starting May 2021, alternated with DLW)
 
 Details unclear, but I will probably pick up from where I left off in
 July 2020.
