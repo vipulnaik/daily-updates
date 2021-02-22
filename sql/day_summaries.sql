@@ -1070,5 +1070,13 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-02-10',3675,425,250,30,0,0,10,25,NULL),
   ('2021-02-11',3678,426,272,45,0,0,5,0,NULL),
   ('2021-02-12',3679,427,257,0,0,15,20,0,NULL),
-  ('2021-02-13',3680,428,45,5,150,55,0,60,NULL),
-  ('2021-02-14',NULL,429,0,0,150,175,75,30,NULL);
+  ('2021-02-13',3680,428,45,5,150,55,0,60,'I spent a large chunk of time working on my 2020 taxes.'),
+  ('2021-02-14',NULL,429,0,0,150,175,75,30,'I spent a large chunk of time working on my 2020 taxes.'),
+  /* Week of 2021-02-15 */
+  ('2021-02-15',3683,430,199,165,0,15,10,10,'Fresh from having done my own 2020 taxes, I updated the tax calculations in the contract work repository to make Issa''s tax filing process easier. Although the work is conceptually related to financs and taxes, I counted the time in personal projects.'),
+  ('2021-02-16',3685,431,288,15,0,0,5,30,NULL),
+  ('2021-02-17',3691,432,276,0,0,0,5,32,NULL),
+  ('2021-02-18',3692,433,365,0,0,10,0,0,NULL),
+  ('2021-02-19',3693,434,290,0,0,0,10,25,NULL),
+  ('2021-02-20',3695,435,95,15,118,55,10,20,'I finished filing my 2020 US taxes: federal and California state.'),
+  ('2021-02-21',3696,436,85,10,20,13,15,145,NULL);
