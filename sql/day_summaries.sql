@@ -1087,4 +1087,13 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-02-25',3706,440,156,0,5,55,7,55,NULL),
   ('2021-02-26',3707,441,267,0,5,0,0,5,NULL),
   ('2021-02-27',3708,442,207,0,0,5,0,15,NULL),
-  ('2021-02-28',3709,443,24,4,2,200,50,120,NULL);
+  ('2021-02-28',3709,443,24,4,2,200,50,120,NULL),
+  /* Week of 2021-03-01 */
+  ('2021-03-01',3711,444,204,57,20,23,29,5,NULL),
+  ('2021-03-02',3715,445,302,0,5,0,79,10,NULL),
+  ('2021-03-03',3717,446,250,8,3,55,0,25,NULL),
+  ('2021-03-04',3718,447,294,8,2,0,0,5,NULL),
+  ('2021-03-05',3719,NULL,241,0,0,0,0,0,NULL),
+  ('2021-03-06',3720,448,60,15,0,183,0,0,'I spent a lot of time during the day lazing around, watching Encounter (Korean drama) and rewatching some episodes of Gilmore Girls. Some of this was multiplexed with work. This time is not accounted and explains my low accounted-for time.'),
+  ('2021-03-07',3721,449,182,5,0,10,23,20,'I spent a lot of time during the day lazing around, watching Encounter (Korean drama) and rewatching some episodes of Gilmore Girls. Some of this was multiplexed with work. This time is not accounted and explains my low accounted-for time.');
+
