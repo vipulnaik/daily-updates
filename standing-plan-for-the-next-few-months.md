@@ -18,7 +18,7 @@ then more long-term starting August.
 
 I started some effort toward systematic macro-tracking of my food
 consumption (by recording all food purchases, that should give me a
-sensee of my "average" food consumption even though it doesn't give
+sense of my "average" food consumption even though it doesn't give
 sufficiently granular mmicro-level detail for daily food consumption).
 
 ### Blood tests
