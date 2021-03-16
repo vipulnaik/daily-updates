@@ -1095,5 +1095,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-03-04',3718,447,294,8,2,0,0,5,NULL),
   ('2021-03-05',3719,NULL,241,0,0,0,0,0,NULL),
   ('2021-03-06',3720,448,60,15,0,183,0,0,'I spent a lot of time during the day lazing around, watching Encounter (Korean drama) and rewatching some episodes of Gilmore Girls. Some of this was multiplexed with work. This time is not accounted and explains my low accounted-for time.'),
-  ('2021-03-07',3721,449,182,5,0,10,23,20,'I spent a lot of time during the day lazing around, watching Encounter (Korean drama) and rewatching some episodes of Gilmore Girls. Some of this was multiplexed with work. This time is not accounted and explains my low accounted-for time.');
-
+  ('2021-03-07',3721,449,182,5,0,10,23,20,'I spent a lot of time during the day lazing around, watching Encounter (Korean drama) and rewatching some episodes of Gilmore Girls. Some of this was multiplexed with work. This time is not accounted and explains my low accounted-for time.'),
+  /* Week of 2021-03-08 */
+  ('2021-03-08',3722,450,237,0,0,15,90,0,NULL),
+  ('2021-03-09',3727,451,161,0,0,0,115,20,NULL),
+  ('2021-03-10',3729,452,169,0,0,75,185,0,NULL),
+  ('2021-03-11',3730,453,257,0,8,0,5,132,NULL),
+  ('2021-03-12',3731,454,254,10,0,0,0,18,NULL),
+  ('2021-03-13',3732,455,103,20,0,187,0,30,NULL),
+  ('2021-03-14',3733,456,189,0,0,7,0,85,'I spent a lot of time during the day lazing around, watching Encounter (Korean drama). Most of this was multiplexed with work. This time is not accounted and explains my low accounted-for time.');
