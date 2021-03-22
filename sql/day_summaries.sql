@@ -1106,7 +1106,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-03-14',3733,456,189,0,0,7,0,85,'I spent a lot of time during the day lazing around, watching Encounter (Korean drama). Most of this was multiplexed with work. This time is not accounted and explains my low accounted-for time.'),
   /* Week of 2021-03-15 */
   ('2021-03-15',3734,457,293,0,0,0,0,150,NULL),
-  ('2021-03-16',3739,458,321,0,0,0,0,165,NULL),
+  ('2021-03-16',3739,458,321,0,0,15,0,150,NULL),
   ('2021-03-17',3741,459,199,0,0,45,20,105,NULL),
   ('2021-03-18',3742,460,147,0,0,0,0,300,NULL),
   ('2021-03-19',3743,461,242,0,0,0,0,165,NULL),
