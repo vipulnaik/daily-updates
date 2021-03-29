@@ -1111,4 +1111,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-03-18',3742,460,147,0,0,0,0,300,NULL),
   ('2021-03-19',3743,461,242,0,0,0,0,165,NULL),
   ('2021-03-20',3744,462,105,0,0,95,0,65,NULL),
-  ('2021-03-21',3745,463,90,0,0,0,50,68,'I spent a lot of time watching Gilmore Girls even outside of meal times and not multiplexed with other activities.');
+  ('2021-03-21',3745,463,90,0,0,0,50,68,'I spent a lot of time watching Gilmore Girls even outside of meal times and not multiplexed with other activities.'),
+  /* Week of 2021-03-22 */
+  ('2021-03-22',3746,464,164,0,0,60,0,156,NULL),
+  ('2021-03-23',3749,465,316,3,7,0,3,137,NULL),
+  ('2021-03-24',3752,466,278,0,18,0,0,0,NULL),
+  ('2021-03-25',3753,467,295,12,0,12,5,5,NULL),
+  ('2021-03-26',3754,468,265,0,0,0,35,105,NULL),
+  ('2021-03-27',3755,469,265,0,0,0,8,5,'I spent some extra time watching Netflix, some of it multiplexed with work, leading to lower effective work hours and therefore lower total accounted time spent.'),
+  ('2021-03-28',3756,470,135,0,0,160,0,232,NULL);
