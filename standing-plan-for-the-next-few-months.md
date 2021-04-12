@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: February 21, 2021
+Last major update: April 11, 2021
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -12,14 +12,13 @@ actually did, and I am more committed to keeping that up-to-date.
 I am planning to go down to 75% time at work for 4 weeks in May, and
 then more long-term starting August.
 
-## Diet, exercise, and health (February 2021 onward, off and on)
+## Diet, exercise, and health (June 2021 onward, off and on)
 
 ### Nutrition stuff
 
-I started some effort toward systematic macro-tracking of my food
-consumption (by recording all food purchases, that should give me a
-sense of my "average" food consumption even though it doesn't give
-sufficiently granular mmicro-level detail for daily food consumption).
+I have set up a system for recording food purchases, but there are
+various incomplete bits that I need to refine. I plan to keep updating
+my food purchases and refining things when I get a chance.
 
 ### Blood tests
 
