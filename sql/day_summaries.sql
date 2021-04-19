@@ -1135,4 +1135,13 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-04-08',3777,480,320,0,5,0,0,0,NULL),
   ('2021-04-09',3778,481,354,0,0,45,0,0,NULL),
   ('2021-04-10',3779,482,116,0,0,172,5,15,NULL),
-  ('2021-04-11',3780,483,16,30,10,5,0,225,'I had the day almost completely free from day job work, other than routine daily tasks. I used this time to wrap up the first phase of my nutrition work, update my standing plan, and return to personal projects.');
+  ('2021-04-11',3780,483,16,30,10,5,0,225,'I had the day almost completely free from day job work, other than routine daily tasks. I used this time to wrap up the first phase of my nutrition work, update my standing plan, and return to personal projects.'),
+  /* Week of 2021-04-12 */
+  ('2021-04-12',3781,484,385,0,0,21,0,15,NULL),
+  ('2021-04-13',3785,485,385,20,0,0,12,0,NULL),
+  ('2021-04-14',3787,486,233,0,0,4,5,131,NULL),
+  ('2021-04-15',3788,487,217,0,0,0,0,84,NULL),
+  ('2021-04-16',3789,488,168,0,0,45,0,80,NULL),
+  ('2021-04-17',3790,489,127,0,0,106,15,108,NULL),
+  ('2021-04-18',3791,490,92,0,0,170,20,108,NULL);
+
