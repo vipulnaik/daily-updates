@@ -28,4 +28,5 @@ insert into week_summaries(week_start_date, notes) values
   ('2021-03-29','The main highlights outside the work front were end-of-month tasks, some house matters, and wrapping up of time-sensitive activities involving a friend.'),
   ('2021-04-05','I continued to get more on top of work, wrapping up my planned work for the week by Saturday. Sunday was a bit slow, wrapping up some important but drudge-ish work on nutrition, but I finally got around to updating my standing plan and returning to personal projects.'),
   ('2021-04-12','I spent more time than usual chatting with friends; this cut a little bit (but not too much) into work time.'),
-  ('2021-04-19','I had a relatively normal amount of work time; slightly on the lower end during the week, compensated by slightly on the higher end during the weekend.');
+  ('2021-04-19','I had a relatively normal amount of work time; slightly on the lower end during the week, compensated by slightly on the higher end during the weekend.'),
+  ('2021-04-26','I spent a large chunk of time on two weekdays working on personal projects, explaining the greater total time spent on personal projects. My overall accounted time spent was lower than normal, partly because of less accounted time on weekends and partly because the change to increase time on personal projects led to some overhead of inefficiency.');
