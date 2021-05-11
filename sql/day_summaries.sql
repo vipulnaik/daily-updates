@@ -1159,4 +1159,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-04-29',3815,501,129,217,0,0,0,0,'I took part of the day off from work to work on personal projects, while maintaining my availability for work.'),
   ('2021-04-30',3816,502,130,122,0,0,0,0,'I took part of the day off from work to work on personal projects, while maintaining my availability for work.'),
   ('2021-05-01',3817,503,35,32,10,226,0,0,NULL),
-  ('2021-05-02',3818,504,165,10,10,16,0,130,NULL);
+  ('2021-05-02',3818,504,165,10,10,16,0,130,NULL),
+  /* Week of 2021-05-03 */
+  ('2021-05-03',3819,505,256,0,0,15,0,95,NULL),
+  ('2021-05-04',3827,507,371,0,0,0,4,0,NULL),
+  ('2021-05-05',3831,506,254,0,8,55,12,5,NULL),
+  ('2021-05-06',3833,508,354,0,0,0,38,0,NULL),
+  ('2021-05-07',3834,509,354,0,0,5,3,3,NULL),
+  ('2021-05-08',3835,510,138,12,0,177,29,0,NULL),
+  ('2021-05-09',3836,511,230,0,0,0,0,15,NULL);
