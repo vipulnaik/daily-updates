@@ -30,4 +30,5 @@ insert into week_summaries(week_start_date, notes) values
   ('2021-04-12','I spent more time than usual chatting with friends; this cut a little bit (but not too much) into work time.'),
   ('2021-04-19','I had a relatively normal amount of work time; slightly on the lower end during the week, compensated by slightly on the higher end during the weekend.'),
   ('2021-04-26','I spent a large chunk of time on two weekdays working on personal projects, explaining the greater total time spent on personal projects. My overall accounted time spent was lower than normal, partly because of less accounted time on weekends and partly because the change to increase time on personal projects led to some overhead of inefficiency.'),
-  ('2021-05-03','I spent more of my weekend time working than usual.');
+  ('2021-05-03','I spent more of my weekend time working than usual.'),
+  ('2021-05-10','I had somewhat-lower-than-total accounted-for-hours, mostly due to some inefficiencies during the week. I didn''t spend time on personal projects or personal finances at all.');
