@@ -1183,4 +1183,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-05-20',3860,522,190,0,0,165,10,0,NULL),
   ('2021-05-21',3864,523,243,0,0,40,30,0,NULL),
   ('2021-05-22',3865,524,180,0,0,100,0,0,NULL),
-  ('2021-05-23',3866,525,128,0,0,150,60,75,NULL);
+  ('2021-05-23',3866,525,128,0,0,150,60,75,NULL),
+  /* Week of 2021-05-24 */
+  ('2021-05-24',3869,526,305,0,0,23,0,0,NULL),
+  ('2021-05-25',3873,527,229,0,0,40,10,0,NULL),
+  ('2021-05-26',3876,528,215,0,0,60,20,0,NULL),
+  ('2021-05-27',3877,529,43,0,0,260,0,80,'I got my COVID shot and finished chores related to disposal of items. As a result, I spent very little time on work on this day.'),
+  ('2021-05-28',3879,530,200,0,5,105,22,17,'I made a trip for e-waste disposal.'),
+  ('2021-05-29',3880,531,210,0,0,90,0,0,'I made a trip to the Mission in San Francisco for some e-waste disposal and also got food from Pakwan.'),
+  ('2021-05-30',3882,532,169,12,3,0,0,0,'I spent a large part of my day watching Startup on Netflix, multiplexed with low-efficiency work, hence the lower-than-usual total-accounted-for-time.');
