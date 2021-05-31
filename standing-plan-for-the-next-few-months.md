@@ -26,6 +26,13 @@ https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-blood-t
 and plan to continue augmenting that list as I think through the
 issues more.
 
+### Dentist trip
+
+I haven't had dental cleaning done since November 2017, and haven't
+had a dental checkup since a partial checkup in January 2019 in
+response to a toothache. My teeth feel fine but a trip to the dentist
+would be nice.
+
 ### Other rethinking of exercise and measurement tools
 
 I would like to start thinking about regular exercise beyond my daily
