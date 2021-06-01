@@ -1191,4 +1191,4 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-05-27',3877,529,43,0,0,260,0,80,'I got my COVID shot and finished chores related to disposal of items. As a result, I spent very little time on work on this day.'),
   ('2021-05-28',3879,530,200,0,5,105,22,17,'I made a trip for e-waste disposal.'),
   ('2021-05-29',3880,531,210,0,0,90,0,0,'I made a trip to the Mission in San Francisco for some e-waste disposal and also got food from Pakwan.'),
-  ('2021-05-30',3882,532,169,12,3,0,0,0,'I spent a large part of my day watching Startup on Netflix, multiplexed with low-efficiency work, hence the lower-than-usual total-accounted-for-time.');
+  ('2021-05-30',3882,532,169,12,3,0,0,15,'I spent a large part of my day watching Startup on Netflix, multiplexed with low-efficiency work, hence the lower-than-usual total-accounted-for-time.');
