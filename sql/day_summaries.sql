@@ -1193,9 +1193,9 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-05-29',3880,531,210,0,0,90,0,0,'I made a trip to the Mission in San Francisco for some e-waste disposal and also got food from Pakwan.'),
   ('2021-05-30',3882,532,169,12,3,0,0,15,'I spent a large part of my day watching Startup on Netflix, multiplexed with low-efficiency work, hence the lower-than-usual total-accounted-for-time.'),
   /* Week of 2021-05-31 */
-  ('2021-05-31',3884,533,64,180,30,18,21,0,'This day was a holiday for Memorial Day and I spent a lot of time on personal projects.'),
+  ('2021-05-31',3884,533,67,180,30,18,21,0,'This day was a holiday for Memorial Day and I spent a lot of time on personal projects.'),
   ('2021-06-01',3885,534,266,17,15,10,20,15,NULL),
-  ('2021-06-02',3888,535,227,0,0,45,0,0,NULL),
+  ('2021-06-02',3888,535,230,0,0,45,0,0,NULL),
   ('2021-06-03',3890,536,133,115,0,198,5,0,'I had run out of cooked food,so I spent some time on food preparation. I also spent a lot of time on personal projects, as part of the experiment of moving down to 75% time.'),
   ('2021-06-04',3891,537,132,180,0,0,0,40,'I took much of the day off for personal projects, as part of the experiment of moving down to 75% time.'),
   ('2021-06-05',3892,538,282,40,0,45,0,0,NULL),
