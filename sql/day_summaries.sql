@@ -1199,4 +1199,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-06-03',3890,536,133,115,0,198,5,0,'I had run out of cooked food,so I spent some time on food preparation. I also spent a lot of time on personal projects, as part of the experiment of moving down to 75% time.'),
   ('2021-06-04',3891,537,132,180,0,0,0,40,'I took much of the day off for personal projects, as part of the experiment of moving down to 75% time.'),
   ('2021-06-05',3892,538,282,40,0,45,0,0,NULL),
-  ('2021-06-06',3903,539,141,3,2,212,7,30,NULL);
+  ('2021-06-06',3903,539,141,3,2,212,7,30,NULL),
+  /* Week of 2021-06-07 */
+  ('2021-06-07',3894,540,263,30,5,15,8,0,NULL),
+  ('2021-06-08',3897,541,110,120,0,0,0,0,'I had a more fragmented day than usual, leading to fewer accounted-for work hours.'),
+  ('2021-06-09',3905,542,157,80,0,50,10,0,NULL),
+  ('2021-06-10',3907,543,220,15,0,40,0,10,NULL),
+  ('2021-06-11',3909,544,229,123,0,0,0,0,NULL),
+  ('2021-06-12',3910,545,240,0,10,45,0,0,NULL),
+  ('2021-06-13',3911,546,22,150,0,170,0,25,NULL);
