@@ -1215,5 +1215,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-06-17',3920,550,293,5,0,0,10,0,NULL),
   ('2021-06-18',3921,551,231,0,0,42,0,0,NULL),
   ('2021-06-19',3922,552,242,0,0,50,5,0,NULL),
-  ('2021-06-20',3923,553,97,20,0,75,0,252,NULL);
-
+  ('2021-06-20',3923,553,97,20,0,75,0,252,NULL),
+  /* Week of 2021-06-21 */
+  ('2021-06-21',3924,554,248,0,0,15,0,83,NULL),
+  ('2021-06-22',3927,555,188,34,0,42,0,0,NULL),
+  ('2021-06-23',3928,556,230,0,0,45,0,0,NULL),
+  ('2021-06-24',3929,557,224,15,0,0,60,130,NULL),
+  ('2021-06-25',3930,558,183,0,0,65,0,150,'I got my second (Pfizer) COVID shot on this day. https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-06-25-pfizer-covid-vaccine-dose-2.md has detailed documentation.'),
+  ('2021-06-26',3931,559,112,0,0,195,7,15,'I experienced mild fever symptoms this day, likely due to the COVD shot the previous day. https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-06-25-pfizer-covid-vaccine-dose-2.md has detailed documentation.'),
+  ('2021-06-27',3932,560,74,60,30,55,5,60,NULL);
