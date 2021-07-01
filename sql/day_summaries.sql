@@ -1223,4 +1223,4 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-06-24',3929,557,224,15,0,0,60,130,NULL),
   ('2021-06-25',3930,558,183,0,0,65,0,150,'I got my second (Pfizer) COVID shot on this day. https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-06-25-pfizer-covid-vaccine-dose-2.md has detailed documentation.'),
   ('2021-06-26',3931,559,112,0,0,195,7,15,'I experienced mild fever symptoms this day, likely due to the COVD shot the previous day. https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-06-25-pfizer-covid-vaccine-dose-2.md has detailed documentation.'),
-  ('2021-06-27',3932,560,74,60,30,55,5,60,NULL);
+  ('2021-06-27',3932,560,74,60,35,55,5,60,NULL);

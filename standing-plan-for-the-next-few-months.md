@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: May 30, 2021
+Last major update: July 1, 2021
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -9,22 +9,17 @@ okay). My daily updates with summaries at
 https://updates.vipulnaik.com/ is a more accurate record of what I
 actually did, and I am more committed to keeping that up-to-date.
 
-I am planning to go down to 75% time at work mostly starting July,
-with a little bit of a trial period in the period of April to June.
+I start going down to 75% time at work mostly starting July, with a
+little bit of a trial period in the period of April to June (most of
+it during late May / early June).
 
-## Diet, exercise, and health (May/June 2021 onward, off and on)
+## Diet, exercise, and health (July 2021 onward, off and on)
 
-### COVID vaccines
+### Decision-making based on blood test results
 
-I got my first Pfizer COVID vaccine shot on Thursday, May 27, 2021,
-and have my second shot scheduled for Friday, June 24, 2021.
-
-### Blood tests
-
-I started recording 2021 blood test plans at
-https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-blood-test-plans.md
-and plan to continue augmenting that list as I think through the
-issues more.
+I got a bunch of blood tests done on June 30. The results might
+influence my diet and supplement decisions. I will likely spend some
+time doing research and consolidation work once the results are in.
 
 ### Dentist trip
 
@@ -40,15 +35,14 @@ jog and crushing exercises -- basically some flexibility-type exercise
 (e.g., yoga, tai chi) and possibly also weight training. I will need
 to think more about this and introduce gradually.
 
-## Revival of donations list website (DLW) (likely starting June 2021)
+## Continuation of list website (DLW)
 
-I've put DLW on hibernation for quite a long time. I need to revive it
-and figure out a long-term plan for it. One component of the long-term
-plan might be transitioning some pieces of the work to Sebastian, but
-I want to first get back in the groove and get on top of the
-situation.
+In late May / early June, during initial experimentation with reduced
+wor hours, I picked up on DLW. I intend to continue more on DLW in
+July now that I have a long-term work hours reduction to 75%. I expect
+DLW to continue to be one of my focus areas for a few months.
 
-## Migration stuff (likely starting June 2021, alternated with DLW)
+## Continuation of migration stuff (likely starting July 2021, alternated with DLW)
 
 Details unclear, but I will probably pick up from where I left off in
 July 2020 plus the brief exploration in the last weeek of April
