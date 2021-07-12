@@ -1231,4 +1231,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-07-01',3947,564,178,59,30,45,0,25,NULL),
   ('2021-07-02',3948,565,280,5,2,2,5,0,NULL),
   ('2021-07-03',3951,566,87,55,3,210,3,0,NULL),
-  ('2021-07-04',3952,567,22,215,0,12,7,30,NULL);
+  ('2021-07-04',3952,567,22,215,0,12,7,30,NULL),
+  /* Week of 2021-07-05 */
+  ('2021-07-05',3953,568,154,55,3,12,0,0,'This day was a day job holiday for me (observed Fourth of July in the United States). I had lower-than-usual accounted-for-hours mostly because I was operating more slowly and doing more boring tasks.'),
+  ('2021-07-06',3954,569,310,10,4,20,0,0,NULL),
+  ('2021-07-07',3956,570,244,0,0,0,5,0,NULL),
+  ('2021-07-08',3958,571,259,5,0,50,0,0,NULL),
+  ('2021-07-09',3960,572,241,0,6,45,10,60,NULL),
+  ('2021-07-10',3961,573,82,7,0,270,0,0,NULL),
+  ('2021-07-11',3962,574,161,0,3,40,0,120,NULL);
