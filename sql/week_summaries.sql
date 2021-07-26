@@ -40,5 +40,5 @@ insert into week_summaries(week_start_date, notes) values
   ('2021-06-21','I went back down to 75% work time, not fully intentionally (I was hoping to be closer to 90%). Most of the remaining time was not spent on personal projects; it was spent on a mix of personal chores (including getting and recovering from the COVID vaccine) and other activities.'),
   ('2021-06-28','I worked a little less even than my target 75% work time, mostly because I had reached a logical point with various work-related activities. I expect to do some more work in future weeks based on what fits naturally, so that the average evens out.'),
   ('2021-07-05','I worked more than my target 75% work time, partly to make up for less work than planned in previous weeks, and partly because I wanted to get ahead on time-sensitive tasks.'),
-  ('2021-07-12','I worked a little bit overtime to make progress on some time-sensitive day job stuff. I had correspondingly less time for personal projects.');
-
+  ('2021-07-12','I worked a little bit overtime to make progress on some time-sensitive day job stuff. I had correspondingly less time for personal projects.'),
+  ('2021-07-19','I worked around 100% (rather than my long-term reduced 75%) for a few reasons: (a) to make progress on time-sensitive day job stuff, (b) to cancel out early start of reduced time in June (official plan had been to start from July), and (c) to be better prepared for likely disruptions in the next few weeks.');
