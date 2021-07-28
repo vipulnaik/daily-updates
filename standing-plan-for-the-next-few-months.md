@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: July 10, 2021
+Last major update: July 28, 2021
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -37,21 +37,22 @@ to think more about this and introduce gradually.
 
 ## Continuation of donations list website (DLW)
 
-In late May / early June, during initial experimentation with reduced
-wor hours, I picked up on DLW. I intend to continue more on DLW in
-July now that I have a long-term work hours reduction to 75%. I expect
-DLW to continue to be one of my focus areas for a few months.
+I have successfully resumed work on the donations list website (DLW)
+and expect to continue on it till at least the end of September, and
+probably till the end of 2021.
 
 ## Continuation of migration stuff (likely starting July 2021, alternated with DLW)
 
-Details unclear, but I will probably pick up from where I left off in
-July 2020 plus the brief exploration in the last weeek of April
-2021.
+I have successfully resumed work on migration stuff, mostly in the form
+of more work on migration-related timelines. I expect to continue with
+this flavor of work till at least September 2021, and probably with
+some form of migration-related work (this or something else) till the
+end of the year.
 
-## Devops/server maintenance work (deferred to ~October 2021)
+## Devops/server maintenance work (deferred to ~January 2022)
 
-UPDATE July 10, 2021: I have decided to defer this work to ~October
-2021, by which time I expect to have more free time available for it.
+UPDATE July 28, 2021: I have decided to defer this work to ~January
+2022, by which time I expect to have more free time available for it.
 
 My current Linode setup, and most of my softwares and tools, were last
 put together in September 2016. They need an upgrade along several
