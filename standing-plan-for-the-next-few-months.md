@@ -41,13 +41,70 @@ I have successfully resumed work on the donations list website (DLW)
 and expect to continue on it till at least the end of September, and
 probably till the end of 2021.
 
-## Continuation of migration stuff (likely starting July 2021, alternated with DLW)
+## Continuation of migration stuff (alternated with DLW)
 
 I have successfully resumed work on migration stuff, mostly in the form
 of more work on migration-related timelines. I expect to continue with
 this flavor of work till at least September 2021, and probably with
 some form of migration-related work (this or something else) till the
 end of the year.
+
+## Getting out some blog posts and corresponding background work
+
+### Managing personal projects blog post (some time between October 2021 and March 2022)
+
+I wrote a draft post
+https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md
+back in 2020. Now that I've reduced my work hours and am putting the
+principles into practice, I would like to review, refine, and publish
+the blog post. I expect to do so not before October 2021, which should
+give me enough experience actually applying the ideas over a time
+period where I'm devoting a significant chunk of time to personal
+projects.
+
+### Donation budgets / targets blog post (some time between December 2021 and May 2022)
+
+I want to write a blog post outlining my thinking on donation
+budgets. My current thinking is something of a 1,000 USD / month
+maximum (with accumulation) starting January 2021. Ideally, I want to
+write this blog post *before* making more donations; however, I
+won't block a donation decision on the blog post if it is well within
+the broad bounds.
+
+There are a couple of reasons I want to defer writing this blog post,
+even though it would be nice to have it written so I can use it to
+inform donation decisions:
+
+* I want to get more caught up with donations list website (DLW), and
+  I think that things I learn during that process will inform my
+  thinking. I'm focusing on DLW for the next few months and expect to
+  be in a good position with it by December 2021.
+* Overall, I am in a good position with my personal finances, but I am
+  still sorting out a few items, including figuring out things related
+  to how much to allocate to stocks, and how to deal with variability
+  in housing expenses. I hope and expect to acquire more clarity on
+  these fronts over the next few months.
+
+### Retrospective post on EA Hotel donation (no specific timeline, any time in the next several months)
+
+I would like to write a retrospective of my [EA Hotel
+donation](https://forum.effectivealtruism.org/posts/BM2DYWpM6rSxyZ7AS/my-q1-2019-ea-hotel-donation). I
+might do this any time in the coming months, possibly during or after
+various DLW updates when I feel in the mood.
+
+I think this retrospective will be useful as an effective review of
+the EA Hotel, but its bigger utility to me (and others) is in the
+evaluation of donations to small organizations with potential. It
+would be cool to do this before my next donation, but it's not a
+blocker.
+
+### COVID-19 forecasts retrospective (timing unclear; possibly mid-2022 but could be earlier)
+
+I plan to write a retrospective of my [COVID-19 forecasts
+post](https://www.lesswrong.com/posts/pBPiZQYBF9niRAMSq/coronavirus-the-four-levels-of-social-distancing-and-when). The
+resurgence of the delta strain led me to decide to defer work on this
+retrospective. I think mid-2022 will be a good time, but I might
+choose an earlier or later time depending on how COVID-19 evolves.
 
 ## Devops/server maintenance work (deferred to ~January 2022)
 
