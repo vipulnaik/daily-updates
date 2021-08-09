@@ -1263,4 +1263,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-07-29',4002,591,256,4,3,8,12,40,NULL),
   ('2021-07-30',4004,592,284,15,0,0,12,0,NULL),
   ('2021-07-31',4006,593,82,8,15,168,60,0,NULL),
-  ('2021-08-01',4007,594,173,49,18,19,0,0,'The personal projects work and personal finances work was mostly driven by end-of-month tasks.');
+  ('2021-08-01',4007,594,173,49,18,19,0,0,'The personal projects work and personal finances work was mostly driven by end-of-month tasks.'),
+  /* Week of 2021-08-02 */
+  ('2021-08-02',4008,595,156,0,2,62,10,160,NULL),
+  ('2021-08-03',4012,596,308,0,10,0,15,20,NULL),
+  ('2021-08-04',4014,597,262,0,9,5,10,0,NULL),
+  ('2021-08-05',4015,598,232,0,7,5,5,15,NULL),
+  ('2021-08-06',4016,599,203,0,0,0,73,40,NULL),
+  ('2021-08-07',4017,600,103,12,0,168,67,0,NULL),
+  ('2021-08-08',4018,601,6,0,0,80,163,45,NULL);
