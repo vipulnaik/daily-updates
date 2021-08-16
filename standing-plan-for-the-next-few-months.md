@@ -13,14 +13,16 @@ I started going down to 75% time at work mostly starting July, with a
 little bit of a trial period in the period of April to June (most of
 it during late May / early June).
 
-## Diet, exercise, and health (August 2021 onward, off and on)
+## Diet, exercise, and health (September 2021 onward, off and on)
 
-### Dentist trip (scheduled August 11)
+### Dentist trip for periodontal therapy (dental deep cleaning)
 
-I haven't had dental cleaning done since November 2017, and haven't
-had a dental checkup since a partial checkup in January 2019 in
-response to a toothache. My teeth feel fine but a trip to the dentist
-would be nice.
+In my [dental cleaning trip of August
+11](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-11-dental-cleaning-trip.md)
+I was recommended a course of periodontal therapy. I have booked the
+first two appointments for September 22 and September 29. There will
+be a followup appointment for a checkup six weeks after the second
+appointment.
 
 ### Eye checkup (not scheduled, vague plans)
 
