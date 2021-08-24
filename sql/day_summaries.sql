@@ -1279,4 +1279,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-08-12',4024,605,207,3,0,0,52,162,'I made a trip to the dentist for a dental cleaning, as https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-11-dental-cleaning-trip.md documents.'),
   ('2021-08-13',4025,606,242,0,0,0,47,0,NULL),
   ('2021-08-14',4026,607,104,0,0,175,38,5,NULL),
-  ('2021-08-15',4027,608,132,0,0,15,75,90,NULL);
+  ('2021-08-15',4027,608,132,0,0,15,75,90,NULL),
+  /* Week of 2021-08-16 */
+  ('2021-08-16',4028,609,144,18,0,76,10,105,NULL),
+  ('2021-08-17',4030,610,268,0,0,0,0,8,NULL),
+  ('2021-08-18',4031,611,89,60,0,25,55,150,NULL),
+  ('2021-08-19',4032,612,156,60,0,10,25,30,NULL),
+  ('2021-08-20',4033,613,231,0,5,164,18,0,NULL),
+  ('2021-08-21',4034,614,156,0,0,16,64,5,NULL),
+  ('2021-08-22',4035,615,166,0,0,15,124,15,'I experienced a fever and some itchiness in the afteernoon / evening; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-22-fever-and-rash.md for more.');
