@@ -1283,8 +1283,16 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   /* Week of 2021-08-16 */
   ('2021-08-16',4028,609,144,18,0,76,10,105,NULL),
   ('2021-08-17',4030,610,268,0,0,0,0,8,NULL),
-  ('2021-08-18',4031,611,89,60,0,25,55,150,NULL),
+  ('2021-08-18',4031,611,89,60,0,25,55,150,'I met a friend in-person; this was the first social in-person meeting since the start of COVID-related precautions. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-activity-tracker.md#wednesday-august-18 for details.'),
   ('2021-08-19',4032,612,156,60,0,10,25,30,NULL),
   ('2021-08-20',4033,613,231,0,5,164,18,0,NULL),
   ('2021-08-21',4034,614,156,0,0,16,64,5,NULL),
-  ('2021-08-22',4035,615,166,0,0,15,124,15,'I experienced a fever and some itchiness in the afteernoon / evening; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-22-fever-and-rash.md for more.');
+  ('2021-08-22',4035,615,166,0,0,15,124,15,'I experienced a fever and some itchiness in the afternoon / evening; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-22-fever-and-rash.md for more.'),
+  /* Week of 2021-08-23 */
+  ('2021-08-23',4036,616,268,0,0,67,15,0,NULL),
+  ('2021-08-24',4038,617,171,0,0,0,180,0,NULL),
+  ('2021-08-25',4039,618,263,0,0,10,30,0,NULL),
+  ('2021-08-26',4040,619,228,0,0,40,53,17,NULL),
+  ('2021-08-27',4041,620,221,25,0,160,7,0,NULL),
+  ('2021-08-28',4042,621,296,0,0,15,35,0,'I documented at https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-28-sore-throat-after-meals.md my sore throat that had been happening on and off and felt worse on this day.'),
+  ('2021-08-29',4043,622,312,0,0,0,0,25,'I also semi-napped for a little while in the afternoon but did not fully fall asleep.');
