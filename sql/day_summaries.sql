@@ -1295,4 +1295,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-08-26',4040,619,228,0,0,40,53,17,NULL),
   ('2021-08-27',4041,620,221,25,0,160,7,0,NULL),
   ('2021-08-28',4042,621,296,0,0,15,35,0,'I documented at https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-28-sore-throat-after-meals.md my sore throat that had been happening on and off and felt worse on this day.'),
-  ('2021-08-29',4043,622,312,0,0,0,0,25,'I also semi-napped for a little while in the afternoon but did not fully fall asleep.');
+  ('2021-08-29',4043,622,312,0,0,0,0,25,'I also semi-napped for a little while in the afternoon but did not fully fall asleep.'),
+  /* Week of 2021-08-30 */
+  ('2021-08-30',4044,623,225,0,0,32,4,16,NULL),
+  ('2021-08-31',4046,NULL,225,0,0,0,0,0,NULL),
+  ('2021-09-01',4047,624,139,47,14,65,20,32,NULL),
+  ('2021-09-02',4048,625,269,0,3,160,0,0,NULL),
+  ('2021-09-03',4049,626,380,4,0,5,7,93,NULL),
+  ('2021-09-04',4050,627,196,7,3,0,81,0,'I spent some time watching a movie (The Queen) multiplexed with work, so my accounted-for hours were lower than usual.'),
+  ('2021-09-05',4051,628,26,165,0,0,15,10,'I spent some time watching a movie (Worth) multiplexed with personal projects, so my accounted-for hours were lower than usual.');
