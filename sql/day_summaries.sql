@@ -1303,4 +1303,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-09-02',4048,625,269,0,3,160,0,0,NULL),
   ('2021-09-03',4049,626,380,4,0,5,7,93,NULL),
   ('2021-09-04',4050,627,196,7,3,0,81,0,'I spent some time watching a movie (The Queen) multiplexed with work, so my accounted-for hours were lower than usual.'),
-  ('2021-09-05',4051,628,26,165,0,0,15,10,'I spent some time watching a movie (Worth) multiplexed with personal projects, so my accounted-for hours were lower than usual.');
+  ('2021-09-05',4051,628,26,165,0,0,15,10,'I spent some time watching a movie (Worth) multiplexed with personal projects, so my accounted-for hours were lower than usual.'),
+  /* Week of 2021-09-06 */
+  ('2021-09-06',4052,629,26,125,0,25,13,0,'This was a work holiday for Labor Day; I spent only the minimal amount of time needed for time-sensitive work tasks and spent most of the day on personal projects.'),
+  ('2021-09-07',4053,630,145,42,0,0,35,5,NULL),
+  ('2021-09-08',4054,631,189,0,0,55,10,51,NULL),
+  ('2021-09-09',4055,632,193,0,0,123,8,10,NULL),
+  ('2021-09-10',4056,633,238,5,0,80,0,15,NULL),
+  ('2021-09-11',4058,NULL,225,0,0,0,0,0,'I went to Mehak Indian Cuisine to pick up an online order but apart from that was mostly doing day job work.'),
+  ('2021-09-12',4059,634,165,18,0,17,60,10,NULL);
