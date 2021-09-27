@@ -1319,4 +1319,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-09-16',4064,637,287,0,0,13,0,0,NULL),
   ('2021-09-17',4065,638,207,30,0,160,0,20,NULL),
   ('2021-09-18',4066,639,209,0,0,16,15,0,NULL),
-  ('2021-09-19',4067,640,17,140,0,7,13,20,NULL);
+  ('2021-09-19',4067,640,17,140,0,7,13,20,NULL),
+  /* Week of 2021-09-20 */
+  ('2021-09-20',4068,641,177,50,5,57,0,0,NULL),
+  ('2021-09-21',4069,642,220,120,0,8,0,0,NULL),
+  ('2021-09-22',4070,643,34,90,0,220,0,0,'I went for a scheduled dentist appointment that didn''t happen, and spent a lot of time cooking. I spent the evening on personal projects, resulting in very little time spent on work.'),
+  ('2021-09-23',4071,644,122,155,0,40,0,60,NULL),
+  ('2021-09-24',4072,645,154,195,0,10,0,0,NULL),
+  ('2021-09-25',4073,646,154,85,3,5,10,40,NULL),
+  ('2021-09-26',4074,647,100,41,0,145,0,12,NULL);
