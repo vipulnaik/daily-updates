@@ -19,16 +19,13 @@ it during late May / early June).
 
 In my [dental cleaning trip of August
 11](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-11-dental-cleaning-trip.md)
-I was recommended a course of periodontal therapy. I have booked the
-first two appointments for September 22 and September 29. There will
-be a followup appointment for a checkup six weeks after the second
-appointment.
+I was recommended a course of periodontal therapy. My two appointments
+happened on September 29 and October 6. I have a followup care appointment scheduled for December 15.q
 
 ### Eye checkup (not scheduled, vague plans)
 
-I haven't had an eye checkup in over ten years. It would be good to
-get one some time this year. It might also shed light on whether my
-dislike for bright/artificial lights is due to any eye problems.
+I haven't had an eye checkup in over ten years. I have scheduled an
+appointment for a comprehensive eye exam for October 29 at 12 PM.
 
 ### Other rethinking of exercise and measurement tools
 
