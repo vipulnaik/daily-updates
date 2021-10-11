@@ -1331,8 +1331,16 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   /* Week of 2021-09-27 */
   ('2021-09-27',4075,648,121,0,0,15,250,0,'I spent a large part of the day dealing with a toilet clog.'),
   ('2021-09-28',4076,649,167,10,0,55,50,0,NULL),
-  ('2021-09-29',4077,650,136,15,0,142,22,4,NULL),
+  ('2021-09-29',4077,650,136,15,0,142,22,4,'I had my first periodontal therapy appointment on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-09-29-periodontal-therapy-first-appointment.md for more details.'),
   ('2021-09-30',4080,651,268,0,0,0,0,12,NULL),
   ('2021-10-01',4081,652,279,20,12,40,0,0,NULL),
   ('2021-10-02',4082,653,229,26,0,10,0,0,NULL),
-  ('2021-10-03',4083,654,103,85,45,35,0,205,NULL);
+  ('2021-10-03',4083,654,103,85,45,35,0,205,NULL),
+  /* Week of 2021-10-04 */
+  ('2021-10-04',4084,655,224,0,0,69,0,0,NULL),
+  ('2021-10-05',4086,656,201,10,0,0,2,60,NULL),
+  ('2021-10-06',4089,657,114,15,0,130,3,0,'I had my second periodontal therapy appointment on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-10-06-periodontal-therapy-second-appointment.md for more details.'),
+  ('2021-10-07',4092,NULL,288,0,0,0,0,0,NULL),
+  ('2021-10-08',4094,658,217,0,8,61,25,0,NULL),
+  ('2021-10-09',4095,659,108,0,0,170,30,10,NULL),
+  ('2021-10-10',4096,660,209,25,0,90,0,0,NULL);
