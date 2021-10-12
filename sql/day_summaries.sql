@@ -1342,5 +1342,5 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-10-06',4089,657,114,15,0,130,3,0,'I had my second periodontal therapy appointment on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-10-06-periodontal-therapy-second-appointment.md for more details.'),
   ('2021-10-07',4092,NULL,288,0,0,0,0,0,NULL),
   ('2021-10-08',4094,658,217,0,8,61,25,0,NULL),
-  ('2021-10-09',4095,659,108,0,0,170,30,10,NULL),
+  ('2021-10-09',4095,659,112,0,0,170,30,10,NULL),
   ('2021-10-10',4096,660,209,25,0,90,0,0,NULL);
