@@ -1343,4 +1343,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-10-07',4092,NULL,288,0,0,0,0,0,NULL),
   ('2021-10-08',4094,658,217,0,8,61,25,0,NULL),
   ('2021-10-09',4095,659,112,0,0,170,30,10,NULL),
-  ('2021-10-10',4096,660,209,25,0,90,0,0,NULL);
+  ('2021-10-10',4096,660,209,25,0,90,0,0,NULL),
+  /* Week of 2021-10-11 */
+  ('2021-10-11',4097,661,269,0,0,30,0,0,NULL),
+  ('2021-10-12',4099,662,205,0,0,10,0,87,NULL),
+  ('2021-10-13',4102,663,185,75,3,55,0,185,NULL),
+  ('2021-10-14',4103,664,131,75,0,0,0,177,NULL),
+  ('2021-10-15',4105,665,180,0,0,85,0,28,NULL),
+  ('2021-10-16',4106,666,30,150,0,0,0,6,'The donations list website data entry work was slow-going and I multiplexed it with watching TV shows, hence my recorded time spent is much lower than usual.'),
+  ('2021-10-17',4107,667,4,160,0,10,0,115,NULL);
