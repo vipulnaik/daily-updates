@@ -13,26 +13,16 @@ I started going down to 75% time at work mostly starting July, with a
 little bit of a trial period in the period of April to June (most of
 it during late May / early June).
 
-## Diet, exercise, and health (September 2021 onward, off and on)
+## Diet, exercise, and health (November 2021 onward, off and on)
 
-### Dentist trip for periodontal therapy (dental deep cleaning)
+### Post-periodontal therapy review and possible wisdom tooth removal
 
 In my [dental cleaning trip of August
 11](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-08-11-dental-cleaning-trip.md)
 I was recommended a course of periodontal therapy. My two appointments
-happened on September 29 and October 6. I have a followup care appointment scheduled for December 15.q
-
-### Eye checkup (not scheduled, vague plans)
-
-I haven't had an eye checkup in over ten years. I have scheduled an
-appointment for a comprehensive eye exam for October 29 at 12 PM.
-
-### Other rethinking of exercise and measurement tools
-
-I would like to start thinking about regular exercise beyond my daily
-jog and crushing exercises -- basically some flexibility-type exercise
-(e.g., yoga, tai chi) and possibly also weight training. I will need
-to think more about this and introduce gradually.
+happened on September 29 and October 6. I have a followup care
+appointment scheduled for December 15. After that, we may proceed to
+the phase 2 treatment that is wisdom tooth removal.
 
 ## Continuation of donations list website (DLW)
 
