@@ -1352,11 +1352,19 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-10-15',4105,665,180,0,0,85,0,28,NULL),
   ('2021-10-16',4106,666,30,150,0,0,0,6,'The donations list website data entry work was slow-going and I multiplexed it with watching TV shows, hence my recorded time spent is much lower than usual.'),
   ('2021-10-17',4107,667,4,160,0,10,0,115,NULL),
-  /* Week of 2021-10-17 */
+  /* Week of 2021-10-18 */
   ('2021-10-18',4108,668,289,0,0,12,0,117,NULL),
   ('2021-10-19',4112,669,176,0,0,40,0,43,NULL),
   ('2021-10-20',4114,670,141,0,8,40,0,200,NULL),
   ('2021-10-21',4115,671,140,160,0,0,0,70,NULL),
   ('2021-10-22',4116,672,232,10,0,15,0,10,NULL),
   ('2021-10-23',4117,673,3,210,0,25,0,0,'I spent most of the day on personal projects; my personal project task was a little tedious. My only time spent on work was on a daily job.'),
-  ('2021-10-24',4118,674,39,120,0,120,5,25,'I spent the day on personal projects and personal chores; however, I started warming up to work tasks in the evening so as to start warming up for the week,');
+  ('2021-10-24',4118,674,39,120,0,120,5,25,'I spent the day on personal projects and personal chores; however, I started warming up to work tasks in the evening so as to start warming up for the week.'),
+  /* Week of 2021-10-25 */
+  ('2021-10-25',4119,675,183,30,0,52,0,155,NULL),
+  ('2021-10-26',4120,676,170,0,0,50,15,110,NULL),
+  ('2021-10-27',4121,677,288,0,0,0,16,15,NULL),
+  ('2021-10-28',4122,678,156,0,0,105,0,15,NULL),
+  ('2021-10-29',4123,679,44,0,0,255,10,210,'Although this was a working day, an eye appointment and a personal phone call took up most of the day and I spent very little time on work.'),
+  ('2021-10-30',4124,680,165,0,5,55,0,75,NULL),
+  ('2021-10-31',4125,681,170,25,0,80,0,100,NULL);
