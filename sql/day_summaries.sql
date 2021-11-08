@@ -1367,4 +1367,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-10-28',4122,678,156,0,0,105,0,15,NULL),
   ('2021-10-29',4123,679,44,0,0,255,10,210,'Although this was a working day, an eye appointment and a personal phone call took up most of the day and I spent very little time on work.'),
   ('2021-10-30',4124,680,165,0,5,55,0,75,NULL),
-  ('2021-10-31',4125,681,170,25,0,80,0,100,NULL);
+  ('2021-10-31',4125,681,170,25,0,80,0,100,NULL),
+  /* Week of 2021-11-01 */
+  ('2021-11-01',4132,682,214,68,15,20,2,0,'My personal projects and personal finances time was mostly in relation to the change of month.'),
+  ('2021-11-02',4133,683,92,115,0,20,3,60,'Though this was a work day, I ended up spending time on am impromptu meeting with contract workers and as a result spent less time on work.'),
+  ('2021-11-03',4134,684,250,0,0,55,0,0,NULL),
+  ('2021-11-04',4138,685,270,0,0,0,0,65,NULL),
+  ('2021-11-05',4141,686,54,20,6,79,0,117,'Although this was a work day, I spent the time on a range of non-work tasks (none of which was pressing, with the exception of the flu shot where I had a prior appointment).'),
+  ('2021-11-06',4142,687,10,258,0,145,0,0,NULL),
+  ('2021-11-07',4143,688,192,35,0,0,0,15,NULL);
