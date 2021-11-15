@@ -1375,4 +1375,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-11-04',4138,685,270,0,0,0,0,65,NULL),
   ('2021-11-05',4141,686,54,20,6,79,0,117,'Although this was a work day, I spent the time on a range of non-work tasks (none of which was pressing, with the exception of the flu shot where I had a prior appointment).'),
   ('2021-11-06',4142,687,10,258,0,145,0,0,NULL),
-  ('2021-11-07',4143,688,192,35,0,0,0,15,NULL);
+  ('2021-11-07',4143,688,192,35,0,0,0,15,NULL),
+  /* Week of 2021-11-08 */
+  ('2021-11-08',4144,689,207,0,0,55,0,0,NULL),
+  ('2021-11-09',4146,690,163,10,3,150,0,0,NULL),
+  ('2021-11-10',4148,691,176,110,3,8,0,25,NULL),
+  ('2021-11-11',4150,692,263,43,7,0,0,2,NULL),
+  ('2021-11-12',4151,693,130,110,0,55,0,0,NULL),
+  ('2021-11-13',4152,NULL,232,0,0,0,0,0,NULL),
+  ('2021-11-14',4153,694,137,0,5,78,0,15,NULL);
