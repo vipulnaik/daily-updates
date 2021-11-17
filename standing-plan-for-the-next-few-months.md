@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: July 28, 2021
+Last major update: October 30, 2021
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
