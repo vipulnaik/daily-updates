@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: October 30, 2021
+Last major update: November 18, 2021
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -40,39 +40,15 @@ end of the year.
 
 ## Getting out some blog posts and corresponding background work
 
-### Managing personal projects blog post (some time between October 2021 and March 2022)
+### Managing personal projects blog post (some time in 2022)
 
 I wrote a draft post
 https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md
 back in 2020. Now that I've reduced my work hours and am putting the
 principles into practice, I would like to review, refine, and publish
-the blog post. I expect to do so not before October 2021, which should
-give me enough experience actually applying the ideas over a time
-period where I'm devoting a significant chunk of time to personal
-projects.
-
-### Donation budgets / targets blog post (some time between December 2021 and May 2022)
-
-I want to write a blog post outlining my thinking on donation
-budgets. My current thinking is something of a 1,000 USD / month
-maximum (with accumulation) starting January 2021. Ideally, I want to
-write this blog post *before* making more donations; however, I
-won't block a donation decision on the blog post if it is well within
-the broad bounds.
-
-There are a couple of reasons I want to defer writing this blog post,
-even though it would be nice to have it written so I can use it to
-inform donation decisions:
-
-* I want to get more caught up with donations list website (DLW), and
-  I think that things I learn during that process will inform my
-  thinking. I'm focusing on DLW for the next few months and expect to
-  be in a good position with it by December 2021.
-* Overall, I am in a good position with my personal finances, but I am
-  still sorting out a few items, including figuring out things related
-  to how much to allocate to stocks, and how to deal with variability
-  in housing expenses. I hope and expect to acquire more clarity on
-  these fronts over the next few months.
+the blog post. I expect to do so not before 2022, which should give me
+enough experience actually applying the ideas over a time period where
+I'm devoting a significant chunk of time to personal projects.
 
 ### Retrospective post on EA Hotel donation (no specific timeline, any time in the next several months)
 
