@@ -63,7 +63,7 @@ for ($i = 0; $i < $weekSummariesResult -> num_rows; $i++) {
     printBasedOnColumnFragment($row, $columnFragment);
   }
   if (isset($notesMap[$row['start_date']])) {
-    print "<td>".$notesMap[$row['start_date']]."</td>";
+    print "<td>".cleanNotes($notesMap[$row['start_date']])."</td>";
   }
   print "</tr>\n";
 }
