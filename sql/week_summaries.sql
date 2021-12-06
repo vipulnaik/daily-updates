@@ -1,4 +1,4 @@
-	create table week_summaries(
+create table week_summaries(
   `week_start_date` date primary key not null,
   `notes` varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
@@ -59,4 +59,5 @@ insert into week_summaries(week_start_date, notes) values
   ('2021-11-01','As anticipated, my time in other activities started subsiding, and much of this saved time got directed to personal projects. However, my time on personal projects this week was spent more on one-off activities than on ongoing projects.'),
   ('2021-11-08','This was a relatively normal week; part of the reason for the low total-accounted-for-time was that on Sunday I went to downtown San Francisco (see https://github.com/vipulnaik/diet-exercise-health/commit/d9013cb94121025cc009f15f2224af6c96991318 for details) and only part of the trip time is accounted-for.'),
   ('2021-11-15','This was a relatively normal week; the mix of time spent across activities is close to what I target on average.'),
-  ('2021-11-22','The official work week was shorter than usual on account of Thanksgiving. However, I did spend much of the Thanksgiving break doing some longer-form day job work (reading and understanding code for a ticket I intend to work on) so my total work hours were only slightly less than my typical weekly target.');
+  ('2021-11-22','The official work week was shorter than usual on account of Thanksgiving. However, I did spend much of the Thanksgiving break doing some longer-form day job work (reading and understanding code for a ticket I intend to work on) so my total work hours were only slightly less than my typical weekly target.'),
+  ('2021-11-29','This was a relatively typical week, with a couple of nuances: (a) end-of-month updates took up a large share of my personal project time, and (b) I ended up doing grocery shopping and  meal prep twice, but one of the meal prep times was largely multiplexed with work, so the effect on my personal chores time was minimal.');
