@@ -1,6 +1,6 @@
 <?php
 
-$weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
+$monthSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   sum(case when minutes_spent_on_day_job is not null then 1 else 0 end) as num_days_with_day_job_data,
   sum(case when minutes_spent_on_personal_projects is not null then 1 else 0 end) as num_days_with_personal_projects_data,
   sum(case when minutes_spent_on_personal_finances is not null then 1 else 0 end) as num_days_with_personal_finances_data,
@@ -15,20 +15,20 @@ $weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   sum(coalesce(minutes_spent_on_other_activities, 0)) as minutes_spent_on_other_activities,
   count(1) as num_days
   from day_summaries
-  group by round(unix_timestamp(cast(date as datetime)) / (60 * 60 * 24 * 7))
+  group by year(date), month(date)
   order by min(date) desc;";
-$weekSummariesResult = $mysqli -> query($weekSummariesQuery);
-$weekSummariesNotesQuery = "select * from week_summaries;";
-$weekSummariesNotesResult = $mysqli -> query($weekSummariesNotesQuery);
+$monthSummariesResult = $mysqli -> query($monthSummariesQuery);
+$monthSummariesNotesQuery = "select * from month_summaries;";
+$monthSummariesNotesResult = $mysqli -> query($monthSummariesNotesQuery);
 $notesMap = [];
-for ($i = 0; $i < $weekSummariesNotesResult -> num_rows; $i++) {
-  $row = $weekSummariesNotesResult -> fetch_assoc();
-  $notesMap[$row['week_start_date']] = $row['notes'];
+for ($i = 0; $i < $monthSummariesNotesResult -> num_rows; $i++) {
+  $row = $monthSummariesNotesResult -> fetch_assoc();
+  $notesMap[$row['month_start_date']] = $row['notes'];
 }
 
-print '<h4 id="summariesByWeek">Summaries by week ('.$weekSummariesResult -> num_rows.' rows)</h4>';
+print '<h4 id="summariesByMonth">Summaries by month ('.$monthSummariesResult -> num_rows.' rows)</h4>';
 print "\n";
-print '<table id="myTableSummariesByWeek" class="tablesorter">'."\n";
+print '<table id="myTableSummariesByMonth" class="tablesorter">'."\n";
 print "<thead>\n";
 print '<tr><th>Start date</th>';
 print '<th>End date</th>';
@@ -43,8 +43,8 @@ print '<th>Time spent on other activities</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
-for ($i = 0; $i < $weekSummariesResult -> num_rows; $i++) {
-  $row = $weekSummariesResult -> fetch_assoc();
+for ($i = 0; $i < $monthSummariesResult -> num_rows; $i++) {
+  $row = $monthSummariesResult -> fetch_assoc();
   print "<tr><td>".$row['start_date']."</td>";
   print "<td>".$row['end_date']."</td>";
   print "<td>".$row['num_days']."</td>";

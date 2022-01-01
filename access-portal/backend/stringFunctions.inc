@@ -1,5 +1,7 @@
 <?php
 
+$typesOfTimeSpent = ['day_job','personal_projects','personal_finances','personal_chores','house_chores','other_activities'];
+
 function convertToHoursAndMinutes($minutesSpent) {
   if (!isset($minutesSpent)) {
     return "N/A";
@@ -21,6 +23,14 @@ function cleanNotes($notes) {
     }
   }
   return $augmentedNotes;
+}
+
+function printMinutesWithNumDaysToolTip($minutesSpent, $numDays) {
+  print '<td align="right"><element title="'.$numDays.' days with data">'.convertToHoursAndMinutes($minutesSpent).'</element></td>';
+}
+
+function printBasedOnColumnFragment($row, $columnFragment) {
+  printMinutesWithNumDaysToolTip($row['minutes_spent_on_'.$columnFragment],$row['num_days_with_'.$columnFragment.'_data']);
 }
 
 ?>
