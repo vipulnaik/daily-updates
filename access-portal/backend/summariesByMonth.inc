@@ -33,13 +33,13 @@ print "<thead>\n";
 print '<tr><th>Start date</th>';
 print '<th>End date</th>';
 print '<th>Number of days</th>';
-print '<th>Total accounted time spent</th>';
-print '<th>Time spent on day job</th>';
-print '<th>Time spent on personal projects</th>';
-print '<th>Time spent on personal finances</th>';
-print '<th>Time spent on personal chores</th>';
-print '<th>Time spent on house chores</th>';
-print '<th>Time spent on other activities</th>';
+print '<th>Total accounted time spent per week</th>';
+print '<th>Time spent on day job per week</th>';
+print '<th>Time spent on personal projects per week</th>';
+print '<th>Time spent on personal finances per week</th>';
+print '<th>Time spent on personal chores per week</th>';
+print '<th>Time spent on house chores per week</th>';
+print '<th>Time spent on other activities per week</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
@@ -48,7 +48,7 @@ for ($i = 0; $i < $monthSummariesResult -> num_rows; $i++) {
   print "<tr><td>".$row['start_date']."</td>";
   print "<td>".$row['end_date']."</td>";
   print "<td>".$row['num_days']."</td>";
-  print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes((7 / ($row['num_days'] ?? 1)) * ($row['minutes_spent_on_day_job'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
   foreach($typesOfTimeSpent as $columnFragment) {
     printBasedOnColumnFragment($row, $columnFragment);
   }

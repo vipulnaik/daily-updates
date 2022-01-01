@@ -30,7 +30,7 @@ function printMinutesWithNumDaysToolTip($minutesSpent, $numDays) {
 }
 
 function printBasedOnColumnFragment($row, $columnFragment) {
-  printMinutesWithNumDaysToolTip($row['minutes_spent_on_'.$columnFragment],$row['num_days_with_'.$columnFragment.'_data']);
+  printMinutesWithNumDaysToolTip((7 / $row['num_days'] ?? 1) * $row['minutes_spent_on_'.$columnFragment],$row['num_days_with_'.$columnFragment.'_data']);
 }
 
 ?>
