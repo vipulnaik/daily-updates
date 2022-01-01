@@ -1423,4 +1423,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-12-16',4202,724,258,15,3,70,0,0,NULL),
   ('2021-12-17',4203,725,153,150,0,0,0,7,NULL),
   ('2021-12-18',4204,726,47,160,0,55,7,0,NULL),
-  ('2021-12-19',4205,727,10,180,0,160,0,37,NULL);
+  ('2021-12-19',4205,727,10,180,0,170,0,37,NULL),
+  /* Week of 2021-12-20 */
+  ('2021-12-20',4206,728,195,55,0,17,0,110,NULL),
+  ('2021-12-21',4219,729,278,0,0,0,0,15,NULL),
+  ('2021-12-22',4220,730,207,7,0,40,0,60,NULL),
+  ('2021-12-23',4221,731,88,173,0,0,8,195,NULL),
+  ('2021-12-24',4222,732,15,223,0,110,0,5,'I got my Pfizer COVID booster dose on this day. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-12-24-pfizer-covid-vaccine-booster-dose.md for details.'),
+  ('2021-12-25',4223,733,60,50,0,195,10,0,'I had received my Pfizer COVID booster dose the previous day, and experienced some followup fever response on this day. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-12-24-pfizer-covid-vaccine-booster-dose.md for details.'),
+  ('2021-12-26',4224,734,20,220,0,0,0,50,NULL);
