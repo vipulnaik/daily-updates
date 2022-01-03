@@ -1431,4 +1431,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2021-12-23',4221,731,88,173,0,0,8,195,NULL),
   ('2021-12-24',4222,732,15,223,0,110,0,5,'I got my Pfizer COVID booster dose on this day. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-12-24-pfizer-covid-vaccine-booster-dose.md for details.'),
   ('2021-12-25',4223,733,60,50,0,195,10,0,'I had received my Pfizer COVID booster dose the previous day, and experienced some followup fever response on this day. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2021-12-24-pfizer-covid-vaccine-booster-dose.md for details.'),
-  ('2021-12-26',4224,734,20,220,0,0,0,50,NULL);
+  ('2021-12-26',4224,734,20,220,0,0,0,50,NULL),
+  /* Week of 2021-12-27 */
+  ('2021-12-27',4225,735,15,140,3,95,12,0,NULL),
+  ('2021-12-28',4226,736,100,0,0,0,0,375,NULL),
+  ('2021-12-29',4230,737,210,0,0,0,0,10,NULL),
+  ('2021-12-30',4231,738,200,0,90,10,5,0,NULL),
+  ('2021-12-31',4232,739,13,70,80,0,0,180,NULL),
+  ('2022-01-01',4233,740,15,130,60,15,0,0,NULL),
+  ('2022-01-02',4234,741,30,240,0,0,0,30,NULL);
