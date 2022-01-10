@@ -12,11 +12,11 @@ create table day_summaries(
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 insert into day_summaries(date, day_job_daily_update, notes) values
-  /* 2018-08-10 */
+  /* Week of 2018-08-10 */
   ('2018-08-10',2,'This was my first day job daily update.'),
   ('2018-08-11',3,NULL),
   ('2018-08-12',7,NULL),
-  /* 2018-08-13 */
+  /* Week of 2018-08-13 */
   ('2018-08-13',5,NULL),
   ('2018-08-14',11,NULL),
   ('2018-08-15',13,NULL),
@@ -24,7 +24,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-08-17',19,NULL),
   ('2018-08-18',22,NULL),
   ('2018-08-19',23,NULL),
-  /* 2018-08-20 */
+  /* Week of 2018-08-20 */
   ('2018-08-20',24,NULL),
   ('2018-08-21',28,NULL),
   ('2018-08-22',32,NULL),
@@ -32,7 +32,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-08-24',38,NULL),
   ('2018-08-25',NULL,NULL),
   ('2018-08-26',42,NULL),
-  /* 2018-08-27 */
+  /* Week of 2018-08-27 */
   ('2018-08-27',43,NULL),
   ('2018-08-28',45,NULL),
   ('2018-08-29',48,NULL),
@@ -40,7 +40,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-08-31',54,NULL),
   ('2018-09-01',57,'I ended up not spending any time on work; the linked issue lists work I intended to do.'),
   ('2018-09-02',58,'I ended up not spending any time on work; the linked issue lists work I intended to do.'),
-  /* 2018-09-03 */
+  /* Week of 2018-09-03 */
   ('2018-09-03',59,NULL),
   ('2018-09-04',60,NULL),
   ('2018-09-05',63,NULL),
@@ -48,7 +48,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-09-07',71,NULL),
   ('2018-09-08',72,NULL),
   ('2018-09-09',73,NULL),
-  /* 2018-09-10 */
+  /* Week of 2018-09-10 */
   ('2018-09-10',75,NULL),
   ('2018-09-11',77,NULL),
   ('2018-09-12',82,NULL),
@@ -56,7 +56,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-09-14',87,NULL),
   ('2018-09-15',90,NULL),
   ('2018-09-16',91,NULL),
-  /* 2018-09-17 */
+  /* Week of 2018-09-17 */
   ('2018-09-17',92,NULL),
   ('2018-09-18',95,NULL),
   ('2018-09-19',NULL,'I took the day off from work; I got a blood test and did some cooking.'),
@@ -64,7 +64,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-09-21',103,NULL),
   ('2018-09-22',107,NULL),
   ('2018-09-23',108,NULL),
-  /* 2018-09-24 */
+  /* Week of 2018-09-24 */
   ('2018-09-24',109,NULL),
   ('2018-09-25',112,NULL),
   ('2018-09-26',117,NULL),
@@ -72,7 +72,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-09-28',125,NULL),
   ('2018-09-29',127,NULL),
   ('2018-09-30',NULL,NULL),
-  /* 2018-10-01 */
+  /* Week of 2018-10-01 */
   ('2018-10-01',128,NULL),
   ('2018-10-02',132,NULL),
   ('2018-10-03',135,NULL),
@@ -80,7 +80,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-10-05',141,NULL),
   ('2018-10-06',NULL,NULL),
   ('2018-10-07',145,NULL),
-  /* 2018-10-08 */
+  /* Week of 2018-10-08 */
   ('2018-10-08',146,NULL),
   ('2018-10-09',148,NULL),
   ('2018-10-10',152,NULL),
@@ -88,7 +88,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-10-12',158,NULL),
   ('2018-10-13',159,NULL),
   ('2018-10-14',160,NULL),
-  /* 2018-10-15 */
+  /* Week of 2018-10-15 */
   ('2018-10-15',161,NULL),
   ('2018-10-16',165,NULL),
   ('2018-10-17',168,NULL),
@@ -96,10 +96,10 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-10-19',174,NULL);
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, notes) values
-  /* 2018-10-20 and 2018-10-21 */
+  /* Week of 2018-10-20 and 2018-10-21 */
   ('2018-10-20',177,1,'This was the first day on whcich I posted a persoanl daily update.'),
   ('2018-10-21',179,NULL,NULL),
-  /* 2018-10-22 */
+  /* Week of 2018-10-22 */
   ('2018-10-22',180,2,NULL),
   ('2018-10-23',182,4,NULL),
   ('2018-10-24',187,NULL,NULL),
@@ -107,7 +107,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-10-26',197,NULL,NULL),
   ('2018-10-27',202,5,NULL),
   ('2018-10-28',NULL,6,NULL),
-  /* 2018-10-29 */
+  /* Week of 2018-10-29 */
   ('2018-10-29',205,NULL,NULL),
   ('2018-10-30',209,NULL,NULL),
   ('2018-10-31',216,NULL,NULL),
@@ -115,7 +115,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-11-02',231,7,NULL),
   ('2018-11-03',237,8,NULL),
   ('2018-11-04',238,9,NULL),
-  /* 2018-11-05 */
+  /* Week of 2018-11-05 */
   ('2018-11-05',240,NULL,NULL),
   ('2018-11-06',245,NULL,NULL),
   ('2018-11-07',250,10,NULL),
@@ -123,7 +123,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-11-09',265,NULL,NULL),
   ('2018-11-10',271,11,NULL),
   ('2018-11-11',272,12,NULL),
-  /* 2018-11-12 */
+  /* Week of 2018-11-12 */
   ('2018-11-12',273,NULL,NULL),
   ('2018-11-13',282,NULL,NULL),
   ('2018-11-14',289,NULL,NULL),
@@ -131,7 +131,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-11-16',301,NULL,NULL),
   ('2018-11-17',NULL,NULL,NULL),
   ('2018-11-18',307,NULL,NULL),
-  /* 2018-11-19 */
+  /* Week of 2018-11-19 */
   ('2018-11-19',308,NULL,NULL),
   ('2018-11-20',316,NULL,NULL),
   ('2018-11-21',320,NULL,NULL),
@@ -139,7 +139,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-11-23',326,14,'This was a work holiday for Black Friday; I worked less than usual and caught up more on personal items.'),
   ('2018-11-24',NULL,15,NULL),
   ('2018-11-25',NULL,16,NULL),
-  /* 2018-11-26 */
+  /* Week of 2018-11-26 */
   ('2018-11-26',327,NULL,NULL),
   ('2018-11-27',331,NULL,NULL),
   ('2018-11-28',335,NULL,NULL),
@@ -147,7 +147,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-11-30',346,NULL,NULL),
   ('2018-12-01',351,17,NULL),
   ('2018-12-02',352,18,NULL),
-  /* 2018-12-03 */
+  /* Week of 2018-12-03 */
   ('2018-12-03',356,NULL,NULL),
   ('2018-12-04',360,NULL,NULL),
   ('2018-12-05',365,NULL,NULL),
@@ -155,7 +155,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-12-07',378,NULL,NULL),
   ('2018-12-08',379,20,NULL),
   ('2018-12-09',380,21,NULL),
-  /* 2018-12-10 */
+  /* Week of 2018-12-10 */
   ('2018-12-10',381,NULL,NULL),
   ('2018-12-11',390,NULL,NULL),
   ('2018-12-12',392,NULL,NULL),
@@ -163,7 +163,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-12-14',402,NULL,NULL),
   ('2018-12-15',NULL,22,NULL),
   ('2018-12-16',403,NULL,NULL),
-  /* 2018-12-17 */
+  /* Week of 2018-12-17 */
   ('2018-12-17',404,NULL,NULL),
   ('2018-12-18',410,NULL,NULL),
   ('2018-12-19',413,NULL,NULL),
@@ -171,7 +171,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-12-21',421,NULL,NULL),
   ('2018-12-22',426,23,NULL),
   ('2018-12-23',NULL,24,NULL),
-  /* 2018-12-24 */
+  /* Week of 2018-12-24 */
   ('2018-12-24',427,NULL,'The evening was the beginning of my couple of weeks of pain, stating with head and neck pain and eventually becoming tooth pain; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2018-12-head-neck-jaw-tooth-pain.md for details.'),
   ('2018-12-25',428,NULL,'My head and neck pain situation continued; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2018-12-head-neck-jaw-tooth-pain.md for details.'),
   ('2018-12-26',429,NULL,'I worked from home on this date. My head and neck pain situation continued; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2018-12-head-neck-jaw-tooth-pain.md for details.'),
@@ -179,7 +179,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2018-12-28',437,NULL,'I continued investigating my head, neck, jaw, and tooth pain situation; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2018-12-head-neck-jaw-tooth-pain.md for details.'),
   ('2018-12-29',438,NULL,'I was still recovering from my tooth issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2018-12-head-neck-jaw-tooth-pain.md for more details.'),
   ('2018-12-30',NULL,25,'It looks like I took the day completely off work; I was also still recovering from my tooth issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2018-12-head-neck-jaw-tooth-pain.md for more details.'),
-  /* 2018-12-31 */
+  /* Week of 2018-12-31 */
   ('2018-12-31',NULL,26,'It looks like I took the day completely off work; I was also still recovering from my tooth issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2018-12-head-neck-jaw-tooth-pain.md for more details.'),
   ('2019-01-01',NULL,27,'It looks like I took the day completely off work; I was also still recovering from my tooth issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2018-12-head-neck-jaw-tooth-pain.md for more details.'),
   ('2019-01-02',439,NULL,NULL),
@@ -187,7 +187,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-01-04',448,28,NULL),
   ('2019-01-05',452,29,NULL),
   ('2019-01-06',453,NULL,NULL),
-  /* 2019-01-07 */
+  /* Week of 2019-01-07 */
   ('2019-01-07',454,NULL,NULL),
   ('2019-01-08',460,NULL,NULL),
   ('2019-01-09',464,NULL,NULL),
@@ -195,7 +195,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-01-11',473,NULL,NULL),
   ('2019-01-12',476,30,NULL),
   ('2019-01-13',477,31,NULL),
-  /* 2019-01-14 */
+  /* Week of 2019-01-14 */
   ('2019-01-14',478,NULL,NULL),
   ('2019-01-15',481,NULL,NULL),
   ('2019-01-16',487,NULL,NULL),
@@ -203,7 +203,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-01-18',500,NULL,NULL),
   ('2019-01-19',504,NULL,NULL),
   ('2019-01-20',505,32,NULL),
-  /* 2019-01-21 */
+  /* Week of 2019-01-21 */
   ('2019-01-21',506,33,'This day was a work holiday for Martin Luther King Jr. Day.'),
   ('2019-01-22',507,34,NULL),
   ('2019-01-23',514,NULL,NULL),
@@ -211,7 +211,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-01-25',525,NULL,NULL),
   ('2019-01-26',531,35,NULL),
   ('2019-01-27',532,NULL,NULL),
-  /* 2019-01-28 */
+  /* Week of 2019-01-28 */
   ('2019-01-28',534,NULL,NULL),
   ('2019-01-29',539,NULL,NULL),
   ('2019-01-30',547,NULL,NULL),
@@ -219,7 +219,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-02-01',560,NULL,NULL),
   ('2019-02-02',561,36,NULL),
   ('2019-02-03',562,37,NULL),
-  /* 2019-02-04 */
+  /* Week of 2019-02-04 */
   ('2019-02-04',568,NULL,NULL),
   ('2019-02-05',570,NULL,NULL),
   ('2019-02-06',577,NULL,NULL),
@@ -227,7 +227,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-02-08',593,NULL,NULL),
   ('2019-02-09',594,38,NULL),
   ('2019-02-10',595,39,NULL),
-  /* 2019-02-11 */
+  /* Week of 2019-02-11 */
   ('2019-02-11',599,NULL,NULL),
   ('2019-02-12',603,NULL,NULL),
   ('2019-02-13',613,NULL,NULL),
@@ -235,7 +235,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-02-15',620,NULL,NULL),
   ('2019-02-16',626,40,NULL),
   ('2019-02-17',627,NULL,NULL),
-  /* 2019-02-18 */
+  /* Week of 2019-02-18 */
   ('2019-02-18',628,NULL,'This day was a work holiday for President''s Day.'),
   ('2019-02-19',629,NULL,NULL),
   ('2019-02-20',637,NULL,NULL),
@@ -243,7 +243,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-02-22',656,NULL,NULL),
   ('2019-02-23',665,41,NULL),
   ('2019-02-24',668,NULL,NULL),
-  /* 2019-02-25 */
+  /* Week of 2019-02-25 */
   ('2019-02-25',675,NULL,NULL),
   ('2019-02-26',686,NULL,NULL),
   ('2019-02-27',693,NULL,NULL),
@@ -251,7 +251,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-03-01',701,NULL,NULL),
   ('2019-03-02',706,42,NULL),
   ('2019-03-03',707,NULL,NULL),
-  /* 2019-03-04 */
+  /* Week of 2019-03-04 */
   ('2019-03-04',708,NULL,NULL),
   ('2019-03-05',719,NULL,NULL),
   ('2019-03-06',724,NULL,NULL),
@@ -259,7 +259,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-03-08',741,NULL,NULL),
   ('2019-03-09',742,NULL,NULL),
   ('2019-03-10',743,NULL,NULL),
-  /* 2019-03-11 */
+  /* Week of 2019-03-11 */
   ('2019-03-11',750,NULL,NULL),
   ('2019-03-12',753,NULL,NULL),
   ('2019-03-13',765,NULL,NULL),
@@ -269,7 +269,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-03-17',783,NULL,NULL);
 
 insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
-  /* 2019-03-18 */
+  /* Week of 2019-03-18 */
   ('2019-03-18',789,NULL,380,NULL),
   ('2019-03-19',795,NULL,450,NULL),
   ('2019-03-20',805,NULL,465,NULL),
@@ -277,7 +277,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-03-22',819,NULL,255,NULL),
   ('2019-03-23',825,46,135,NULL),
   ('2019-03-24',826,47,110,NULL),
-  /* 2019-03-25 */
+  /* Week of 2019-03-25 */
   ('2019-03-25',833,NULL,489,NULL),
   ('2019-03-26',838,NULL,360,NULL),
   ('2019-03-27',853,NULL,390,NULL),
@@ -285,7 +285,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-03-29',870,NULL,430,NULL),
   ('2019-03-30',878,NULL,55,NULL),
   ('2019-03-31',879,NULL,130,NULL),
-  /* 2019-04-01 */
+  /* Week of 2019-04-01 */
   ('2019-04-01',895,NULL,435,NULL),
   ('2019-04-02',896,NULL,280,NULL),
   ('2019-04-03',907,NULL,460,NULL),
@@ -293,7 +293,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-04-05',920,NULL,270,NULL),
   ('2019-04-06',NULL,48,0,NULL),
   ('2019-04-07',925,NULL,260,NULL),
-  /* 2019-04-08 */
+  /* Week of 2019-04-08 */
   ('2019-04-08',934,NULL,409,NULL),
   ('2019-04-09',951,NULL,350,NULL),
   ('2019-04-10',953,50,375,NULL),
@@ -301,7 +301,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-04-12',969,49,438,NULL),
   ('2019-04-13',972,52,25,'There is partial time logging for personal daily updates for this day.'),
   ('2019-04-14',977,53,75,NULL),
-  /* 2019-04-15 */
+  /* Week of 2019-04-15 */
   ('2019-04-15',978,55,255,NULL),
   ('2019-04-16',985,56,405,NULL),
   ('2019-04-17',993,57,492,NULL),
@@ -309,7 +309,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-04-19',1007,NULL,350,NULL),
   ('2019-04-20',NULL,NULL,0,NULL),
   ('2019-04-21',1018,NULL,135,NULL),
-  /* 2019-04-22 */
+  /* Week of 2019-04-22 */
   ('2019-04-22',1023,NULL,485,NULL),
   ('2019-04-23',1032,59,410,NULL),
   ('2019-04-24',1037,60,380,NULL),
@@ -317,7 +317,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2019-04-26',1061,62,190,'I was a little unwell, likely due to having a heavy chocolate-based drink the previous evening. As a result, I spent less time on work than usual, but I also used my more low-energy time wrapping up more personal items.'),
   ('2019-04-27',1062,54,20,NULL),
   ('2019-04-28',NULL,64,0,NULL),
-  /* 2019-04-29 */
+  /* Week of 2019-04-29 */
   ('2019-04-29',1067,NULL,270,NULL),
   ('2019-04-30',1078,68,258,NULL),
   ('2019-05-01',1102,66,360,NULL),
