@@ -1479,4 +1479,13 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-02-03',4285,772,104,0,3,150,41,100,NULL),
   ('2022-02-04',4286,773,178,23,0,65,8,55,NULL),
   ('2022-02-05',4287,774,148,134,2,40,0,35,NULL),
-  ('2022-02-06',4288,775,388,0,0,15,0,12,'Pretty unusually for a Sunday, I worked quite long. My regular work was more like 5 hours; an extra 1 hour in the early morning was as part of an alert investigation.');
+  ('2022-02-06',4288,775,388,0,0,15,0,12,'Pretty unusually for a Sunday, I worked quite long. My regular work was more like 5 hours; an extra 1 hour in the early morning was as part of an alert investigation.'),
+  /* Week of 2022-02-07 */
+  ('2022-02-07',4289,776,229,12,0,23,15,100,NULL),
+  ('2022-02-08',4291,777,259,0,0,80,15,100,NULL),
+  ('2022-02-09',4292,778,237,10,0,0,25,0,NULL),
+  ('2022-02-10',4293,779,236,0,0,50,40,50,NULL),
+  ('2022-02-11',4294,780,127,0,0,0,110,0,NULL),
+  ('2022-02-12',4295,781,6,0,60,160,150,0,NULL),
+  ('2022-02-13',4296,782,129,0,105,0,0,60,NULL);
+
