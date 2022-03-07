@@ -1503,6 +1503,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-02-24',4315,792,199,0,0,0,0,205,NULL),
   ('2022-02-25',4316,793,248,20,0,55,0,15,NULL),
   ('2022-02-26',4318,794,97,13,3,157,0,0,NULL),
-  ('2022-02-27',4319,795,149,0,0,0,22,90,NULL);
-
-
+  ('2022-02-27',4319,795,149,0,0,0,22,90,NULL),
+  /* Week of 2022-02-28 */
+  ('2022-02-28',4320,796,84,0,0,20,0,270,'I hung out with some friends at WeWork, leading to a lot more time on "other activities" and a lot less time on day job than typical for a Monday.'),
+  ('2022-03-01',4323,797,44,10,15,10,5,180,'I hung out with some friends at WeWork, leading to a lot more time on "other activities" and a lot less time on day job than typical for a Tuesday.'),
+  ('2022-03-02',4326,798,282,15,0,0,10,68,NULL),
+  ('2022-03-03',4328,799,211,0,0,0,0,75,NULL),
+  ('2022-03-04',4329,800,77,63,0,65,21,92,'A power cut till about 1 PM due to scheduled PG&E maintenance led to a somewhat unusual day.'),
+  ('2022-03-05',4331,801,149,0,0,181,0,0,NULL),
+  ('2022-03-06',4332,802,64,75,0,5,135,15,NULL);
