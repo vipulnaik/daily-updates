@@ -1508,7 +1508,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-02-28',4320,796,84,0,0,20,0,270,'I hung out with some friends at WeWork, leading to a lot more time on "other activities" and a lot less time on day job than typical for a Monday.'),
   ('2022-03-01',4323,797,44,10,15,10,5,180,'I hung out with some friends at WeWork, leading to a lot more time on "other activities" and a lot less time on day job than typical for a Tuesday.'),
   ('2022-03-02',4326,798,282,15,0,0,10,68,NULL),
-  ('2022-03-03',4328,799,211,0,0,0,0,75,NULL),
+  ('2022-03-03',4328,799,215,0,0,0,0,75,NULL),
   ('2022-03-04',4329,800,77,63,0,65,21,92,'A power cut till about 1 PM due to scheduled PG&E maintenance led to a somewhat unusual day.'),
   ('2022-03-05',4331,801,149,0,0,181,0,0,NULL),
   ('2022-03-06',4332,802,64,75,0,5,135,15,NULL),
@@ -1516,7 +1516,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-03-07',4334,803,113,45,0,15,0,80,NULL),
   ('2022-03-08',4337,804,105,60,0,0,0,120,NULL),
   ('2022-03-09',4339,805,287,0,3,0,0,135,'I had lunch with some work colleagues on this day; see https://github.com/vipulnaik/diet-exercise-health/commit/4a90fbce5b896f7ebd0b5bd8ec29d8fc9b0786ee for details.'),
-  ('2022-03-10',4340,806,222,0,0,0,0,130,NULL),
+  ('2022-03-10',4340,806,226,0,0,0,0,130,NULL),
   ('2022-03-11',4343,807,234,0,0,40,5,165,NULL),
   ('2022-03-12',4344,808,205,0,0,90,30,0,NULL),
   ('2022-03-13',4345,809,49,0,0,102,55,15,'This was a shorter-than-usual day for me, partly due to me sleeping early due to both fatigue and a desire to adjust to the daylight saving change. In addition, I was a bit lazier than usual (partly due to the fatigue from some of the physical and emotional effort I expended), spending unaccounted time watching videos.');
