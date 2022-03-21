@@ -8,7 +8,7 @@ https://www.lesswrong.com/posts/JvTM68yzurLzJ3Xua/the-why-and-how-of-daily-updat
 ## Setting up
 
 This section is for people who want to set up a local mirror of the
-updatees portal (e..g. for development purposes) or want to load up
+updates portal (e.g., for development purposes) or want to load up
 the data into a local database to run their own queries.
 
 Note that the `passwordFile.inc` file in
