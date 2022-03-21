@@ -1519,4 +1519,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-03-10',4340,806,226,0,0,0,0,130,NULL),
   ('2022-03-11',4343,807,234,0,0,40,5,165,NULL),
   ('2022-03-12',4344,808,205,0,0,90,30,0,NULL),
-  ('2022-03-13',4345,809,49,0,0,102,55,15,'This was a shorter-than-usual day for me, partly due to me sleeping early due to both fatigue and a desire to adjust to the daylight saving change. In addition, I was a bit lazier than usual (partly due to the fatigue from some of the physical and emotional effort I expended), spending unaccounted time watching videos.');
+  ('2022-03-13',4345,809,49,0,0,102,55,15,'This was a shorter-than-usual day for me, partly due to me sleeping early due to both fatigue and a desire to adjust to the daylight saving change. In addition, I was a bit lazier than usual (partly due to the fatigue from some of the physical and emotional effort I expended), spending unaccounted time watching videos.'),
+  /* Week of 2022-03-14 */
+  ('2022-03-14',4347,810,146,18,0,15,0,165,NULL),
+  ('2022-03-15',4349,811,201,25,0,0,0,100,NULL),
+  ('2022-03-16',4352,812,288,10,0,40,0,20,NULL),
+  ('2022-03-17',4353,813,176,0,0,0,0,170,NULL),
+  ('2022-03-18',4354,814,232,0,0,0,0,12,NULL),
+  ('2022-03-19',4355,815,89,67,0,160,0,3,NULL),
+  ('2022-03-20',4356,816,109,0,10,19,22,30,NULL);
