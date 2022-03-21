@@ -1,3 +1,22 @@
+MYSQL_ARGS=
+DATABASE=updates
+
+.PHONY: init
+init:
+	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
+
+.PHONY: reset
+reset:
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists day_summaries;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists week_summaries;"
+	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists month_summaries;"
+
+.PHONY: read
+read:
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/week_summaries.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/month_summaries.sql
+
 .PHONY: fetch_table_sorting
 fetch_table_sorting:
 	curl -Lo access-portal/jquery-3.1.1.min.js \
