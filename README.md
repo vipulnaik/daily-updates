@@ -56,6 +56,18 @@ Instead of editing the Makefile, you can also pass in the arguments to each make
 make MYSQL_ARGS=<args> reset && make MYSQL_ARGS=<args> read
 ```
 
+### Setting up a read-only user for passwordFile.inc
+
+The web portal needs only *read-only* access to the database; for
+greater security, you may therefore wish to include a read-only user
+in passwordFile.inc. You can use the `create_readonly_user` in the
+Makefile to create the user, then add the user's username and password
+to passwordFile.inc.
+
+```bash
+make MYSQL_ARGS=<args> MYSQL_READONLY_USERNAME=<username> MYSQL_READONLY_PASSWORD=<password> create_readonly_user
+```
+
 ### Table sorting
 
 To get files for table sorting, run:

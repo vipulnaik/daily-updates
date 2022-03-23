@@ -1,9 +1,15 @@
 MYSQL_ARGS=
 DATABASE=updates
+MYSQL_READONLY_USERNAME=
+MYSQL_READONLY_USER_PASSWORD=
 
 .PHONY: init
 init:
 	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
+
+.PHONY: create_readonly_user
+	mysql $(MYSQL_ARGS) -e "create user $(MYSQL_READONLY_USERNAME) identified by '$(MYSQL_READONLY_USER_PASSWORD)';"
+	mysql $(MYSQL_ARGS) -e "grant select on $(DATABASE).* to $(MYSQL_READONLY_USERNAME);"
 
 .PHONY: reset
 reset:
