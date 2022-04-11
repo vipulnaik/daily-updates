@@ -1515,7 +1515,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   /* Week of 2022-03-07 */
   ('2022-03-07',4334,803,113,45,0,15,0,80,NULL),
   ('2022-03-08',4337,804,105,60,0,0,0,120,NULL),
-  ('2022-03-09',4339,805,287,0,3,0,0,135,'I had lunch with some work colleagues on this day; see https://github.com/vipulnaik/diet-exercise-health/commit/4a90fbce5b896f7ebd0b5bd8ec29d8fc9b0786ee for details.'),
+  ('2022-03-09',4339,805,287,0,3,0,0,135,'I had lunch with some work colleagues on this day; see https://github.com/vipulnaik/diet-exercise-health/commit/8a1f7160648335ac06e3b86076f827babb6efaa1 for details.'),
   ('2022-03-10',4340,806,226,0,0,0,0,130,NULL),
   ('2022-03-11',4343,807,234,0,0,40,5,165,NULL),
   ('2022-03-12',4344,808,205,0,0,90,30,0,NULL),
