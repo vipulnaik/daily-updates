@@ -1543,5 +1543,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-03-31',4379,827,130,30,0,90,0,145,NULL),
   ('2022-04-01',4380,828,365,13,40,0,0,0,NULL),
   ('2022-04-02',4381,829,15,180,0,50,0,0,NULL),
-  ('2022-04-03',4382,830,24,150,0,98,0,0,NULL);
-
+  ('2022-04-03',4382,830,24,150,0,98,0,0,NULL),
+  /* Week of 2022-04-04 */
+  ('2022-04-04',4385,831,127,70,0,15,0,155,NULL),
+  ('2022-04-05',4387,832,109,10,0,445,10,60,'See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-04-05-fall-and-phone-screen-crack.md for details on the fall and phone screen cracking. I spent a lot of the day walking around trying to get the phone repaired and then buying a new phone, as https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-activity-tracker.md#tuesday-april-5 documents.'),
+  ('2022-04-06',4389,833,217,0,0,40,0,35,NULL),
+  ('2022-04-07',4391,834,116,0,0,45,135,0,NULL),
+  ('2022-04-08',4392,835,119,0,0,42,155,0,NULL),
+  ('2022-04-09',4393,836,269,0,0,180,0,0,'I spent most of the day setting up my new laptop.'),
+  ('2022-04-10',4394,837,69,28,0,245,40,20,'I spent a large part of the day setting up my new laptop.');
