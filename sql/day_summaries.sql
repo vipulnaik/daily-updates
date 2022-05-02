@@ -1567,4 +1567,12 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-04-21',4416,848,117,0,0,110,155,185,NULL),
   ('2022-04-22',4417,849,160,0,10,0,170,75,NULL),
   ('2022-04-23',4418,850,17,0,5,47,300,0,'I spent most of the day on cleanup and disposal work related to my old residence.'),
-  ('2022-04-24',4419,851,8,0,15,15,240,70,'I spent most of the day on cleanup and disposal work related to my old residence.');
+  ('2022-04-24',4419,851,8,0,15,15,240,70,'I spent most of the day on cleanup and disposal work related to my old residence.'),
+  /* Week of 2022-04-25 */
+  ('2022-04-25',4420,852,219,7,0,70,0,165,NULL),
+  ('2022-04-26',4425,853,151,0,3,117,55,80,NULL),
+  ('2022-04-27',4426,854,73,0,0,30,65,180,NULL),
+  ('2022-04-28',4428,855,188,0,0,0,10,170,NULL),
+  ('2022-04-29',4430,856,11,0,0,0,285,55,NULL),
+  ('2022-04-30',4432,857,11,0,0,75,260,0,NULL),
+  ('2022-05-01',4433,858,76,77,25,165,0,15,NULL);

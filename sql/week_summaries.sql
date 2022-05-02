@@ -80,4 +80,5 @@ insert into week_summaries(week_start_date, notes) values
   ('2022-03-28','The weekday portion of the week was fairly normal (other than time early in the week on apartment search), but the weekend was unusual with a large amount of time spent on personal projects (biology reading and work on the cellbio subwiki).'),
   ('2022-04-04','This was an unusual week, with a huge proportion of time spent on personal chores (dealing with cracked phone screen, getting new phone and laptop) and house chores (working out my house move). I spent less time than usual on day job, personal projects, and other activities.'),
   ('2022-04-11','This week, I spent a lot of time in work related to my house move. This cut into my time on work, personal projects, and other activities.'),
-  ('2022-04-18','This was the week that I moved house, so I spent a lot of time on the move and on related disposal and cleanup work.');
+  ('2022-04-18','This was the week that I moved house, so I spent a lot of time on the move and on related disposal and cleanup work.'),
+  ('2022-04-25','I continued to spend a fair amount of time on cleanup and disposal related to the house I had moved out of; this ate into my time in the various other buckets.');
