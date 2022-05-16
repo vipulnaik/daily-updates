@@ -82,4 +82,5 @@ insert into week_summaries(week_start_date, notes) values
   ('2022-04-11','This week, I spent a lot of time in work related to my house move. This cut into my time on work, personal projects, and other activities.'),
   ('2022-04-18','This was the week that I moved house, so I spent a lot of time on the move and on related disposal and cleanup work.'),
   ('2022-04-25','I continued to spend a fair amount of time on cleanup and disposal related to the house I had moved out of; this ate into my time in the various other buckets.'),
-  ('2022-05-02','I spent even more time than in the past two weeks on cleanup and disposal related to the house I had moved out of; this ate into my time in the various other buckets. I finished up most of the work needed so I expect the coming week and future weeks to be closer to normal.');
+  ('2022-05-02','I spent even more time than in the past two weeks on cleanup and disposal related to the house I had moved out of; this ate into my time in the various other buckets. I finished up most of the work needed so I expect the coming week and future weeks to be closer to normal.'),
+  ('2022-05-09','This was a typical week, hitting the desired distribution of time spent that I hope to maintain for the next few months.');

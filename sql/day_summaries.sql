@@ -1583,4 +1583,13 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-05-05',4440,862,54,0,0,0,510,0,'I spent most of the day on cleanup and disposal work related to my old residence.'),
   ('2022-05-06',4443,863,220,0,0,80,90,0,NULL),
   ('2022-05-07',4444,864,34,0,0,233,85,0,NULL),
-  ('2022-05-08',4445,865,26,195,0,0,7,165,NULL);
+  ('2022-05-08',4445,865,26,195,0,0,7,165,NULL),
+  /* Week of 2022-05-09 */
+  ('2022-05-09',4448,866,29,0,0,35,0,320,NULL),
+  ('2022-05-10',4449,867,86,15,0,75,0,210,NULL),
+  ('2022-05-11',4452,868,94,0,0,0,0,110,NULL),
+  ('2022-05-12',4454,869,70,0,0,0,0,200,NULL),
+  ('2022-05-13',4456,870,17,0,0,55,5,290,NULL),
+  ('2022-05-14',4457,871,26,0,15,200,0,102,NULL),
+  ('2022-05-15',4458,872,201,0,0,0,0,15,'I spent a lot of unaccounted time watching a TV show (The Marvelous Mrs. Maisel Seasons 2 and 3), hence my lower-than-usual accounted-for time.');
+
