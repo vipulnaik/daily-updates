@@ -1,8 +1,10 @@
 create table day_summaries(
   `date` date primary key not null,
-  `day_job_daily_update` int(11) unique,
+  `day_job_liftigniter_and_arena_daily_update` int(11) unique,
+  `day_job_equator_daily_update` int(11) unique,
   `personal_daily_update` int(11) unique,
-  `minutes_spent_on_day_job` int(11),
+  `minutes_spent_on_day_job_liftigniter_and_arena` int(11),
+  `minutes_spent_on_day_job_equator` int(11),
   `minutes_spent_on_personal_projects` int(11),
   `minutes_spent_on_personal_finances` int(11),
   `minutes_spent_on_personal_chores` int(11),
@@ -11,7 +13,7 @@ create table day_summaries(
   `notes` varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
-insert into day_summaries(date, day_job_daily_update, notes) values
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, notes) values
   /* Week of 2018-08-10 */
   ('2018-08-10',2,'This was my first day job daily update.'),
   ('2018-08-11',3,NULL),
@@ -95,7 +97,7 @@ insert into day_summaries(date, day_job_daily_update, notes) values
   ('2018-10-18',171,NULL),
   ('2018-10-19',174,NULL);
 
-insert into day_summaries(date, day_job_daily_update, personal_daily_update, notes) values
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, notes) values
   /* Week of 2018-10-20 and 2018-10-21 */
   ('2018-10-20',177,1,'This was the first day on whcich I posted a persoanl daily update.'),
   ('2018-10-21',179,NULL,NULL),
@@ -268,7 +270,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, not
   ('2019-03-16',782,45,NULL),
   ('2019-03-17',783,NULL,NULL);
 
-insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, notes) values
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, notes) values
   /* Week of 2019-03-18 */
   ('2019-03-18',789,NULL,380,NULL),
   ('2019-03-19',795,NULL,450,NULL),
@@ -826,7 +828,7 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2020-07-14',2997,224,397,NULL),
   ('2020-07-15',3001,NULL,380,NULL);
 
-insert into day_summaries(date, day_job_daily_update, personal_daily_update, minutes_spent_on_day_job, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_other_activities, notes) values
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_other_activities, notes) values
   /* Week of 2020-07-13 */
   ('2020-07-16',3005,225,468,30,0,20,0,0,NULL),
   ('2020-07-17',3006,NULL,310,0,0,0,0,0,NULL),
@@ -1487,109 +1489,117 @@ insert into day_summaries(date, day_job_daily_update, personal_daily_update, min
   ('2022-02-10',4293,779,236,0,0,50,40,50,NULL),
   ('2022-02-11',4294,780,127,0,0,0,110,0,NULL),
   ('2022-02-12',4295,781,6,0,60,160,150,0,NULL),
-  ('2022-02-13',4296,782,129,0,105,0,0,60,NULL),
-  /* Week of 2022-02-14 */
-  ('2022-02-14',4297,783,227,0,0,15,10,130,NULL),
-  ('2022-02-15',4299,784,259,0,0,10,0,3,NULL),
-  ('2022-02-16',4300,NULL,242,0,0,0,0,0,NULL),
-  ('2022-02-17',4301,785,148,4,0,40,32,125,NULL),
-  ('2022-02-18',4302,786,26,0,110,100,0,115,NULL),
-  ('2022-02-19',4303,787,161,0,40,0,80,0,NULL),
-  ('2022-02-20',4304,788,170,0,0,36,0,50,NULL),
-  /* Week of 2022-02-21 */
-  ('2022-02-21',4305,789,127,0,6,65,23,150,NULL),
-  ('2022-02-22',4309,790,228,0,0,85,0,0,NULL),
-  ('2022-02-23',4312,791,146,10,0,0,60,70,NULL),
-  ('2022-02-24',4315,792,199,0,0,0,0,205,NULL),
-  ('2022-02-25',4316,793,248,20,0,55,0,15,NULL),
-  ('2022-02-26',4318,794,97,13,3,157,0,0,NULL),
-  ('2022-02-27',4319,795,149,0,0,0,22,90,NULL),
-  /* Week of 2022-02-28 */
-  ('2022-02-28',4320,796,84,0,0,20,0,270,'I hung out with some friends at WeWork, leading to a lot more time on "other activities" and a lot less time on day job than typical for a Monday.'),
-  ('2022-03-01',4323,797,44,10,15,10,5,180,'I hung out with some friends at WeWork, leading to a lot more time on "other activities" and a lot less time on day job than typical for a Tuesday.'),
-  ('2022-03-02',4326,798,282,15,0,0,10,68,NULL),
-  ('2022-03-03',4328,799,215,0,0,0,0,75,NULL),
-  ('2022-03-04',4329,800,77,63,0,65,21,92,'A power cut till about 1 PM due to scheduled PG&E maintenance led to a somewhat unusual day.'),
-  ('2022-03-05',4331,801,149,0,0,181,0,0,NULL),
-  ('2022-03-06',4332,802,64,75,0,5,135,15,NULL),
-  /* Week of 2022-03-07 */
-  ('2022-03-07',4334,803,113,45,0,15,0,80,NULL),
-  ('2022-03-08',4337,804,105,60,0,0,0,120,NULL),
-  ('2022-03-09',4339,805,287,0,3,0,0,135,'I had lunch with some work colleagues on this day; see https://github.com/vipulnaik/diet-exercise-health/commit/8a1f7160648335ac06e3b86076f827babb6efaa1 for details.'),
-  ('2022-03-10',4340,806,226,0,0,0,0,130,NULL),
-  ('2022-03-11',4343,807,234,0,0,40,5,165,NULL),
-  ('2022-03-12',4344,808,205,0,0,90,30,0,NULL),
-  ('2022-03-13',4345,809,49,0,0,102,55,15,'This was a shorter-than-usual day for me, partly due to me sleeping early due to both fatigue and a desire to adjust to the daylight saving change. In addition, I was a bit lazier than usual (partly due to the fatigue from some of the physical and emotional effort I expended), spending unaccounted time watching videos.'),
-  /* Week of 2022-03-14 */
-  ('2022-03-14',4347,810,146,18,0,15,0,165,NULL),
-  ('2022-03-15',4349,811,201,25,0,0,0,100,NULL),
-  ('2022-03-16',4352,812,288,10,0,40,0,20,NULL),
-  ('2022-03-17',4353,813,176,0,0,0,0,170,NULL),
-  ('2022-03-18',4354,814,232,0,0,0,0,12,NULL),
-  ('2022-03-19',4355,815,89,67,0,160,0,3,NULL),
-  ('2022-03-20',4356,816,109,0,10,19,22,30,NULL),
-  /* Week of 2022-03-21 */
-  ('2022-03-21',4358,817,198,20,42,28,0,52,NULL),
-  ('2022-03-22',4360,818,186,75,25,0,0,0,NULL),
-  ('2022-03-23',4364,819,204,0,0,0,0,30,NULL),
-  ('2022-03-24',4366,820,192,0,0,30,0,280,NULL),
-  ('2022-03-25',4368,821,143,0,0,90,0,65,NULL),
-  ('2022-03-26',4369,822,4,0,185,10,105,0,NULL),
-  ('2022-03-27',4370,823,6,0,100,0,220,20,NULL),
-  /* Week of 2022-03-28 */
-  ('2022-03-28',4371,824,103,0,10,15,175,75,NULL),
-  ('2022-03-29',4375,825,96,0,0,0,90,130,NULL),
-  ('2022-03-30',4377,826,204,0,0,0,30,75,NULL),
-  ('2022-03-31',4379,827,130,30,0,90,0,145,NULL),
-  ('2022-04-01',4380,828,365,13,40,0,0,0,NULL),
-  ('2022-04-02',4381,829,15,180,0,50,0,0,NULL),
-  ('2022-04-03',4382,830,24,150,0,98,0,0,NULL),
-  /* Week of 2022-04-04 */
-  ('2022-04-04',4385,831,127,70,0,15,0,155,NULL),
-  ('2022-04-05',4387,832,109,10,0,445,10,60,'See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-04-05-fall-and-phone-screen-crack.md for details on the fall and phone screen cracking. I spent a lot of the day walking around trying to get the phone repaired and then buying a new phone, as https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-activity-tracker.md#tuesday-april-5 documents.'),
-  ('2022-04-06',4389,833,217,0,0,40,0,35,NULL),
-  ('2022-04-07',4391,834,116,0,0,45,135,0,NULL),
-  ('2022-04-08',4392,835,119,0,0,42,155,0,NULL),
-  ('2022-04-09',4393,836,269,0,0,180,0,0,'I spent most of the day setting up my new laptop.'),
-  ('2022-04-10',4394,837,69,28,0,245,40,20,'I spent a large part of the day setting up my new laptop.'),
-  /* Week of 2022-04-11 */
-  ('2022-04-11',4397,838,151,0,0,115,30,25,NULL),
-  ('2022-04-12',4399,839,210,0,0,38,145,0,NULL),
-  ('2022-04-13',4400,840,179,60,0,25,10,110,NULL),
-  ('2022-04-14',4403,841,352,0,0,15,40,0,NULL),
-  ('2022-04-15',4404,842,78,0,0,145,87,0,NULL),
-  ('2022-04-16',4405,843,4,0,0,45,360,0,'I spent most of the day packing and moving stuff.'),
-  ('2022-04-17',4406,844,48,0,0,0,200,0,'I spent a large part of the day packing and moving stuff.'),
-  /* Week of 2022-04-18 */
-  ('2022-04-18',4407,845,75,0,0,90,40,98,NULL),
-  ('2022-04-19',4409,846,137,0,0,45,30,135,NULL),
-  ('2022-04-20',4413,847,11,0,0,0,240,120,'I took the day off work in order to focus on moving my residence.'),
-  ('2022-04-21',4416,848,117,0,0,110,155,185,NULL),
-  ('2022-04-22',4417,849,160,0,10,0,170,75,NULL),
-  ('2022-04-23',4418,850,17,0,5,47,300,0,'I spent most of the day on cleanup and disposal work related to my old residence.'),
-  ('2022-04-24',4419,851,8,0,15,15,240,70,'I spent most of the day on cleanup and disposal work related to my old residence.'),
-  /* Week of 2022-04-25 */
-  ('2022-04-25',4420,852,219,7,0,70,0,165,NULL),
-  ('2022-04-26',4425,853,151,0,3,117,55,80,NULL),
-  ('2022-04-27',4426,854,73,0,0,30,65,180,NULL),
-  ('2022-04-28',4428,855,188,0,0,0,10,170,NULL),
-  ('2022-04-29',4430,856,11,0,0,0,285,55,NULL),
-  ('2022-04-30',4432,857,11,0,0,75,260,0,NULL),
-  ('2022-05-01',4433,858,76,77,25,165,0,15,NULL),
-  /* Week of 2022-05-02 */
-  ('2022-05-02',4434,859,136,8,0,50,180,0,NULL),
-  ('2022-05-03',4437,860,69,0,0,0,300,140,'I spent most of the day on cleanup and disposal work related to my old residence.'),
-  ('2022-05-04',4439,861,50,0,0,0,480,0,'I spent most of the day on cleanup and disposal work related to my old residence.'),
-  ('2022-05-05',4440,862,54,0,0,0,510,0,'I spent most of the day on cleanup and disposal work related to my old residence.'),
-  ('2022-05-06',4443,863,220,0,0,80,90,0,NULL),
-  ('2022-05-07',4444,864,34,0,0,233,85,0,NULL),
-  ('2022-05-08',4445,865,26,195,0,0,7,165,NULL),
-  /* Week of 2022-05-09 */
-  ('2022-05-09',4448,866,29,0,0,35,0,320,NULL),
-  ('2022-05-10',4449,867,86,15,0,75,0,210,NULL),
-  ('2022-05-11',4452,868,94,0,0,0,0,110,NULL),
-  ('2022-05-12',4454,869,70,0,0,0,0,200,NULL),
-  ('2022-05-13',4456,870,17,0,0,55,5,290,NULL),
-  ('2022-05-14',4457,871,26,0,15,200,0,102,NULL),
-  ('2022-05-15',4458,872,201,0,0,0,0,15,'I spent a lot of unaccounted time watching a TV show (The Marvelous Mrs. Maisel Seasons 2 and 3), hence my lower-than-usual accounted-for time.');
+  ('2022-02-13',4296,782,129,0,105,0,0,60,NULL);
 
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_day_job_equator,minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_other_activities, notes) values
+  /* Week of 2022-02-14 */
+  ('2022-02-14',4297,1,783,227,110,0,0,15,10,20,'This was my first day recording time spent related to Equator; I had not formally started at Equator but I''m allocating to Equator the time spent on background reading and learning work.'),
+  ('2022-02-15',4299,2,784,259,5,0,0,10,0,0,NULL),
+  ('2022-02-16',4300,NULL,NULL,242,0,0,0,0,0,0,NULL),
+  ('2022-02-17',4301,3,785,148,120,4,0,40,32,5,NULL),
+  ('2022-02-18',4302,4,786,26,115,0,110,100,0,0,NULL),
+  ('2022-02-19',4303,NULL,787,161,0,0,40,0,80,0,NULL),
+  ('2022-02-20',4304,NULL,788,170,0,0,0,36,0,50,NULL),
+  /* Week of 2022-02-21 */
+  ('2022-02-21',4305,5,789,127,150,0,6,65,23,0,NULL),
+  ('2022-02-22',4309,NULL,790,228,0,0,0,85,0,0,NULL),
+  ('2022-02-23',4312,6,791,146,70,10,0,0,60,0,NULL),
+  ('2022-02-24',4315,7,792,199,175,0,0,0,0,30,NULL),
+  ('2022-02-25',4316,8,793,248,15,20,0,55,0,0,NULL),
+  ('2022-02-26',4318,NULL,794,97,0,13,3,157,0,0,NULL),
+  ('2022-02-27',4319,9,795,149,60,0,0,0,22,30,NULL),
+  /* Week of 2022-02-28 */
+  ('2022-02-28',4320,10,796,84,270,0,0,20,0,0,'I met with my soon-to-be Equator colleagues at WeWork.'),
+  ('2022-03-01',4323,11,797,44,180,10,15,10,5,0,'I met with my soon-to-be Equator colleagues at WeWork.'),
+  ('2022-03-02',4326,12,798,282,43,15,0,0,10,25,NULL),
+  ('2022-03-03',4328,13,799,215,75,0,0,0,0,0,NULL),
+  ('2022-03-04',4329,14,800,77,5,63,0,65,21,87,'A power cut till about 1 PM due to scheduled PG&E maintenance led to a somewhat unusual day.'),
+  ('2022-03-05',4331,NULL,801,149,0,0,0,181,0,0,NULL),
+  ('2022-03-06',4332,NULL,802,64,0,75,0,5,135,15,NULL),
+  /* Week of 2022-03-07 */
+  ('2022-03-07',4334,15,803,113,50,45,0,15,0,30,NULL),
+  ('2022-03-08',4337,16,804,105,10,60,0,0,0,120,NULL),
+  ('2022-03-09',4339,NULL,805,287,0,0,3,0,0,135,'I had lunch with some work colleagues on this day; see https://github.com/vipulnaik/diet-exercise-health/commit/8a1f7160648335ac06e3b86076f827babb6efaa1 for details.'),
+  ('2022-03-10',4340,17,806,226,130,0,0,0,0,0,NULL),
+  ('2022-03-11',4343,18,807,234,135,0,0,40,5,30,NULL),
+  ('2022-03-12',4344,NULL,808,205,0,0,0,90,30,0,NULL),
+  ('2022-03-13',4345,NULL,809,49,0,0,0,102,55,15,'This was a shorter-than-usual day for me, partly due to me sleeping early due to both fatigue and a desire to adjust to the daylight saving change. In addition, I was a bit lazier than usual (partly due to the fatigue from some of the physical and emotional effort I expended), spending unaccounted time watching videos.'),
+  /* Week of 2022-03-14 */
+  ('2022-03-14',4347,19,810,146,165,18,0,15,0,0,NULL),
+  ('2022-03-15',4349,20,811,201,100,25,0,0,0,0,NULL),
+  ('2022-03-16',4352,NULL,812,288,0,10,0,40,0,20,NULL),
+  ('2022-03-17',4353,21,813,176,170,0,0,0,0,0,NULL),
+  ('2022-03-18',4354,NULL,814,232,0,0,0,0,0,12,NULL),
+  ('2022-03-19',4355,22,815,89,3,67,0,160,0,0,NULL),
+  ('2022-03-20',4356,NULL,816,109,0,0,10,19,22,30,NULL),
+  /* Week of 2022-03-21 */
+  ('2022-03-21',4358,23,817,198,40,20,42,28,0,12,NULL),
+  ('2022-03-22',4360,NULL,818,186,0,75,25,0,0,0,NULL),
+  ('2022-03-23',4364,24,819,204,30,0,0,0,0,0,NULL),
+  ('2022-03-24',4366,25,820,192,180,0,0,30,0,100,NULL),
+  ('2022-03-25',4368,26,821,143,50,0,0,90,0,15,NULL),
+  ('2022-03-26',4369,NULL,822,4,0,0,185,10,105,0,NULL),
+  ('2022-03-27',4370,NULL,823,6,0,0,100,0,220,20,NULL),
+  /* Week of 2022-03-28 */
+  ('2022-03-28',4371,27,824,103,75,0,10,15,175,0,NULL),
+  ('2022-03-29',4375,28,825,96,130,0,0,0,90,0,NULL),
+  ('2022-03-30',4377,NULL,826,204,0,0,0,0,30,75,NULL),
+  ('2022-03-31',4379,29,827,130,85,30,0,90,0,60,NULL),
+  ('2022-04-01',4380,NULL,828,365,0,13,40,0,0,0,NULL),
+  ('2022-04-02',4381,NULL,829,15,0,180,0,50,0,0,NULL),
+  ('2022-04-03',4382,NULL,830,24,0,150,0,98,0,0,NULL),
+  /* Week of 2022-04-04 */
+  ('2022-04-04',4385,30,831,127,155,70,0,15,0,0,NULL),
+  ('2022-04-05',4387,31,832,109,60,10,0,445,10,0,'See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-04-05-fall-and-phone-screen-crack.md for details on the fall and phone screen cracking. I spent a lot of the day walking around trying to get the phone repaired and then buying a new phone, as https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-activity-tracker.md#tuesday-april-5 documents.'),
+  ('2022-04-06',4389,NULL,833,217,0,0,0,40,0,35,NULL),
+  ('2022-04-07',4391,NULL,834,116,0,0,0,45,135,0,NULL),
+  ('2022-04-08',4392,NULL,835,119,0,0,0,42,155,0,NULL),
+  ('2022-04-09',4393,NULL,836,269,0,0,0,180,0,0,'I spent most of the day setting up my new laptop.'),
+  ('2022-04-10',4394,NULL,837,69,0,28,0,245,40,20,'I spent a large part of the day setting up my new laptop.'),
+  /* Week of 2022-04-11 */
+  ('2022-04-11',4397,32,838,151,25,0,0,115,30,0,NULL),
+  ('2022-04-12',4399,NULL,839,210,0,0,0,38,145,0,NULL),
+  ('2022-04-13',4400,33,840,179,55,60,0,25,10,55,NULL),
+  ('2022-04-14',4403,NULL,841,352,0,0,0,15,40,0,NULL),
+  ('2022-04-15',4404,NULL,842,78,0,0,0,145,87,0,NULL),
+  ('2022-04-16',4405,NULL,843,4,0,0,0,45,360,0,'I spent most of the day packing and moving stuff.'),
+  ('2022-04-17',4406,NULL,844,48,0,0,0,0,200,0,'I spent a large part of the day packing and moving stuff.'),
+  /* Week of 2022-04-18 */
+  ('2022-04-18',4407,34,845,75,98,0,0,90,40,0,NULL),
+  ('2022-04-19',4409,35,846,137,135,0,0,45,30,0,NULL),
+  ('2022-04-20',4413,36,847,11,120,0,0,0,240,0,'I took the day off work in order to focus on moving my residence.'),
+  ('2022-04-21',4416,37,848,117,145,0,0,110,155,40,NULL),
+  ('2022-04-22',4417,38,849,160,75,0,10,0,170,0,NULL),
+  ('2022-04-23',4418,NULL,850,17,0,0,5,47,300,0,'I spent most of the day on cleanup and disposal work related to my old residence.'),
+  ('2022-04-24',4419,39,851,8,60,0,15,15,240,10,'I spent most of the day on cleanup and disposal work related to my old residence.'),
+  /* Week of 2022-04-25 */
+  ('2022-04-25',4420,40,852,219,165,7,0,70,0,0,NULL),
+  ('2022-04-26',4425,41,853,151,20,0,3,117,55,60,NULL),
+  ('2022-04-27',4426,42,854,73,180,0,0,30,65,0,NULL),
+  ('2022-04-28',4428,43,855,188,140,0,0,0,10,30,NULL),
+  ('2022-04-29',4430,44,856,11,45,0,0,0,285,10,NULL),
+  ('2022-04-30',4432,NULL,857,11,0,0,0,75,260,0,NULL),
+  ('2022-05-01',4433,NULL,858,76,0,77,25,165,0,15,NULL),
+  /* Week of 2022-05-02 */
+  ('2022-05-02',4434,NULL,859,136,0,8,0,50,180,0,NULL),
+  ('2022-05-03',4437,45,860,69,90,0,0,0,300,50,'I spent most of the day on cleanup and disposal work related to my old residence.'),
+  ('2022-05-04',4439,NULL,861,50,0,0,0,0,480,0,'I spent most of the day on cleanup and disposal work related to my old residence.'),
+  ('2022-05-05',4440,NULL,862,54,0,0,0,0,510,0,'I spent most of the day on cleanup and disposal work related to my old residence.'),
+  ('2022-05-06',4443,NULL,863,220,0,0,0,80,90,0,NULL),
+  ('2022-05-07',4444,NULL,864,34,0,0,0,233,85,0,NULL),
+  ('2022-05-08',4445,46,865,26,150,195,0,0,7,15,NULL),
+  /* Week of 2022-05-09 */
+  ('2022-05-09',4448,47,866,29,320,0,0,35,0,0,NULL),
+  ('2022-05-10',4449,48,867,86,210,15,0,75,0,0,NULL),
+  ('2022-05-11',4452,49,868,94,160,0,0,0,0,20,NULL),
+  ('2022-05-12',4454,50,869,70,200,0,0,0,0,0,NULL),
+  ('2022-05-13',4456,51,870,17,250,0,0,55,5,40,NULL),
+  ('2022-05-14',4457,52,871,26,92,0,15,200,0,10,NULL),
+  ('2022-05-15',4458,NULL,872,201,0,0,0,0,0,15,'I spent a lot of unaccounted time watching a TV show (The Marvelous Mrs. Maisel Seasons 2 and 3), hence my lower-than-usual accounted-for time.'),
+  /* Week of 2022-05-16 */
+  ('2022-05-16',4460,53,873,129,60,0,12,125,0,0,NULL),
+  ('2022-05-17',4461,54,874,156,90,60,0,0,0,0,NULL),
+  ('2022-05-18',4462,55,875,12,240,0,0,0,0,0,NULL),
+  ('2022-05-19',4465,56,876,78,45,113,13,85,0,5,NULL),
+  ('2022-05-20',4467,57,877,104,145,0,0,168,0,0,NULL);
+  /* Saturday and Sunday pending */

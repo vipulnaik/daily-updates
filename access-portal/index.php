@@ -9,7 +9,7 @@ include_once('style.inc');
 print '<script type="text/javascript" src="./jquery-3.1.1.min.js"></script>'."\n";
 print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."\n";
 print '</head>';
-include_once("backend/globalVariables/passwordFile.inc");
+include_once('backend/globalVariables/passwordFile.inc');
 print "<body>\n";
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print '<h3>Updates for Vipul Naik</h3>';
