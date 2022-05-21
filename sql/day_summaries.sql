@@ -1566,7 +1566,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-04-17',4406,NULL,844,48,0,0,0,0,200,0,'I spent a large part of the day packing and moving stuff.'),
   /* Week of 2022-04-18 */
   ('2022-04-18',4407,34,845,75,98,0,0,90,40,0,NULL),
-  ('2022-04-19',4409,35,846,137,135,0,0,45,30,0,NULL),
+  ('2022-04-19',4409,35,846,137,135,0,0,45,30,0,'This was the formal start of my part-time work at Equator. Starting around this time, my time spent on LiftIgniter / The Arena Group would fall and my time spent on Equator would rise.'),
   ('2022-04-20',4413,36,847,11,120,0,0,0,240,0,'I took the day off work in order to focus on moving my residence.'),
   ('2022-04-21',4416,37,848,117,145,0,0,110,155,40,NULL),
   ('2022-04-22',4417,38,849,160,75,0,10,0,170,0,NULL),
