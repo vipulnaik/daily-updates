@@ -5,7 +5,7 @@ MYSQL_READONLY_USER_PASSWORD=
 
 .PHONY: init
 init:
-	mysql $(MYSQL_ARGS) -e "create database $(DATABASE);"
+	mysql $(MYSQL_ARGS) -e "create database if not exists $(DATABASE);"
 
 .PHONY: create_readonly_user
 	mysql $(MYSQL_ARGS) -e "create user $(MYSQL_READONLY_USERNAME) identified by '$(MYSQL_READONLY_USER_PASSWORD)';"
