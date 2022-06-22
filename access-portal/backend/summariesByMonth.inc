@@ -55,9 +55,9 @@ for ($i = 0; $i < $monthSummariesResult -> num_rows; $i++) {
   print "<td>".$row['end_date']."</td>";
   print "<td>".$row['num_days']."</td>";
   print '<td align="right">'.convertToHoursAndMinutes((7 / ($row['num_days'] ?? 1)) * (($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0))).'</td>';
-  $adjustmentFactor = 7 / ($row['num_days'] ?? 1;
+  $adjustmentFactor = 7 / ($row['num_days'] ?? 1);
   foreach($typesOfTimeSpent as $columnFragment) {
-    printBasedOnColumnFragment($row, $columnFragment, $adjustmentFactor));
+    printBasedOnColumnFragment($row, $columnFragment, $adjustmentFactor);
   }
   printMinutesWithNumDaysToolTip($adjustmentFactor * $row['screen_minutes_m1'], $row['num_days_with_screen_minutes_m1']);
   if (isset($notesMap[$row['start_date']])) {
