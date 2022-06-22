@@ -45,7 +45,7 @@ print '<th>Time spent on personal finances per week</th>';
 print '<th>Time spent on personal chores per week</th>';
 print '<th>Time spent on house chores per week</th>';
 print '<th>Time spent on other activities per week</th>';
-print '<th>Total screen minutes (excluding screen time during meals)</th>';
+print '<th>Total screen minutes per week (excluding screen time during meals)</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
