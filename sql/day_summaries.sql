@@ -1646,4 +1646,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-06-23',4528,90,911,26,260,0,0,30,0,0,543,NULL),
   ('2022-06-24',4529,91,912,54,220,0,0,105,0,60,563,NULL),
   ('2022-06-25',4530,NULL,913,31,0,0,125,193,0,0,320,NULL),
-  ('2022-06-26',4531,NULL,914,7,0,0,13,290,0,20,241,'An outside trip to the Albany Target, as well as meal prep, account for my increased time on personal chores as well as my reduced screen time.');
+  ('2022-06-26',4531,NULL,914,7,0,0,13,290,0,20,241,'An outside trip to the Albany Target, as well as meal prep, account for my increased time on personal chores as well as my reduced screen time.'),
+  /* Week of 2022-06-27 */
+  ('2022-06-27',4534,92,915,224,325,0,0,38,0,0,758,NULL),
+  ('2022-06-28',4536,93,916,197,220,13,10,0,2,0,706,NULL),
+  ('2022-06-29',4538,94,NULL,263,65,0,0,0,0,0,638,NULL),
+  ('2022-06-30',4539,95,917,155,74,0,34,32,0,5,438,NULL),
+  ('2022-07-01',4540,96,918,12,27,133,105,85,0,20,622,NULL),
+  ('2022-07-02',4544,NULL,919,14,0,157,20,143,5,25,459,NULL),
+  ('2022-07-03',4545,97,920,76,60,46,20,90,0,60,505,NULL);
