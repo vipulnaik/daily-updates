@@ -1654,4 +1654,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-06-30',4539,95,917,155,74,0,34,32,0,5,438,NULL),
   ('2022-07-01',4540,96,918,12,27,133,105,85,0,20,622,NULL),
   ('2022-07-02',4544,NULL,919,14,0,157,20,143,5,25,459,NULL),
-  ('2022-07-03',4545,97,920,76,60,46,20,90,0,60,505,NULL);
+  ('2022-07-03',4545,97,920,76,60,46,20,90,0,60,505,NULL),
+  /* Week of 2022-07-04 */
+  ('2022-07-04',4546,98,921,147,10,0,0,99,0,0,521,NULL),
+  ('2022-07-05',4547,99,NULL,138,275,0,0,0,0,0,705,NULL),
+  ('2022-07-06',4549,100,922,116,207,5,0,13,0,0,617,NULL),
+  ('2022-07-07',4552,101,923,174,265,0,0,77,0,0,693,NULL),
+  ('2022-07-08',4554,102,924,32,150,105,0,138,0,0,560,'I was up till about midnight as I started my meal prep fairly late and needed to finish it.'),
+  ('2022-07-09',4555,NULL,925,25,0,310,0,157,0,0,565,'I was up past 2 AM working on the devops streamlining work, that I couldn''t do enough of during the day due to meal prep.'),
+  ('2022-07-10',4556,NULL,926,8,0,155,10,65,2,40,648,NULL);
