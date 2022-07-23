@@ -13,6 +13,7 @@ print '<th>Day job daily update (LiftIgniter / The Arena Group)</th>';
 print '<th>Day job daily update (Equator)</th>';
 print '<th>Personal daily update</th>';
 print '<th>Total accounted time spent</th>';
+print '<th>Total time spent on all day jobs</th>';
 print '<th>Time spent on day job (LiftIgniter / The Arena Group)</th>';
 print '<th>Time spent on day job (Equator)</th>';
 print '<th>Time spent on personal projects</th>';
@@ -44,6 +45,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
     print '<td><a href="https://github.com/vipulnaik/daily-updates/issues/'.$row['personal_daily_update'].'">#'.$row['personal_daily_update'].'</a></td>';
   }
   print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0)).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_day_job_liftigniter_and_arena']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_day_job_equator']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_projects']).'</td>';

@@ -38,6 +38,7 @@ print '<tr><th>Start date</th>';
 print '<th>End date</th>';
 print '<th>Number of days</th>';
 print '<th>Total accounted time spent per week</th>';
+print '<th>Total time spent on all days jobs per week</th>';
 print '<th>Time spent on day job per week (LiftIgniter / The Arena Group)</th>';
 print '<th>Time spent on day job per week (Equator)</th>';
 print '<th>Time spent on personal projects per week</th>';
@@ -55,6 +56,7 @@ for ($i = 0; $i < $monthSummariesResult -> num_rows; $i++) {
   print "<td>".$row['end_date']."</td>";
   print "<td>".$row['num_days']."</td>";
   print '<td align="right">'.convertToHoursAndMinutes((7 / ($row['num_days'] ?? 1)) * (($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0))).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes((7 / ($row['num_days'] ?? 1)) * (($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0))).'</td>';
   $adjustmentFactor = 7 / ($row['num_days'] ?? 1);
   foreach($typesOfTimeSpent as $columnFragment) {
     printBasedOnColumnFragment($row, $columnFragment, $adjustmentFactor);

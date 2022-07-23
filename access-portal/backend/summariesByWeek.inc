@@ -38,6 +38,7 @@ print '<tr><th>Start date</th>';
 print '<th>End date</th>';
 print '<th>Number of days</th>';
 print '<th>Total accounted time spent</th>';
+print '<th>Total time spent on all day jobs</th>';
 print '<th>Time spent on day job (LiftIgniter / The Arena Group)</th>';
 print '<th>Time spent on day job (Equator)</th>';
 print '<th>Time spent on personal projects</th>';
@@ -55,6 +56,7 @@ for ($i = 0; $i < $weekSummariesResult -> num_rows; $i++) {
   print "<td>".$row['end_date']."</td>";
   print "<td>".$row['num_days']."</td>";
   print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0)).'</td>';
   foreach($typesOfTimeSpent as $columnFragment) {
     printBasedOnColumnFragment($row, $columnFragment, 1);
   }
