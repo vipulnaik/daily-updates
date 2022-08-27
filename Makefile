@@ -13,9 +13,9 @@ init:
 
 .PHONY: reset
 reset:
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists day_summaries;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists week_summaries;"
-	mysql $(MYSQL_ARGS) -e "use $(DATABASE); drop table if exists month_summaries;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists day_summaries;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists week_summaries;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists month_summaries;"
 
 .PHONY: read
 read:
