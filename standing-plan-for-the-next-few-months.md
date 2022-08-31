@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: July 21, 2022
+Last major update: August 30, 2022
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -14,6 +14,18 @@ actually did, and I am more committed to keeping that up-to-date.
 My work situation got a little complicated between Q1 and Q3 2022, but
 I expect it to straighten out and reach a more manageable steady state
 by Q4 2022.
+
+The background is that I embarked on a job transition. I started
+splitting time between my existing job at LiftIgniter / Maven and a
+new job at Equator Therapeutics starting April 19, 2022, but in fact I
+informally started getting on top of what's going on at Equator
+starting February 2022. I'm planning to transition to being full-time
+at Equator starting October 1, 2022, so my last day at LiftIgniter /
+Maven will be September 30, 2022.
+
+The multiple-job situation as well as the knowledge transition work
+led to things being more busy, but by Q4 things will be closer to a
+normal stead state.
 
 ## Personal practices documentation and improvement
 
@@ -33,17 +45,22 @@ Q4 and the "long-run" effect by mid-2023.
 ## House move
 
 I moved house in April 2022. This led to a fair amount of work during
-April/May, and some residual work that continues to Q3 2022. As of
-July 2022, the main remaining pieces of work are:
+April/May, and some residual work. Since Q3 2022 has been a little
+busy with job transition, I'm planning to catch up with these residual
+items in Q4 2022. The three main pieces of work that remain are:
 
-* Getting a vacuum cleaner
-* Getting a new pillow (not directly related to the house move, but overdue)
-* Getting a new state ID card to have an easier address proof
+* Week of October 3: Getting a vacuum cleaner
+* Week of October 10: Getting a new pillow (not directly related to
+  the house move, but overdue)
+* Week of October 17: Getting a new state ID card to have an easier
+  address proof
 
-I plan to finish all these by the end of 2022. I might pick them up in
-Q3, though my busyness with work makes it a bit harder, and the heat
-makes it harder to run errands during the day. I should definitely be
-able to finish them in Q4 if not in Q3.
+The current week allocations are somewhat arbitrary, and I might defer
+these items further depending on my busyness, weather conditions, and
+other factors. I expect to get annual vaccines in November and
+possibly get my eye checkup some time in November too, so from a
+smoothing perspective it seems better to get through these house move
+items in October.
 
 ## Devops/server maintenance work through 2022
 
@@ -69,6 +86,17 @@ work, I expect that I won't really be able to work on DLW in Q3, but
 I'm hopng to start picking it up more in Q4 2022 and then through
 2023.
 
+## Timelines wiki work that has synergies with DLW work, and resultant EA Forum posts through late 2022 and 2023
+
+I want to work on a bunch of timelines in the timelines wiki that have
+synergies with the work I'm doing on DLW. While doing this, the
+synergistic work will also give rise to ideas that I might develop
+into EA Forum posts.
+
+Another side-effect of this work on timelines wiki will be more
+updates on general practices with timelines wiki, that I plan to then
+share with Sebastian and help inform his work as well.
+
 ## Getting out some blog posts and corresponding background work
 
 ### Posts about mental strength, stress, coping etc. (probably 2023 unless I get really excited about something)
@@ -84,12 +112,16 @@ since the act of writing them clarifies my own thinking as well. My
 general plan is to defer this till 2023 unless I get really excited
 about an idea.
 
+I have one draft post
+https://github.com/vipulnaik/working-drafts/blob/master/blog/how-my-life-has-improved.md
+that is worth polishing and publishing.
+
 I also wrote a draft post
 https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md
 back in 2020. I might want to revive it and update it, but probably
 that won't happen till 2023.
 
-### Retrospective post on EA Hotel donation (no specific timeline, maybe late 2022 or 2023)
+### Retrospective post on EA Hotel donation (no specific timeline, maybe Q2 2023)
 
 I would like to write a retrospective of my [EA Hotel
 donation](https://forum.effectivealtruism.org/posts/BM2DYWpM6rSxyZ7AS/my-q1-2019-ea-hotel-donation). I
