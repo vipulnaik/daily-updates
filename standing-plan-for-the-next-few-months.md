@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: August 30, 2022
+Last major update: September 5, 2022
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -62,7 +62,9 @@ possibly get my eye checkup some time in November too, so from a
 smoothing perspective it seems better to get through these house move
 items in October.
 
-## Devops/server maintenance work through 2022
+## Devops/server maintenance work through 2022 and early 2023
+
+### Server migration
 
 I'm trying to get to a point where I have a clean recipe (comprised of
 scripts) that I can use to set up a server for all my websites. This
@@ -78,6 +80,13 @@ relatively easier pieces of the gameplan in Q3 2022, and spend a fair
 chunk of time between September 3 and September 11 focused on
 it. Whatever harder pieces I couldn't finish in Q3, I plan to execute
 on in Q4.
+
+### Google Analytics migration in Q1 2023
+
+The Google Analytics migration has a hard deadline of June 30, 2023,
+so I should try to get it switched over in Q1 2023. I might have to do
+it on the old server if I have not yet moved over to the new server by
+then.
 
 ## Continuation of donations list website (DLW) through late 2022 and 2023
 
@@ -120,6 +129,13 @@ I also wrote a draft post
 https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md
 back in 2020. I might want to revive it and update it, but probably
 that won't happen till 2023.
+
+### Posts about job change and retrospective
+
+I might write a few posts in 2023 about these topics:
+
+* Reasons I switched to Equator/biotech
+* Comparison of my life in academia and industry
 
 ### Retrospective post on EA Hotel donation (no specific timeline, maybe Q2 2023)
 
