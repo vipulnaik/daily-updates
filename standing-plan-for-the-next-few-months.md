@@ -95,16 +95,22 @@ work, I expect that I won't really be able to work on DLW in Q3, but
 I'm hopng to start picking it up more in Q4 2022 and then through
 2023.
 
-## Timelines wiki work that has synergies with DLW work, and resultant EA Forum posts through late 2022 and 2023
+## Timelines wiki work
+
+### Work that has synergies with DLW work, and resultant EA Forum posts through late 2022 and 2023
 
 I want to work on a bunch of timelines in the timelines wiki that have
 synergies with the work I'm doing on DLW. While doing this, the
 synergistic work will also give rise to ideas that I might develop
 into EA Forum posts.
 
-Another side-effect of this work on timelines wiki will be more
-updates on general practices with timelines wiki, that I plan to then
-share with Sebastian and help inform his work as well.
+### Meta work
+
+Another side-effect of the above-mentioned work on timelines wiki will
+be more updates on general practices with timelines wiki, that I plan
+to then share with Sebastian and help inform his work as well. I also
+plan to make active efforts to articulate meta policies in
+collaboration with Issa and Sebastian.
 
 ## Getting out some blog posts and corresponding background work
 
