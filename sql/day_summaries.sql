@@ -1726,4 +1726,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-09-01',4649,150,971,188,75,47,15,65,0,0,707,NULL),
   ('2022-09-02',4651,NULL,972,295,0,40,0,130,0,0,604,NULL),
   ('2022-09-03',4652,151,973,6,63,173,0,15,0,0,760,NULL),
-  ('2022-09-04',4653,NULL,974,6,0,245,0,15,2,95,714,NULL);
+  ('2022-09-04',4653,NULL,974,6,0,245,0,15,2,95,714,NULL),
+  /* Week of 2022-09-05 */
+  ('2022-09-05',4654,152,975,7,135,52,0,70,0,5,690,'It was very hot on this day, so I focused on doing more rote tasks that didn''t require a lot of thought.'),
+  ('2022-09-06',4655,153,976,36,265,0,0,15,10,0,683,'It was very hot on this day, so I focused on doing more rote tasks that didn''t require a lot of thought.'),
+  ('2022-09-07',4659,154,977,10,60,262,0,128,0,13,605,'Although this was a working day, I ended up spending a lot of time on personal projects, mainly devops streamlining. Since this week I was not doing Arena Group work, I had a little bit of leeway with my time and used it to make progress on personal projects.'),
+  ('2022-09-08',NULL,155,978,0,30,225,0,6,0,0,743,'Although this was a working day, I ended up spending a lot of time on personal projects, mainly stuff related to the donations list website. Since this week I was not doing Arena Group work, I had a little bit of leeway with my time and used it to make progress on personal projects.'),
+  ('2022-09-09',NULL,156,979,0,260,57,0,55,0,0,656,NULL),
+  ('2022-09-10',4661,157,980,19,95,15,0,62,0,80,600,NULL),
+  ('2022-09-11',4662,158,981,4,82,178,0,19,0,45,556,NULL);
