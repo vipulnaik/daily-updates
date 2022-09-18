@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: September 5, 2022
+Last major update: September 18, 2022
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -8,6 +8,21 @@ though possibly less frequently (once in 2 or 3 months is also
 okay). My daily updates with summaries at
 https://updates.vipulnaik.com/ is a more accurate record of what I
 actually did, and I am more committed to keeping that up-to-date.
+
+## Summary by quarter
+
+My standing plan is pretty concrete (and packed) until Q2
+2023. There's a bit of open space in Q3 2023 and Q4 2023, and things
+are wide open starting 2024.
+
+Quarter | Primary focus (personal projects) | Secondary focus (personal projects) | Side things, such as blog posts
+-- | -- | -- | --
+Q3 2022 | Devops/server maintenance work (mostly one-time) | DLW data entry, Timelines wiki complementary and meta work | [Levels of donation](https://forum.effectivealtruism.org/posts/F4DxPrfmnEtEwhPJu/levels-of-donation)
+Q4 2022 | Devops/server maintenance work (mostly one-time) | DLW data entry, Timelines wiki complementary and meta work | [Regrets regarding past donations](https://github.com/vipulnaik/working-drafts/blob/master/eaf/what-regrets-have-you-had-regarding-past-donations.md), [How my life has improved](https://github.com/vipulnaik/working-drafts/blob/master/blog/how-my-life-has-improved.md)
+Q1 2023 | Devops/server maintenance work (mostly one-time), Google Analytics migration (one-time) | DLW data entry, Timelines wiki complementary and meta work | [Comparative retrospective of my life in academia and tech](https://github.com/vipulnaik/working-drafts/blob/master/blog/comparative-retrospective-of-my-life-in-academia-and-tech.md)
+Q2 2023 | Setting up new subwikis, DLW data entry | Timelines wiki complementary and meta work | [Managing personal projects with a demanding day job](https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md), EA Hotel retrospective post
+Q3 2023 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, DietWatch, CDP, devec, etc.) | COVID-19 forecasts retrospective post; probably several other posts, as my DLW data entry and timelines wiki work will generate several ideas
+Q4 2023 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
 ## Work situation
 
@@ -26,21 +41,6 @@ Maven will be September 30, 2022.
 The multiple-job situation as well as the knowledge transition work
 led to things being more busy, but by Q4 things will be closer to a
 normal steady state.
-
-## Personal practices documentation and improvement
-
-In Q2 and part of Q3 2022, I've been focused on streamlining and
-improving my personal practices. This has included a fair amount of
-documentation and extensive thinking. I expect this to continue to
-some extent through the rest of Q3 2022, but to get to a background
-level by Q4.
-
-The short-run effect has been to increase my time allocation to
-personal chores and reduce the time allocation to work and personal
-projects (relative to the counterfactual) but I expect the medium-run
-effect to be neutral and the long-run effect to be in the opposite
-direction. I expect the "medium-run" effect will be seen by the end of
-Q4 and the "long-run" effect by mid-2023.
 
 ## House move
 
@@ -64,7 +64,7 @@ items in October.
 
 ## Devops/server maintenance work through 2022 and early 2023
 
-### Server migration
+### Server migration (Q4 2022 and Q1 2023): mostly one-time
 
 I'm trying to get to a point where I have a clean recipe (comprised of
 scripts) that I can use to set up a server for all my websites. This
@@ -75,27 +75,59 @@ and malware attacks).
 
 My current hope and plan is to wrap this up in 2022. I've written up a
 gameplan but due to potential vulnerabilities I'm not sharing the
-gameplan publicly. At a high level, though, I plan to do the
-relatively easier pieces of the gameplan in Q3 2022, and spend a fair
-chunk of time between September 3 and September 11 focused on
-it. Whatever harder pieces I couldn't finish in Q3, I plan to execute
-on in Q4.
+gameplan publicly. At a high level, though, I plan to get all the
+non-MediaWiki stuff fully done in Q4 2022 (most of it is already
+prepared as of Q3 2022) and finish up the MediaWiki portion by Q1
+2023. The MediaWiki portion is a little more challenging insofar as
+multiple rounds of upgrades are needed, and I'm also waiting for
+MediaWiki to officially support the new version of PHP.
 
-### Google Analytics migration in Q1 2023
+**The ongoing burden of this work after Q1 2023 will be fairly
+low**. This can be thought of as mostly one-time work owing to the
+snowflakey work I approached server setup and maintenance in the last
+decade. So this is a one-time improvement/fix. However, I do plan to
+budget a little bit of time on a monthly, quarterly, or annual basis
+making sure that things are in order, and I might upgrade my OS every
+two years as a matter of course.
+
+### Google Analytics migration in Q1 2023: mostly one-time
 
 The Google Analytics migration has a hard deadline of June 30, 2023,
 so I should try to get it switched over in Q1 2023. I might have to do
 it on the old server if I have not yet moved over to the new server by
 then.
 
-## Continuation of donations list website (DLW) through late 2022 and 2023
+Google Analytics doesn't change up too often, so this is really
+one-time work.
 
-Between my increased day job work and the devops/server maintenance
-work, I expect that I won't really be able to work on DLW in Q3, but
-I'm hopng to start picking it up more in Q4 2022 and then through
-2023.
+### Setting up additional subwikis in Q2 2023
 
-## Timelines wiki work
+Once I have streamlined by subwiki setup process and moved to a new
+server, I'll streamline the process for setting up brand *new*
+subwikis, and then set up additional subwikis. One such possibility is
+an AI safety subwiki.
+
+While there may be more subwikis to add, I expect that the process
+will get streamlined more and more and the incremental effort of
+adding new subwikis will be low.
+
+## Continuation of donations list website (DLW) through late 2022 and 2023: potentially ongoing work
+
+I expect to start doing DLW work as time and mood permits starting Q4
+2022 and continuing into 2023. However, I will be prioritizing devops
+work and Google Analytics migration work over DLW work to the extent
+that I feel in the mood to do devops work. So DLW work may pick up in
+earnest only starting around Q2 2023.
+
+While I have a lot to catch up with on DLW to begin with, I don't yet
+have a clear sense of what the steady-state ongoing work level will be
+once I have caught up.
+
+## Timelines wiki work from Q4 2022 onward
+
+For the most part, work on timelines will be lower-priority for me
+than work on devops or DLW, but based on mood I might still end up
+doing a fair amount of work on timelines.
 
 ### Work that has synergies with DLW work, and resultant EA Forum posts through late 2022 and 2023
 
@@ -116,25 +148,18 @@ collaboration with Issa and Sebastian.
 
 ### Posts about mental strength, stress, coping etc. (probably 2023 unless I get really excited about something)
 
-I recently published a few blog posts on LessWrong about well-being:
-
-* https://www.lesswrong.com/posts/rBLEiEsNxpQaqwsmJ/miscellaneous-thoughts-on-handling-a-stressful-life
-* https://www.lesswrong.com/posts/zeT3rHE7eu2xhmWPi/the-case-for-mental-strength
-* https://www.lesswrong.com/posts/psMczuJ9KbujgrgLq/entitlement-as-a-major-amplifier-of-unhappiness
-
-I have a few more related thoughts that I might convert to posts,
-since the act of writing them clarifies my own thinking as well. My
-general plan is to defer this till 2023 unless I get really excited
-about an idea.
-
 I have one draft post
 https://github.com/vipulnaik/working-drafts/blob/master/blog/how-my-life-has-improved.md
-that is worth polishing and publishing.
+that is worth polishing and publishing. I might get around to this in
+Q4 2022 (the post is mostly ready so additional work needed to publish
+it is minimal) but I might also delay it further.
 
 I also wrote a draft post
 https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md
 back in 2020. I might want to revive it and update it, but probably
 that won't happen till 2023.
+
+I have thoughts on other posts but no ready-to-publish drafts that I can remember offhand.
 
 ### Posts about job change and retrospective
 
@@ -142,6 +167,16 @@ I might write a few posts in 2023 about these topics:
 
 * Reasons I switched to Equator/biotech
 * Comparison of my life in academia and industry
+
+I have one draft post at
+https://github.com/vipulnaik/working-drafts/blob/master/blog/comparative-retrospective-of-my-life-in-academia-and-tech.md
+with a comparative retrospective of academia and the tech sector.
+
+There's no blocker really to working on this post; however, it's
+somewhat lower in priority than the other personal projects work, and
+I also think the post can be even more accurate after a greater
+passage of time because I'll have a better sense of how things shaped
+up longer-term.
 
 ### Retrospective post on EA Hotel donation (no specific timeline, maybe Q2 2023)
 
