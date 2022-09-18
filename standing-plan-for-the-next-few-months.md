@@ -25,7 +25,7 @@ Maven will be September 30, 2022.
 
 The multiple-job situation as well as the knowledge transition work
 led to things being more busy, but by Q4 things will be closer to a
-normal stead state.
+normal steady state.
 
 ## Personal practices documentation and improvement
 
