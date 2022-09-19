@@ -1734,4 +1734,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-09-08',NULL,155,978,0,30,225,0,6,0,0,743,'Although this was a working day, I ended up spending a lot of time on personal projects, mainly stuff related to the donations list website. Since this week I was not doing Arena Group work, I had a little bit of leeway with my time and used it to make progress on personal projects.'),
   ('2022-09-09',NULL,156,979,0,260,57,0,55,0,0,656,NULL),
   ('2022-09-10',4661,157,980,19,95,15,0,62,0,80,600,NULL),
-  ('2022-09-11',4662,158,981,4,82,178,0,19,0,45,556,NULL);
+  ('2022-09-11',4662,158,981,4,82,178,0,19,0,45,556,NULL),
+  /* Week of 2022-09-12 */
+  ('2022-09-12',4664,NULL,982,201,0,132,0,130,0,0,656,NULL),
+  ('2022-09-13',4667,159,983,280,90,20,0,0,0,0,681,NULL),
+  ('2022-09-14',4668,160,984,231,30,0,0,15,0,30,600,NULL),
+  ('2022-09-15',4670,161,NULL,235,145,0,0,0,0,0,687,NULL),
+  ('2022-09-16',4672,162,NULL,335,60,0,0,0,0,0,726,NULL),
+  ('2022-09-17',4673,NULL,985,105,0,260,0,0,0,0,578,NULL),
+  ('2022-09-18',4674,163,986,5,160,4,0,140,0,0,533,NULL);
