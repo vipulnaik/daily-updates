@@ -30,7 +30,7 @@ for ($i = 0; $i < $monthSummariesNotesResult -> num_rows; $i++) {
   $notesMap[$row['month_start_date']] = $row['notes'];
 }
 
-print '<h4 id="summariesByMonth">Summaries by month ('.$monthSummariesResult -> num_rows.' rows)</h4>';
+print '<h4 id="summariesByMonth">Summaries by month ('.$monthSummariesNotesResult -> num_rows.' rows)</h4>';
 print "\n";
 print '<table id="myTableSummariesByMonth" class="tablesorter">'."\n";
 print "<thead>\n";
@@ -79,7 +79,7 @@ for ($i = 0; $i < $monthSummariesNotesResult -> num_rows; $i++) {
      for ($j = 0; $j < 11; $j++) {
        print "<td>N/A</td>";
      }
-     print "<td>".$row['notes']."</td>";
+     print "<td>".cleanNotes($row['notes'])."</td>";
   }
   print "</tr>\n";
 }
