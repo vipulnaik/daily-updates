@@ -22,7 +22,7 @@ $monthSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   group by year(date), month(date)
   order by min(date) desc;";
 $monthSummariesResult = $mysqli -> query($monthSummariesQuery);
-$monthSummariesNotesQuery = "select * from month_summaries;";
+$monthSummariesNotesQuery = "select * from month_summaries order by month_start_date desc;";
 $monthSummariesNotesResult = $mysqli -> query($monthSummariesNotesQuery);
 $notesMap = [];
 for ($i = 0; $i < $monthSummariesNotesResult -> num_rows; $i++) {
