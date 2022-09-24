@@ -64,8 +64,22 @@ for ($i = 0; $i < $monthSummariesResult -> num_rows; $i++) {
   printMinutesWithNumDaysToolTip($adjustmentFactor * $row['screen_minutes_m1'], $row['num_days_with_screen_minutes_m1']);
   if (isset($notesMap[$row['start_date']])) {
     print "<td>".cleanNotes($notesMap[$row['start_date']])."</td>";
+  } elif ($row['start_date'] = '2018-08-10') {
+    print "<td>".cleanNotes($notesMap['2018-08-01'])."</td>";
   }
   print "</tr>\n";
 }
 
+for ($i = 0; $i < $monthSummariesNotesResult -> num_rows; $i++) {
+  $row = $monthSummariesNotesResult -> fetch_assoc();
+  if ($row['month_start_date'] <= "2018-07-01") {
+     print "<tr><td>".$row['month_start_date']."</td>";
+     print "<td>".$row['month_end_date']."</td>";
+     for ($j = 0; $j < 11; $j++) {
+       print "<td>N/A</td>";
+     }
+     print "<td>".$row['notes']."</td>";
+  }
+  print "</tr>\n";
+}
 print "</tbody>\n</table>\n";
