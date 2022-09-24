@@ -16,12 +16,15 @@ reset:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists day_summaries;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists week_summaries;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists month_summaries;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists year_summaries;"
+
 
 .PHONY: read
 read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/week_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/month_summaries.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/year_summaries.sql
 
 .PHONY: fetch_table_sorting
 fetch_table_sorting:
