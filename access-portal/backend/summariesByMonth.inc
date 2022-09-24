@@ -70,6 +70,7 @@ for ($i = 0; $i < $monthSummariesResult -> num_rows; $i++) {
   print "</tr>\n";
 }
 
+$monthSummariesNotesResult -> data_seek(0);
 for ($i = 0; $i < $monthSummariesNotesResult -> num_rows; $i++) {
   $row = $monthSummariesNotesResult -> fetch_assoc();
   if ($row['month_start_date'] <= "2018-07-01") {
