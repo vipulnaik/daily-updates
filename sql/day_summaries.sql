@@ -1757,4 +1757,4 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-09-28',4694,170,996,300,45,0,0,80,10,30,795,NULL),
   ('2022-09-29',4697,171,997,258,55,0,0,85,0,0,709,NULL);
   -- NOTE: Friday data to be updated on Monday as it's partial
-  -- ('2022-09-30',4699,,,70,
+  -- ('2022-09-30',4699,,,75,
