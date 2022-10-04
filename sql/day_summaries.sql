@@ -1755,6 +1755,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-09-26',4690,NULL,994,267,0,60,0,50,0,0,699,NULL),
   ('2022-09-27',4691,169,995,180,65,35,0,40,0,0,527,NULL),
   ('2022-09-28',4694,170,996,300,45,0,0,80,10,30,795,NULL),
-  ('2022-09-29',4697,171,997,258,55,0,0,85,0,0,709,NULL);
-  -- NOTE: Friday data to be updated on Monday as it's partial
-  -- ('2022-09-30',4699,,,75,
+  ('2022-09-29',4697,171,997,258,55,0,0,85,0,0,709,NULL),
+  ('2022-09-30',4699,172,998,75,32,0,5,167,0,30,603,'This was officially my last day working for The Arena Group.'),
+  ('2022-10-01',NULL,NULL,999,130,0,10,100,60,2,0,719,'I spent some time on transition work related to my recent departure from The Arena Group. Since I no longer had access to the daily-updates repository there, I simply recorded the time spent in my personal daily update, without including details.'),
+  ('2022-10-02',NULL,173,1000,95,120,0,0,55,0,65,638,'I spent some time on transition work related to my recent departure from The Arena Group. Since I no longer had access to the daily-updates repository there, I simply recorded the time spent in my personal daily update, without including details.');
