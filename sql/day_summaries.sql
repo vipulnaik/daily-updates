@@ -1758,4 +1758,16 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-09-29',4697,171,997,258,55,0,0,85,0,0,709,NULL),
   ('2022-09-30',4699,172,998,75,32,0,5,167,0,30,603,'This was officially my last day working for The Arena Group.'),
   ('2022-10-01',NULL,NULL,999,130,0,10,100,60,2,0,719,'I spent some time on transition work related to my recent departure from The Arena Group. Since I no longer had access to the daily-updates repository there, I simply recorded the time spent in my personal daily update, without including details.'),
-  ('2022-10-02',NULL,173,1000,95,120,0,0,55,0,65,638,'I spent some time on transition work related to my recent departure from The Arena Group. Since I no longer had access to the daily-updates repository there, I simply recorded the time spent in my personal daily update, without including details.');
+  ('2022-10-02',NULL,173,1000,95,120,0,0,55,0,65,638,'I spent some time on transition work related to my recent departure from The Arena Group. Since I no longer had access to the daily-updates repository there, I simply recorded the time spent in my personal daily update, without including details.'),
+  /* Week of 2022-10-03 */
+  ('2022-10-03',NULL,174,1001,5,205,0,0,22,0,0,583,'I spent some time on transition work related to my recent departure from The Arena Group. Since I no longer had access to the daily-updates repository there, I simply recorded the time spent in my personal daily update, without including details.'),
+  ('2022-10-04',NULL,175,1002,120,120,18,15,10,2,10,591,'I spent some time on transition work related to my recent departure from The Arena Group. Since I no longer had access to the daily-updates repository there, I simply recorded the time spent in my personal daily update, without including details.'),
+  ('2022-10-05',NULL,176,1003,4,148,30,4,65,0,4,484,'I spent some time on transition work related to my recent departure from The Arena Group. Since I no longer had access to the daily-updates repository there, I simply recorded the time spent in my personal daily update, without including details.'),
+  ('2022-10-06',NULL,177,1004,0,215,0,0,120,0,15,936,NULL),
+  ('2022-10-07',NULL,178,1005,0,290,10,0,7,0,20,209,'This was an unusual day -- I visited the Equator office/lab in Joinn Innovation Park to help with some tech setup.'),
+  ('2022-10-08',NULL,179,1006,0,188,20,0,15,0,23,581,NULL),
+  ('2022-10-09',NULL,180,1007,0,75,85,0,90,0,50,446,NULL);
+
+/* Starting week of 2022-10-10 I should probably make a shorter insert
+   statement that excludes the Arena columns, as I am done with the
+   transition */
