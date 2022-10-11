@@ -841,7 +841,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2020-07-22',3038,230,263,70,0,40,0,0,NULL),
   ('2020-07-23',3039,231,280,0,0,105,0,30,NULL),
   ('2020-07-24',3042,232,360,10,0,0,0,10,NULL),
-  ('2020-07-25',3046,233,265,125,80,0,0,0,NULL),
+  ('2020-07-25',3046,233,265,0,80,125,0,0,NULL),
   ('2020-07-26',3047,234,260,5,0,70,0,90,NULL),
   /* Week of 2020-07-27 */
   ('2020-07-27',3048,235,270,30,0,0,0,0,'I was feeling unwell on this day, so the total across work time and personal time was low. I napped a little bit.'),
