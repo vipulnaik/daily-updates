@@ -15,11 +15,10 @@ My standing plan is pretty concrete (and packed) until Q2
 2023. There's a bit of open space in Q3 2023 and Q4 2023, and things
 are wide open starting 2024.
 
-Quarter | Primary focus (personal projects) | Secondary focus (personal projects) | Side things, such as blog posts
+Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
-Q3 2022 | Devops/server maintenance work (mostly one-time) | DLW data entry, Timelines wiki complementary and meta work | [Levels of donation](https://forum.effectivealtruism.org/posts/F4DxPrfmnEtEwhPJu/levels-of-donation), [Regrets regarding past donations](https://forum.effectivealtruism.org/posts/xvebegCf8NReJc2Lw/what-regrets-have-you-had-regarding-past-donations)
-Q4 2022 | Devops/server maintenance work (mostly one-time) | DLW data entry, Timelines wiki complementary and meta work | [How my life has improved](https://github.com/vipulnaik/working-drafts/blob/master/blog/how-my-life-has-improved.md)
-Q1 2023 | Devops/server maintenance work (mostly one-time), Google Analytics migration (one-time) | DLW data entry, Timelines wiki complementary and meta work | [Comparative retrospective of my life in academia and tech](https://github.com/vipulnaik/working-drafts/blob/master/blog/comparative-retrospective-of-my-life-in-academia-and-tech.md)
+Q4 2022 | Devops/server maintenance work (mostly one-time) | Family planning, DLW data entry, Timelines wiki complementary and meta work | [How my life has improved](https://github.com/vipulnaik/working-drafts/blob/master/blog/how-my-life-has-improved.md)
+Q1 2023 | Devops/server maintenance work (mostly one-time), Google Analytics migration (one-time) | Family planning, DLW data entry, Timelines wiki complementary and meta work | [Comparative retrospective of my life in academia and tech](https://github.com/vipulnaik/working-drafts/blob/master/blog/comparative-retrospective-of-my-life-in-academia-and-tech.md)
 Q2 2023 | Setting up new subwikis, DLW data entry | Timelines wiki complementary and meta work | [Managing personal projects with a demanding day job](https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md), EA Hotel retrospective post
 Q3 2023 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | COVID-19 forecasts retrospective post; probably several other posts, as my DLW data entry and timelines wiki work will generate several ideas
 Q4 2023 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
@@ -110,6 +109,20 @@ an AI safety subwiki.
 While there may be more subwikis to add, I expect that the process
 will get streamlined more and more and the incremental effort of
 adding new subwikis will be low.
+
+## Family planning work starting Q4 2022
+
+I want to think systematically about having a family -- the search for
+a life partner, the various steps involved with having kids, and
+more. I've been thinking off and on about this but haven't been
+systematically documenting my thoughts. Starting in Q4 2022 I'm going
+to start writing (private) notes documenting my thoughts on a variety
+of aspects of this. The hope is that this could inform relevant
+actions in 2023 such as searching for a partner or looking into other
+life change options.
+
+I'm probably not going to say a lot about this publicly except that
+I'm thinking about the topic.
 
 ## Continuation of donations list website (DLW) through late 2022 and 2023: potentially ongoing work
 
