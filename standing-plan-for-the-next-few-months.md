@@ -17,7 +17,7 @@ are wide open starting 2024.
 
 Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
-Q4 2022 | Devops/server maintenance work (mostly one-time) | Family planning, DLW data entry, Timelines wiki complementary and meta work | [How my life has improved](https://github.com/vipulnaik/working-drafts/blob/master/blog/how-my-life-has-improved.md), rapid checklists post
+Q4 2022 | Devops/server maintenance work (mostly one-time) | Family planning, Timelines wiki complementary and meta work | [How my life has improved](https://github.com/vipulnaik/working-drafts/blob/master/blog/how-my-life-has-improved.md), rapid checklists post
 Q1 2023 | Devops/server maintenance work (mostly one-time), Google Analytics migration (one-time) | Family planning, DLW data entry, Timelines wiki complementary and meta work | [Comparative retrospective of my life in academia and tech](https://github.com/vipulnaik/working-drafts/blob/master/blog/comparative-retrospective-of-my-life-in-academia-and-tech.md)
 Q2 2023 | Setting up new subwikis, DLW data entry | Timelines wiki complementary and meta work | [Managing personal projects with a demanding day job](https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md), EA Hotel retrospective post
 Q3 2023 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | COVID-19 forecasts retrospective post; probably several other posts, as my DLW data entry and timelines wiki work will generate several ideas
@@ -124,10 +124,10 @@ life change options.
 I'm probably not going to say a lot about this publicly except that
 I'm thinking about the topic.
 
-## Continuation of donations list website (DLW) through late 2022 and 2023: potentially ongoing work
+## Continuation of donations list website (DLW) in 2023: potentially ongoing work
 
-I expect to start doing DLW work as time and mood permits starting Q4
-2022 and continuing into 2023. However, I will be prioritizing devops
+I expect to start doing DLW work as time and mood permits starting Q1
+2023 and continuing into 2023. However, I will be prioritizing devops
 work and Google Analytics migration work over DLW work to the extent
 that I feel in the mood to do devops work. So DLW work may pick up in
 earnest only starting around Q2 2023.
