@@ -7,6 +7,7 @@ $weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   sum(case when minutes_spent_on_personal_finances is not null then 1 else 0 end) as num_days_with_personal_finances_data,
   sum(case when minutes_spent_on_personal_chores is not null then 1 else 0 end) as num_days_with_personal_chores_data,
   sum(case when minutes_spent_on_house_chores is not null then 1 else 0 end) as num_days_with_house_chores_data,
+  sum(case when minutes_spent_on_family_planning is not null then 1 else 0 end) as num_days_with_family_planning_data,
   sum(case when minutes_spent_on_other_activities is not null then 1 else 0 end) as num_days_with_other_activities_data,
   sum(case when screen_minutes_m1 is not null then 1 else 0 end) as num_days_with_screen_minutes_m1,
   sum(coalesce(minutes_spent_on_day_job_liftigniter_and_arena, 0)) as minutes_spent_on_day_job_liftigniter_and_arena,
@@ -15,6 +16,7 @@ $weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   sum(coalesce(minutes_spent_on_personal_finances, 0)) as minutes_spent_on_personal_finances,
   sum(coalesce(minutes_spent_on_personal_chores, 0)) as minutes_spent_on_personal_chores,
   sum(coalesce(minutes_spent_on_house_chores, 0)) as minutes_spent_on_house_chores,
+  sum(coalesce(minutes_spent_on_family_planning, 0)) as minutes_spent_on_family_planning,
   sum(coalesce(minutes_spent_on_other_activities, 0)) as minutes_spent_on_other_activities,
   sum(coalesce(screen_minutes_m1, 0)) as screen_minutes_m1,
   count(1) as num_days
@@ -45,6 +47,7 @@ print '<th>Time spent on personal projects</th>';
 print '<th>Time spent on personal finances</th>';
 print '<th>Time spent on personal chores</th>';
 print '<th>Time spent on house chores</th>';
+print '<th>Time spent on family planning</th>';
 print '<th>Time spent on other activities</th>';
 print '<th>Total screen minutes (excluding screen time during meals)</th>';
 print '<th>Notes</th>';
@@ -55,7 +58,7 @@ for ($i = 0; $i < $weekSummariesResult -> num_rows; $i++) {
   print "<tr><td>".$row['start_date']."</td>";
   print "<td>".$row['end_date']."</td>";
   print "<td>".$row['num_days']."</td>";
-  print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_family_planning'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0)).'</td>';
   foreach($typesOfTimeSpent as $columnFragment) {
     printBasedOnColumnFragment($row, $columnFragment, 1);

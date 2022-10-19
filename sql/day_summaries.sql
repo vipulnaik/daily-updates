@@ -9,6 +9,7 @@ create table day_summaries(
   `minutes_spent_on_personal_finances` int(11),
   `minutes_spent_on_personal_chores` int(11),
   `minutes_spent_on_house_chores` int(11),
+  `minutes_spent_on_family_planning` int(11),
   `minutes_spent_on_other_activities` int(11),
   `screen_minutes_m1` int(11),
   `notes` varchar(2000)
@@ -1768,6 +1769,16 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-10-08',NULL,179,1006,0,188,20,0,15,0,23,581,NULL),
   ('2022-10-09',NULL,180,1007,0,75,85,0,90,0,50,446,NULL);
 
-/* Starting week of 2022-10-10 I should probably make a shorter insert
-   statement that excludes the Arena columns, as I am done with the
-   transition */
+
+/* Starting 2022-10-10, I include a new category of "family planning"
+   and also stop using the LI/Arena daily update. I move the column
+   for minutes spent on Arena to the end, since it's usually zero now. */
+insert into day_summaries(date, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_equator, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_planning, minutes_spent_on_other_activities, minutes_spent_on_day_job_liftigniter_and_arena, screen_minutes_m1, notes) values
+  /* Week of 2022-10-10 */
+  ('2022-10-10',181,1008,35,195,0,210,0,0,0,0,531,'Although this was a working day, I ended up spending a bunch of time dealing with somewhat-time-sensitive server devops stuff. Since I also needed to cook, I ended up spending very little time on work.'),
+  ('2022-10-11',182,1009,206,15,0,50,0,0,0,0,613,NULL),
+  ('2022-10-12',183,1010,30,12,0,98,20,58,90,30,491,NULL),
+  ('2022-10-13',184,1011,133,162,0,0,0,0,0,0,635,NULL),
+  ('2022-10-14',185,1012,120,130,0,131,0,0,45,0,566,NULL),
+  ('2022-10-15',186,1013,135,45,0,23,0,0,165,0,480,NULL),
+  ('2022-10-16',187,1014,272,15,0,0,0,0,20,0,715,NULL);
