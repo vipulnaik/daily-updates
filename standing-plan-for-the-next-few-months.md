@@ -48,10 +48,10 @@ April/May, and some residual work. Since Q3 2022 has been a little
 busy with job transition, I'm planning to catch up with these residual
 items in Q4 2022. The three main pieces of work that remain are:
 
-* Week of October 24: Getting a new state ID card to have an easier
+* Week of October 31: Getting a new state ID card to have an easier
   address proof
-* Week of October 31: Getting a vacuum cleaner
-* Week of November 7: Getting a new pillow (not directly related to
+* Week of November 7: Getting a vacuum cleaner
+* Week of November 14: Getting a new pillow (not directly related to
   the house move, but overdue)
 
 The current week allocations are somewhat arbitrary, and I might defer
