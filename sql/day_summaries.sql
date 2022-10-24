@@ -1781,4 +1781,12 @@ insert into day_summaries(date, day_job_equator_daily_update, personal_daily_upd
   ('2022-10-13',184,1011,133,162,0,0,0,0,0,0,635,NULL),
   ('2022-10-14',185,1012,120,130,0,131,0,0,45,0,566,NULL),
   ('2022-10-15',186,1013,135,45,0,23,0,0,165,0,480,NULL),
-  ('2022-10-16',187,1014,272,15,0,0,0,0,20,0,715,NULL);
+  ('2022-10-16',187,1014,272,15,0,0,0,0,20,0,715,NULL),
+  /* Week of 2022-10-17 */
+  ('2022-10-17',188,NULL,276,0,0,0,0,0,0,0,734,NULL),
+  ('2022-10-18',189,1015,260,0,8,0,0,0,0,0,601,NULL),
+  ('2022-10-19',190,1016,275,0,0,140,0,0,0,0,86,'This was an unusual day -- I visited the Equator office/lab in Joinn Innovation Park to help with some tech setup. After returning home, I did meal prep. As a result, I spent very little time on my main computer.'),
+  ('2022-10-20',191,1017,249,0,0,67,0,0,5,0,610,NULL),
+  ('2022-10-21',192,1018,194,28,0,42,0,0,0,4,557,NULL),
+  ('2022-10-22',193,1019,116,125,0,55,0,0,20,0,498,NULL),
+  ('2022-10-23',194,1020,208,30,0,0,0,0,110,0,698,NULL);
