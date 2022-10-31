@@ -20,6 +20,7 @@ print '<th>Time spent on personal projects</th>';
 print '<th>Time spent on personal finances</th>';
 print '<th>Time spent on personal chores</th>';
 print '<th>Time spent on house chores</th>';
+print '<th>Time spent on family planning</th>';
 print '<th>Time spent on other activities</th>';
 print '<th>Total screen minutes (excluding screen time during meals)</th>';
 print '<th>Notes</th>';
@@ -44,7 +45,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   } else {
     print '<td><a href="https://github.com/vipulnaik/daily-updates/issues/'.$row['personal_daily_update'].'">#'.$row['personal_daily_update'].'</a></td>';
   }
-  print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_family_planning'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0)).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_day_job_liftigniter_and_arena']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_day_job_equator']).'</td>';
@@ -52,6 +53,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_finances']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_chores']).'</td>';  
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_house_chores']).'</td>';  
+  print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_family_planning']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_other_activities']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['screen_minutes_m1']).'</td>';
   if (isset($row['notes'])) {
