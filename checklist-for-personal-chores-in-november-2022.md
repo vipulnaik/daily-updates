@@ -26,21 +26,21 @@ purely mood-driven reasons.
 
 I might also do a downtown Berkeley trip after this for grocery shopping.
 
-## 2022-11-05 (Saturday)
-
-- [ ] Get vacuum cleaner from Ace Hardware -- I will walk to location,
-  but might take BART back depending on how heavy it is.
-- [ ] Do thorough vacuuming of apartment
-
-## 2022-11-06 (Sunday)
-
-- [ ] Go to Mancini's for pillow shopping
-
 ## 2022-11-09 (Wednesday)
 
 - [ ] Get COVID-19 vaccine
 - [ ] Do remaining Walgreens shopping
 - [ ] Book flu vaccine appointment for two weeks later
+
+## 2022-11-12 (Saturday)
+
+- [ ] Get vacuum cleaner from Ace Hardware -- I will walk to location,
+  but might take BART back depending on how heavy it is.
+- [ ] Do thorough vacuuming of apartment
+
+## 2022-11-13 (Sunday)
+
+- [ ] Go to Mancini's for pillow shopping
 
 ## 2022-11-14
 
