@@ -1797,4 +1797,12 @@ insert into day_summaries(date, day_job_equator_daily_update, personal_daily_upd
   ('2022-10-27',198,1024,186,114,0,52,0,30,3,0,566,NULL),
   ('2022-10-28',199,1025,230,70,0,50,0,0,0,0,700,NULL),
   ('2022-10-29',200,1026,130,0,0,247,17,0,0,0,919,'For some reason the screen was considered to be on overnight by the screen time app, even though the computer was sleeping. This explains the anomalously high screen time.'),
-  ('2022-10-30',201,1027,252,3,0,0,0,0,40,0,644,NULL);
+  ('2022-10-30',201,1027,252,3,0,0,0,0,40,0,644,NULL),
+  /* Week of 2022-10-31 */
+  ('2022-10-31',202,1028,88,40,2,125,0,0,4,0,482,NULL),
+  ('2022-11-01',203,1029,72,84,5,35,0,0,0,0,437,NULL),
+  ('2022-11-02',204,1030,280,0,0,0,6,0,0,0,77,'I spent the working day at Equator''s office at Joinn Innovation Park. I carried my old laptop to the site, explaining the low recorded screen time.'),
+  ('2022-11-03',205,1031,244,0,23,58,0,0,9,0,539,NULL),
+  ('2022-11-04',206,1032,137,20,2,250,0,0,0,0,324,NULL),
+  ('2022-11-05',207,1033,285,0,2,23,0,0,0,0,629,NULL),
+  ('2022-11-06',208,1034,260,3,8,0,0,0,20,0,621,NULL);
