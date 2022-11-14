@@ -12,44 +12,43 @@ purely mood-driven reasons.
 
 ## 2022-11-03 (Thursday)
 
-- [ ] Finish heavy laundry (this is a blocker to some outside trips as I want to wash my sweatshirt post-Joinn before using it again)
+- [x] Finish heavy laundry (this is a blocker to some outside trips as I want to wash my sweatshirt post-Joinn before using it again)
 
 ## 2022-11-04 (Friday)
 
-- [ ] I should leave by around noon so as to be back well in time for
+- [x] I should leave by around noon so as to be back well in time for
   my 2 PM appointment: Pick up items from Amazon locker (pickup
   deadline is 2022-11-09 and I don't want to risk getting too close to
   the deadline)
-- [ ] I can do this either on the return trip from the Amazon locker
-  pickup (time and resources permitting) or after my Friday meetings:
-  Get first pass of stuff from Walgreens
 
 I might also do a downtown Berkeley trip after this for grocery shopping.
 
 ## 2022-11-09 (Wednesday)
 
-- [ ] Get COVID-19 vaccine
-- [ ] Do remaining Walgreens shopping
-- [ ] Book flu vaccine appointment for two weeks later
+- [x] Get COVID-19 vaccine
+- [x] Do Walgreens shopping
+
+## 2022-11-11 (Friday)
+
+- [x] Go to Mancini's for pillow shopping
 
 ## 2022-11-12 (Saturday)
 
-- [ ] Get vacuum cleaner from Ace Hardware -- I will walk to location,
-  but might take BART back depending on how heavy it is.
+- [x] Get vacuum cleaner from Ace Hardware
+
+## Week of 2022-11-14
+
 - [ ] Do thorough vacuuming of apartment
 
-## 2022-11-13 (Sunday)
-
-- [ ] Go to Mancini's for pillow shopping
-
-## 2022-11-14
+## 2022-11-28
 
 - [ ] Make a trip if needed to print out necessary stuff to help with California state ID card renewal
 
-## 2022-11-16
+## 2022-11-30
 
 - [ ] Go to DMV for ID card renewal with new address
 
-## 2022-11-23 (Wednesday) -- tentative
+## Still pending
 
-- [ ] Get flu vaccine
+- [ ] Book flu vaccine appointment and get flu vaccine
+
