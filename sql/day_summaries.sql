@@ -1805,4 +1805,12 @@ insert into day_summaries(date, day_job_equator_daily_update, personal_daily_upd
   ('2022-11-03',205,1031,244,0,23,58,0,0,9,0,539,NULL),
   ('2022-11-04',206,1032,137,20,2,250,0,0,0,0,324,NULL),
   ('2022-11-05',207,1033,285,0,2,23,0,0,0,0,629,NULL),
-  ('2022-11-06',208,1034,260,3,8,0,0,0,20,0,621,NULL);
+  ('2022-11-06',208,1034,260,3,8,0,0,0,20,0,621,NULL),
+  /* Week of 2022-11-07 */
+  ('2022-11-07',209,1035,195,0,0,57,3,0,0,0,489,NULL),
+  ('2022-11-08',210,1036,245,0,0,113,0,0,0,0,561,NULL),
+  ('2022-11-09',211,1037,180,0,0,103,0,0,0,0,334,'I got my COVID-19 vaccine updated booster dose on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-11-09-pfizer-covid-vaccine-updated-booster-dose.md for details.'),
+  ('2022-11-10',212,1038,173,10,0,8,0,0,0,25,433,'I was recovering from the effects of the COVI-19 vaccine updated booster dose that I had gotten the previous day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-11-09-pfizer-covid-vaccine-updated-booster-dose.md for details.'),
+  ('2022-11-11',213,1039,225,30,7,20,0,0,0,5,505,NULL),
+  ('2022-11-12',214,1040,65,140,0,105,0,0,0,15,458,NULL),
+  ('2022-11-13',215,1041,108,89,5,19,0,0,40,0,581,NULL);
