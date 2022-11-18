@@ -9,7 +9,7 @@ To be executed on the 1st of the month, or soon after:
 - [ ] alternating months: Make sure SSL/TLS certificates for Linode are updated
 - [ ] `wikipediaviews`: Switch month
 - [ ] `bart`: If I feel like it, update to include new months (currently I do it once every 5-6 months)
-- [ ] backups: Do a sanity check that backups of both my sites and timelines.issarice.com are coming in just fine
+- [ ] backups: Do a sanity check that backups of ~~both my sites and~~ timelines.issarice.com are coming in just fine (note: backup-checking of my sites is automated and daily now, so for my sites I can just verify that the backup-checking job has been running)
 
 To be executed at next Monday:
 
