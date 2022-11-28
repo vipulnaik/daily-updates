@@ -1821,4 +1821,12 @@ insert into day_summaries(date, day_job_equator_daily_update, personal_daily_upd
   ('2022-11-17',219,1045,42,85,5,20,0,0,110,0,463,NULL),
   ('2022-11-18',220,1046,80,117,0,0,0,0,45,15,442,NULL),
   ('2022-11-19',221,1047,20,110,0,120,0,0,120,0,380,NULL),
-  ('2022-11-20',222,1048,115,95,5,0,0,0,75,0,577,NULL);
+  ('2022-11-20',222,1048,115,95,5,0,0,0,75,0,577,NULL),
+  /* Week of 2022-11-21 */
+  ('2022-11-21',223,1049,95,85,25,87,0,0,0,0,354,NULL),
+  ('2022-11-22',224,1050,228,60,0,30,0,0,0,0,457,NULL),
+  ('2022-11-23',NULL,1051,0,70,65,264,0,0,0,0,456,'I spent the day on a bunch of personal stuff (some of which was time-sensitive since I wanted to do it before Thanksgiving) and ended up spending zero time on my day job.'),
+  ('2022-11-24',225,1052,135,100,0,130,0,0,0,0,457,NULL),
+  ('2022-11-25',226,1053,244,55,0,8,0,0,0,0,545,NULL),
+  ('2022-11-26',227,1054,290,0,0,75,0,0,0,0,542,'I got my flu shot on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2022-11-26-flu-shot.md for more.'),
+  ('2022-11-27',228,1055,90,108,0,63,0,0,60,0,538,NULL);
