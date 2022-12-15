@@ -99,12 +99,13 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, note
   ('2018-10-18',171,NULL),
   ('2018-10-19',174,NULL);
 
+/* missing numbers: 58 (long-term tasks), 93 (open-ended Saturday checklist) */
 insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, notes) values
   /* Week of 2018-10-20 and 2018-10-21 */
   ('2018-10-20',177,1,'This was the first day on whcich I posted a persoanl daily update.'),
-  ('2018-10-21',179,NULL,NULL),
+  ('2018-10-21',179,2,NULL),
   /* Week of 2018-10-22 */
-  ('2018-10-22',180,2,NULL),
+  ('2018-10-22',180,3,NULL),
   ('2018-10-23',182,4,NULL),
   ('2018-10-24',187,NULL,NULL),
   ('2018-10-25',189,NULL,NULL),
@@ -344,7 +345,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2019-05-16',1214,NULL,356,NULL),
   ('2019-05-17',1219,NULL,438,NULL),
   ('2019-05-18',1224,71,190,NULL),
-  ('2019-05-19',1225,NULL,115,NULL),
+  ('2019-05-19',1225,75,115,NULL),
   /* Week of 2019-05-20 */
   ('2019-05-20',1228,76,435,NULL),
   ('2019-05-21',1233,NULL,392,NULL),
