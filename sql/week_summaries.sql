@@ -1,7 +1,7 @@
 create table week_summaries(
   `week_start_date` date primary key not null,
   `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into week_summaries(week_start_date, notes) values
   ('2020-11-02',NULL),

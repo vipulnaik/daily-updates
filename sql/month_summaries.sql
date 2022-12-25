@@ -2,7 +2,7 @@ create table month_summaries(
   `month_start_date` date primary key not null,
   `month_end_date` date,
   `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into month_summaries(month_start_date, month_end_date, notes) values
   ('2013-12-01','2013-12-31','This was the month when I wrapped up my Ph.D. process and my teaching duties at the University of Chicago. I did a bunch of work wrapping things up in Chicago and preparing for my move to Berkeley in January. I also set up my personal website at https://vipulnaik.com/ and spent time getting things set up for Cognito Mentoring with Jonah Sinick. Jonah would announce Cognito Mentoring at https://www.lesswrong.com/posts/hphGa6xfad3m4imCs/cognito-mentoring-an-advising-service-for-intellectually on the last day of the month.'),

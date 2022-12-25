@@ -13,7 +13,7 @@ create table day_summaries(
   `minutes_spent_on_other_activities` int(11),
   `screen_minutes_m1` int(11),
   `notes` varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, notes) values
   /* Week of 2018-08-10 */

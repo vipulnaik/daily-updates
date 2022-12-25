@@ -1,7 +1,7 @@
 create table year_summaries(
   year year,
   notes varchar(2000)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into year_summaries(year, notes) values
   ('2014','For the first half of the year, I juggled trying out Cognito Mentoring with several part-time contract work jobs. In August, I started my first full-time job; this was at LiftIgniter. Toward the end of the year, I was discovering a work/life balance. On the personal projects front, I spent a fair amount of time editing Wikipedia and also on Open Borders: The Case blog posts.'),
