@@ -1938,4 +1938,8 @@ insert into day_summaries(date, day_job_equator_daily_update, personal_daily_upd
   /* Week of 2023-02-27 */
   ('2023-02-27',319,1141,242,0,0,38,0,0,0,2,515,NULL),
   ('2023-02-28',320,1142,212,12,0,7,0,0,0,35,506,NULL),
-  ('2023-03-01',321,1143,83,0,13,67,0,0,0,0,254,NULL);
+  ('2023-03-01',321,1143,83,0,13,67,0,0,0,0,254,NULL),
+  ('2023-03-02',322,1144,192,0,0,35,0,0,5,0,517,NULL),
+  ('2023-03-03',323,1145,151,3,0,93,0,0,0,25,457,'This was officially my last day at Equator, though I still had a few loose ends to wrap up over the next few days.'),
+  ('2023-03-04',324,1146,60,95,17,12,0,0,0,0,476,NULL),
+  ('2023-03-05',NULL,1147,0,80,0,160,0,0,25,30,434,NULL);
