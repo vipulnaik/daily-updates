@@ -8,7 +8,7 @@
 
 <p>I left The Arena Group (the company that had acquired LiftIgniter) on <a href="https://github.com/themaven-net/daily-updates/issues/4699" rel="nofollow">Friday, September 30, 2022</a>, starting October 1, 2022, I switched to full-time work at Equator Therapeutics. After leaving The Arena Group, I lost access to my daily updates issues from my time at LiftIgniter or The Arena Group.</p>
 
-<p>I later ended up having to leave Equator Therapeutics. My last day at Equator Therapeutics will be Friday, March 3, 2023. I will resume work at The Arena Group in a part-time capacity on Monday, March 6, 2023.</p>
+<p>I later ended up having to leave Equator Therapeutics. My last day at Equator Therapeutics as Friday, March 3, 2023. I resumed work at The Arena Group in a part-time capacity on Monday, March 6, 2023.</p>
 
 <p>For more on my job history, see my <a href="https://vipulnaik.com/job/">job page</a>.</p>
 
