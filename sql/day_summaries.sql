@@ -1944,7 +1944,7 @@ insert into day_summaries(date, day_job_equator_daily_update, personal_daily_upd
   ('2023-03-04',324,1146,60,95,17,12,0,0,0,0,476,NULL),
   ('2023-03-05',NULL,1147,0,80,0,160,0,0,25,30,434,NULL);
 
-/* For the next few weeks, I started work at Arena Group, while still wrapping up a few lookse ends at Equator (I retained access to Equator daily updates for these few weeks) */
+/* For the next few weeks, I started work at Arena Group, while still wrapping up a few loose ends at Equator (I retained access to Equator daily updates for these few weeks) */
 insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_day_job_equator, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_planning, minutes_spent_on_other_activities, screen_minutes_m1, notes) values
   /* Week of 2023-03-06 */
   ('2023-03-06',4822,325,NULL,440,4,0,0,0,0,0,0,790,'This was my first day back at The Arena Group, and a lot of the day was taken up in onboarding and setup activities.'),
@@ -1967,4 +1967,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2023-03-21',4844,NULL,1160,276,0,0,0,0,0,0,10,526,NULL),
   ('2023-03-22',4846,NULL,1161,304,0,0,0,0,0,0,30,531,NULL),
   ('2023-03-23',4847,NULL,1162,282,0,0,0,55,0,0,0,595,NULL),
-  ('2023-03-24',4848,NULL,1163,129,0,0,0,136,0,0,0,438,NULL);
+  ('2023-03-24',4848,NULL,1163,129,0,0,0,136,0,0,0,438,NULL),
+  ('2023-03-25',4849,335,1164,31,60,0,0,60,0,0,5,392,NULL),
+  ('2023-03-26',4850,336,1165,108,138,0,0,0,0,0,15,517,NULL),
+  /* Week of 2023-03-27 */
+  ('2023-03-27',4851,337,1166,223,75,0,0,15,0,0,0,621,NULL),
+  ('2023-03-28',4852,338,NULL,224,150,0,0,0,0,0,0,646,NULL),
+  ('2023-03-29',4853,NULL,NULL,370,0,0,0,0,0,0,0,658,NULL);
