@@ -28,7 +28,7 @@ print "</tr></thead>\n<tbody>\n";
 
 for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   $row = $summariesResult -> fetch_assoc();
-  print "<tr><td>".$row['date']."</td>";
+  print '<tr id="day-'.$row['date'].'"><td>'.$row['date'].'</td>';
   print "<td>".$row['dow']."</td>";
   if (!isset($row['day_job_liftigniter_and_arena_daily_update'])) {
     print '<td>N/A</td>';

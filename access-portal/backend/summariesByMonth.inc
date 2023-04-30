@@ -55,7 +55,8 @@ print "</tr>\n</thead>\n<tbody>\n";
 
 for ($i = 0; $i < $monthSummariesResult -> num_rows; $i++) {
   $row = $monthSummariesResult -> fetch_assoc();
-  print "<tr><td>".$row['start_date']."</td>";
+  print '<tr id="month-'.$row['start_date'].'">';
+  print "<td>".$row['start_date']."</td>";
   print "<td>".$row['end_date']."</td>";
   print "<td>".$row['num_days']."</td>";
   print '<td align="right">'.convertToHoursAndMinutes((7 / ($row['num_days'] ?? 1)) * (($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_family_planning'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0))).'</td>';

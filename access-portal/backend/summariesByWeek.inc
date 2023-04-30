@@ -36,7 +36,8 @@ print '<h4 id="summariesByWeek">Summaries by week ('.$weekSummariesResult -> num
 print "\n";
 print '<table id="myTableSummariesByWeek" class="tablesorter">'."\n";
 print "<thead>\n";
-print '<tr><th>Start date</th>';
+print '<tr>';
+print '<th>Start date</th>';
 print '<th>End date</th>';
 print '<th>Number of days</th>';
 print '<th>Total accounted time spent</th>';
@@ -55,7 +56,8 @@ print "</tr></thead>\n<tbody>\n";
 
 for ($i = 0; $i < $weekSummariesResult -> num_rows; $i++) {
   $row = $weekSummariesResult -> fetch_assoc();
-  print "<tr><td>".$row['start_date']."</td>";
+  print '<tr id="week-'.$row['start_date'].'">';
+  print "<td>".$row['start_date']."</td>";
   print "<td>".$row['end_date']."</td>";
   print "<td>".$row['num_days']."</td>";
   print '<td align="right">'.convertToHoursAndMinutes(($row['minutes_spent_on_day_job_liftigniter_and_arena'] ?? 0) + ($row['minutes_spent_on_day_job_equator'] ?? 0) + ($row['minutes_spent_on_personal_projects'] ?? 0) + ($row['minutes_spent_on_personal_finances'] ?? 0) + ($row['minutes_spent_on_personal_chores'] ?? 0) + ($row['minutes_spent_on_house_chores'] ?? 0) + ($row['minutes_spent_on_family_planning'] ?? 0) + ($row['minutes_spent_on_other_activities'] ?? 0)).'</td>';

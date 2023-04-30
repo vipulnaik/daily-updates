@@ -9,7 +9,7 @@ print "<thead>\n";
 print "<tr><th>Year</th><th>Notes</th></tr></thead>\n<tbody>\n";
 for ($i = 0; $i < $yearSummariesResult -> num_rows; $i++) {
   $row = $yearSummariesResult -> fetch_assoc();
-  print "<tr>";
+  print '<tr id="year-'.$row['year'].'">';
   print "<td>".$row['year']."</td>";
   print "<td>".$row['notes']."</td>";
   print "</tr>\n";
