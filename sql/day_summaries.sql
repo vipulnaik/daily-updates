@@ -2008,5 +2008,5 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2023-04-26',4916,NULL,1189,356,0,0,0,110,0,0,0,703,'While this was my day off, I ended up spending a bunch of time wrapping up threads from the previous days, then some time at night investigating a lead. It ended up being the equivalent of a fulll working day for me.'),
   ('2023-04-27',4919,NULL,1190,268,0,0,0,0,0,0,40,759,NULL),
   ('2023-04-28',4920,NULL,1191,121,0,0,0,118,0,0,0,504,'While this was my day off, I ended up spending some time wrapping up threads from previous days.'),
-  ('2023-04-29',4921,NULL,1192,158,0,0,0,0,0,0,120,433,NULL),
+  ('2023-04-29',4921,NULL,1192,158,0,0,0,7,0,0,120,433,NULL),
   ('2023-04-30',4922,NULL,1193,140,0,13,5,20,10,0,70,509,NULL);
