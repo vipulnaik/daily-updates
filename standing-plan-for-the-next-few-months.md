@@ -14,8 +14,8 @@ actually did, and I am more committed to keeping that up-to-date.
 Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
 Q2 2023 | Devops/server maintenance work (mostly one-time), Google Analytics migration (one-time) | Get Org Watch going with Sebastian, a lot of personal chores | Possibly more posts in the "aligning my web server" series (no pressure)
-Q3 2023 | Finish devops/server maintenance work (mostly one-time), set up new subwikis, DLW data entry | Timelines wiki complementary and meta work, family planning, get demography subwiki going with Sebastian | Pick whatever makes sense
-Q4 2023 | DLW data entry | Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q3 2023 | Finish devops/server maintenance work (mostly one-time), set up new subwikis, DLW data entry | Timelines wiki complementary and meta work, rethinking exercise, AI safety stuff, family planning, get demography subwiki going with Sebastian | Pick whatever makes sense
+Q4 2023 | DLW data entry | Timelines wiki complementary and meta work, AI safety stuff, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q1 2024 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q2 2024 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
@@ -160,16 +160,25 @@ to then share with Sebastian and help inform his work as well. I also
 plan to make active efforts to articulate meta policies in
 collaboration with Issa and Sebastian.
 
-## Family planning work starting Q4 2023
+## Rethinking exercise
+
+I've stuck to a reasonable routine of exercise since late 2021/early
+2022, with slight modifications. I'd like to rethink my exercise
+routine, including possibly adding new types of exercise and upping
+the weights I lift, in Q3 2023. By that time, I expect to also have a
+bit more free time, which will allow me to dive deeper and do more
+experimentation.
+
+## Family planning work starting Q3 2023
 
 I want to think systematically about having a family -- the search for
 a life partner, the various steps involved with having kids, and
 more. I've been thinking off and on about this but haven't been
-systematically documenting my thoughts. Starting in Q4 2023 I'm going
-to start writing (private) notes documenting my thoughts on a variety
-of aspects of this. The hope is that this could inform relevant
-actions in 2023 such as searching for a partner or looking into other
-life change options.
+systematically documenting my thoughts. In Q3 2023 and Q4 2023 I'm
+going to start writing (private) notes documenting my thoughts on a
+variety of aspects of this. The hope is that this could inform
+relevant actions in 2023 such as searching for a partner or looking
+into other life change options.
 
 I'm probably not going to say a lot about this publicly except that
 I'm thinking about the topic.
