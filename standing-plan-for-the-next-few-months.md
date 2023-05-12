@@ -200,7 +200,50 @@ Watch and timelines work.
 
 ## Getting out some blog posts and corresponding background work
 
+### Aligning my web server series
+
+I have already published
+https://www.lesswrong.com/posts/Efj8NCCv3TqDL5mbC/aligning-my-web-server-with-devops-practices-part-1-backups
+
+I have already publicly drafted
+https://github.com/vipulnaik/working-drafts/blob/master/lesswrong/aligning-my-web-server-with-devops-practices-part-2-security.md
+-- need to flesh out a few more pieces
+
+I have some private notes around spam and performance that I can
+convert to a public draft at some point (probably after publishing the
+security post).
+
+Publishing these posts is secondary to actually doing the devops work,
+but it might still be complementary in a good way, so I might end up
+doing it even while the devops work is in progres.
+
+### Tech tips series
+
+I was previously writing stuff on wikiHow, but the level of
+specialization and recent changes to wikiHow make it not a great forum
+any more for the posts. So I'm thinking of writing these on LessWrong
+now.
+
+#### Public draft: Troubleshoot regressions in production systems
+
+I have a public draft
+https://github.com/vipulnaik/working-drafts/blob/master/wikihow/troubleshoot-regressions-in-production-systems.mediawiki
+that needs to be converted from wikiHow-style to LessWrong-style and published.
+
+#### Idea + private notes: debugging / getting to the bottom of something
+
+I have some private notes related to debugging that identifies three steps:
+
+1. Identify characteristics and try to replicate
+2. Identify proximal cause
+3. Identify root cause
+
+I need to move this out of its original context (that can't be
+publicly disclosed) and frame it as general problem-solving tips.
+
 ### Posts about mental strength, stress, coping etc.
+
+#### Public draft: how my life has improved
 
 I have one draft post
 https://github.com/vipulnaik/working-drafts/blob/master/blog/how-my-life-has-improved.md
@@ -208,10 +251,14 @@ that is worth polishing and publishing. I might get around to this in
 Q4 2022 (the post is mostly ready so additional work needed to publish
 it is minimal) but I might also delay it further.
 
+#### Public draft: managing personal projects with a demanding day job
+
 I also wrote a draft post
 https://github.com/vipulnaik/working-drafts/blob/master/blog/managing-personal-projects-with-a-demanding-day-job.md
 back in 2020. I might want to revive it and update it, but probably
 that won't happen till 2023.
+
+#### Public draft: steady states and crunch times
 
 I wrote another draft post
 https://github.com/vipulnaik/working-drafts/blob/master/lesswrong/steady-states-and-crunch-times.md
@@ -223,18 +270,24 @@ I have thoughts on other posts but no ready-to-publish drafts that I can remembe
 
 ### Posts about life hacks stuff
 
+#### Idea + mental notes: personal finances, credit scores and credit cards (possibly two different posts)
+
 I have an idea for a post on managing personal finances, that includes
 a range of stuff including balancing money between accounts, setting
 up alerts and notifications, etc.
+
+#### Idea + mental notes + related private notes: physical caution
 
 I also have a post about best practices for physical caution, based on
 my private notes about the subject.
 
 ### Posts about job change and retrospective
 
-I might write a few posts in 2023 about these topics:
+#### Public draft: retrospective of my life in academia and tech (might be outdated in important ways)
 
-* Reasons I switched to Equator/biotech
+I might write a few posts in 2023 or later about these topics:
+
+* Reasons I switched to Equator/biotech, and reasons I had to leave
 * Comparison of my life in academia and industry
 
 I have one draft post at
@@ -247,7 +300,9 @@ I also think the post can be even more accurate after a greater
 passage of time because I'll have a better sense of how things shaped
 up longer-term.
 
-### Retrospective post on EA Hotel donation (no specific timeline, maybe Q2 2023)
+### Other ideas
+
+#### Idea: Retrospective post on EA Hotel donation (no specific timeline, maybe Q2 2023)
 
 I would like to write a retrospective of my [EA Hotel
 donation](https://forum.effectivealtruism.org/posts/BM2DYWpM6rSxyZ7AS/my-q1-2019-ea-hotel-donation). I
@@ -260,7 +315,7 @@ evaluation of donations to small organizations with potential. It
 would be cool to do this before my next donation, but it's not a
 blocker.
 
-### COVID-19 forecasts retrospective (timing unclear; possibly 2023 or 2024)
+#### Idea: COVID-19 forecasts retrospective (timing unclear; possibly 2023 or 2024)
 
 I plan to write a retrospective of my [COVID-19 forecasts
 post](https://www.lesswrong.com/posts/pBPiZQYBF9niRAMSq/coronavirus-the-four-levels-of-social-distancing-and-when). The
@@ -268,7 +323,7 @@ resurgence of the delta strain led me to decide to defer work on this
 retrospective. I think mid-2022 will be a good time, but I might
 choose an earlier or later time depending on how COVID-19 evolves.
 
-### Daniel Pink MasterClass review (either before April 2022, or delayed till I renew my MasterClass subscription)
+#### Idea: Daniel Pink MasterClass review (either before April 2022, or delayed till I renew my MasterClass subscription)
 
 I started writing a draft post
 https://github.com/vipulnaik/working-drafts/blob/master/lesswrong/daniel-pink-sales-and-persuasion-masterclass-review.md
