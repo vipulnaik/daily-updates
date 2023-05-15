@@ -15,9 +15,9 @@ Quarter | Primary focus (personal projects or other activities) | Secondary focu
 -- | -- | -- | --
 Q2 2023 | Devops/server maintenance work (mostly one-time), Google Analytics migration (one-time) | Get Org Watch going with Sebastian, a lot of personal chores | Possibly more posts in the "aligning my web server" series (no pressure)
 Q3 2023 | Finish devops/server maintenance work (mostly one-time), set up new subwikis, DLW data entry | Timelines wiki complementary and meta work, rethinking exercise, AI safety stuff, family planning, get demography subwiki going with Sebastian | Pick whatever makes sense
-Q4 2023 | DLW data entry | Timelines wiki complementary and meta work, AI safety stuff, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
-Q1 2024 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
-Q2 2024 | DLW data entry | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
+Q4 2023 | DLW data entry, AI safety subwiki setup | Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q1 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q2 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
 ## Work situation (May 2023 onward)
 
@@ -193,7 +193,7 @@ I will be discussing AI Watch further with Issa once Org Watch is caught up with
 
 This overlaps to some extent with timelines wiki work.
 
-### Possibly a deeper dive into AI safety
+### AI safety subwiki setup (Q4 2023) and expansion (2024)
 
 I'll decide the details regarding this after the outcome of the AI
 Watch and timelines work.
