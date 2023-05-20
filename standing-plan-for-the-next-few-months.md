@@ -33,13 +33,13 @@ Wrap up Equator stuff and purge all personal copy of Equator data.
 
 ### Finances stuff
 
-First list (aiming to finish in May):
+First list (aiming to finish in June):
 
 - [ ] Finishing up of accrued expenses for 2022 + balance reconciliation
 - [ ] Personal finances issues 1, 3, 4, 5, 6
 - [ ] Activate my California Middle Class Tax Refund (MCTR) if applicable -- it looks like the payment should be $500 according to https://www.ftb.ca.gov/about-ftb/newsroom/middle-class-tax-refund/index.html?WT.mc_id=akMCTR&token=null#receive
 
-Second list (aiming to finish in June):
+Second list (aiming to finish in July):
 
 - [ ] Work on 2022 tax filing
 
