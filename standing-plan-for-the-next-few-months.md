@@ -29,7 +29,7 @@ more time to pursue personal projects and other things.
 
 ### Equator purge
 
-Wrap up Equator stuff and purge all personal copy of Equator data.
+DONE 2023-05-27: Wrap up Equator stuff and purge all personal copy of Equator data.
 
 ### Finances stuff
 
@@ -53,7 +53,7 @@ Second list (aiming to finish in July):
 Various cleaning-related tasks around the house; it's not too dirty
 but it will be good to systematically clean it.
 
-- [ ] Fridge cleaning
+- [x] DONE 2023-05-23: Fridge cleaning
 - [ ] Full vacuuming and other general house cleaning
 - [ ] Do a round of cleaning of stuff I don't clean often (pillow protectors, mattress protector)
 
