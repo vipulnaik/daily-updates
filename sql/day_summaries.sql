@@ -2033,4 +2033,14 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2023-05-18',4951,NULL,NULL,274,0,0,0,0,0,0,0,719,NULL),
   ('2023-05-19',4952,NULL,1209,212,0,0,0,15,0,0,0,471,NULL),
   ('2023-05-20',4953,NULL,1210,10,0,160,0,85,0,0,0,421,NULL),
-  ('2023-05-21',4954,341,1211,104,105,9,8,19,0,0,0,585,NULL);
+  ('2023-05-21',4954,341,1211,104,105,9,8,19,0,0,0,585,NULL),
+  /* Week of 2023-05-22 (screen time calculation appears to have changed) */
+  ('2023-05-22',4955,NULL,1212,205,0,3,0,123,0,0,0,389,NULL),
+  ('2023-05-23',4957,NULL,1213,138,30,3,0,34,0,0,20,484,NULL),
+  ('2023-05-24',4958,NULL,1214,190,0,5,0,20,0,0,120,518,NULL),
+  ('2023-05-25',4959,NULL,1215,331,4,6,0,0,0,0,0,531,NULL),
+  ('2023-05-26',4960,NULL,1216,37,225,0,4,61,0,0,0,373,'This was my last day working on Equator -- I finished purging all Equator-related content from my devices and signing out of all Equator-related accounts.'),
+  ('2023-05-27',4961,NULL,1217,22,0,13,183,0,0,0,0,631,NULL),
+  ('2023-05-28',4962,NULL,1218,133,0,0,0,65,0,0,45,418,NULL);
+
+/* Starting 2023-05-29, make a new insert statement skipping the Equator-related columns */
