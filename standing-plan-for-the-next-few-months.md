@@ -59,8 +59,8 @@ but it will be good to systematically clean it.
 
 ### Review of family emergency information
 
-I want to make sure that I can locate and act upon my parents'
-emergency information.
+- [x] DONE 2023-05-31: I want to make sure that I can locate and act
+  upon my parents' emergency information.
 
 ### Identity stuff
 
