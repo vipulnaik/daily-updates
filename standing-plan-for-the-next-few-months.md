@@ -36,10 +36,14 @@ DONE 2023-05-27: Wrap up Equator stuff and purge all personal copy of Equator da
 First list (aiming to finish in June):
 
 - [x] DONE 2023-05-27: Finishing up of accrued expenses for 2022 + balance reconciliation
-- [ ] Personal finances issues 1, 3, 4, 5, 6
+- [ ] Personal finances issue 5
+
+Second likst (aiming to finish in July):
+
+- [ ] Personal finances issues 1, 3, 4, 6
 - [ ] Activate my California Middle Class Tax Refund (MCTR) if applicable -- it looks like the payment should be $500 according to https://www.ftb.ca.gov/about-ftb/newsroom/middle-class-tax-refund/index.html?WT.mc_id=akMCTR&token=null#receive
 
-Second list (aiming to finish in July):
+Second list (aiming to finish in August):
 
 - [ ] Work on 2022 tax filing
 
