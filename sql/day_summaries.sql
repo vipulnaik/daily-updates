@@ -2043,4 +2043,13 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2023-05-27',4961,NULL,1217,22,0,13,183,0,0,0,0,631,NULL),
   ('2023-05-28',4962,NULL,1218,133,0,0,0,65,0,0,45,418,NULL);
 
-/* Starting 2023-05-29, make a new insert statement skipping the Equator-related columns */
+/* Now that Equator work has been completed, we skip Equator-related columns from the insert */
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_planning, minutes_spent_on_other_activities, screen_minutes_m1, notes) values
+  /* Week of 2023-05-29 */
+  ('2023-05-29',4963,1219,91,0,0,185,0,0,0,409,NULL),
+  ('2023-05-30',4964,1220,180,105,5,50,0,0,0,626,NULL),
+  ('2023-05-31',4965,1221,38,5,0,150,0,0,0,588,NULL),
+  ('2023-06-01',4966,1222,189,0,0,35,0,0,0,607,NULL),
+  ('2023-06-02',4967,1223,201,108,0,2,0,0,0,588,NULL),
+  ('2023-06-03',4968,1224,133,33,2,20,0,0,12,597,NULL),
+  ('2023-06-04',4969,1225,75,126,60,105,0,0,0,402,NULL);
