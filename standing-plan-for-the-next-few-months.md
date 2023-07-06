@@ -38,7 +38,8 @@ with things other than finances hence setting a relatively modest
 target for the finances side of things):
 
 - [x] DONE 2023-05-27: Finishing up of accrued expenses for 2022 + balance reconciliation
-- [ ] Personal finances issue 5
+- [x] DONE 2023-07-06: Personal finances issue 5
+- [x] DONE 2023-07-05, ahead of schedule: Personal finances issue 6
 
 Second list (aiming to finish in August):
 
@@ -46,16 +47,16 @@ Second list (aiming to finish in August):
 
 Third list (aiming to finish in September):
 
-- [ ] Personal finances issues 1, 3, 4, 6
+- [ ] Personal finances issues 1, 3, 4
 - [ ] Activate my California Middle Class Tax Refund (MCTR) if applicable -- it looks like the payment should be $500 according to https://www.ftb.ca.gov/about-ftb/newsroom/middle-class-tax-refund/index.html?WT.mc_id=akMCTR&token=null#receive
 
 ### Health stuff
 
 - Consolidate diet planning related to wisdom tooth removal and then book the appointment(s)
   - [x] DONE 2023-06-09: Finish first pass of pre-appointment research and then book the appointment
-  - [ ] 2023-06-28: Review plan and do further needed prep
-  - [ ] 2023-07-05: Actual first appointment; book second appointment
-  - [ ] Second appointment
+  - [x] DONE 2023-06-28: Review plan and do further needed prep
+  - [x] DONE 2023-07-05: Actual first appointment; book second appointment
+  - [ ] Scheduled for 2023-08-16: Second appointment
 - [ ] Book and get through my eye test
 - [ ] Get next round of blood tests done
 
