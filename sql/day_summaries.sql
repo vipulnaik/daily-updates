@@ -2084,4 +2084,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-06-29',4998,1250,200,40,0,0,0,0,8,649,NULL),
   ('2023-06-30',4999,1251,23,10,5,92,6,0,213,325,'The unusual time distribution was due to an event I attended in the evening, time on which I have classified under the "other activities" bucket.'),
   ('2023-07-01',5000,1252,105,85,45,0,2,0,0,668,NULL),
-  ('2023-07-02',5001,1253,75,120,0,0,0,0,40,478,NULL);
+  ('2023-07-02',5001,1253,75,120,0,0,0,0,40,478,NULL),
+  /* Week of 2023-07-03 */
+  ('2023-07-03',5002,1254,69,4,0,130,0,0,10,359,NULL),
+  ('2023-07-04',5003,1255,25,80,6,273,0,0,0,221,NULL),
+  ('2023-07-05',5004,1256,12,0,62,265,0,0,0,334,'This was the day of my wisdom tooth removal (left side). A large part of my day was taken up by the appointment and followup actions. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-07-05-wisdom-tooth-removal-left-side.md for details.'),
+  ('2023-07-06',5006,1257,242,30,35,14,0,0,15,594,NULL),
+  ('2023-07-07',5007,1258,125,92,4,5,0,0,5,633,NULL),
+  ('2023-07-08',5008,1259,44,7,0,106,0,0,135,384,NULL),
+  ('2023-07-09',5009,1260,35,2,0,146,0,0,50,378,NULL);
