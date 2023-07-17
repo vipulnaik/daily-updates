@@ -2092,4 +2092,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-07-06',5006,1257,242,30,35,14,0,0,15,594,NULL),
   ('2023-07-07',5007,1258,125,92,4,5,0,0,5,633,NULL),
   ('2023-07-08',5008,1259,44,7,0,106,0,0,135,384,NULL),
-  ('2023-07-09',5009,1260,35,2,0,146,0,0,50,378,NULL);
+  ('2023-07-09',5009,1260,35,2,0,146,0,0,50,378,NULL),
+  /* Week of 2023-07-10 */
+  ('2023-07-10',5011,1261,130,0,0,10,0,0,0,350,'This was the day that I started experiencing significant side-effects of the antibiotic after the wisdom tooth removal; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-07-05-wisdom-tooth-removal-left-side.md for details.'),
+  ('2023-07-11',NULL,1262,0,6,8,93,0,0,0,175,NULL),
+  ('2023-07-12',5012,1263,42,0,0,60,0,0,0,345,NULL),
+  ('2023-07-13',5013,NULL,172,0,0,0,0,0,0,497,NULL),
+  ('2023-07-14',5014,1264,77,18,0,172,0,0,0,466,NULL),
+  ('2023-07-15',5049,1265,71,25,7,69,0,0,0,409,NULL),
+  ('2023-07-16',5050,1266,73,0,0,115,0,0,135,423,NULL);
