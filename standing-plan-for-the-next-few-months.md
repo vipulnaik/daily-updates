@@ -48,7 +48,7 @@ Second list (aiming to finish in August):
 Third list (aiming to finish in September):
 
 - [ ] Personal finances issues 1, 3, 4
-- [ ] Activate my California Middle Class Tax Refund (MCTR) if applicable -- it looks like the payment should be $500 according to https://www.ftb.ca.gov/about-ftb/newsroom/middle-class-tax-refund/index.html?WT.mc_id=akMCTR&token=null#receive
+- [x] DONE 2023-08-02: Activate my California Middle Class Tax Refund (MCTR) if applicable
 
 ### Health stuff
 
