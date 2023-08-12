@@ -2124,4 +2124,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-08-03',5086,1283,189,0,0,5,0,0,0,539,NULL),
   ('2023-08-04',5087,1284,56,35,5,92,0,0,0,456,'This was the beginning of my sore throat symptoms documented at https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-08-04-sauerkraut-red-chutney-and-sore-throat.md that I initially attributed to sauerkraut overconsumption but later thought might be a cold.'),
   ('2023-08-05',5088,1285,50,20,45,130,0,0,0,413,NULL),
-  ('2023-08-06',5089,1286,28,0,150,10,0,0,60,649,NULL);
+  ('2023-08-06',5089,1286,28,0,150,10,0,0,60,649,NULL),
+  /* Week of 2023-08-07 */
+  ('2023-08-07',5093,1287,145,0,0,15,0,0,0,659,NULL),
+  ('2023-08-08',5095,1288,231,0,0,15,0,0,10,611,NULL),
+  ('2023-08-09',5097,1289,121,0,0,120,0,0,0,475,NULL),
+  ('2023-08-10',5098,1290,141,1,13,20,0,0,10,543,NULL),
+  ('2023-08-11',5099,1291,57,45,0,107,0,0,0,411,NULL);
