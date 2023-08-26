@@ -2140,4 +2140,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-08-17',5105,NULL,192,0,0,0,0,0,0,498,NULL),
   ('2023-08-18',5106,1296,113,0,0,150,0,0,10,431,NULL),
   ('2023-08-19',5107,1297,129,0,0,69,0,0,0,450,NULL),
-  ('2023-08-20',5108,1298,82,11,0,168,5,0,35,344,NULL);
+  ('2023-08-20',5108,1298,82,11,0,168,5,0,35,344,NULL),
+  /* Week of 2023-08-21 */
+  ('2023-08-21',5109,1299,169,0,14,85,0,0,0,581,NULL),
+  ('2023-08-22',5110,1300,164,0,0,50,0,0,0,436,NULL),
+  ('2023-08-23',5111,1301,103,0,12,140,0,0,0,499,'This was the day I got the wisdom teeth on my right side removed. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-08-23-wisdom-tooth-removal-right-side.md for details.'),
+  ('2023-08-24',5112,1302,175,0,5,10,0,0,20,558,NULL),
+  ('2023-08-25',5113,1303,63,5,12,183,0,0,0,501,NULL);
