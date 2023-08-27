@@ -40,15 +40,13 @@ target for the finances side of things):
 - [x] DONE 2023-05-27: Finishing up of accrued expenses for 2022 + balance reconciliation
 - [x] DONE 2023-07-06: Personal finances issue 5
 - [x] DONE 2023-07-05, ahead of schedule: Personal finances issue 6
+- [x] DONE 2023-08-27 ahead of schedule: Personal finances issues 1, 3
+- [x] DONE 2023-08-02: Activate my California Middle Class Tax Refund (MCTR) if applicable
 
-Second list (aiming to finish in August):
+Second list (aiming to work on it in August and September):
 
 - [ ] Work on 2022 tax filing
-
-Third list (aiming to finish in September):
-
-- [ ] Personal finances issues 1, 3, 4
-- [x] DONE 2023-08-02: Activate my California Middle Class Tax Refund (MCTR) if applicable
+- [ ] Personal finances issue 4
 
 ### Health stuff
 
@@ -56,7 +54,7 @@ Third list (aiming to finish in September):
   - [x] DONE 2023-06-09: Finish first pass of pre-appointment research and then book the appointment
   - [x] DONE 2023-06-28: Review plan and do further needed prep
   - [x] DONE 2023-07-05: Actual first appointment; book second appointment
-  - [ ] Scheduled for 2023-08-16: Second appointment
+  - [ ] DONE 2023-08-23: Second appointment
 - [ ] Book and get through my eye test
 - [ ] Get next round of blood tests done
 
