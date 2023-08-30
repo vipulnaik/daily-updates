@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: May 6, 2023
+Last major update: August 30, 2023
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -13,105 +13,99 @@ actually did, and I am more committed to keeping that up-to-date.
 
 Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
-Q2 2023 | Devops/server maintenance work (mostly one-time), Google Analytics migration (one-time) | Get Org Watch going with Sebastian, a lot of personal chores | Possibly more posts in the "aligning my web server" series (no pressure)
-Q3 2023 | Finish devops/server maintenance work (mostly one-time), set up new subwikis, DLW data entry | Timelines wiki complementary and meta work, rethinking exercise, AI safety stuff, family planning, get demography subwiki going with Sebastian | Pick whatever makes sense
-Q4 2023 | DLW data entry, AI safety subwiki setup | Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
-Q1 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
-Q2 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
+Q4 2023 | Finish devops/server maintenance work (mostly one-time), set up new subwikis, DLW data entry | Timelines wiki complementary and meta work, rethinking exercise, AI safety stuff, family planning, get demography subwiki going with Sebastian | Pick whatever makes sense
+Q1 2023 | DLW data entry, AI safety subwiki setup | Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q2 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q3 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
-## Work situation (May 2023 onward)
+## Work situation (September 2023 onward)
 
-My work situation was in flux until about May 2023. Starting May 2023,
-I'm going to stick to a mostly half-time day job routine, giving me
-more time to pursue personal projects and other things.
+As of the end of August / start of September 2023, my work situation
+is pretty good; I am now aiming to stick to my half-time goal, with my
+median week being a little *less* than half-time, giving me some room
+to surge during periods when there are high-priority items. Based on
+feedback received from co-workers about my effective output over the
+past few months, this seems like a reasonably safe strategy in terms
+of producing enough output. With that said, I should revisit the
+strategy every few months and adjust upward or downward as needed.
 
-## Chores to catch up on (as much as possible, try to finish in Q2 2023 or early Q3 2023) excluding stuff covered under devops/server maintenance
+To be more concrete, I'm planning to target the following with work:
 
-### Equator purge
+* I will be work-focused on Monday, Tuesday, and Thursday, though I
+  might still take out time for time-sensitive personal chores. I
+  expect to average at least 3 focused hours per day for these three
+  days.
 
-DONE 2023-05-27: Wrap up Equator stuff and purge all personal copy of Equator data.
+* I will try to be responsive on Slack and work email on Wednesday and
+  Friday. I expect that *de facto* I'll end up spending 30-60 minutes
+  per day on these days, but I will not be *trying* to spend time at
+  work on these days.
 
-### Finances stuff
+* Overall I will aim to have a total within the week of at least 11
+  hours of work, *except* in these two cases:
 
-First list (aiming to finish in June/July; I expect to be pretty busy
-with things other than finances hence setting a relatively modest
-target for the finances side of things):
+  * I had to deal with some time-sensitive stuff (such as taxes,
+    health stuff, time-sensitive deadlines for personal projects). In
+    such cases, my personal projects time (outside of any
+    time-sensitive deadlines) should also be less than 2 hours in that
+    week.
 
-- [x] DONE 2023-05-27: Finishing up of accrued expenses for 2022 + balance reconciliation
-- [x] DONE 2023-07-06: Personal finances issue 5
-- [x] DONE 2023-07-05, ahead of schedule: Personal finances issue 6
-- [x] DONE 2023-08-27 ahead of schedule: Personal finances issues 1, 3, 4
-- [x] DONE 2023-08-02: Activate my California Middle Class Tax Refund (MCTR) if applicable
+  * I have explicitly marked a day off in the calendar, *and* my
+    moving average over this week and the past two weeks is in excess
+    of 12 hours.
 
-Second list (aiming to work on it in August and September):
+* I'll also aim for my weekly average to be at least 12 hours for each
+  completed month.
 
-- [ ] Work on 2022 tax filing
+While the above describe the minimum targets, I might spend more time
+in a give week either due to time-sensitive stuff at work or if it
+makes sense given the nature of the work I am trying to complete.
+
+## Chores to catch up on
 
 ### Health stuff
 
-- Consolidate diet planning related to wisdom tooth removal and then book the appointment(s)
-  - [x] DONE 2023-06-09: Finish first pass of pre-appointment research and then book the appointment
-  - [x] DONE 2023-06-28: Review plan and do further needed prep
-  - [x] DONE 2023-07-05: Actual first appointment; book second appointment
-  - [x] DONE 2023-08-23: Second appointment
-- [ ] Book and get through my eye test
-- [ ] Get next round of blood tests done
+- [ ] Booked for 2023-09-27: Regular dental cleaning appointment --
+  this will also be my first dental checkup after completing both
+  sides of wisdom tooth removal.
+  - I expect this to be minimally disruptive, with most of the
+    disruption limited to the date of the appointment.
+- [ ] Targeting for 2023-10: Book and get through my eye test
+  - I'm currently waiting to be fully recovered from my wisdom tooth
+    removal. My current thinking is to book an appointment for
+    October.
+  - I will do this on a Wednesday or Friday which means no work
+    rescheduling, and minimal disruption to other things, with the
+    disruption mostly limited to the day of the appointment.
+- [ ] Targeting for 2023-11: COVID-19 vaccine booster shot
+- [ ] Targeting for 2023-11: Flu shot
+- [ ] Targeting for 2024: Get next round of blood tests done
 
 ### House stuff
 
-Various cleaning-related tasks around the house; it's not too dirty
-but it will be good to systematically clean it.
+I've added a bunch of ongoing house cleaning to my month change
+checklist; however, there are some less frequent aspects of house
+cleaning I'd like to tackle one-off and then maybe set a cadence for
+them such as a quarterly or annual cadence. These include:
 
-- [x] DONE 2023-05-23: Fridge cleaning
-- [ ] Full vacuuming and other general house cleaning
-- [ ] Do a round of cleaning of stuff I don't clean often (pillow protectors, mattress protector)
-
-### Review of family emergency information
-
-- [x] DONE 2023-05-31: I want to make sure that I can locate and act
-  upon my parents' emergency information.
+- [ ] Targeting for 2023-12: Full vacuuming
+- [ ] Targeting for 2023-12: Washing of mattress protector and pillow protectors
+- [ ] Targeting for 2023-12: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.)
 
 ### Identity stuff
 
-- [ ] Apply for a new state ID card and switch to using that
+- [ ] Targeting for 2023-10: Apply for a new state ID card and switch to using that
 
 ## Devops/server maintenance work through 2023
 
-### Google Analytics migration in Q2 2023: mostly one-time
+### Server migration resumption
 
-The Google Analytics migration has a hard deadline of June 30, 2023,
-so I should try to get it switched over in Q2 2023. I might have to do
-it on the old server if I have not yet moved over to the new server by
-then.
+I did a bunch of server migration work in Q2 2023, then took a break
+to deal with wisdom tooth removal and taxes. I need to resume server
+migration work, and I expect it to be a major focus of September 2023
+and Q4 2023.
 
-Google Analytics doesn't change up too often, so this is really
-one-time work.
-
-### Server migration (Q2 2023 and Q3 2023, with possibly a little bit leaking into Q4 2023): mostly one-time
-
-I'm trying to get to a point where I have a clean recipe (comprised of
-scripts) that I can use to set up a server for all my websites. This
-could be helpful as it makes my devops setup less snowflakey, and
-allows for easier upgrading and quicker recovery against various kinds
-of catastrophes (including accidental data deletion, hardware failure,
-and malware attacks).
-
-My current hope and plan is to wrap this up by the end of Q3
-2023. I've written up a gameplan but due to potential vulnerabilities
-I'm not sharing the gameplan publicly. At a high level, though, I plan
-to get all the non-MediaWiki stuff fully done by around July 2023, and
-finish up the MediaWiki portion mostly by September 2023, with
-possibly some final pieces to clean up in October/November 2023. The
-MediaWiki portion is a little more challenging insofar as multiple
-rounds of upgrades are needed.
-
-**The ongoing burden of this work after Q3 2023 will be fairly
-low**. This can be thought of as mostly one-time work owing to the
-snowflakey work I approached server setup and maintenance in the last
-decade. So this is a one-time improvement/fix. However, I do plan to
-budget a little bit of time on a monthly, quarterly, or annual basis
-making sure that things are in order, and I might upgrade my OS every
-two years as a matter of course.
+I have a private gameplan that I need to flesh out more.
 
 ### Digital will
 
@@ -119,10 +113,10 @@ After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
 is more robust.
 
-### Setting up additional subwikis in Q3/Q4 2023
+### Setting up additional subwikis in Q4 2023
 
-External commitments: Update in September 2023 promised to person who
-requested subwiki setup.
+External commitments: Update in November 2023 2023 promised to person
+who requested subwiki setup.
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
@@ -135,20 +129,27 @@ adding new subwikis will be low.
 
 ## Continuation of donations list website (DLW) in 2023: potentially ongoing work
 
-External commitments: Update in mid-August 2023 promised to potential
+External commitments: Update in Q4 2023 promised to potential
 collaborator/contributor.
 
 I expect to start doing DLW work as time and mood permits starting Q3
 2023 and continuing into 2024. However, I will be prioritizing devops
 work and Google Analytics migration work over DLW work to the extent
-that I feel in the mood to do devops work. So DLW work may pick up in
-earnest only starting around Q2 2023.
+that I feel in the mood to do devops work.
 
 While I have a lot to catch up with on DLW to begin with, I don't yet
 have a clear sense of what the steady-state ongoing work level will be
 once I have caught up.
 
-## Timelines wiki work from Q4 2023 onward
+## Timelines wiki work
+
+### Getting and staying on top of "Timelines I keep expanding regularly" in September 2023 and Q4 2023
+
+My goal for September 2023 and Q4 2023 is to get on top of the table
+of "Timelines I keep expanding regularly on my [user
+page](https://timelines.issarice.com/wiki/User:Vipul).
+
+### More regular work from Q1 2024 onward
 
 For the most part, work on timelines will be lower-priority for me
 than work on devops or DLW, but based on mood I might still end up
@@ -169,25 +170,25 @@ to then share with Sebastian and help inform his work as well. I also
 plan to make active efforts to articulate meta policies in
 collaboration with Issa and Sebastian.
 
-## Rethinking exercise
+## Rethinking exercise (Q2 or Q3 2024)
 
-I've stuck to a reasonable routine of exercise since late 2021/early
-2022, with slight modifications. I'd like to rethink my exercise
-routine, including possibly adding new types of exercise and upping
-the weights I lift, in Q3 2023. By that time, I expect to also have a
-bit more free time, which will allow me to dive deeper and do more
-experimentation.
+I added a few exercises (Buteyko-style control pause breath holds,
+hand gripper exercises) in Q3 2023. I also do occasional flexibility
+exercises.
 
-## Family planning work starting Q3 2023
+I expect to do my next round of rethinking exercise in Q2 2024 or Q3
+2024.
+
+## Family planning work starting Q4 2023
 
 I want to think systematically about having a family -- the search for
 a life partner, the various steps involved with having kids, and
 more. I've been thinking off and on about this but haven't been
-systematically documenting my thoughts. In Q3 2023 and Q4 2023 I'm
-going to start writing (private) notes documenting my thoughts on a
-variety of aspects of this. The hope is that this could inform
-relevant actions in 2023 such as searching for a partner or looking
-into other life change options.
+systematically documenting my thoughts. In Q4 2023 I'm going to start
+writing (private) notes documenting my thoughts on a variety of
+aspects of this. The hope is that this could inform relevant actions
+in 2023 such as searching for a partner or looking into other life
+change options.
 
 I'm probably not going to say a lot about this publicly except that
 I'm thinking about the topic.
@@ -212,11 +213,7 @@ Watch and timelines work.
 ### Aligning my web server series
 
 I have already published
-https://www.lesswrong.com/posts/Efj8NCCv3TqDL5mbC/aligning-my-web-server-with-devops-practices-part-1-backups
-
-I have already publicly drafted
-https://github.com/vipulnaik/working-drafts/blob/master/lesswrong/aligning-my-web-server-with-devops-practices-part-2-security.md
--- need to flesh out a few more pieces
+https://www.lesswrong.com/posts/Efj8NCCv3TqDL5mbC/aligning-my-web-server-with-devops-practices-part-1-backups and https://www.lesswrong.com/posts/Emmvzz3xXjfH4342f/aligning-my-web-server-with-devops-practices-part-2-security
 
 I have some private notes around spam and performance that I can
 convert to a public draft at some point (probably after publishing the
@@ -339,3 +336,17 @@ https://github.com/vipulnaik/working-drafts/blob/master/lesswrong/daniel-pink-sa
 reviewing Daniel Pink's MasterClass. My MasterClass subscription
 expired in early April 2022, so I probably won't finish it unless and
 until I decide to get a MasterClass subscription again.
+
+## Wikipedia editing
+
+See
+https://github.com/vipulnaik/working-drafts/blob/master/wikipedia/pages-to-create.md
+for my current list (some of the articles here might already be
+present or might no longer make sense to create when I actually get
+around to them).
+
+I'd like to do some Wikipedia editing occasionally to "stay in touch"
+with that side of things, and to get some gratification for
+contributing to something public and widely known (in contrast with
+timelines wiki where the traffic to pages tends to be low even when
+their quality is great).
