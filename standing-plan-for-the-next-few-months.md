@@ -103,7 +103,7 @@ them such as a quarterly or annual cadence. These include:
 
 ## Devops/server maintenance work through 2023
 
-### Server migration resumption
+### Server migration resumption (September 2023 and Q4 2023, with possible wrap-up steps left for Q1 2024)
 
 I did a bunch of server migration work in Q2 2023, then took a break
 to deal with wisdom tooth removal and taxes. I need to resume server
@@ -112,7 +112,7 @@ and Q4 2023.
 
 I have a private gameplan that I need to flesh out more.
 
-### Digital will
+### Digital will (likely Q2 2024)
 
 After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
