@@ -53,7 +53,7 @@ Second list (aiming to work on it in August and September):
   - [x] DONE 2023-06-09: Finish first pass of pre-appointment research and then book the appointment
   - [x] DONE 2023-06-28: Review plan and do further needed prep
   - [x] DONE 2023-07-05: Actual first appointment; book second appointment
-  - [ ] DONE 2023-08-23: Second appointment
+  - [x] DONE 2023-08-23: Second appointment
 - [ ] Book and get through my eye test
 - [ ] Get next round of blood tests done
 
