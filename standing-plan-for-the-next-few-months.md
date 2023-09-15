@@ -75,6 +75,7 @@ makes sense given the nature of the work I am trying to complete.
   sides of wisdom tooth removal.
   - I expect this to be minimally disruptive, with most of the
     disruption limited to the date of the appointment.
+- [ ] Booked for 2023-10-13: Flu shot
 - [ ] Targeting for 2023-10: Book and get through my eye test
   - I'm currently waiting to be fully recovered from my wisdom tooth
     removal. My current thinking is to book an appointment for
@@ -82,8 +83,7 @@ makes sense given the nature of the work I am trying to complete.
   - I will do this on a Wednesday or Friday which means no work
     rescheduling, and minimal disruption to other things, with the
     disruption mostly limited to the day of the appointment.
-- [ ] Targeting for 2023-11: COVID-19 vaccine booster shot
-- [ ] Targeting for 2023-11: Flu shot
+- [ ] Targeting for 2023-12 or 2024-01: COVID-19 vaccine booster shot
 - [ ] Targeting for 2024: Get next round of blood tests done
 
 ### House stuff
