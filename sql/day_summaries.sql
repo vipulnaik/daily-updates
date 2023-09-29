@@ -2172,4 +2172,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-09-14',5161,1322,176,0,17,3,0,0,10,550,NULL),
   ('2023-09-15',5163,1323,55,60,30,178,0,0,0,491,NULL),
   ('2023-09-16',NULL,1324,0,0,0,177,0,0,0,531,NULL),
-  ('2023-09-17',5164,1325,83,0,3,165,0,0,10,513,NULL);
+  ('2023-09-17',5164,1325,83,0,3,165,0,0,10,513,NULL),
+  /* Week of 2023-09-18 */
+  ('2023-09-18',5165,1326,52,0,0,135,0,0,3,430,NULL),
+  ('2023-09-19',5169,1327,69,0,0,193,0,0,0,602,NULL),
+  ('2023-09-20',5171,1328,26,0,0,210,5,0,0,530,'This was the start of a 4-day period of staying at home due to air quality issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-09-19-onward-air-quality-issues.md for details.'),
+  ('2023-09-21',5173,1329,18,0,35,375,0,0,0,722,'This was a very unusual day where I was stuck at home due to air quality issues, and spent a lot of time on document reorganization work.'),
+  ('2023-09-22',5174,1330,140,0,0,20,0,0,0,661,NULL),
+  ('2023-09-23',5175,1331,80,0,0,135,35,0,0,605,NULL),
+  ('2023-09-24',5176,1332,10,0,0,153,0,0,100,422,'Ths day marked the resumption of exercise and outdoor activity after a break of a few days due to air quality issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-09-19-onward-air-quality-issues.md for details.');
