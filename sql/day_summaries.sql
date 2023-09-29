@@ -2180,4 +2180,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-09-21',5173,1329,18,0,35,375,0,0,0,722,'This was a very unusual day where I was stuck at home due to air quality issues, and spent a lot of time on document reorganization work.'),
   ('2023-09-22',5174,1330,140,0,0,20,0,0,0,661,NULL),
   ('2023-09-23',5175,1331,80,0,0,135,35,0,0,605,NULL),
-  ('2023-09-24',5176,1332,10,0,0,153,0,0,100,422,'Ths day marked the resumption of exercise and outdoor activity after a break of a few days due to air quality issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-09-19-onward-air-quality-issues.md for details.');
+  ('2023-09-24',5176,1332,10,0,0,153,0,0,100,422,'Ths day marked the resumption of exercise and outdoor activity after a break of a few days due to air quality issues; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-09-19-onward-air-quality-issues.md for details.'),
+  /* Week of 2023-09-25 */
+  ('2023-09-25',5177,1333,215,0,0,75,0,0,0,546,NULL),
+  ('2023-09-26',5181,1334,58,0,5,195,25,0,0,408,NULL),
+  ('2023-09-27',5182,1335,94,0,0,145,0,0,30,496,'I had a regular dental cleaning appointment this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-09-27-dental-cleaning.md for details.'),
+  ('2023-09-28',5185,1336,207,5,0,30,0,0,25,619,NULL);
