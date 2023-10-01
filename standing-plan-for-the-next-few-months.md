@@ -70,11 +70,7 @@ makes sense given the nature of the work I am trying to complete.
 
 ### Health stuff
 
-- [ ] Booked for 2023-09-27: Regular dental cleaning appointment --
-  this will also be my first dental checkup after completing both
-  sides of wisdom tooth removal.
-  - I expect this to be minimally disruptive, with most of the
-    disruption limited to the date of the appointment.
+- [x] DONE 2023-09-27: Regular dental cleaning appointment
 - [ ] Booked for 2023-10-04: Eye exam
 - [ ] Booked for 2023-10-13: Flu shot
 - [ ] Targeting for 2023-12 or 2024-01: COVID-19 vaccine booster shot
