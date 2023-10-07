@@ -66,7 +66,7 @@ makes sense given the nature of the work I am trying to complete.
 ### Finances stuff
 
 - [x] DONE 2023-09-09: Submit US federal taxes
-- [ ] Targeting 2023-09-23: Submit California state taxes
+- [x] DONE 2023-10-03: Submit California state taxes
 
 ### Health stuff
 
