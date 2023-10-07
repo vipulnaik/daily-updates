@@ -71,7 +71,7 @@ makes sense given the nature of the work I am trying to complete.
 ### Health stuff
 
 - [x] DONE 2023-09-27: Regular dental cleaning appointment
-- [ ] Booked for 2023-10-04: Eye exam
+- [x] DONE 2023-10-04: Eye exam
 - [ ] Booked for 2023-10-13: Flu shot
 - [ ] Targeting for 2023-12 or 2024-01: COVID-19 vaccine booster shot
 - [ ] Targeting for mid-to-late 2024: Get next round of blood tests done
