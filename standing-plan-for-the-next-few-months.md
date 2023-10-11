@@ -41,7 +41,7 @@ To be more concrete, I'm planning to target the following with work:
   per day on these days, but I will not be *trying* to spend time at
   work on these days.
 
-* Overall I will aim to have a total within the week of at least 11
+* Overall I will aim to have a total within the week of at least 9
   hours of work, *except* in these two cases:
 
   * I had to deal with some time-sensitive stuff (such as taxes,
@@ -52,10 +52,10 @@ To be more concrete, I'm planning to target the following with work:
 
   * I have explicitly marked a day off in the calendar, *and* my
     moving average over this week and the past two weeks is in excess
-    of 12 hours.
+    of 11 hours.
 
-* I'll also aim for my weekly average to be at least 12 hours for each
-  completed month.
+* I'll also aim for my weekly average to be at least 10.5 hours for
+  each completed month.
 
 While the above describe the minimum targets, I might spend more time
 in a give week either due to time-sensitive stuff at work or if it
