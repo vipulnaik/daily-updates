@@ -2195,4 +2195,5 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-10-04',5196,1342,99,0,0,210,0,0,0,518,'I had an eye exam on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-10-04-eye-exam.md for details.'),
   ('2023-10-05',5198,1343,147,8,3,135,2,0,0,608,NULL),
   ('2023-10-06',5199,1344,42,12,0,87,2,0,0,657,NULL),
-  ('2023-10-07',5202,NULL,255,0,0,0,0,0,0,720,NULL);
+  ('2023-10-07',5202,NULL,255,0,0,0,0,0,0,720,NULL),
+  ('2023-10-08',5203,1345,180,10,5,67,0,0,0,590,NULL);
