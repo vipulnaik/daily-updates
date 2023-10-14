@@ -41,21 +41,29 @@ To be more concrete, I'm planning to target the following with work:
   per day on these days, but I will not be *trying* to spend time at
   work on these days.
 
-* Overall I will aim to have a total within the week of at least 9
-  hours of work, *except* in these two cases:
+* I aim to follow these *absolute minimum* weekly targets:
 
-  * I had to deal with some time-sensitive stuff (such as taxes,
-    health stuff, time-sensitive deadlines for personal projects). In
-    such cases, my personal projects time (outside of any
-    time-sensitive deadlines) should also be less than 2 hours in that
-    week.
+  * At least 6 hours on weeks that I have not marked any day off
 
-  * I have explicitly marked a day off in the calendar, *and* my
-    moving average over this week and the past two weeks is in excess
-    of 11 hours.
+  * At least 4 hours on weeks that I have marked one day off
 
-* I'll also aim for my weekly average to be at least 10.5 hours for
-  each completed month.
+  * At least 2 hours on weeks that I have marked two days off
+
+* I aim to follow these *conditional minimum* weekly targets: *at
+  least one* of the following must be true:
+
+  * At least 9 hours in the week
+
+  * At least 11 hours averaging over the week and the two previous
+    weeks (i.e., a 3-week moving average)
+
+* I aim to follow these *conditional maximum* weekly targets: *at
+  least one* of the following must be true:
+
+  * At most 14 hours in the week
+
+  * At most 12 hours averaging over the week and the two previous
+    weeks (i.e., a 3-week moving average)
 
 While the above describe the minimum targets, I might spend more time
 in a give week either due to time-sensitive stuff at work or if it
