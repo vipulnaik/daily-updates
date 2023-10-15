@@ -54,13 +54,13 @@ To be more concrete, I'm planning to target the following with work:
 
   * At least 9 hours in the week
 
-  * At least 11 hours averaging over the week and the two previous
+  * At least 10 hours averaging over the week and the two previous
     weeks (i.e., a 3-week moving average)
 
 * I aim to follow these *conditional maximum* weekly targets: *at
   least one* of the following must be true:
 
-  * At most 14 hours in the week
+  * At most 13 hours in the week
 
   * At most 12 hours averaging over the week and the two previous
     weeks (i.e., a 3-week moving average)
