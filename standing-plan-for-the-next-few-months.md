@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: August 30, 2023
+Last major update: October 18, 2023
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -13,8 +13,8 @@ actually did, and I am more committed to keeping that up-to-date.
 
 Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
-Q4 2023 | Finish devops/server maintenance work (mostly one-time), set up new subwikis, DLW data entry | Timelines wiki complementary and meta work, rethinking exercise, AI safety stuff, family planning, get demography subwiki going with Sebastian | Pick whatever makes sense
-Q1 2023 | DLW data entry, AI safety subwiki setup | Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q4 2023 | DLW data entry, continue devops/server maintenance work (mostly one-time), set up new subwikis | Timelines wiki complementary and meta work, AI safety stuff | Pick whatever makes sense
+Q1 2024 | Finish devops/server maintenance work (mostly one-time), DLW data entry, AI safety subwiki work| Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q2 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q3 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
@@ -71,16 +71,8 @@ makes sense given the nature of the work I am trying to complete.
 
 ## Chores to catch up on
 
-### Finances stuff
-
-- [x] DONE 2023-09-09: Submit US federal taxes
-- [x] DONE 2023-10-03: Submit California state taxes
-
 ### Health stuff
 
-- [x] DONE 2023-09-27: Regular dental cleaning appointment
-- [x] DONE 2023-10-04: Eye exam
-- [x] DONE 2023-10-13: Flu shot
 - [ ] Targeting for 2023-12 or 2024-01: COVID-19 vaccine booster shot
 - [ ] Targeting for mid-to-late 2024: Get next round of blood tests done
 
@@ -95,18 +87,14 @@ them such as a quarterly or annual cadence. These include:
 - [ ] Targeting for 2023-12: Washing of mattress protector and pillow protectors
 - [ ] Targeting for 2023-12: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.)
 
-### Identity stuff
-
-- [ ] Targeting for 2023-10: Apply for a new state ID card and switch to using that
-
 ## Devops/server maintenance work through 2023
 
-### Server migration resumption (September 2023 and Q4 2023, with possible wrap-up steps left for Q1 2024)
+### Server migration resumption (November 2023, December 2023, and Q1 2024)
 
 I did a bunch of server migration work in Q2 2023, then took a break
 to deal with wisdom tooth removal and taxes. I need to resume server
-migration work, and I expect it to be a major focus of September 2023
-and Q4 2023.
+migration work, and I expect it to be a major focus starting November
+2023.
 
 I have a private gameplan that I need to flesh out more.
 
@@ -116,9 +104,9 @@ After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
 is more robust.
 
-### Setting up additional subwikis in Q4 2023
+### Setting up additional subwikis starting November 2023 or later
 
-External commitments: Update in November 2023 2023 promised to person
+External commitments: Update in November 2023 promised to person
 who requested subwiki setup.
 
 Once I have streamlined by subwiki setup process and moved to a new
@@ -130,13 +118,13 @@ While there may be more subwikis to add, I expect that the process
 will get streamlined more and more and the incremental effort of
 adding new subwikis will be low.
 
-## Continuation of donations list website (DLW) in 2023: potentially ongoing work
+## Continuation of donations list website (DLW) in 2023 and 2024: potentially ongoing work
 
 External commitments: Update in Q4 2023 promised to potential
 collaborator/contributor.
 
-I expect to start doing DLW work as time and mood permits starting Q3
-2023 and continuing into 2024. However, I will be prioritizing devops
+I've resumed DLW work in October 2023 and plan to continue it through
+the rest of 2023 and then 2024. However, I will be prioritizing devops
 work and Google Analytics migration work over DLW work to the extent
 that I feel in the mood to do devops work.
 
@@ -146,9 +134,9 @@ once I have caught up.
 
 ## Timelines wiki work
 
-### Getting and staying on top of "Timelines I keep expanding regularly" in September 2023 and Q4 2023
+### Getting and staying on top of "Timelines I keep expanding regularly" starting November 2023
 
-My goal for September 2023 and Q4 2023 is to get on top of the table
+My goal for November and December 2023 is to get on top of the table
 of "Timelines I keep expanding regularly on my [user
 page](https://timelines.issarice.com/wiki/User:Vipul).
 
@@ -158,7 +146,7 @@ For the most part, work on timelines will be lower-priority for me
 than work on devops or DLW, but based on mood I might still end up
 doing a fair amount of work on timelines.
 
-### Work that has synergies with DLW work, and resultant EA Forum posts through late 2022 and 2023
+### Work that has synergies with DLW work, and resultant EA Forum posts in 2024 or later
 
 I want to work on a bunch of timelines in the timelines wiki that have
 synergies with the work I'm doing on DLW. While doing this, the
@@ -206,7 +194,7 @@ I will be discussing AI Watch further with Issa once Org Watch is caught up with
 
 This overlaps to some extent with timelines wiki work.
 
-### AI safety subwiki setup (Q4 2023) and expansion (2024)
+### AI safety subwiki setup (Q4 2023 and/or Q1 2024)
 
 I'll decide the details regarding this after the outcome of the AI
 Watch and timelines work.
