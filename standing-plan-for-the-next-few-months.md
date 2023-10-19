@@ -87,6 +87,13 @@ them such as a quarterly or annual cadence. These include:
 - [ ] Targeting for 2023-12: Washing of mattress protector and pillow protectors
 - [ ] Targeting for 2023-12: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.)
 
+### India trip stuff
+
+The full list is not (yet) public; a few select items are below:
+
+- [ ] Stuff related to packing, possibly including suitcase purchase
+- [ ] Get Indian rupees (INR) cash
+
 ## Devops/server maintenance work through 2023
 
 ### Server migration resumption (November 2023, December 2023, and Q1 2024)
