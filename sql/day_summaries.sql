@@ -2202,4 +2202,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-10-10',5205,1347,193,0,0,42,0,0,0,634,NULL),
   ('2023-10-11',5208,1348,27,180,0,225,0,0,0,494,NULL),
   ('2023-10-12',5209,1349,74,60,4,176,0,0,4,603,NULL),
-  ('2023-10-13',5211,1350,35,2,33,130,2,0,0,391,'On this day, I got my flu shot. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-10-13-flu-shot.md for details.');
+  ('2023-10-13',5211,1350,35,2,33,130,2,0,0,391,'On this day, I got my flu shot. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-10-13-flu-shot.md for details.'),
+  ('2023-10-14',5212,1351,115,65,10,19,10,0,0,667,NULL),
+  ('2023-10-15',5213,1352,26,15,0,140,0,0,30,357,NULL),
+  ('2023-10-16',5214,1353,247,0,0,60,0,0,0,573,NULL),
+  ('2023-10-17',5218,1354,122,0,0,50,0,0,0,477,NULL),
+  ('2023-10-18',NULL,1355,0,0,15,236,9,0,0,371,NULL);
