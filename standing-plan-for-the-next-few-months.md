@@ -44,26 +44,26 @@ To be more concrete, I'm planning to target the following with work:
 * I aim to follow these *absolute minimum* weekly targets:
 
   * At least 6 hours on weeks that I have not marked any day off
-
   * At least 4 hours on weeks that I have marked one day off
-
   * At least 2 hours on weeks that I have marked two days off
 
 * I aim to follow these *conditional minimum* weekly targets: *at
   least one* of the following must be true:
 
   * At least 9 hours in the week
-
-  * At least 10 hours averaging over the week and the two previous
-    weeks (i.e., a 3-week moving average)
+  * At least 9.5 hours average (28.5 hours total) across that week and
+    the two preceding weeks
+  * At least 10 hours average (50 hours total) across that week and
+    the four preceding weeks
 
 * I aim to follow these *conditional maximum* weekly targets: *at
   least one* of the following must be true:
 
   * At most 13 hours in the week
-
-  * At most 12 hours averaging over the week and the two previous
-    weeks (i.e., a 3-week moving average)
+  * At most 12.5 hours average (37.5 hours total) across that week and
+    the two preceding weeks
+  * At most 12 hours average (60 hours total) across that week and the
+    four preceding weeks
 
 While the above describe the minimum targets, I might spend more time
 in a give week either due to time-sensitive stuff at work or if it
@@ -74,21 +74,28 @@ makes sense given the nature of the work I am trying to complete.
 * I aim to follow this *conditional minimum* target each week for
   personal projects; *at least one* of the following must be true:
   * At least 5 hours on personal projects in that week
-  * At least 6 hours average on personal projects across that week and
-    the two preceding weeks
+  * At least 5.5 hours average (16.5 hours total) on personal
+    projects across that week and the two preceding weeks
+  * At least 6 hours average (30 hours total) on personal projects
+    across that week and the four preceding weeks
 
 * I aim to follow this *conditional maximum* target each week for
   personal chores: *at least one* of the following must be true:
   * At most 13 hours on personal chores in that week
-  * At most 12 hours average on personal chores across that week and
-    the two preceding weeks
+  * At most 12.5 hours average (37.5 hours total) on personal
+    chores across that week and the two preceding weeks
+  * At most 12 hours average (60 hours total) on personal chores
+    across that week and the four preceding weeks
 
 * I aim to follow this *conditional maximum* target each week for
   personal finances, income and taxes: *at least one* of the following
   must be true:
   * At most 3 hours on personal finances, income and taxes in that week
-  * At most 2 hours average on personal finances, income and taxes
-    across that week and the two preceding weeks
+  * At most 2.5 hours average (7.5 hours total) on personal
+    finances, income and taxes across that week and the two preceding
+    weeks
+  * At most 2 hours average (10 hours total) on personal fiannces,
+    income and taxes across that week and the four preceding weeks
 
 ## Chores to catch up on
 
