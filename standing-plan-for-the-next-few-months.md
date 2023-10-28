@@ -69,6 +69,27 @@ While the above describe the minimum targets, I might spend more time
 in a give week either due to time-sensitive stuff at work or if it
 makes sense given the nature of the work I am trying to complete.
 
+## Target time distribution between personal projects, personal finances, personal chores, etc.
+
+* I aim to follow this *conditional minimum* target each week for
+  personal projects; *at least one* of the following must be true:
+  * At least 5 hours on personal projects in that week
+  * At least 6 hours average on personal projects across that week and
+    the two preceding weeks
+
+* I aim to follow this *conditional maximum* target each week for
+  personal chores: *at least one* of the following must be true:
+  * At most 13 hours on personal chores in that week
+  * At most 12 hours average on personal chores across that week and
+    the two preceding weeks
+
+* I aim to follow this *conditional maximum* target each week for
+  personal finances, income and taxes: *at least one* of the following
+  must be true:
+  * At most 3 hours on personal finances, income and taxes in that week
+  * At most 2 hours average on personal finances, income and taxes
+    across that week and the two preceding weeks
+
 ## Chores to catch up on
 
 ### Health stuff
