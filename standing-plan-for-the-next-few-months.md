@@ -99,6 +99,14 @@ makes sense given the nature of the work I am trying to complete.
 
 ## Chores to catch up on
 
+### Bureuacratic stuff
+
+- [ ] Mail OptOutPrescreen form (I submitted online that keeps me opted out for five years, and mailing will make it permanent)
+
+### Contingency planning stuff
+
+- [ ] Print and mail (or drop off) full body donation form
+
 ### Health stuff
 
 - [ ] Targeting for 2023-12 or 2024-01: COVID-19 vaccine booster shot
@@ -119,6 +127,7 @@ them such as a quarterly or annual cadence. These include:
 
 The full list is not (yet) public; a few select items are below:
 
+- [ ] Get photo taken for visa
 - [ ] Stuff related to packing, possibly including suitcase purchase
 - [ ] Get Indian rupees (INR) cash
 
