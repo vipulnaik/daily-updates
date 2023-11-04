@@ -87,3 +87,9 @@ make fetch_anchorjs
 ```
 
 You can remove these files with `make clean_anchorjs`.
+
+## Succession plan
+
+For the succession plan in the event of Vipul Naik's death or
+permanent incapacitation, see
+[succession-plan.md](succession-plan.md).
