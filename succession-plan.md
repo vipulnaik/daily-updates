@@ -10,8 +10,8 @@ inherit Vipul Naik's digital resources.
 
 ### No further substantive updates
 
-No further updates should be made to this repository after Vipul
-Naik's death or permanent incapacitation. That's because this
+No further substantive updates should be made to this repository after
+Vipul Naik's death or permanent incapacitation. That's because this
 repository is intended to only cover Vipul Naik's ongoing activities,
 and therefore its underlying truth should not update after his death
 or permanent incapacitation.
