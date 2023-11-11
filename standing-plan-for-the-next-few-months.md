@@ -127,7 +127,7 @@ them such as a quarterly or annual cadence. These include:
 
 The full list is not (yet) public; a few select items are below:
 
-- [ ] Get photo taken for visa
+- [x] DONE 2023-11-10: Get photo taken for visa
 - [ ] Stuff related to packing, possibly including suitcase purchase
 - [ ] Get Indian rupees (INR) cash
 
