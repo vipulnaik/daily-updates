@@ -101,7 +101,7 @@ makes sense given the nature of the work I am trying to complete.
 
 ### Bureuacratic stuff
 
-- [ ] Mail OptOutPrescreen form (I submitted online that keeps me opted out for five years, and mailing will make it permanent)
+- [x] DONE 2023-11-10: Mail OptOutPrescreen form (I submitted online that keeps me opted out for five years, and mailing will make it permanent)
 
 ### Contingency planning stuff
 
