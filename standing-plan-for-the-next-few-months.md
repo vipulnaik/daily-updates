@@ -103,9 +103,13 @@ makes sense given the nature of the work I am trying to complete.
 
 - [x] DONE 2023-11-10: Mail OptOutPrescreen form (I submitted online that keeps me opted out for five years, and mailing will make it permanent)
 
+### Electronics stuff
+
+- [ ] Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
+
 ### Contingency planning stuff
 
-- [ ] Print and mail (or drop off) full body donation form
+- [ ] DONE 2023-11-22 but still awaiting confirmation of processing: Print and mail (or drop off) full body donation form
 
 ### Health stuff
 
