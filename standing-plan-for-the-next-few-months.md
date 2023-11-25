@@ -43,9 +43,13 @@ To be more concrete, I'm planning to target the following with work:
 
 * I aim to follow these *absolute minimum* weekly targets:
 
-  * At least 6 hours on weeks that I have not marked any day off
-  * At least 4 hours on weeks that I have marked one day off
-  * At least 2 hours on weeks that I have marked two days off
+  * At least 6 hours on weeks that I do not have any day off of my
+    three working days (either marked as PTO by me or a company holiday)
+  * At least 4 hours on weeks that I have one day off of my three
+    working days (either marked as PTO by me or a company holiday)
+  * At least 2 hours on weeks that I have marked two days off of my
+    three working days (either marked as PTO by me or a company
+    holiday)
 
 * I aim to follow these *conditional minimum* weekly targets: *at
   least one* of the following must be true:
