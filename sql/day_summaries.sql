@@ -2250,4 +2250,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2023-11-21',5278,1389,161,0,54,55,0,0,0,494,NULL),
   ('2023-11-22',5280,1390,12,0,5,278,0,0,15,260,'On this day, I made a trip to San Francisco. See https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2023-activity-tracker.md#wednesday-november-22 for more details.'),
   ('2023-11-23',5281,1391,5,2,2,116,0,0,0,416,NULL),
-  ('2023-11-24',5282,1392,62,45,0,205,0,0,0,592,NULL);
+  ('2023-11-24',5282,1392,62,45,0,205,0,0,0,592,NULL),
+  ('2023-11-25',5283,1393,3,112,0,80,0,0,0,558,NULL),
+  ('2023-11-26',NULL,1394,0,148,5,10,0,0,40,633,NULL);
