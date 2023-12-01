@@ -113,7 +113,7 @@ makes sense given the nature of the work I am trying to complete.
 
 ### Contingency planning stuff
 
-- [ ] DONE 2023-11-22 but still awaiting confirmation of processing: Print and mail (or drop off) full body donation form
+- [x] DONE 2023-11-30: Sign up as a whole body donor
 
 ### Health stuff
 
@@ -137,7 +137,7 @@ The full list is not (yet) public; a few select items are below:
 
 - [x] DONE 2023-11-10: Get photo taken for visa
 - [ ] Stuff related to packing, possibly including suitcase purchase
-- [ ] Get Indian rupees (INR) cash
+- [x] DONE 2023-11-29: Get Indian rupees (INR) cash
 
 ## Devops/server maintenance work through 2023
 
