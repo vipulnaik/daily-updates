@@ -63,10 +63,10 @@ the long term, for these reasons:
 ### No objections to keeping it up for the long term (but if so, it may be good to note Vipul Naik being deceased)
 
 If the domain and hosting of the website are being maintained for the
-long term, and the marginal cost of keeping the website up for the
-long term may be near-zero. If Vipul Naik's digital successor or
-others want to keep the website up for the long term, they are welcome
-to do so.
+long term, the marginal cost of keeping the website up for the long
+term may be near-zero. If Vipul Naik's digital successor or others
+want to keep the website up for the long term, they are welcome to do
+so.
 
 However, if the website is being kept up for the long term (for
 instance, for more than five years after Vipul Naik's death) it may be
