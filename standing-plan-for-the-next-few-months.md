@@ -13,8 +13,8 @@ actually did, and I am more committed to keeping that up-to-date.
 
 Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
-Q4 2023 | DLW data entry, continue devops/server maintenance work (mostly one-time), set up new subwikis | Timelines wiki complementary and meta work, AI safety stuff | Pick whatever makes sense
-Q1 2024 | Finish devops/server maintenance work (mostly one-time), DLW data entry, AI safety subwiki work| Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q4 2023 | DLW data entry, continue devops/server maintenance work (mostly one-time), edit subwikis | Timelines wiki complementary and meta work, AI safety stuff | Pick whatever makes sense
+Q1 2024 | Finish devops/server maintenance work (mostly one-time), DLW data entry, edit subwikis, maybe set up new subwikis, AI safety subwiki work| Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q2 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q3 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
@@ -141,7 +141,7 @@ The full list is not (yet) public; a few select items are below:
 
 ## Devops/server maintenance work through 2023
 
-### Server migration resumption (November 2023, December 2023, and Q1 2024)
+### Server migration resumption (November 2023 to around April/May 2024)
 
 I did a bunch of server migration work in Q2 2023, then took a break
 to deal with wisdom tooth removal and taxes. I need to resume server
@@ -156,10 +156,37 @@ After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
 is more robust.
 
-### Setting up additional subwikis starting November 2023 or later
+### Editing of subwikis (Q4 2023 onward)
 
-External commitments: Update in November 2023 promised to person
-who requested subwiki setup.
+I plan to do off-and-on editing of the following subwikis: learning,
+calculus, market, and cellbio. These wikis are all strategic:
+
+* The learning subwiki has various meta benefits -- better
+  understanding of learning can influence my strategy around subwikis
+  and other things in life.
+
+* The calculus subwiki has the benefit of being in an area where I am
+  very knowledgeable that *also* has a sufficiently wide audience that
+  I can get feedback from others (unlike groupprops where it's hard to
+  get feedback). So, I can use it to experiment with various formats
+  for data presentation and organization that can then be propagated
+  to other areas.
+
+* The cellbio subwiki is a subwiki in an area I am somewhat
+  knowledgeable about but not too knowledgeable about, so it is an
+  example where I can combine learning and knowledge organization, and
+  judge how good the subwiki format would be in a domain such as
+  biology. I'm also excited to learn more about cellbio, so it serves
+  a dual function of addressing my learning need.
+
+* The market subwiki is exciting because of my historical interest in
+  economics and thinking about the world from a market lens.
+
+I might also pick up more higher-math-wiki editing, covering wikis
+such as groupprops, topospaces, commalg, and diffgeom, but this is
+likely to come a little later.
+
+### Setting up additional subwikis starting February 2024 or so
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
