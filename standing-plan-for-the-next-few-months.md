@@ -14,7 +14,7 @@ actually did, and I am more committed to keeping that up-to-date.
 Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
 Q4 2023 | DLW data entry, continue devops/server maintenance work (mostly one-time), edit subwikis | Timelines wiki complementary and meta work, AI safety stuff | Pick whatever makes sense
-Q1 2024 | Finish devops/server maintenance work (mostly one-time), DLW data entry, edit subwikis, maybe set up new subwikis, AI safety subwiki work| Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q1 2024 | Finish devops/server maintenance work (mostly one-time), DLW data entry, edit subwikis, maybe set up new subwikis, AI safety subwiki work, food portal | Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q2 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q3 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
@@ -156,6 +156,8 @@ After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
 is more robust.
 
+## Subwiki stuff
+
 ### Editing of subwikis (Q4 2023 onward)
 
 I plan to do off-and-on editing of the following subwikis: learning,
@@ -196,6 +198,15 @@ an AI safety subwiki.
 While there may be more subwikis to add, I expect that the process
 will get streamlined more and more and the incremental effort of
 adding new subwikis will be low.
+
+## Food portal (likely Q1 2024, perhaps while in India)
+
+I'm thinking of making a portal to better aggregate and understand the
+data I'm collecting in
+https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/food_purchases.sql
+and
+https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/supplements.sql
+that is currently a little hard to understand in its entirety.
 
 ## Continuation of donations list website (DLW) in 2023 and 2024: potentially ongoing work
 
@@ -273,7 +284,7 @@ I will be discussing AI Watch further with Issa once Org Watch is caught up with
 
 This overlaps to some extent with timelines wiki work.
 
-### AI safety subwiki setup (Q4 2023 and/or Q1 2024)
+### AI safety subwiki setup (Q1 2024 or later)
 
 I'll decide the details regarding this after the outcome of the AI
 Watch and timelines work.
