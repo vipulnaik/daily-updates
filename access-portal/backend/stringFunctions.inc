@@ -1,6 +1,6 @@
 <?php
 
-$typesOfTimeSpent = ['day_job_liftigniter_and_arena','day_job_equator','personal_projects','personal_finances','personal_chores','house_chores','family_planning','other_activities'];
+$typesOfTimeSpent = ['day_job_liftigniter_and_arena','day_job_equator','personal_projects','personal_finances','personal_chores','house_chores','family_and_career_planning','other_activities'];
 
 function convertToHoursAndMinutes($minutesSpent) {
   if (!isset($minutesSpent)) {
