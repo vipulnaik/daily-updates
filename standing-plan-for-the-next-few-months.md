@@ -69,10 +69,6 @@ To be more concrete, I'm planning to target the following with work:
   * At most 12 hours average (60 hours total) across that week and the
     four preceding weeks
 
-While the above describe the minimum targets, I might spend more time
-in a give week either due to time-sensitive stuff at work or if it
-makes sense given the nature of the work I am trying to complete.
-
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
 * I aim to follow this *conditional minimum* target each week for
