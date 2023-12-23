@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: October 18, 2023
+Last major update: December 22, 2023
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -13,9 +13,8 @@ actually did, and I am more committed to keeping that up-to-date.
 
 Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
-Q4 2023 | DLW data entry, continue devops/server maintenance work (mostly one-time), edit subwikis | Timelines wiki complementary and meta work, AI safety stuff | Pick whatever makes sense
-Q1 2024 | Finish devops/server maintenance work (mostly one-time), DLW data entry, edit subwikis, maybe set up new subwikis, AI safety subwiki work, food portal | Timelines wiki complementary and meta work, family planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
-Q2 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q1 2024 | Focus on devops/server maintenance work (mostly one-time), DLW data entry, edit subwikis, maybe set up new subwikis, AI safety subwiki work, food portal | Timelines wiki complementary and meta work, family and career planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q2 2024 | Wrap up loose ends of deveops/server maintenance work. DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q3 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
 ## Work situation (September 2023 onward)
@@ -99,21 +98,13 @@ To be more concrete, I'm planning to target the following with work:
 
 ## Chores to catch up on
 
-### Bureuacratic stuff
-
-- [x] DONE 2023-11-10: Mail OptOutPrescreen form (I submitted online that keeps me opted out for five years, and mailing will make it permanent)
-
 ### Electronics stuff
 
 - [ ] Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
 
-### Contingency planning stuff
-
-- [x] DONE 2023-11-30: Sign up as a whole body donor
-
 ### Health stuff
 
-- [ ] Targeting for 2023-12 or 2024-01: COVID-19 vaccine booster shot
+- [ ] 2024-01-12: COVID-19 vaccine booster shot
 - [ ] Targeting for mid-to-late 2024: Get next round of blood tests done
 
 ### House stuff
@@ -123,28 +114,24 @@ checklist; however, there are some less frequent aspects of house
 cleaning I'd like to tackle one-off and then maybe set a cadence for
 them such as a quarterly or annual cadence. These include:
 
+- [x] DONE 2023-12-22: Washing of mattress protector and pillow protectors
 - [ ] Targeting for 2023-12: Full vacuuming
-- [ ] Targeting for 2023-12: Washing of mattress protector and pillow protectors
 - [ ] Targeting for 2023-12: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.)
 
 ### India trip stuff
 
 The full list is not (yet) public; a few select items are below:
 
-- [x] DONE 2023-11-10: Get photo taken for visa
 - [ ] Stuff related to packing, possibly including suitcase purchase
-- [x] DONE 2023-11-29: Get Indian rupees (INR) cash
 
-## Devops/server maintenance work through 2023
+## Devops/server maintenance work in 2024
 
 ### Server migration resumption (November 2023 to around April/May 2024)
 
 I did a bunch of server migration work in Q2 2023, then took a break
-to deal with wisdom tooth removal and taxes. I need to resume server
-migration work, and I expect it to be a major focus starting November
-2023.
-
-I have a private gameplan that I need to flesh out more.
+to deal with wisdom tooth removal and taxes. I low-key resumed the
+work in November 2023, and plan to continue it in earnest through Q1
+2024, with some left-over pieces in Q2 2024.
 
 ### Digital will (likely Q2 2024)
 
@@ -184,7 +171,7 @@ I might also pick up more higher-math-wiki editing, covering wikis
 such as groupprops, topospaces, commalg, and diffgeom, but this is
 likely to come a little later.
 
-### Setting up additional subwikis starting February 2024 or so
+### Setting up additional subwikis starting Q2 2024 or so
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
@@ -204,15 +191,15 @@ and
 https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/supplements.sql
 that is currently a little hard to understand in its entirety.
 
-## Continuation of donations list website (DLW) in 2023 and 2024: potentially ongoing work
+## Continuation of donations list website (DLW) in 2024: potentially ongoing work
 
 External commitments: Update in Q4 2023 promised to potential
 collaborator/contributor.
 
-I've resumed DLW work in October 2023 and plan to continue it through
-the rest of 2023 and then 2024. However, I will be prioritizing devops
-work and Google Analytics migration work over DLW work to the extent
-that I feel in the mood to do devops work.
+I've resumed DLW work in Q4 2023 and plan to continue it in Q1
+2024. However, I will be prioritizing devops work and Google Analytics
+migration work over DLW work to the extent that I feel in the mood to
+do devops work.
 
 While I have a lot to catch up with on DLW to begin with, I don't yet
 have a clear sense of what the steady-state ongoing work level will be
@@ -258,14 +245,10 @@ I expect to do my next round of rethinking exercise in Q2 2024 or Q3
 
 ## Family planning work starting Q4 2023
 
-I want to think systematically about having a family -- the search for
-a life partner, the various steps involved with having kids, and
-more. I've been thinking off and on about this but haven't been
-systematically documenting my thoughts. In Q4 2023 I'm going to start
-writing (private) notes documenting my thoughts on a variety of
-aspects of this. The hope is that this could inform relevant actions
-in 2023 such as searching for a partner or looking into other life
-change options.
+I want to think systematically about plans for family and career. In
+Q4 2023 I started writing (private) notes documenting my thoughts on a
+variety of aspects of this. I'm planning to continue this through
+2024.
 
 I'm probably not going to say a lot about this publicly except that
 I'm thinking about the topic.
