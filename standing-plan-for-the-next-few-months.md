@@ -93,7 +93,7 @@ To be more concrete, I'm planning to target the following with work:
   * At most 2.5 hours average (7.5 hours total) on personal
     finances, income and taxes across that week and the two preceding
     weeks
-  * At most 2 hours average (10 hours total) on personal fiannces,
+  * At most 2 hours average (10 hours total) on personal finances,
     income and taxes across that week and the four preceding weeks
 
 ## Chores to catch up on
