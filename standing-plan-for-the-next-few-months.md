@@ -53,19 +53,19 @@ To be more concrete, I'm planning to target the following with work:
 * I aim to follow these *conditional minimum* weekly targets: *at
   least one* of the following must be true:
 
-  * At least 9 hours in the week
-  * At least 9.5 hours average (28.5 hours total) across that week and
+  * At least 8 hours in the week
+  * At least 8.25 hours average (24.75 hours total) across that week and
     the two preceding weeks
-  * At least 10 hours average (50 hours total) across that week and
+  * At least 8.5 hours average (42.5 hours total) across that week and
     the four preceding weeks
 
 * I aim to follow these *conditional maximum* weekly targets: *at
   least one* of the following must be true:
 
-  * At most 13 hours in the week
-  * At most 12.5 hours average (37.5 hours total) across that week and
+  * At most 14 hours in the week
+  * At most 13.75 hours average (41.25 hours total) across that week and
     the two preceding weeks
-  * At most 12 hours average (60 hours total) across that week and the
+  * At most 13.5 hours average (67.5 hours total) across that week and the
     four preceding weeks
 
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
