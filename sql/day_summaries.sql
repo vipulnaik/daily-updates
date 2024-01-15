@@ -2307,5 +2307,5 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-01-10',5350,1439,117,5,0,3,0,0,239,583,NULL),
   ('2024-01-11',5351,1440,299,8,0,90,0,0,0,413,NULL),
   ('2024-01-12',5357,1441,42,0,10,208,0,0,0,438,'I got my COVID-19 booster dose on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md for details.'),
-  ('2024-01-13',5358,1442,76,0,3,61,0,0,7,590,NULL),
+  ('2024-01-13',5358,1442,76,0,3,61,0,0,7,590,'The low total accounted-for time was due to sluggishness in the aftermath of receiving the COVI-19 booster the previous day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-01-12-pfizer-covid-vaccine-updated-booster-dose.md for details.'),
   ('2024-01-14',5359,1443,53,0,0,148,0,0,35,433,NULL);
