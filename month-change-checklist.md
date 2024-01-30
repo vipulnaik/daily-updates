@@ -10,7 +10,9 @@ To be executed on the 1st of the month, or soon after:
   - [ ] Update to include contractwork payments due and payments made to @sebastiansanchez123
   - [ ] Update to include contractwork payments due and payments made to @riceissa
   - [ ] Check and (if necessary) update the contractwork balance of the preceding month to reflect the @riceissa payment that I generally execute on later in the month and so might have missed updating the finances portal for
-- [ ] alternating months: Make sure SSL/TLS certificates for Linode are updated; also copy updated certificates to any dev servers that don't do their own certificate renewal
+- alternating months:
+  - [ ] Make sure SSL/TLS certificates for Linode are updated
+  - [ ] Copy updated certificates to any dev servers that don't do their own certificate renewal
 - [ ] `wikipediaviews`: Switch month
 - [ ] `bart`: Update to include the latest month (and any other months since the last update)
 - [ ] `analytics-table`: Check data for all sites and see if any followup actions need to be taken, including possibly fixing broken analytics data
