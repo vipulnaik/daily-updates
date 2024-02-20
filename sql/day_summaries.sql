@@ -2340,4 +2340,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-02-08',5391,1468,159,0,0,90,0,0,0,533,NULL),
   ('2024-02-09',5392,1469,40,0,0,120,0,0,0,532,NULL),
   ('2024-02-10',NULL,1470,0,28,8,104,0,0,0,296,NULL),
-  ('2024-02-11',5393,1471,6,8,1,140,6,0,30,249,NULL);
+  ('2024-02-11',5393,1471,6,8,1,140,6,0,30,249,NULL),
+  /* Week of 2024-02-12 */
+  ('2024-02-12',5408,1472,70,8,2,64,0,0,52,NULL,NULL),
+  ('2024-02-13',5409,1473,64,12,0,76,0,65,20,NULL,NULL),
+  ('2024-02-14',5411,1474,151,0,4,146,0,7,45,NULL,NULL),
+  ('2024-02-15',5416,1475,60,0,0,226,0,0,15,NULL,NULL),
+  ('2024-02-16',5417,1476,13,0,0,301,0,5,0,NULL,'This was the day I flew out of San Francisco International Airport toward Bengaluru International Airport.'),
+  ('2024-02-17',NULL,1477,0,0,0,0,0,0,45,NULL,'This day was basically spent in flight, including the timezone transition.'),
+  ('2024-02-18',NULL,1478,0,0,5,205,0,0,15,193,'This was the day I landed in Bengaluru; from this day onward, I use Indian Standard Time (IST) for my daily updates.');
