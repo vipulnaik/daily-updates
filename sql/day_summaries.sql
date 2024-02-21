@@ -2348,4 +2348,4 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-02-15',5416,1475,60,0,0,226,0,0,15,NULL,NULL),
   ('2024-02-16',5417,1476,13,0,0,301,0,5,0,NULL,'This was the day I flew out of San Francisco International Airport toward Bengaluru International Airport.'),
   ('2024-02-17',NULL,1477,0,0,0,0,0,0,45,NULL,'This day was basically spent in flight, including the timezone transition.'),
-  ('2024-02-18',NULL,1478,0,0,5,205,0,0,15,193,'This was the day I landed in Bengaluru; from this day onward, I use Indian Standard Time (IST) for my daily updates.');
+  ('2024-02-18',NULL,1478,0,0,5,190,20,0,15,193,'This was the day I landed in Bengaluru; from this day onward, I use Indian Standard Time (IST) for my daily updates.');
