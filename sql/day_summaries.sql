@@ -2351,6 +2351,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-02-18',NULL,1478,0,0,5,190,20,0,15,193,'This was the day I landed in Bengaluru; from this day onward, I use Indian Standard Time (IST) for my daily updates.'),
   /* Week of 2024-02-19 */
   ('2024-02-19',NULL,1479,0,0,0,295,0,0,40,733,'On this day, I spent most of my time taking notes of my travel and setting up in my new environment in India. I was off from work.'),
-  ('2024-02-20',5418,1480,4,0,0,310,0,0,50,464,'On this day I spent a lot of time on a bureaucratic trip. I was still off from work.'),
+  ('2024-02-20',5418,1480,4,0,0,310,0,0,50,464,'On this day I spent a lot of time on a bureaucratic trip (my US visa document drop-off appointment). I was still off from work.'),
   ('2024-02-21',5419,1481,68,0,0,72,25,8,0,676,'On this day, I started getting back into the flow of work. I was officially still off from work.'),
   ('2024-02-22',5420,1482,65,96,0,49,0,0,20,809,'This was my first day officially back at work.');
