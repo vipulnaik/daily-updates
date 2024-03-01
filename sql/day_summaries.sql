@@ -2356,4 +2356,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-02-22',5420,1482,65,96,0,59,0,0,20,809,'This was my first day officially back at work.'),
   ('2024-02-23',5421,1483,148,10,0,18,0,10,0,651,NULL),
   ('2024-02-24',5422,1484,32,35,0,150,0,0,60,555,NULL),
-  ('2024-02-25',5423,1485,27,62,0,7,0,0,185,412,NULL);
+  ('2024-02-25',5423,1485,27,62,0,7,0,0,185,412,NULL),
+  /* Week of 2024-02-26 */
+  ('2024-02-26',5424,1486,91,60,0,10,0,0,10,621,NULL),
+  ('2024-02-27',5426,1487,84,15,0,60,0,0,65,735,NULL),
+  ('2024-02-28',5427,1488,33,0,0,311,0,0,15,355,'The day went into a bunch of not-previously-planned-for bureaucracy.'),
+  ('2024-02-29',5435,1489,23,0,0,335,0,0,0,320,'The day went into a bunch of not-previously-planned-for bureaucracy.');
