@@ -2363,4 +2363,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-02-28',5427,1488,33,0,0,311,0,0,15,355,'The day went into a bunch of not-previously-planned-for bureaucracy.'),
   ('2024-02-29',5435,1489,23,0,0,335,0,0,0,320,'The day went into a bunch of not-previously-planned-for bureaucracy.'),
   ('2024-03-01',5436,1490,6,12,20,257,0,0,5,699,'The day went into a bunch of not-previously-planned-for bureaucracy, as well as some other previously scheduled bureaucracy that I decided to do sooner.'),
-  ('2024-03-02',5437,1491,67,0,0,72,0,0,90,380,'As some of the bureaucracy from the previous days slowed down for the day, I made partial progress catching up on the work front as well as on things in the other activities bucket.');
+  ('2024-03-02',5437,1491,67,0,0,72,0,0,90,380,'As some of the bureaucracy from the previous days slowed down for the day, I made partial progress catching up on the work front as well as on things in the other activities bucket.'),
+  ('2024-03-03',5438,1492,5,30,7,151,0,0,0,203,'Part of the day was spent in travel to Chennai for a bureaucratic trip.'),
+  /* Week of 2024-03-04 */
+  ('2024-03-04',NULL,1493,0,0,0,240,0,0,60,58,'A large part of the day went in bureaucratic work and travel back from Chennai. As I had not taken my laptop to Chennai, my time on laptop was limited to my time at night after returning.'),
+  ('2024-03-05',5440,1494,150,8,0,78,0,0,25,881,'I spent a huge proportion of the day on the computer, fleshing out notes related to my bureaucratic trip as well as starting to catch up with things at my day job. I also spent some time watching videos now that the biggest bureaucratic stuff was done. All this together explains the huge amount of screen time.');
