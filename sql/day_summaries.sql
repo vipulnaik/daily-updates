@@ -2367,4 +2367,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-03-03',5438,1492,5,30,7,151,0,0,0,203,'Part of the day was spent in travel to Chennai for a bureaucratic trip.'),
   /* Week of 2024-03-04 */
   ('2024-03-04',NULL,1493,0,0,0,240,0,0,60,58,'A large part of the day went in bureaucratic work and travel back from Chennai. As I had not taken my laptop to Chennai, my time on laptop was limited to my time at night after returning.'),
-  ('2024-03-05',5440,1494,150,8,0,78,0,0,25,881,'I spent a huge proportion of the day on the computer, fleshing out notes related to my bureaucratic trip as well as starting to catch up with things at my day job. I also spent some time watching videos now that the biggest bureaucratic stuff was done. All this together explains the huge amount of screen time.');
+  ('2024-03-05',5440,1494,150,8,0,78,0,0,25,881,'I spent a huge proportion of the day on the computer, fleshing out notes related to my bureaucratic trip as well as starting to catch up with things at my day job. I also spent some time watching videos now that the biggest bureaucratic stuff was done. All this together explains the huge amount of screen time.'),
+  ('2024-03-06',5441,1495,76,0,0,135,0,12,25,756,NULL),
+  ('2024-03-07',5448,1496,163,0,2,96,0,0,57,704,NULL),
+  ('2024-03-08',5449,1497,163,0,0,37,0,0,0,816,NULL);
