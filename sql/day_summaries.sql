@@ -2370,4 +2370,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-03-05',5440,1494,150,8,0,78,0,0,25,881,'I spent a huge proportion of the day on the computer, fleshing out notes related to my bureaucratic trip as well as starting to catch up with things at my day job. I also spent some time watching videos now that the biggest bureaucratic stuff was done. All this together explains the huge amount of screen time.'),
   ('2024-03-06',5441,1495,76,0,0,135,0,12,25,756,NULL),
   ('2024-03-07',5448,1496,163,0,2,96,0,0,57,704,NULL),
-  ('2024-03-08',5449,1497,163,0,0,37,0,0,0,816,NULL);
+  ('2024-03-08',5449,1497,163,0,0,37,0,0,0,816,NULL),
+  ('2024-03-09',5452,1498,34,22,0,9,0,0,118,512,NULL),
+  ('2024-03-10',5453,1499,25,173,5,51,0,0,0,590,NULL);
