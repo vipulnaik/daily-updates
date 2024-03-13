@@ -14,7 +14,7 @@ actually did, and I am more committed to keeping that up-to-date.
 Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
 -- | -- | -- | --
 Q1 2024 | Focus on devops/server maintenance work (mostly one-time), DLW data entry, edit subwikis, maybe set up new subwikis, AI safety subwiki work, food portal | Timelines wiki complementary and meta work, family and career planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
-Q2 2024 | Wrap up loose ends of deveops/server maintenance work. DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
+Q2 2024 | Wrap up loose ends of devops/server maintenance work. DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
 Q3 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
 
 ## Work situation (September 2023 onward)
