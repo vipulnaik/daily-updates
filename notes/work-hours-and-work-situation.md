@@ -66,7 +66,7 @@ examples include:
 ## Hours target over time
 
 Company and time period | Hours target per week | Adherence? | Notes
--- | -- | --
+-- | -- | -- | --
 LiftIgniter and then Maven, from early 2018 (measurement started March 2019) until June 2021 | 24 to 30 | I approximately adhered to this target on average. | Working at this level was fairly fatiguing and stressful, both in terms of the direct fatigue and the reduced time availability for other things.
 Maven (that became Arena), starting July 2021 and prior to April 19, 2022| 21 (median of around 19-20, with surges to around 24-25) | I approximately adhered to this target on average. Working at this level was more relaxing, and gave me time to start pursuing personal projects when there weren't other crises to be addressed. However, I still didn't have a lot of space time-wise to pick up complex projects.
 Half-time split across Arena and Equator (April 19, 2022 to September 30, 2022) | 6-8 for Arena, 15 for Equator | The split ended up being more like 12 hours and 13 hours; basically I ended up spending more time on Arena and less time on Equator than I'd have liked to. | This period was a bit more heavy work-wise than the period immediately preceding it. There was also a lot of one-off work related to my house move during the first few weeks of this period, though that work settled down. The extra work on Arena was concentrated in the last three months (July to September) and was due to the added complexity of offboarding -- during the maintenance mode I was in for May and June, I was able to adhere to my target range.
