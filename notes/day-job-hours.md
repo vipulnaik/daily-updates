@@ -1,4 +1,4 @@
-# Work hours and work situation
+# Day job hours
 
 This is a complementary document to the [standing
 plan](../standing-plan-for-the-next-few-months.md). Whereas the
