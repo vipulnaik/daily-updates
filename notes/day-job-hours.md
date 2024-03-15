@@ -3,8 +3,8 @@
 This is a complementary document to the [standing
 plan](../standing-plan-for-the-next-few-months.md). Whereas the
 standing plan is a living document that only covers the current state
-(as of the most recent update), this work hours document provides more
-historical context on one specific aspect: work hours.
+(as of the most recent update), this document provides more historical
+context on one specific aspect: day job hours.
 
 ## Interpretation of hour measurement
 

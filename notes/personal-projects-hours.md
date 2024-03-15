@@ -1,0 +1,114 @@
+# Personal projects hours
+
+This is a complementary document to the [standing
+plan](../standing-plan-for-the-next-few-months.md). Whereas the
+standing plan is a living document that only covers the current state
+(as of the most recent update), this document provides more historical
+context on one specific aspect: personal projects hours.
+
+## Time supply constraints and my efforts to address them
+
+The short summary for personal projects hours is that I'd ideally like
+them to go up to a lot higher than they have been. I'm constrained by
+a limited time supply, and I have tried various things (to varying
+degrees of success) to address the time supply constraints.
+
+### Reducing hours on day job
+
+Starting July 2021 (actually effective June 2021), I reduced my target
+hours on day job from a range of 24-30 down to 21. With this change, I
+was able to gradually increase my personal projects hours to somewhere
+between 4 and 6 hours per week. However:
+
+* There was a lot of uncertainty and random work related to my housing
+  situation.
+
+* I still refrained from taking on a lot of big, one-off things like
+  devops streamlining and Linode migration.
+
+* I also refrained from picking up a bunch of personal finances and
+  personal chores tasks (though I did get my blood tests, periodontal
+  therapy, eye tests, done). For instance, I refrained from planning
+  an India trip, I refrained from doing wisdom tooth removal, and I
+  refrained from any major health-related stuff.
+
+Unfortunately, this spell of relative calm was disrupted by my
+decision to join Equator. My conversations with Equator started
+January 2022. In addition, around February 2022, I started planning a
+house move, which was also a big time sink (though it paid off in the
+long run). Therefore, this semi-golden period of increased time on
+personal projects lasted only until December 2021.
+
+### Sense of urgency around devops streamlining and Linode migration
+
+Around May 2022, after my house move, I developed a sense of urgency
+around devops streamlining and Linode migration, so I started working
+on it. I didn't have a lot of time in that month, but I picked up
+again in July, and got really serious at the time due to a lot of
+things I discovered were overdue. I had another devops-heavy month in
+September. I continued working on devops in October and November, but
+at some point the amount of stuff to do in Equator became clear and I
+had to shelve devops stuff.
+
+Later, this sense of urgency arose again in June 2023 when I needed to
+finish the GA 4 migration.
+
+### Long-term increase in free time starting March 2023 with the switch to half-time work, but not a lot of gain to personal projects from this
+
+Starting March 6, 2023, I've been working part-time for The Arena
+Group. This significantly increased my overall free time, but except
+June 2023, until October 2023 I didn't direct much of it to personal
+projects. That's because I initially used the free time to get ahead
+on Arena work and wrap up Equator work, then (after devops
+streamlining in June) I did my wisdom tooth removal and tax stuff
+(complicated 2022 tax situation), then I did various bureaucratic and
+health-related trips in October. Around September / October, I also
+began planning in earnest for my February 2024 India trip.
+
+### November 2023: living the new reality
+
+It was around November that these tasks wrapped up or paused enough
+that I could return to steady-state personal projects work. I decided
+that instead of using the freed up time to immediately focus on
+intense devops streamlining work, I'll try to live in my intended
+future steady state, so I picked a mix of work for my personal
+projects time, and also set a minimum target of 5 hours per week.
+
+### December 2023 to March 2024: personal finances / taxes plus trip
+
+Unfortunately, this new reality was short-lived too, and in December
+2023 and January 2024 I had to return my focus to personal finances
+(taxes stuff) and planning for my India trip. February and March 2024
+were focused on the trip itself as well as a bunch of trip-related
+bureaucracy.
+
+### April 2024 onward?
+
+I still have to plan for my life April 2024 onward. I could either
+focus intensely on wrapping up the remaining personal finances / taxes
+stuff so that I'm free of it until December, or mix it in more
+gradually with other stuff. If the former, I may have to defer to May
+2024 for getting back to a high regular weekly number of hours on
+personal projects; if the latter, I can start at 5+ hours on personal
+projects starting April 2024 itself. I haven't decided.
+
+I also have to make a decision regarding devops streamlining. I could
+either try to focus hard on it for April and May and try to get it
+done, or mix it in and get it done over a period of 4-5 months. Again,
+I haven't decided.
+
+## Track record
+
+### A look at months where I have had a high number of personal projects hours
+
+As of 2024-03-15, the six recorded months where my personal projects
+hours have been in excess of 6 hours per week are:
+
+Month | One-off tasks or steady state? | Explanation
+-- | --
+2022-09 | one-off tasks (though no deadline per se) | I was focused on devops streamlining work (related to my planned Linode migration) as I really wanted to get the migration done soon; even though it was a very busy month in other respects (leaving Arena), I squeezed the time in.
+2021-12 | steady state | This was one of those ideal personal projects months; the time here was on steady-state personal projects work such as the donations list website, rather than one-off things like devops streamlining.
+2023-06 | one-off tasks (with an imminent deadline) | I was focused on the work needed for Google Analytics 4 migration, in light of the sunset on Universal Analytics at the end of June.
+2022-11 | mix of one-off tasks and steady state (though no deadline per se) | My time on personal projects here was related to some FTX collapse stuff, some devops stuff, etc., but I'd say a lot of it was me not being able to focus as muh on Equator as I should have and using personal projects in the downtime.
+2022-07 | one-off tasks (though no deadline per se) | I spent a lot of time this month on devops streamlining. There was no imminent deadline, but some of the tasks, once started, I needed to finish.
+2023-11 | steady state | This was one of those ideal personal projects months; by this time, I was in a good space with the day job, had wrapped up a lot of personal chores that had been pending for a while (including initial planning for my India trip), and also wrapped up personal finances (taxes stuff). So I started a 5-hour minimum per week on personal projects, and mostly adhered to that! Unfortunately the spell was broken the next month as I returned to personal finances (taxes) and planning for my India trip.
