@@ -101,4 +101,70 @@ Start date of commitment | Minimum number of hours | Maximum number of hours | A
 [2023-10-12](https://github.com/vipulnaik/daily-updates/commit/62bdb743f84c837a1607b84e0632e2cf42a59d98) | 9 | N/A | Time-sensitive stuff OR day marked off and I can go below the minimum if my 3-week average is 11 hours or higher; I should also make sure my monthly average stays above 10.5 hours.
 [2023-10-14](https://github.com/vipulnaik/daily-updates/commit/013591fb5592d043071bd098c206e68d992bfd83) | 9 | 14 | 3-week average of at least 11 hours can substitute for the weekly 9 hours (no additional caveats); 3-week average of at most 12 hours can substitute for the weekly 14 hours.
 [2023-10-14](https://github.com/vipulnaik/daily-updates/commit/f61d55824cafe677b68837e9cda4c17d9a0f4733) | 9 | 13 | 3-week average of at least 10 hours can substitute for the weekly 9 hours; 3-week average of at most 12 hours can substitute for the weekly 13 hours.
-[2023-10-28](https://github.com/vipulnaik/daily-updates/commit/21fe0158925d77f2a8c26e8957facaa1684bf60f) | 9 | 13 | 3-week average of at least 9.5 hours or 5-week average of at least 10 hours can substitute the weekly 9 hours; 3-week average of at most 12.5 hours or 5-week average of at most 12 hours can substitute for the weekly 13 hours.
+[2023-10-28](https://github.com/vipulnaik/daily-updates/commit/21fe0158925d77f2a8c26e8957facaa1684bf60f) | 9 | 13 | 3-week average of at least 9.5 hours or 5-week average of at least 10 hours can substitute for the weekly 9 hours; 3-week average of at most 12.5 hours or 5-week average of at most 12 hours can substitute for the weekly 13 hours.
+[2024-01-12](https://github.com/vipulnaik/daily-updates/commit/ee088db58e278764ddcde7f0b0827433ab11a18d) | 8 | 14 | 3-week average of at least 8.25 hours or 5-week average of at least 8.5 hours can substitute for the weekly 8 hours; 3-week average of at most 13.75 hours or 5-week average of at most 13.5 hours can substitute for the weekly 14 hours.
+
+For minimum hours. the trend is very clear. The minimum number of
+hours has been reducing, and the flexibility around them has been
+increasing. This makes the minimum hours less and less of a
+constraining factor. The reason I didn't immediately select the final
+setting for minimum hours is that I needed to get data to indicate
+that a low minimum number of hours will not adversely affect my
+ability to do my job.
+
+The situation for maximum hours is not quite that monotonic. First
+off, the very introduction of maximum hours was motivated by the
+observation that I would often just continue on autopilot with work,
+ending up cutting into my time for other things (particularly personal
+projects). After introducing maximum hours, I initially reduced them
+from 14 to 13; however, later, I increased the maximum hours back to
+14. The reason for increasing them back was that I preferred the
+flexibility to work more in some weeks in light of significantly
+reduced availability in other weeks. The specific impetus was that I
+anticipated reduced work hours in the weeks leading up to my India
+travel, so I wanted to do a little more work in the weeks before that
+to build up the buffer to be able to hit my minimum targets.
+
+## India trip
+
+I'm still processing the lessons from my India trip. My average work
+hours per week during the trip were lower than my minimum
+targets. This is due to a combination of reasons
+
+* Reasons to do with reduced amount of time:
+  * (MAJOR) A lot of bureaucracy in India, including visa application and other
+    things.
+  * (MINOR) Some time spent with family in India.
+
+* Reasons to do with reduced amount of work to do:
+  * I was off of various on-calls, so some of the work related to
+    alert investigation did not come my way.
+  * I worked hard in the weeks prior to my India travel to wrap up a
+    bunch of threads and not pick up new ones. As a result, there were
+    periods when I didn't have anything of the right size that I could
+    immediately pick up (this was combined with the fact that the
+    bureaucracy meant that some projects that needed longer stretches
+    of time weren't feasible).
+  * The timezone difference meant that I wasn't around when "things
+    were happening", and this likely reduced the serendipitious
+    picking up of things for me to do. The magnitude of this effect
+    isn't super-clear to me.
+
+* Reasons to do with inadequate information: A lot of the bureaucratic
+  tasks went on exception paths, which I didn't anticipate early
+  on. So, when there was a little bit of a lull in work, I thought
+  I'll use the time to do work on personal projects, and wait for more
+  work to organically show up. This might have been the right choice
+  to make if the bureaucratic exception paths hadn't
+  happened. Specifically, around the end of the first week and
+  beginning of the second, as I was settling in to my routine and
+  before I learned of the exception paths, there were days where I
+  said, "there's not a lot of work organically, so I'll catch up on
+  personal projects; more work will come up organically later in the
+  week." But then later in the week I got pulled into the bureaucratic
+  stuff.
+
+  NOTE: In absolute terms, I was still below my target of 5 hours per
+  week on personal projects, so it's not like I spent a lot of time on
+  personal projects. But I might have prioritized work a little more
+  if I had been aware of the direction that things would take.
