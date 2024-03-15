@@ -2345,7 +2345,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-02-12',5408,1472,70,8,2,64,0,0,52,NULL,NULL),
   ('2024-02-13',5409,1473,64,12,0,76,0,65,20,NULL,NULL),
   ('2024-02-14',5411,1474,151,0,4,146,0,7,45,NULL,NULL),
-  ('2024-02-15',5416,1475,60,0,0,226,0,0,15,NULL,NULL),
+  ('2024-02-15',5416,1475,60,0,0,226,0,0,15,NULL,'I was off work on this day in order to prepare for my upcoming travel, though I did end up doing some work that came up.'),
   ('2024-02-16',5417,1476,13,0,0,301,0,5,0,NULL,'This was the day I flew out of San Francisco International Airport toward Bengaluru International Airport.'),
   ('2024-02-17',NULL,1477,0,0,0,0,0,0,45,NULL,'This day was basically spent in flight, including the timezone transition.'),
   ('2024-02-18',NULL,1478,0,0,5,190,20,0,15,193,'This was the day I landed in Bengaluru; from this day onward, I use Indian Standard Time (IST) for my daily updates.'),
@@ -2376,4 +2376,5 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2024-03-11 */
   ('2024-03-11',5454,1500,27,35,0,275,0,0,0,520,NULL),
   ('2024-03-12',5455,1501,28,32,0,25,0,0,150,352,NULL),
-  ('2024-03-13',5456,1502,62,4,0,163,0,0,30,649,NULL);
+  ('2024-03-13',5456,1502,62,4,0,163,0,0,30,649,NULL),
+  ('2024-03-14',NULL,1503,0,25,0,148,0,0,120,520,'I was off work on this day so that I could focus on travel preparation and wrapping things up.');
