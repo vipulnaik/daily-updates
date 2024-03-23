@@ -2380,4 +2380,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-03-14',NULL,1503,0,25,0,148,0,0,120,520,'I was off work on this day so that I could focus on travel preparation and wrapping things up.'),
   ('2024-03-15',5457,1504,20,0,0,209,0,0,10,NULL,'This was the day that I flew out from Bengaluru to San Francisco. The time in the flight itself is not tracked; however, I do track the time preparing for and traveling to the airport under personal chores.'),
   ('2024-03-16',NULL,1505,0,0,0,237,0,0,0,496,'This was the day I arrived in San Francisco from Bengaluru, and then traveled home to Berkeley. The time in the flight itself is not tracked; however, I do track my time getting back from the airport under personal chores. Starting this day, I resume tracking my days using Pacific Time. I experienced waves of fatigue in the evening (5 PM to 7 PM) during which I made a bunch of typos and spoonerisms, but got past that wave and was able to stay up and continue tackling tasks.'),
-  ('2024-03-17',5463,1506,5,0,12,342,0,0,88,695,'This was a very long day as, not having adjusted to the new sleep cycle, I woke up early and went to sleep quite late. I spent most of the day doing a bunch of personal chores stuff, much of it related to wrapping up things related to my recent trip and making some changes to help with future trips (while details from this trip were still fresh in my mind).');
+  ('2024-03-17',5463,1506,5,0,12,342,0,0,88,695,'This was a very long day as, not having adjusted to the new sleep cycle, I woke up early and went to sleep quite late. I spent most of the day doing a bunch of personal chores stuff, much of it related to wrapping up things related to my recent trip and making some changes to help with future trips (while details from this trip were still fresh in my mind).'),
+  /* Week of 2024-03-18 */
+  ('2024-03-18',5464,1507,29,30,0,138,0,0,20,491,NULL),
+  ('2024-03-19',5465,1509,128,0,0,45,0,0,5,536,NULL),
+  ('2024-03-20',5466,1510,102,0,0,115,0,0,55,539,NULL),
+  ('2024-03-21',5471,1511,218,8,0,150,0,0,30,565,NULL),
+  ('2024-03-22',5472,1512,50,0,0,241,0,0,60,291,NULL);
