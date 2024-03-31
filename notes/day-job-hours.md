@@ -77,7 +77,7 @@ Half-time work at Arena after formal setting of target hours (September 2023 onw
 
 ## Evolution of hours targets from September 2023 onward
 
-## Thought process behind the evolution
+### Thought process behind the evolution
 
 Some of the criteria I've used for the hours targets are as follows:
 
