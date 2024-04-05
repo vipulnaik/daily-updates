@@ -105,7 +105,7 @@ As of 2024-03-15, the six recorded months where my personal projects
 hours have been in excess of 6 hours per week are:
 
 Month | One-off tasks or steady state? | Explanation
--- | --
+-- | -- | --
 2022-09 | one-off tasks (though no deadline per se) | I was focused on devops streamlining work (related to my planned Linode migration) as I really wanted to get the migration done soon; even though it was a very busy month in other respects (leaving Arena), I squeezed the time in.
 2021-12 | steady state | This was one of those ideal personal projects months; the time here was on steady-state personal projects work such as the donations list website, rather than one-off things like devops streamlining.
 2023-06 | one-off tasks (with an imminent deadline) | I was focused on the work needed for Google Analytics 4 migration, in light of the sunset on Universal Analytics at the end of June.
