@@ -412,7 +412,7 @@ exercises.
 
 I expect to do my next round of rethinking exercise in Q3 2024.
 
-## Family planning work (resumed Q3 2024)
+## Family and career planning work (planning to resume Q3 2024)
 
 I want to think systematically about plans for family and career. In
 Q4 2023 I started writing (private) notes documenting my thoughts on a
