@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: December 22, 2023
+Last major update: April 6, 2024
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -9,13 +9,139 @@ okay). My daily updates with summaries at
 https://updates.vipulnaik.com/ is a more accurate record of what I
 actually did, and I am more committed to keeping that up-to-date.
 
+## Bucket-based and cadence-based classification of activities, and how I try to balance buckets and cadences
+
+### Bucket classification of activities and time target philosophy by bucket
+
+* Day job: Here, I set both minimum and maximum time targets; I need
+  to hit some minimum targets to continue to be and appear useful at
+  the day job, but also want to make sure I'm not spending too much
+  time at the expense of other buckets.
+
+* Personal projects: Here, I only set minimum time targets; in my
+  ideal world, I would spend unlimited time on this.
+
+* Personal finances, income and taxes: I only set maximum time
+  targets; to the extent that I can streamline things enough to spend
+  zero time here, that is good with me!
+
+* Personal chores: I only set maximum time
+  targets; to the extent that I can streamline things enough to spend
+  zero time here, that is good with me!
+
+* House chores: I set neither minimum nor maximum time targets, but
+  may start setting maximum time targets at some point if it ends up
+  being a time drain.
+
+* Family and career planning: So far, I haven't set minimum or maximum
+  time targets, but I might start setting them temporarily when
+  working on focused projects in this area.
+
+* Other activities: I don't set either minimum or maximum time
+  targets.
+
+### Cadence classification of activities
+
+Activities can be classified as follows based on their cadence and
+reminder system:
+
+* Activities embedded in my daily routine: Note that for personal
+  chores, things that are strictly part of daily routine (such as
+  eating, jogging, and brushing) are not even time-tracked. For other
+  buckets, they're generally time-tracked. No significant planning is
+  needed for these activities.
+
+* Activities embedded in my multi-day (less than a week) or weekly
+  routine: Examples include buying groceries, cooking, and updating my
+  daily update summaries. While these are generally time-tracked,
+  they're sufficiently embedded in my routine that I don't generally
+  need to make deliberate effort to do or remember them. Only in
+  exceptional circumstances, such as ill health, time crunch, or
+  inclement weather, do I need to devote planning effort to them.
+
+* Small activities that arise due to "incoming" signals: This includes
+  responding to email messages, alerts (whether at work or for my
+  personal servers). As I have reasonable routines for keeping an eye
+  on incoming signals, and the actions to take (once I do receive the
+  signals) are generally straightforward, I generally don't need to
+  put in deliberate effort to do theese.
+
+* Activities that are part of monthly checklists, such as contract
+  work payment updates, monthly balance updates, etc. Some portion of
+  the month change checklist is publicly available
+  [here](month-change-checklist.md).
+
+* Periodic activities that are less frequent than once in 1-2 months,
+  that are generally managed through calendar reminders. These may
+  include things like refilling balances, expiration dates for
+  long-lasting foods and medicines, checking the condition of some
+  equipment, etc.
+
+* One-time projects: Examples here include things like server
+  migration, automating something, making development improvements to
+  a repository, etc. If these are one-shot tasks, that can be done in
+  one or two sittings, I may use calendar reminders to nudge myself to
+  do them around some time. For more complex tasks, I generally do
+  them in smaller increments. For personal projects, I'm starting to
+  manage these increments by using weekly issues that record what I
+  intend to do in personal projects this week.
+
+* Ongoing tasks with no set required cadence and a lot of time
+  flexibility: Examples include DLW data entry, Wikipedia work,
+  etc. Generally, there's no minimum or maximum amount that has to be
+  done in a given week, and it makes sense to do more or less
+  depending on my mood and time availability.
+
+As of April 2024, I am reasonably on top of all the cadence categories
+other than the last two (and not coincidentally, the last two
+categories mainly fall under personal projects). My struggle with the
+last two has been that they get effectively deprioritized in favor of
+the other cadence categories. There are two broad solutions I can
+think of:
+
+* Some things can be moved to the other cadence categories. For
+  instance, ongoing tasks with no set cadence can be given an
+  artificial set cadence and then moved to a month change checklist.
+
+  However, I don't want to overdo this, as a lot of the joy and flow
+  with these tasks comes from the variability and spontaneity in the
+  task construction, as well as the open-endedness of how much to work
+  on it. Adding it to yet another TODO item on the already-fairly-long
+  month change checklist won't work.
+
+* Weekly issues where I outline roughly what I plan to do in these
+  buckets, particularly for personal projects: The goal with the
+  weekly issue isn't to set a very strict set of requirements for what
+  to do in the week, but rather to orient and prepare myself to do the
+  tasks and set an expectation that doing them is important. It's fine
+  to end up doing slightly different personal projects tasks than what
+  I outlined in the weekly issue, but if I'm systematically doing *way
+  less* than planned, that's a warning sign. If I'm ending up doing
+  slightly less, or doing about the same but slightly different
+  things, that's totally fine.
+
+  For instance, I didn't do *any* of the listed things in [the week of
+  2024-03-18 to
+  2024-03-24](https://github.com/vipulnaik/daily-updates/issues/1508)
+  and [the week of 2024-03-25 to
+  2024-03-31](https://github.com/vipulnaik/daily-updates/issues/1515),
+  and so far in [the week of 2024-04-01 to
+  2024-04-07](https://github.com/vipulnaik/daily-updates/issues/1523),
+  though I do expect to do at least a few things in this third week
+  (that is not yet over as of the time of writing the document). These
+  weeks have been unusual in terms of having a huge amount of personal
+  chores work, but nonetheless seeing very clearly that I had plans to
+  do work and haven't done *any* of it helps motivate me to pay more
+  attention to doing this in th efuture.
+
+
 ## Summary by quarter
 
-Quarter | Primary focus (personal projects or other activities) | Secondary focus (personal projects or other activities) | Side things, such as blog posts
--- | -- | -- | --
-Q1 2024 | Focus on devops/server maintenance work (mostly one-time), DLW data entry, edit subwikis, maybe set up new subwikis, AI safety subwiki work, food portal | Timelines wiki complementary and meta work, family and career planning, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
-Q2 2024 | Wrap up loose ends of devops/server maintenance work. DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects (such as stuff related to cause prioritization, Diet Watch, CDP, devec, etc.) | Pick whatever makes sense
-Q3 2024 | DLW data entry, AI safety subwiki expansion | Timelines wiki complementary and meta work, potentially one or more from my other projects | Probably several posts, as my DLW data entry and timelines wiki work will generate several ideas
+Quarter | Major one-time tasks (personal projects as well as other buckets) | Major ongoing activities (excluding stuff covered by regular checklists or daily routines) | Other ongoing activities (excluding stuff covered by regular checklists)
+-- | -- | -- | -- | --
+Q2 2024 | finish MediaWiki upgrades and server migration, catch up with backlog in DLW data entry; (personal finances, income and taxes) one-time work related to taxes | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation | Finish a bunch of one-time tax-related stuff
+Q3 2024 | wrap up any left-over pieces of server migration, destroy old server, AI safety subwiki setup; (personal chores) rethinking exercise, food portal | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
+Q4 2024 | (mix of personal projects and personal chores) digital will | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 
 ## Work situation (September 2023 onward)
 
@@ -39,6 +165,44 @@ To be more concrete, I'm planning to target the following with work:
   Friday. I expect that *de facto* I'll end up spending 30-60 minutes
   per day on these days, but I will not be *trying* to spend time at
   work on these days.
+
+  On weeks where I have to take time off on Monday, Tuesday, and
+  Thursday for personal chores or time-sensitive stuff in personal
+  projects, I'll usually compensate by spending a little more time for
+  work on Wednesday and Friday.
+
+* On the weekends (Saturday and Sunday), my focus will be on things
+  other than the day job.
+
+  By default, my day job work during weekends will *only* be on tasks
+  like these:
+
+  * Attending to incoming stuff such as emails, Slack messages,
+    on-call alerts, and build failures, and making *small* adjustments
+    and fixes based on these (where it's easier to just make the
+    adjustment rather than add it to a list to do later).
+
+  * Continuing to monitor or push forward any threads started during
+    the week, particularly for cases where small durations of effort
+    can help keep pushing things forward. An example is running a
+    series of jobs where I have to trigger the next job after the
+    previous job finished.
+
+  * Working on a task where there is a lot of time-sensitivity to the
+    completion of the task.
+
+  * Working on a task where there are significant continuity benefits
+    to working on the task now (for instance, there's a lot of context
+    built up from working on it during the week).
+
+  Any work I do above and beyond the above should be *only* for one of
+  these reasons:
+
+  * I need to work on the weekend to meet my absolute minimum weekly
+    target (see below).
+
+  * I need to work on the weekend to meet my conditional minimum
+    weekly target (see below).
 
 * I aim to follow these *absolute minimum* weekly targets:
 
@@ -78,6 +242,10 @@ To be more concrete, I'm planning to target the following with work:
   * At least 6 hours average (30 hours total) on personal projects
     across that week and the four preceding weeks
 
+  These conditional minimum targets were suspended during my India
+  trip and for the first few weeks after returning from India. They
+  take effect again *starting the week of 2024-04-08*.
+
 * I aim to follow this *conditional maximum* target each week for
   personal chores: *at least one* of the following must be true:
   * At most 13 hours on personal chores in that week
@@ -100,12 +268,11 @@ To be more concrete, I'm planning to target the following with work:
 
 ### Electronics stuff
 
-- [ ] Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
+- [ ] Targeting for Q3 2024: Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
 
 ### Health stuff
 
-- [ ] 2024-01-12: COVID-19 vaccine booster shot
-- [ ] Targeting for mid-to-late 2024: Get next round of blood tests done
+- [ ] Targeting for Q3 2024: Get next round of blood tests done
 
 ### House stuff
 
@@ -114,26 +281,21 @@ checklist; however, there are some less frequent aspects of house
 cleaning I'd like to tackle one-off and then maybe set a cadence for
 them such as a quarterly or annual cadence. These include:
 
-- [x] DONE 2023-12-22: Washing of mattress protector and pillow protectors
-- [ ] Targeting for 2023-12: Full vacuuming
-- [ ] Targeting for 2023-12: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.)
-
-### India trip stuff
-
-The full list is not (yet) public; a few select items are below:
-
-- [ ] Stuff related to packing, possibly including suitcase purchase
+- [ ] Targeting for 2024-06: Full vacuuming
+- [ ] Targeting for 2024-06: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.)
 
 ## Devops/server maintenance work in 2024
 
-### Server migration resumption (November 2023 to around April/May 2024)
+### Server migration resumption (Q2 2024)
 
 I did a bunch of server migration work in Q2 2023, then took a break
 to deal with wisdom tooth removal and taxes. I low-key resumed the
-work in November 2023, and plan to continue it in earnest through Q1
-2024, with some left-over pieces in Q2 2024.
+work in November 2023, but then had to take a break in order to focus
+on my India trip. I plan to focus hard on the MediaWiki upgrade
+portion of the server migration in Q2 2024, then wrap up loose ends
+and turn off my old server in Q3 2024.
 
-### Digital will (likely Q2 2024)
+### Digital will (likely Q4 2024)
 
 After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
@@ -141,7 +303,7 @@ is more robust.
 
 ## Subwiki stuff
 
-### Editing of subwikis (Q4 2023 onward)
+### Editing of subwikis (Q2 2024 onward)
 
 I plan to do off-and-on editing of the following subwikis: learning,
 calculus, market, and cellbio. These wikis are all strategic:
@@ -171,7 +333,7 @@ I might also pick up more higher-math-wiki editing, covering wikis
 such as groupprops, topospaces, commalg, and diffgeom, but this is
 likely to come a little later.
 
-### Setting up additional subwikis starting Q2 2024 or so
+### Setting up additional subwikis starting Q3 2024 or so
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
@@ -182,22 +344,22 @@ While there may be more subwikis to add, I expect that the process
 will get streamlined more and more and the incremental effort of
 adding new subwikis will be low.
 
-## Food portal (likely Q1 2024, perhaps while in India)
+## Food portal (likely Q3 2024)
 
-I'm thinking of making a portal to better aggregate and understand the
-data I'm collecting in
-https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/food_purchases.sql
-and
-https://github.com/vipulnaik/diet-exercise-health/blob/master/sql/supplements.sql
-that is currently a little hard to understand in its entirety.
+I added a bunch of food purchases verification queries in Q1 2024; see
+[here](https://github.com/vipulnaik/diet-exercise-health/blob/master/python/food_purchases_verification_queries.py)
+for details. These form the starting point for review and analysis of
+my food consumption, and also address the most time-sensitive aspects
+of the analysis. I plan to consolidate the information into a food
+portal in Q3 2024.
 
 ## Continuation of donations list website (DLW) in 2024: potentially ongoing work
 
-External commitments: Update in Q4 2023 promised to potential
-collaborator/contributor.
+I resumed DLW data entry work to some extent in Q4 2023 and then
+paused it in Q1 2024 to focus on my India trip. I plan to resume work
+on DLW data entry in Q2 2024.
 
-I've resumed DLW work in Q4 2023 and plan to continue it in Q1
-2024. However, I will be prioritizing devops work and Google Analytics
+However, I will be prioritizing devops work and Google Analytics
 migration work over DLW work to the extent that I feel in the mood to
 do devops work.
 
@@ -207,13 +369,21 @@ once I have caught up.
 
 ## Timelines wiki work
 
-### Getting and staying on top of "Timelines I keep expanding regularly" starting November 2023
+### Getting and staying on top of "Timelines I keep expanding regularly"
 
-My goal for November and December 2023 is to get on top of the table
-of "Timelines I keep expanding regularly on my [user
-page](https://timelines.issarice.com/wiki/User:Vipul).
+See
+[here](https://timelines.issarice.com/wiki/User:Vipul#Timelines_I_keep_expanding_regularly_.28or_at_least.2C_aim_to.21.29)
+for details.
 
-### More regular work from Q1 2024 onward
+I did a little bit of this work in Q1 2024, including updating the
+timeline of BART and starting updates for the timeline of AI
+safety. However, on the whole, this work took a backseat to other
+tasks related to my India trip. Starting Q2 2024, I expect to get more
+on top of this, and to stay on top of it going forward. Depending on
+how easy it is to stay on top of this, I might add more timelines
+here.
+
+### More regular work from Q2 2024 onward
 
 For the most part, work on timelines will be lower-priority for me
 than work on devops or DLW, but based on mood I might still end up
@@ -234,16 +404,15 @@ to then share with Sebastian and help inform his work as well. I also
 plan to make active efforts to articulate meta policies in
 collaboration with Issa and Sebastian.
 
-## Rethinking exercise (Q2 or Q3 2024)
+## Rethinking exercise (Q3 2024)
 
 I added a few exercises (Buteyko-style control pause breath holds,
 hand gripper exercises) in Q3 2023. I also do occasional flexibility
 exercises.
 
-I expect to do my next round of rethinking exercise in Q2 2024 or Q3
-2024.
+I expect to do my next round of rethinking exercise in Q3 2024.
 
-## Family planning work starting Q4 2023
+## Family planning work (resumed Q3 2024)
 
 I want to think systematically about plans for family and career. In
 Q4 2023 I started writing (private) notes documenting my thoughts on a
@@ -263,7 +432,7 @@ I will be discussing AI Watch further with Issa once Org Watch is caught up with
 
 This overlaps to some extent with timelines wiki work.
 
-### AI safety subwiki setup (Q1 2024 or later)
+### AI safety subwiki setup (Q3 2024 or later)
 
 I'll decide the details regarding this after the outcome of the AI
 Watch and timelines work.

@@ -168,3 +168,43 @@ targets. This is due to a combination of reasons
   week on personal projects, so it's not like I spent a lot of time on
   personal projects. But I might have prioritized work a little more
   if I had been aware of the direction that things would take.
+
+## Evolution of guidance on split between days after starting half-time in March 2023
+
+### Initial plan: Monday, Tuesday, and Wednesday for day job
+
+My initial plan, that I roughly followed for March and early April,
+was to work Monday, Tuesday, and Wednesday, to finish my work
+obligations for the week, so that the latter half of the week was work
+was work-free.
+
+### Switch to working Monday, Tuesday, and Thursday
+
+On April 19, 2023, I switched my work days to Monday, Tuesday, and
+Thursday. There were two rationales for the switch:
+
+* Wednesday is a no-meeting day at the company, whereas Thursday has
+  many meetings. So, it makes sense to work Thursdays rather than
+  being off work and just attending the meetings on Thursdays.
+
+* Wednesday, being a middle-of-week day, allows me to catch up on
+  personal chores that have been pending, particularly ones that need
+  attending to during daytime hours. This is more convenient than
+  having three consecutive days of work making it harder to catch up
+  on personal chores.
+
+### Documentation for day job
+
+On November 30, I wrote a [Google
+Doc](https://docs.google.com/document/d/14Orl1h94b7dLy5DkYH4RfJnX1kbu9wRwyO7wHCjKnV4/edit)
+documenting my availability pattern by day of week, and linked to it
+from my Slack profile.
+
+### Stricter restrictions on day job work over the weekend
+
+On April 6, I implemented stricter restrictions on the day job work I
+could do over the weekend. The work was now limited to dealing with
+incoming stuff, time-sensitive stuff, and things with significant
+continuity benefits, or cases where I was below my minimum hours
+thresholds if I didn't work on the weekend. The hope was to more
+definitively clear up the weekends for personal projects.

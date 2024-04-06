@@ -82,20 +82,31 @@ Unfortunately, this new reality was short-lived too, and in December
 were focused on the trip itself as well as a bunch of trip-related
 bureaucracy.
 
-### April 2024 onward?
+### April 2024 onward
 
 I still have to plan for my life April 2024 onward. I could either
 focus intensely on wrapping up the remaining personal finances / taxes
 stuff so that I'm free of it until December, or mix it in more
-gradually with other stuff. If the former, I may have to defer to May
-2024 for getting back to a high regular weekly number of hours on
-personal projects; if the latter, I can start at 5+ hours on personal
-projects starting April 2024 itself. I haven't decided.
+gradually with other stuff. In April 2024, I decided to mix things a
+bit more gradually, so that I still aim to do 5+ hours on personal
+projects per week starting the week of 2024-04-08.
 
-I also have to make a decision regarding devops streamlining. I could
-either try to focus hard on it for April and May and try to get it
-done, or mix it in and get it done over a period of 4-5 months. Again,
-I haven't decided.
+Regarding devops streamlining work (particularly MediaWiki upgrades
+and server migration) I've decided to focus on it in Q2 2024, but not
+exclusively. The goal is to focus on it enough to be done with the
+MediaWiki upgrade and migration portion in Q2, but still continue to
+do other ongoing steady-state tasks at a rate that will be lower than
+the planned-for steady-state rate.
+
+I have also implemented two other strategies to help drive more time
+to personal projects:
+
+* Stricter restrictions on the day job work I can do over the
+  weekends, so that more of the weekends can be spent on personal
+  projects.
+
+* Weekly issues listing the personal projects work I plan to do over
+  the week, for one-time projects and ongoing steady-state work.
 
 ## Track record
 
