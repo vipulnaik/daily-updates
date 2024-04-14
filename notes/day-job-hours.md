@@ -195,16 +195,27 @@ Thursday. There were two rationales for the switch:
 
 ### Documentation for day job
 
-On November 30, I wrote a [Google
+On November 30, 2023, I wrote a [Google
 Doc](https://docs.google.com/document/d/14Orl1h94b7dLy5DkYH4RfJnX1kbu9wRwyO7wHCjKnV4/edit)
 documenting my availability pattern by day of week, and linked to it
 from my Slack profile.
 
 ### Stricter restrictions on day job work over the weekend
 
-On April 6, I implemented stricter restrictions on the day job work I
-could do over the weekend. The work was now limited to dealing with
-incoming stuff, time-sensitive stuff, and things with significant
+On April 6, 2024, I implemented stricter restrictions on the day job
+work I could do over the weekend. The work was now limited to dealing
+with incoming stuff, time-sensitive stuff, and things with significant
 continuity benefits, or cases where I was below my minimum hours
 thresholds if I didn't work on the weekend. The hope was to more
 definitively clear up the weekends for personal projects.
+
+### Allowing the counting of personal devops (up to 2 hours a week) toward meeting minimum targets at work until September 2024
+
+I added a temporary provision that woud allow me to count up to 2
+hours a week of personal devops time related to one-time upgrades
+toward meeting the conditional minimum and absolute minimum targerts
+at my day job. This temporary provision is to allow me to make use of
+lulls in my day job to focus on personal devops work that is
+time-sensitive and uses similar parts of my brain. Since this work has
+a definite end, and is similar to my day job, I don't see issues
+redirecting that time and energy towards day job once it is done.

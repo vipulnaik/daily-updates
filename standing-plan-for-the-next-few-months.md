@@ -232,6 +232,18 @@ To be more concrete, I'm planning to target the following with work:
   * At most 13.5 hours average (67.5 hours total) across that week and the
     four preceding weeks
 
+* **Temporary provision until end of September 2024, or when this
+  round of upgrades finishes, whichever is earlier**: I can count up
+  to 2 hours per week of time spent on personal devops stuff (related
+  to upgrades) toward meeting the hours targets for my day job,
+  including the conditional minimum and absolute minimum, but I am not
+  obliged to count it toward the maximum. This temporary provision is
+  to allow me to make use of lulls in my day job to focus on personal
+  devops work that is time-sensitive and uses similar parts of my
+  brain. Since this work has a definite end, and is similar to my day
+  job, I don't see issues redirecting that time and energy towards day
+  job once it is done.
+
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
 * I aim to follow this *conditional minimum* target each week for
