@@ -2428,4 +2428,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-04-25',5530,1551,27,13,0,80,25,0,20,458,'I had abdominal pain on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-04-25-abdominal-pain.md for the details.'),
   ('2024-04-26',5531,1552,85,52,0,27,0,0,15,560,NULL),
   ('2024-04-27',5532,1553,4,138,20,61,0,0,40,585,NULL),
-  ('2024-04-28',5533,1554,52,33,0,50,0,5,175,595,NULL);
+  ('2024-04-28',5533,1554,52,33,0,50,0,5,175,595,NULL),
+  /* Week of 2024-04-29 */
+  ('2024-04-29',5538,1555,37,0,0,235,0,0,50,415,NULL),
+  ('2024-04-30',5540,1557,65,20,0,240,0,0,40,493,'A huge part of my day was taken up by a visit to urgent care and followup activities; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-04-30-urgent-care-visit-and-tests.md for more details.'),
+  ('2024-05-01',5543,1558,14,15,2,146,0,0,5,528,NULL),
+  ('2024-05-02',5545,1559,157,0,0,40,0,0,35,431,NULL),
+  ('2024-05-03',5546,1560,144,38,18,18,4,0,10,666,NULL);
