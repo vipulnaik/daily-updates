@@ -2434,4 +2434,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-04-30',5540,1557,65,20,0,240,0,0,40,493,'A huge part of my day was taken up by a visit to urgent care and followup activities; see https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/2024-04-30-urgent-care-visit-and-tests.md for more details.'),
   ('2024-05-01',5543,1558,14,15,2,146,0,0,5,528,NULL),
   ('2024-05-02',5545,1559,157,0,0,40,0,0,35,431,NULL),
-  ('2024-05-03',5546,1560,144,38,18,18,4,0,10,666,NULL);
+  ('2024-05-03',5546,1560,144,38,18,18,4,0,10,666,NULL),
+  ('2024-05-04',5547,1561,5,97,11,67,9,0,34,616,NULL),
+  ('2024-05-05',5548,1562,4,40,8,50,0,0,125,537,NULL);
