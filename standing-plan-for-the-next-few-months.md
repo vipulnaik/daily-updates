@@ -134,7 +134,6 @@ think of:
   do work and haven't done *any* of it helps motivate me to pay more
   attention to doing this in th efuture.
 
-
 ## Summary by quarter
 
 Quarter | Major one-time tasks (personal projects as well as other buckets) | Major ongoing activities (excluding stuff covered by regular checklists or daily routines) | Other ongoing activities (excluding stuff covered by regular checklists)
@@ -206,21 +205,25 @@ To be more concrete, I'm planning to target the following with work:
 
 * I aim to follow these *absolute minimum* weekly targets:
 
-  * At least 6 hours on weeks that I do not have any day off of my
-    three working days (either marked as PTO by me or a company holiday)
-  * At least 4 hours on weeks that I have one day off of my three
-    working days (either marked as PTO by me or a company holiday)
-  * At least 2 hours on weeks that I have marked two days off of my
+  * At least 5 hours 30 minutes on weeks that I do not have any day
+    off of my three working days (either marked as PTO by me or a
+    company holiday)
+
+  * At least 3 hours 40 minutes on weeks that I have one day off of my
     three working days (either marked as PTO by me or a company
     holiday)
+
+  * At least 1 hour 50 minutes on weeks that I have marked two days
+    off of my three working days (either marked as PTO by me or a
+    company holiday)
 
 * I aim to follow these *conditional minimum* weekly targets: *at
   least one* of the following must be true:
 
-  * At least 8 hours in the week
-  * At least 8.25 hours average (24.75 hours total) across that week and
+  * At least 7 hours in the week
+  * At least 7.25 hours average (21.75 hours total) across that week and
     the two preceding weeks
-  * At least 8.5 hours average (42.5 hours total) across that week and
+  * At least 7.5 hours average (37.5 hours total) across that week and
     the four preceding weeks
 
 * I aim to follow these *conditional maximum* weekly targets: *at
@@ -234,15 +237,16 @@ To be more concrete, I'm planning to target the following with work:
 
 * **Temporary provision until end of September 2024, or when this
   round of upgrades finishes, whichever is earlier**: I can count up
-  to 2 hours per week of time spent on personal devops stuff (related
-  to upgrades) toward meeting the hours targets for my day job,
-  including the conditional minimum and absolute minimum, but I am not
-  obliged to count it toward the maximum. This temporary provision is
-  to allow me to make use of lulls in my day job to focus on personal
-  devops work that is time-sensitive and uses similar parts of my
-  brain. Since this work has a definite end, and is similar to my day
-  job, I don't see issues redirecting that time and energy towards day
-  job once it is done.
+  to 2 hours per week of time spent on personal devops stuff (not
+  necessarily directly related to ugprades, since general devops stuff
+  is partly a reflection of my not having completed upgrades) toward
+  meeting the hours targets for my day job, including the conditional
+  minimum and absolute minimum, but I am not obliged to count it
+  toward the maximum. This temporary provision is to allow me to make
+  use of lulls in my day job to focus on personal devops work that is
+  time-sensitive and uses similar parts of my brain. Since this work
+  has a definite end, and is similar to my day job, I don't see issues
+  redirecting that time and energy towards day job once it is done.
 
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
