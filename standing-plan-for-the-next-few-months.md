@@ -297,8 +297,8 @@ checklist; however, there are some less frequent aspects of house
 cleaning I'd like to tackle one-off and then maybe set a cadence for
 them such as a quarterly or annual cadence. These include:
 
-- [ ] Targeting for 2024-06: Full vacuuming
-- [ ] Targeting for 2024-06: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.)
+- [x] DONE 2024-05-18: Bedroom vacuuming
+- [x] DONE 2024-04 and 2024-05: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.) (there are more to add in in the future but this is a good enough start)
 
 ## Devops/server maintenance work in 2024
 
