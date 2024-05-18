@@ -93,3 +93,5 @@
     dark_mode_preference.addEventListener("change", e => change_theme.set_theme_when_os_preference_changes());
 
 }(window.change_theme = window.change_theme || {}));
+
+change_theme.set_theme_from_local_storage();
