@@ -84,21 +84,12 @@ bureaucracy.
 
 ### April 2024 onward
 
-I still have to plan for my life April 2024 onward. I could either
-focus intensely on wrapping up the remaining personal finances / taxes
-stuff so that I'm free of it until December, or mix it in more
-gradually with other stuff. In April 2024, I decided to mix things a
-bit more gradually, so that I still aim to do 5+ hours on personal
-projects per week starting the week of 2024-04-08.
+This is the time that I started steadily staying in excess of 3 hours
+on personal projects each week. My time was spent on a mix of
+long-pending devops work, some timelines work, and Wikipedia editing
+relatedd to things I want to learn about for other purposes.
 
-Regarding devops streamlining work (particularly MediaWiki upgrades
-and server migration) I've decided to focus on it in Q2 2024, but not
-exclusively. The goal is to focus on it enough to be done with the
-MediaWiki upgrade and migration portion in Q2, but still continue to
-do other ongoing steady-state tasks at a rate that will be lower than
-the planned-for steady-state rate.
-
-I have also implemented two other strategies to help drive more time
+I implemented two other strategies to help drive more time
 to personal projects:
 
 * Stricter restrictions on the day job work I can do over the
@@ -107,6 +98,16 @@ to personal projects:
 
 * Weekly issues listing the personal projects work I plan to do over
   the week, for one-time projects and ongoing steady-state work.
+
+On May 19, 2024, I reduced my weekly hours target for personal
+projects for 1 / 3 / 5-week average from 5 / 5.5 / 6 to 4 / 4.25 /
+4.5. The goal is not to reduce my time spent on personal projects, but
+rather to switch from a target that feels like a stretch, particularly
+in weeks where other stuff is going on, to a target that feels
+achievable and to which I can actually hold myself accountable. This
+is also expected to both increase compliance and reduce my stress
+around meeting hours targets as well as my disappointment at failing
+to meet them.
 
 ## Track record
 
