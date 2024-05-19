@@ -11,6 +11,7 @@ print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."
 print '</head>';
 include_once('backend/globalVariables/passwordFile.inc');
 print "<body>\n";
+print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print '<h3>Updates for Vipul Naik</h3>';
 ?>
@@ -37,6 +38,5 @@ include ("backend/summariesByWeek.inc");
 include ("backend/summariesByDay.inc");
 
 include_once('anchorjs.inc');
-print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '</body>';
 ?>
