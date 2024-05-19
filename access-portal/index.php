@@ -11,7 +11,6 @@ print '<script type="text/javascript" src="./jquery.tablesorter.js"></script>'."
 print '</head>';
 include_once('backend/globalVariables/passwordFile.inc');
 print "<body>\n";
-print '<script>change_theme.set_theme_from_local_storage();</script>';
 print '<script>$(document).ready(function(){$("table").tablesorter({textExtraction: stripCommas});});</script>'."\n";
 print '<h3>Updates for Vipul Naik</h3>';
 ?>
@@ -21,6 +20,7 @@ print '<h3>Updates for Vipul Naik</h3>';
          <span id="light-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('light')">light</span>,
          <span id="dark-menu-option" style="cursor: pointer;" class="unselectable" onclick="change_theme.set_color('dark')">dark</span>
 </span>&thinsp;<!-- blank space to prevent cumulative layout shift --></p>
+<script>change_theme.set_theme_from_local_storage();</script>
 
 <?php
 include_once('preamble.inc');
