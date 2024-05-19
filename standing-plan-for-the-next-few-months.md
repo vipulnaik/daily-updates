@@ -252,10 +252,10 @@ To be more concrete, I'm planning to target the following with work:
 
 * I aim to follow this *conditional minimum* target each week for
   personal projects; *at least one* of the following must be true:
-  * At least 5 hours on personal projects in that week
-  * At least 5.5 hours average (16.5 hours total) on personal
+  * At least 4 hours on personal projects in that week
+  * At least 4.25 hours average (12.75 hours total) on personal
     projects across that week and the two preceding weeks
-  * At least 6 hours average (30 hours total) on personal projects
+  * At least 4.5 hours average (22.5 hours total) on personal projects
     across that week and the four preceding weeks
 
   These conditional minimum targets were suspended during my India
