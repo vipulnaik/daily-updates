@@ -2476,4 +2476,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-06-06',5607,1604,30,0,0,25,0,0,0,499,'This was my last of three days working in Portland.'),
   ('2024-06-07',5608,1605,245,0,0,60,0,0,0,203,'This was my day of return travel from Portland to San Francisco after a set of work meetings on the preceding three days (Tuesday 2024-06-04 to Thursday 2024-06-06).'),
   ('2024-06-08',5598,1596,30,0,0,286,0,0,10,509,'This was my first full day back at home in Berkeley after a trip to Portland. A large part of the day was spent on personal chores, including unpacking and related recording, stocking up food, laundry, and cooking, and taking notes related to my trip.'),
-  ('2024-06-09',NULL,1597,0,0,36,198,0,0,100,577,'This day continued to be spent on unpacking and catch-up actions (such as stocking up on food) after my recent Portland trip, though I started returning more to normalcy in terms of my mix of tasks.');
+  ('2024-06-09',NULL,1597,0,0,36,198,0,0,100,577,'This day continued to be spent on unpacking and catch-up actions (such as stocking up on food) after my recent Portland trip, though I started returning more to normalcy in terms of my mix of tasks.'),
+  /* Week of 2024-06-10 */
+  ('2024-06-10',5599,1598,120,0,6,79,0,0,40,376,NULL),
+  ('2024-06-11',5600,1599,156,0,3,54,0,0,25,531,NULL),
+  ('2024-06-12',5601,1600,16,0,4,82,0,0,290,293,'The low screen time is explained by the fact that a large portion of a catch-up meeting was taken on my other laptop that is not included in screen time.'),
+  ('2024-06-13',5602,1601,168,0,2,23,0,0,20,566,NULL),
+  ('2024-06-14',5603,1602,41,22,7,47,0,0,5,533,'The low total accounted-for time is explained by a combination of: resumption of strength exercises, nature of the tasks I did (I was doing many highly fragmented tasks that don''t contribute much to accounted-for time, and I also did a lot of background listening to YouTube videos), and not feeling too well (see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-06-14-abdominal-heaviness.md for details); the three things are plausibly related in various ways.');
