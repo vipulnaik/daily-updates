@@ -2470,10 +2470,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-06-01',5593,1592,34,2,20,69,7,0,70,377,NULL),
   ('2024-06-02',5594,1593,170,0,0,53,21,0,45,616,NULL),
   /* Week of 2024-06-03 */
-  ('2024-06-03',NULL /* pending */,1594 /* incomplete */,NULL,NULL,NULL,NULL,NULL,NULL,NULL,204,'This was my day of travel from San Francisco to Portland for a set of work meetings for the next three days (Tuesday 2024-06-04 to Thursday 2024-06-06).'),
-  ('2024-06-04',NULL /* pending */,NULL /* pending */,NULL,NULL,NULL,NULL,NULL,NULL,NULL,219,'This was my first of three days working in Portland.'),
-  ('2024-06-05',NULL /* pending */,NULL /* pending */,NULL,NULL,NULL,NULL,NULL,NULL,NULL,327,'This was my second of three days working in Portland.'),
-  ('2024-06-06',NULL /* pending */,1595 /* incomplete */,NULL,NULL,NULL,NULL,NULL,NULL,NULL,499,'This was my last of three days working in Portland.'),
-  ('2024-06-07',NULL /* pending */,NULL /* pending */,NULL,NULL,NULL,NULL,NULL,NULL,NULL,203,'This was my day of return travel from Portland to San Francisco after a set of work meetings on the preceding three days (Tuesday 2024-06-04 to Thursday 2024-06-06).'),
+  ('2024-06-03',5604,1594,240,0,0,69,0,0,0,204,'This was my day of travel from San Francisco to Portland for a set of work meetings for the next three days (Tuesday 2024-06-04 to Thursday 2024-06-06).'),
+  ('2024-06-04',5605,1603,165,0,0,40,0,0,120,219,'This was my first of three days working in Portland.'),
+  ('2024-06-05',5606,1595,200,0,3,20,0,0,0,327,'This was my second of three days working in Portland.'),
+  ('2024-06-06',5607,1604,30,0,0,25,0,0,0,499,'This was my last of three days working in Portland.'),
+  ('2024-06-07',5608,1605,245,0,0,60,0,0,0,203,'This was my day of return travel from Portland to San Francisco after a set of work meetings on the preceding three days (Tuesday 2024-06-04 to Thursday 2024-06-06).'),
   ('2024-06-08',5598,1596,30,0,0,286,0,0,10,509,'This was my first full day back at home in Berkeley after a trip to Portland. A large part of the day was spent on personal chores, including unpacking and related recording, stocking up food, laundry, and cooking, and taking notes related to my trip.'),
   ('2024-06-09',NULL,1597,0,0,36,198,0,0,100,577,'This day continued to be spent on unpacking and catch-up actions (such as stocking up on food) after my recent Portland trip, though I started returning more to normalcy in terms of my mix of tasks.');
