@@ -137,7 +137,7 @@ think of:
 ## Summary by quarter
 
 Quarter | Major one-time tasks (personal projects as well as other buckets) | Major ongoing activities (excluding stuff covered by regular checklists or daily routines) | Other ongoing activities (excluding stuff covered by regular checklists)
--- | -- | -- | -- | --
+-- | -- | -- | --
 Q2 2024 | finish MediaWiki upgrades and server migration, catch up with backlog in DLW data entry; (personal finances, income and taxes) one-time work related to taxes | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation | Finish a bunch of one-time tax-related stuff
 Q3 2024 | wrap up any left-over pieces of server migration, destroy old server, AI safety subwiki setup; (personal chores) rethinking exercise, food portal | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 Q4 2024 | (mix of personal projects and personal chores) digital will | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
