@@ -2484,4 +2484,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-06-13',5602,1601,168,0,2,23,0,0,20,566,NULL),
   ('2024-06-14',5603,1602,41,22,7,47,0,0,5,533,'The low total accounted-for time is explained by a combination of: resumption of strength exercises, nature of the tasks I did (I was doing many highly fragmented tasks that don''t contribute much to accounted-for time, and I also did a lot of background listening to YouTube videos), and not feeling too well (see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-06-14-abdominal-heaviness.md for details); the three things are plausibly related in various ways.'),
   ('2024-06-15',5609,1606,12,25,4,223,0,0,12,562,NULL),
-  ('2024-06-16',5610,1607,26,40,0,182,0,0,88,422,NULL);
+  ('2024-06-16',5610,1607,26,40,0,182,0,0,88,422,NULL),
+  /* Week of 2024-06-17 */
+  ('2024-06-17',5611,1608,129,40,19,25,0,0,5,616,NULL),
+  ('2024-06-18',5612,1609,114,3,11,105,0,0,37,603,NULL),
+  ('2024-06-19',5613,1610,88,0,33,170,0,0,10,562,NULL),
+  ('2024-06-20',5614,1611,100,0,0,165,0,0,15,632,NULL);
