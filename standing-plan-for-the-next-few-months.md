@@ -287,6 +287,10 @@ To be more concrete, I'm planning to target the following with work:
 
   * Refining my travel-related checklists and doing related research
 
+  * Doing setup work related to nutrition recording (this does not
+    include ongoing updates to the data -- just the setup portions of
+    the work)
+
   However, I cannot avail of this exception too often -- I haven't
   thought of a limit but, for instance, more than four weeks in a
   quarter would be excessive, and ideally these exceptions should
