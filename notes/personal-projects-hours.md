@@ -109,6 +109,22 @@ is also expected to both increase compliance and reduce my stress
 around meeting hours targets as well as my disappointment at failing
 to meet them.
 
+### June 2024: formal recognition of exceptional conditions
+
+From late May 2024 to mid-June 2024, I had a number of exceptional
+weeks before, during and after my Portland travel, then spent some
+time on setup related to taxes and travel checklists.
+
+I noticed that during this process, I felt guilty about weeks where my
+personal projects time was low for reasons that made strategic sense
+to me. In order to reduce that guilt while still encouraging myself to
+spend more time on personal projects, I used [this
+commit](https://github.com/vipulnaik/daily-updates/commit/01c33924b7b43478e8d15d61eabe50adf0f56429)
+to document allowed exceptions and their limits. At the time I did
+this, the past few weeks had been examples of such exceptions, so it
+was good to get formal recognition of this and reduce my guilt and
+inner conflict.
+
 ## Track record
 
 ### A look at months where I have had a high number of personal projects hours
