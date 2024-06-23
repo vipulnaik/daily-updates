@@ -25,6 +25,7 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/week_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/month_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/year_summaries.sql
+	python3 python/day_summaries_verification_queries.py
 
 .PHONY: fetch_table_sorting
 fetch_table_sorting:
