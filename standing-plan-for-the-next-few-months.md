@@ -262,6 +262,39 @@ To be more concrete, I'm planning to target the following with work:
   trip and for the first few weeks after returning from India. They
   take effect again *starting the week of 2024-04-08*.
 
+  The following are some situations where these targets may be
+  suspended:
+
+  * The week of a work trip (for instance, my trip to Portland
+    2024-06-03 to 2024-06-07)
+
+  * The week of intercity or international travel, as well as the week
+    prior to it if the travel starts early in the week (Wednesday or
+    sooner)
+
+  * The week after intercity or international travel
+
+  * Up to two weeks prior to travel that was not planned more than
+    three weeks in advance (for instance my Portland trip)
+
+  The following is a situation where the target may be relaxed or
+  substituted: if I'm doing significant one-off "building" work that
+  falls under personal finances or personal chores, I can count the
+  one-off "building" work towards the target. Some examples include:
+
+  * Setting up data structures and verification queries related to
+    taxes, that I expect to be useful over more than just one year
+
+  * Refining my travel-related checklists and doing related research
+
+  However, I cannot avail of this exception too often -- I haven't
+  thought of a limit but, for instance, more than four weeks in a
+  quarter would be excessive, and ideally these exceptions should
+  happen about once a quarter or less. Ideally even in the weeks where
+  I'm doing some work of the above sorts, my personal projects time
+  should still exceed the threshold for that week or using a
+  three-week or five-week average.
+
 * I aim to follow this *conditional maximum* target each week for
   personal chores: *at least one* of the following must be true:
   * At most 13 hours on personal chores in that week
