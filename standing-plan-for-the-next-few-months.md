@@ -291,7 +291,17 @@ To be more concrete, I'm planning to target the following with work:
     include ongoing updates to the data -- just the setup portions of
     the work)
 
-  However, I cannot avail of this exception too often -- I haven't
+  Another situation where the target may be relaxed or substituted: if
+  I spend over three hours in a week on one-off catchups (excluding
+  weekly catchup with parents), then the excess time I spend over
+  three hours can be substituted for personal projects time as far as
+  meeting the thresholds is concerned (officially, unless directly
+  tied to personal projects, this time would still be counted in the
+  other activities bucket). The idea here is that sometimes these
+  catchups can be lengthy as it makes sense to spend a lot of
+  contiguous time, but they are also relatively rare.
+
+  However, I cannot avail of these exceptions too often -- I haven't
   thought of a limit but, for instance, more than four weeks in a
   quarter would be excessive, and ideally these exceptions should
   happen about once a quarter or less. Ideally even in the weeks where
