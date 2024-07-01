@@ -109,7 +109,7 @@ is also expected to both increase compliance and reduce my stress
 around meeting hours targets as well as my disappointment at failing
 to meet them.
 
-### June 2024: formal recognition of exceptional conditions
+### June 2024 and early July 2024: formal recognition of exceptional conditions
 
 From late May 2024 to mid-June 2024, I had a number of exceptional
 weeks before, during and after my Portland travel, then spent some
@@ -124,6 +124,9 @@ to document allowed exceptions and their limits. At the time I did
 this, the past few weeks had been examples of such exceptions, so it
 was good to get formal recognition of this and reduce my guilt and
 inner conflict.
+
+In early July 2024, I added another exceptional condition with [this
+commit](https://github.com/vipulnaik/daily-updates/commit/e3776e7b8c02c557e6480be7d9fb5e1e24b95b9a).
 
 ## Track record
 
