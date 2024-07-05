@@ -64,7 +64,7 @@ reminder system:
   personal servers). As I have reasonable routines for keeping an eye
   on incoming signals, and the actions to take (once I do receive the
   signals) are generally straightforward, I generally don't need to
-  put in deliberate effort to do theese.
+  put in deliberate effort to do these.
 
 * Activities that are part of monthly checklists, such as contract
   work payment updates, monthly balance updates, etc. Some portion of
