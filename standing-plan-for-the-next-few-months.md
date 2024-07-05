@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: April 6, 2024
+Last major update: July 5, 2024
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -138,9 +138,9 @@ think of:
 
 Quarter | Major one-time tasks (personal projects as well as other buckets) | Major ongoing activities (excluding stuff covered by regular checklists or daily routines) | Other ongoing activities (excluding stuff covered by regular checklists)
 -- | -- | -- | --
-Q2 2024 | finish MediaWiki upgrades and server migration, catch up with backlog in DLW data entry; (personal finances, income and taxes) one-time work related to taxes | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation | Finish a bunch of one-time tax-related stuff
-Q3 2024 | wrap up any left-over pieces of server migration, destroy old server, AI safety subwiki setup; (personal chores) rethinking exercise, food portal | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
-Q4 2024 | (mix of personal projects and personal chores) digital will | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
+Q3 2024 | finish MediaWiki upgrades and server migration, catch up with backlog in DLW data entry; (personal finances, income and taxes) one-time work related to taxes | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation | Finish a bunch of one-time tax-related stuff
+Q4 2024 | wrap up any left-over pieces of server migration, destroy old server, AI safety subwiki setup; (personal chores) rethinking exercise, food portal | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
+Q1 2025 | (mix of personal projects and personal chores) digital will | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 
 ## Work situation (September 2023 onward)
 
@@ -337,28 +337,21 @@ To be more concrete, I'm planning to target the following with work:
 
 - [ ] Targeting for Q3 2024: Get next round of blood tests done
 
-### House stuff
-
-I've added a bunch of ongoing house cleaning to my month change
-checklist; however, there are some less frequent aspects of house
-cleaning I'd like to tackle one-off and then maybe set a cadence for
-them such as a quarterly or annual cadence. These include:
-
-- [x] DONE 2024-05-18: Bedroom vacuuming
-- [x] DONE 2024-04 and 2024-05: Cleaning of hard-to-reach areas (area under stove, crevices in kitchen, etc.) (there are more to add in in the future but this is a good enough start)
-
 ## Devops/server maintenance work in 2024
 
-### Server migration resumption (Q2 2024)
+### Server migration resumption (Q2 2024, focus in Q3 2024 and final wrap-up within Q4 2024)
 
 I did a bunch of server migration work in Q2 2023, then took a break
 to deal with wisdom tooth removal and taxes. I low-key resumed the
 work in November 2023, but then had to take a break in order to focus
-on my India trip. I plan to focus hard on the MediaWiki upgrade
-portion of the server migration in Q2 2024, then wrap up loose ends
-and turn off my old server in Q3 2024.
+on my India trip. I resumed focus on the server migration work in Q2
+2024, but some health issues and then the Portland trip distracted me,
+so I got somewhat less done than I had hoped. Nonetheless, I did make
+enough progress that it looks like I can do the bulk of the remaining
+work in Q3 2024, and wrap up the work in Q4 2024 so that I should be
+able to shut down the old server by the end of 2024.
 
-### Digital will (likely Q4 2024)
+### Digital will (likely Q1 2025)
 
 After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
@@ -396,7 +389,7 @@ I might also pick up more higher-math-wiki editing, covering wikis
 such as groupprops, topospaces, commalg, and diffgeom, but this is
 likely to come a little later.
 
-### Setting up additional subwikis starting Q3 2024 or so
+### Setting up additional subwikis starting Q4 2024 or so
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
@@ -407,24 +400,27 @@ While there may be more subwikis to add, I expect that the process
 will get streamlined more and more and the incremental effort of
 adding new subwikis will be low.
 
-## Food portal (likely Q3 2024)
+## Food portal (likely Q4 2024)
 
 I added a bunch of food purchases verification queries in Q1 2024; see
 [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/python/food_purchases_verification_queries.py)
-for details. These form the starting point for review and analysis of
-my food consumption, and also address the most time-sensitive aspects
-of the analysis. I plan to consolidate the information into a food
-portal in Q3 2024.
+for details. I continued working on these in Q2 and then also started
+recording food preparations and openings, and started building out
+associated verification queries, all as part of [issue
+7](https://github.com/vipulnaik/diet-exercise-health/issues/7).
+
+By the end of Q3, I'll have a full quarter of data for preparations
+and openings, as well as more experience with the system, so that in
+Q4 I can work on the food portal in earnest.
 
 ## Continuation of donations list website (DLW) in 2024: potentially ongoing work
 
 I resumed DLW data entry work to some extent in Q4 2023 and then
-paused it in Q1 2024 to focus on my India trip. I plan to resume work
-on DLW data entry in Q2 2024.
-
-However, I will be prioritizing devops work and Google Analytics
-migration work over DLW work to the extent that I feel in the mood to
-do devops work.
+paused it in Q1 2024 to focus on my India trip. I did a little bit of
+work in Q1 2024, then paused to focus on the server migration. My
+guess is that DLW work will remain in an almost-fully paused state
+until the bulk of the server migration is done, after which point I'll
+be picking it up more.
 
 While I have a lot to catch up with on DLW to begin with, I don't yet
 have a clear sense of what the steady-state ongoing work level will be
@@ -441,16 +437,11 @@ for details.
 I did a little bit of this work in Q1 2024, including updating the
 timeline of BART and starting updates for the timeline of AI
 safety. However, on the whole, this work took a backseat to other
-tasks related to my India trip. Starting Q2 2024, I expect to get more
-on top of this, and to stay on top of it going forward. Depending on
-how easy it is to stay on top of this, I might add more timelines
-here.
-
-### More regular work from Q2 2024 onward
-
-For the most part, work on timelines will be lower-priority for me
-than work on devops or DLW, but based on mood I might still end up
-doing a fair amount of work on timelines.
+tasks related to my India trip. I continued working on timeline of AI
+safety in Q2 2024, bringing it a bit closer to current but not fully
+current. My plan is to be current on my existing list of timelines by
+the end of Q3 2024 and then stay current, possibly making the list of
+timelines I monitor regularly longer over time.
 
 ### Work that has synergies with DLW work, and resultant EA Forum posts in 2024 or later
 
@@ -467,20 +458,12 @@ to then share with Sebastian and help inform his work as well. I also
 plan to make active efforts to articulate meta policies in
 collaboration with Issa and Sebastian.
 
-## Rethinking exercise (Q3 2024)
-
-I added a few exercises (Buteyko-style control pause breath holds,
-hand gripper exercises) in Q3 2023. I also do occasional flexibility
-exercises.
-
-I expect to do my next round of rethinking exercise in Q3 2024.
-
 ## Family and career planning work (planning to resume Q3 2024)
 
 I want to think systematically about plans for family and career. In
 Q4 2023 I started writing (private) notes documenting my thoughts on a
-variety of aspects of this. I'm planning to continue this through
-2024.
+variety of aspects of this. I'm planning to start picking this up more
+in Q3 2024, though it is lower in priority than my devops work.
 
 I'm probably not going to say a lot about this publicly except that
 I'm thinking about the topic.
@@ -495,7 +478,7 @@ I will be discussing AI Watch further with Issa once Org Watch is caught up with
 
 This overlaps to some extent with timelines wiki work.
 
-### AI safety subwiki setup (Q3 2024 or later)
+### AI safety subwiki setup (Q4 2024 or later)
 
 I'll decide the details regarding this after the outcome of the AI
 Watch and timelines work.
