@@ -132,7 +132,7 @@ think of:
   weeks have been unusual in terms of having a huge amount of personal
   chores work, but nonetheless seeing very clearly that I had plans to
   do work and haven't done *any* of it helps motivate me to pay more
-  attention to doing this in th efuture.
+  attention to doing this in the future.
 
 ## Summary by quarter
 
