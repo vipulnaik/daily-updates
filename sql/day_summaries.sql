@@ -2513,4 +2513,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-07-08',5653,1630,173,2,24,5,5,0,0,631,NULL),
   ('2024-07-09',5655,1631,65,15,41,113,0,0,20,531,NULL),
   ('2024-07-10',5656,1632,32,0,90,110,0,0,15,487,NULL),
-  ('2024-07-11',5657,1633,218,0,0,23,0,0,0,368,NULL);
+  ('2024-07-11',5657,1633,218,0,0,23,0,0,0,368,NULL),
+  ('2024-07-12',5658,1634,93,20,1,102,0,0,0,629,'I got my Tdap vaccine booster dose on this day. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-07-12-tdap-vaccine-booster-dose.md for details.'),
+  ('2024-07-13',5659,1635,25,124,4,106,0,0,15,659,NULL),
+  ('2024-07-14',5660,1636,8,152,74,11,0,0,80,596,NULL);
