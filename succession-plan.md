@@ -54,7 +54,7 @@ the long term, for these reasons:
 * It is mainly for Vipul Naik's own reference, and was not created to
   provide lasting consumption value.
 
-* It gets very little traffc from humans other than Vipul.
+* It gets very little traffic from humans other than Vipul.
 
 * Its content is backed up daily, and at each update, on the Wayback
   Machine. So if people are interested in the content, they can access
