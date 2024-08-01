@@ -205,15 +205,15 @@ To be more concrete, I'm planning to target the following with work:
 
 * I aim to follow these *absolute minimum* weekly targets:
 
-  * At least 5 hours 30 minutes on weeks that I do not have any day
+  * At least 4 hours 30 minutes on weeks that I do not have any day
     off of my three working days (either marked as PTO by me or a
     company holiday)
 
-  * At least 3 hours 40 minutes on weeks that I have one day off of my
+  * At least 3 hours on weeks that I have one day off of my
     three working days (either marked as PTO by me or a company
     holiday)
 
-  * At least 1 hour 50 minutes on weeks that I have marked two days
+  * At least 1 hour 30 minutes on weeks that I have marked two days
     off of my three working days (either marked as PTO by me or a
     company holiday)
 
