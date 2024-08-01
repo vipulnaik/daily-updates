@@ -214,7 +214,7 @@ definitively clear up the weekends for personal projects.
 
 I added a temporary provision that woud allow me to count up to 2
 hours a week of personal devops time related to one-time upgrades
-toward meeting the conditional minimum and absolute minimum targerts
+toward meeting the conditional minimum and absolute minimum targets
 at my day job. This temporary provision is to allow me to make use of
 lulls in my day job to focus on personal devops work that is
 time-sensitive and uses similar parts of my brain. Since this work has
