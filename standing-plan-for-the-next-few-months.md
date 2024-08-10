@@ -203,6 +203,12 @@ To be more concrete, I'm planning to target the following with work:
   * I need to work on the weekend to meet my conditional minimum
     weekly target (see below).
 
+  * I have already exceeded my minimum target on personal projects for
+    the week by at least 2 hours, and spending time on day job over
+    the weekend will not put me significantly behind on any non-work
+    tasks (whether personal projects, personal finances, personal
+    chores, or anything else).
+
 * I aim to follow these *absolute minimum* weekly targets:
 
   * At least 4 hours 30 minutes on weeks that I do not have any day
