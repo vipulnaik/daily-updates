@@ -2550,4 +2550,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-08-10',5701,1663,86,47,0,52,7,0,5,488,NULL),
   ('2024-08-11',5702,1664,16,50,61,118,2,0,35,444,NULL),
   /* Week of 2024-08-12 */
-  ('2024-08-12',5703,1665,74,3,3,46,4,0,12,402,'The low total accounted-for time on this day was due to a combination of doing a lot of small tasks and not feeling too well. Though the "not feeling too well" aspect was not unusually strong relative to the past few days, it interacted poorly with the fragmented nature of tasks.');
+  ('2024-08-12',5703,1665,74,3,3,46,4,0,12,402,'The low total accounted-for time on this day was due to a combination of doing a lot of small tasks and not feeling too well. Though the "not feeling too well" aspect was not unusually strong relative to the past few days, it interacted poorly with the fragmented nature of tasks.'),
+  ('2024-08-13',5704,1666,32,0,135,87,0,0,140,392,NULL),
+  ('2024-08-14',5705,1667,13,70,44,10,0,0,330,682,NULL),
+  ('2024-08-15',5706,1668,15,15,0,170,0,0,140,496,NULL);

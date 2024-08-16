@@ -1,4 +1,4 @@
-for i in {1..1665} # Change range to cover whatever additional issues need downloading
+for i in {1..1669} # Change range to cover whatever additional issues need downloading
 do
         gh issue view $i > $i.md
         echo "downloaded issue $i"
