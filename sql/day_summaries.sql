@@ -2578,4 +2578,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-09-03',5732,1687,89,106,0,88,0,0,14,477,'This was the day I went for blood tests; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-09-03-blood-tests.md for more information.'),
   ('2024-09-04',5733,1688,170,34,0,36,0,0,15,535,NULL),
   ('2024-09-05',5734,1689,42,214,25,13,0,0,95,676,NULL),
-  ('2024-09-06',5735,1690,178,42,43,78,0,0,35,549,NULL);
+  ('2024-09-06',5735,1690,178,42,43,78,0,0,35,549,NULL),
+  ('2024-09-07',5736,1691,20,141,0,104,0,0,32,473,NULL),
+  ('2024-09-08',5737,1692,25,14,16,85,0,0,335,372,NULL);
