@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: July 5, 2024
+Last major update: September 27, 2024
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -138,11 +138,10 @@ think of:
 
 Quarter | Major one-time tasks (personal projects as well as other buckets) | Major ongoing activities (excluding stuff covered by regular checklists or daily routines) | Other ongoing activities (excluding stuff covered by regular checklists)
 -- | -- | -- | --
-Q3 2024 | finish MediaWiki upgrades and server migration, catch up with backlog in DLW data entry; (personal finances, income and taxes) one-time work related to taxes | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation | Finish a bunch of one-time tax-related stuff
-Q4 2024 | wrap up any left-over pieces of server migration, destroy old server, AI safety subwiki setup; (personal chores) rethinking exercise, food portal | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
+Q4 2024 | wrap up remainder of MediaWiki site migration; destroy old server; DLW data entry backlog catch-up | guidance to the temporary contract workers, calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 Q1 2025 | (mix of personal projects and personal chores) digital will | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 
-## Work situation (September 2023 onward)
+## Work situation
 
 As of the end of August / start of September 2023, my work situation
 is pretty good; I am now aiming to stick to my half-time goal, with my
@@ -156,9 +155,10 @@ strategy every few months and adjust upward or downward as needed.
 To be more concrete, I'm planning to target the following with work:
 
 * I will be work-focused on Monday, Tuesday, and Thursday, though I
-  might still take out time for time-sensitive personal chores. I
-  expect to average at least 3 focused hours per day for these three
-  days.
+  might still take out time for time-sensitive personal chores. I aim
+  to spend at least 2 focused hours per day on average over these
+  three days; however, in many cases I may end up spending way more
+  than 2 hours on one of the days and less on others.
 
 * I will try to be responsive on Slack and work email on Wednesday and
   Friday. I expect that *de facto* I'll end up spending 30-60 minutes
@@ -241,18 +241,19 @@ To be more concrete, I'm planning to target the following with work:
   * At most 13.5 hours average (67.5 hours total) across that week and the
     four preceding weeks
 
-* **Temporary provision until end of September 2024, or when this
-  round of upgrades finishes, whichever is earlier**: I can count up
-  to 2 hours per week of time spent on personal devops stuff (not
+* **Temporary provision until end of November 2024, or when this round
+  of upgrades finishes, whichever is earlier**: I can count up to 2
+  hours per week of time spent on personal devops stuff (not
   necessarily directly related to ugprades, since general devops stuff
   is partly a reflection of my not having completed upgrades) toward
   meeting the hours targets for my day job, including the conditional
   minimum and absolute minimum, but I am not obliged to count it
   toward the maximum. This temporary provision is to allow me to make
-  use of lulls in my day job to focus on personal devops work that is
-  time-sensitive and uses similar parts of my brain. Since this work
-  has a definite end, and is similar to my day job, I don't see issues
-  redirecting that time and energy towards day job once it is done.
+  use of lulls in my day job to focus on personal projects devops work
+  that is time-sensitive and uses similar parts of my brain. Since
+  this work has a definite end, and is similar to my day job, I don't
+  see issues redirecting that time and energy towards day job once it
+  is done.
 
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
@@ -337,25 +338,22 @@ To be more concrete, I'm planning to target the following with work:
 
 ### Electronics stuff
 
-- [ ] Targeting for Q3 2024: Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
+- [ ] Targeting for Q4 2024: Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
 
 ### Health stuff
 
-- [ ] Targeting for Q3 2024: Get next round of blood tests done
+- [ ] Targeting for Q1 2025: Get next round of blood tests done
 
 ## Devops/server maintenance work in 2024
 
-### Server migration resumption (Q2 2024, focus in Q3 2024 and final wrap-up within Q4 2024)
+### Server migration wrap-up (Q4 2024)
 
-I did a bunch of server migration work in Q2 2023, then took a break
-to deal with wisdom tooth removal and taxes. I low-key resumed the
-work in November 2023, but then had to take a break in order to focus
-on my India trip. I resumed focus on the server migration work in Q2
-2024, but some health issues and then the Portland trip distracted me,
-so I got somewhat less done than I had hoped. Nonetheless, I did make
-enough progress that it looks like I can do the bulk of the remaining
-work in Q3 2024, and wrap up the work in Q4 2024 so that I should be
-able to shut down the old server by the end of 2024.
+In Q3 2024, I did the bulk of the upgrade and migration work
+associated with my server. Some remaining mechanical work, and then
+some careful post-migration verification work, still remain. I plan to
+do these in Q4 2024. These are my priority for Q4 2024, even if it
+means slowing down some of my more creative and productive personal
+projects work.
 
 ### Digital will (likely Q1 2025)
 
@@ -365,7 +363,7 @@ is more robust.
 
 ## Subwiki stuff
 
-### Editing of subwikis (Q2 2024 onward)
+### Editing of subwikis (Q4 2024 onward, but deprioritized until the server migration has been completed)
 
 I plan to do off-and-on editing of the following subwikis: learning,
 calculus, market, and cellbio. These wikis are all strategic:
@@ -395,18 +393,19 @@ I might also pick up more higher-math-wiki editing, covering wikis
 such as groupprops, topospaces, commalg, and diffgeom, but this is
 likely to come a little later.
 
-### Setting up additional subwikis starting Q4 2024 or so
+### Setting up additional subwikis starting Q4 2024 or so (deferred until after the server migration is complete)
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
 subwikis, and then set up additional subwikis. One such possibility is
-an AI safety subwiki.
+an AI safety subwiki. I am also exploring the possibility of various
+health-related subwikis.
 
 While there may be more subwikis to add, I expect that the process
 will get streamlined more and more and the incremental effort of
 adding new subwikis will be low.
 
-## Food portal (likely Q4 2024)
+## Food portal (likely Q2 2025)
 
 I added a bunch of food purchases verification queries in Q1 2024; see
 [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/python/food_purchases_verification_queries.py)
@@ -415,11 +414,13 @@ recording food preparations and openings, and started building out
 associated verification queries, all as part of [issue
 7](https://github.com/vipulnaik/diet-exercise-health/issues/7).
 
-By the end of Q3, I'll have a full quarter of data for preparations
-and openings, as well as more experience with the system, so that in
-Q4 I can work on the food portal in earnest.
+The system of verification queries is working well for flagging
+short-run issues. However, it's still a little difficult to look at
+the data and understand longer-run trends. Since Q4 2024 is likely to
+be somewhat busy, and Q1 2025 may be similarly busy, my tentative plan
+is to slot the food portal work for Q2 2025.
 
-## Continuation of donations list website (DLW) in 2024: potentially ongoing work
+## Continuation of donations list website (DLW) in 2024: potentially ongoing work with catch-up focus in Q4 2024 (after completion of server migration)
 
 I resumed DLW data entry work to some extent in Q4 2023 and then
 paused it in Q1 2024 to focus on my India trip. I did a little bit of
@@ -432,22 +433,23 @@ While I have a lot to catch up with on DLW to begin with, I don't yet
 have a clear sense of what the steady-state ongoing work level will be
 once I have caught up.
 
+However, I do intend to put a lot of focus on this in Q4 2024 *after
+the server migration has been completed.*
+
 ## Timelines wiki work
 
-### Getting and staying on top of "Timelines I keep expanding regularly"
+### Getting and staying on top of "Timelines I keep expanding regularly" (after completion of server migration work in Q4 2024)
 
 See
 [here](https://timelines.issarice.com/wiki/User:Vipul#Timelines_I_keep_expanding_regularly_.28or_at_least.2C_aim_to.21.29)
 for details.
 
-I did a little bit of this work in Q1 2024, including updating the
-timeline of BART and starting updates for the timeline of AI
-safety. However, on the whole, this work took a backseat to other
-tasks related to my India trip. I continued working on timeline of AI
-safety in Q2 2024, bringing it a bit closer to current but not fully
-current. My plan is to be current on my existing list of timelines by
-the end of Q3 2024 and then stay current, possibly making the list of
-timelines I monitor regularly longer over time.
+I made some progress on this in Q3 2024, but at some point switched
+focus to finishing the server migration work. Once the server
+migration work has been completed, I plan to get back on top of
+this. With that said, if I'm in a "waiting" stage of the server
+migration work, I might use that time to do some work on timelines
+wiki.
 
 ### Work that has synergies with DLW work, and resultant EA Forum posts in 2024 or later
 
@@ -464,7 +466,7 @@ to then share with Sebastian and help inform his work as well. I also
 plan to make active efforts to articulate meta policies in
 collaboration with Issa and Sebastian.
 
-## Family and career planning work (planning to resume Q3 2024)
+## Family and career planning work (planning to resume Q4 2024 or Q1 2025 after completing server migration work)
 
 I want to think systematically about plans for family and career. In
 Q4 2023 I started writing (private) notes documenting my thoughts on a
