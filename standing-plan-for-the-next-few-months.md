@@ -231,6 +231,10 @@ To be more concrete, I'm planning to target the following with work:
     the two preceding weeks
   * At least 7.5 hours average (37.5 hours total) across that week and
     the four preceding weeks
+  * At least 7.75 hours average (54.25 hours total) across that week
+    and the six preceding weeks
+  * At least 8 hours average (72 hours total) across that week and the
+    eight preceding weeks
 
 * I aim to follow these *conditional maximum* weekly targets: *at
   least one* of the following must be true:
@@ -264,6 +268,10 @@ To be more concrete, I'm planning to target the following with work:
     projects across that week and the two preceding weeks
   * At least 4.5 hours average (22.5 hours total) on personal projects
     across that week and the four preceding weeks
+  * At least 4.75 hours average (33.25 hours total) on personal
+    projects across that week and the six preceding weeks
+  * At least 5 hours average (45 hours total) on personal projects
+    across that week and the eight preceding weeks
 
   These conditional minimum targets were suspended during my India
   trip and for the first few weeks after returning from India. They
