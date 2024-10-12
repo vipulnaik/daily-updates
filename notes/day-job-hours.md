@@ -104,6 +104,7 @@ Start date of commitment | Minimum number of hours | Maximum number of hours | A
 [2023-10-28](https://github.com/vipulnaik/daily-updates/commit/21fe0158925d77f2a8c26e8957facaa1684bf60f) | 9 | 13 | 3-week average of at least 9.5 hours or 5-week average of at least 10 hours can substitute for the weekly 9 hours; 3-week average of at most 12.5 hours or 5-week average of at most 12 hours can substitute for the weekly 13 hours.
 [2024-01-12](https://github.com/vipulnaik/daily-updates/commit/ee088db58e278764ddcde7f0b0827433ab11a18d) | 8 | 14 | 3-week average of at least 8.25 hours or 5-week average of at least 8.5 hours can substitute for the weekly 8 hours; 3-week average of at most 13.75 hours or 5-week average of at most 13.5 hours can substitute for the weekly 14 hours.
 [2024-05-18](https://github.com/vipulnaik/daily-updates/commit/cd92e03feb56733480589b7b8f917546bca70441) | 7 | 14 | 3-week average of at least 7.25 hours or 5-week average of at least 7.5 hours can substitute for the weekly 8 hours; 3-week average of at most 13.75 hours or 5-week average of at most 13.5 hours can substitute for the weekly 14 hours.
+[2024-10-12](https://github.com/vipulnaik/daily-updates/commit/7489c1a1d1736423ff57b17b4e8eeb33a8e10ce8)| 7 | 14 | 3-week average of at least 7.25 hours 5-week average of at least 7.5 hours, 7-week average of at laest 7.75 hours, or 9-week average of at least 8 hours, can substitute for the weekly 8 hours; 3-week average of at most 13.75 hours or 5-week average of at most 13.5 hours can substitute for the weekly 14 hours.
 
 For minimum hours. the trend is very clear. The minimum number of
 hours has been reducing, and the flexibility around them has been
@@ -210,7 +211,7 @@ continuity benefits, or cases where I was below my minimum hours
 thresholds if I didn't work on the weekend. The hope was to more
 definitively clear up the weekends for personal projects.
 
-### Allowing the counting of personal devops (up to 2 hours a week) toward meeting minimum targets at work until September 2024
+### Allowing the counting of personal devops (up to 2 hours a week) toward meeting minimum targets at work until November 2024
 
 I added a temporary provision that woud allow me to count up to 2
 hours a week of personal devops time related to one-time upgrades
@@ -220,3 +221,6 @@ lulls in my day job to focus on personal devops work that is
 time-sensitive and uses similar parts of my brain. Since this work has
 a definite end, and is similar to my day job, I don't see issues
 redirecting that time and energy towards day job once it is done.
+
+Initially set to be till September 2024, I extended this provision
+until November 2024.

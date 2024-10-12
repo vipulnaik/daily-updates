@@ -109,6 +109,10 @@ is also expected to both increase compliance and reduce my stress
 around meeting hours targets as well as my disappointment at failing
 to meet them.
 
+On October 12, 2024, I added 7-week and 9-week average cases of 4.75
+and 5 hours respectively, giving myself more flexibility in how I
+distribute personal projects time across weeks.
+
 ### June 2024 and early July 2024: formal recognition of exceptional conditions
 
 From late May 2024 to mid-June 2024, I had a number of exceptional
