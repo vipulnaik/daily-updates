@@ -2618,4 +2618,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-10-08',5788,1722,211,2,2,16,0,0,180,565,NULL),
   ('2024-10-09',5791,1723,19,7,0,220,0,0,145,313,'This was the day of my dental cleaning appointment; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-10-09-dental-cleaning.md for details.'),
   ('2024-10-10',5794,1724,104,0,0,124,0,0,100,423,NULL),
-  ('2024-10-11',5796,1725,40,0,7,156,0,0,205,409,NULL);
+  ('2024-10-11',5796,1725,40,0,7,156,0,0,205,409,NULL),
+  ('2024-10-12',5797,1726,37,7,0,122,10,0,178,524,NULL),
+  ('2024-10-13',5798,1727,29,60,0,100,0,0,160,556,NULL);
