@@ -249,6 +249,11 @@ To be more concrete, I'm planning to target the following with work:
   proper planning, exploratory health work should not *become*
   time-sensitive in most cases.
 
+  If I *do* have to do some of these tasks during the weekend, I
+  should, where possible, limit them to the end of the day so that
+  they don't set the tone for the rest of the day, and don't prevent
+  me from getting in the flow of personal projects work.
+
   For now, it's still fine to continue to spend time with meals
   etc. on medical education, that falls under the other activities
   bucket. However, I may decide to pause this on weekends as well if I
