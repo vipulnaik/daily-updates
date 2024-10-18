@@ -209,6 +209,52 @@ To be more concrete, I'm planning to target the following with work:
     tasks (whether personal projects, personal finances, personal
     chores, or anything else).
 
+* Aspirationally, on the weekends, I also aim to follow these
+  additional guidelines regarding personal chores.
+
+  * I should of course continue to do all time-sensitive personal
+    chores that fall on the weekend, including cooking, food
+    purchases, and laundry, but should generally try where possible to
+    schedule them during the weekday if it's close to neutral as far
+    as the availability cycle considerations go.
+
+  * For month change checklist items that fall under personal chores,
+    where possible, I should complete them during the weekdays, using
+    Wednesday and Friday for the cases where those items require
+    longer chunks of time. I should do parts of them on the weekend
+    only if one of these conditions hold:
+
+    * I wasn't able to do them during the weekdays due to things being
+      busy), *and* it's not feasible to defer them to next week
+      (either because they need to be done sooner, or because next
+      week is also expected to be busy).
+
+    * The totality of time I need to spend is relatively small, and
+      the closure benefits are high, or there are other considerations
+      that make it efficient to spend that time on the weekend.
+
+    * My mood/fatigue levels don't allow me to spend time on personal
+      projects or other higher-value things.
+
+  * For non-scheduled/exploratory building and research work on my
+    health, that falls under personal chores, I should try as much as
+    possible to do them during the week, particularly on Wednesday and
+    Friday in cases where they need longer chunks of time. I should do
+    them during the weekend only in case they are time-sensitive and I
+    was not able to complete them prior.
+
+  The goal with these restrictions is to keep the weekend, as much as
+  possible, focused on personal projects, and not dilute or divert my
+  energy and mindshare to things that aren't time-sensitive. With
+  proper planning, exploratory health work should not *become*
+  time-sensitive in most cases.
+
+  For now, it's still fine to continue to spend time with meals
+  etc. on medical education, that falls under the other activities
+  bucket. However, I may decide to pause this on weekends as well if I
+  feel that it's interfering with the mindshare I'd like to give to
+  personal projects.
+
 * I aim to follow these *absolute minimum* weekly targets:
 
   * At least 4 hours 30 minutes on weeks that I do not have any day
