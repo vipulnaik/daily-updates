@@ -252,12 +252,17 @@ To be more concrete, I'm planning to target the following with work:
     * My mood/fatigue levels don't allow me to spend time on personal
       projects or other higher-value things.
 
+    * I have exceeded the conditional minimum for personal projects
+      for the week by at least 2 hours.
+
   * For non-scheduled/exploratory building and research work on my
     health, that falls under personal chores, I should try as much as
     possible to do them during the week, particularly on Wednesday and
     Friday in cases where they need longer chunks of time. I should do
     them during the weekend only in case they are time-sensitive and I
-    was not able to complete them prior.
+    was not able to complete them prior, or if I have exceeded the
+    conditional minimum for personal projects for the week by at least
+    2 hours.
 
   The goal with these restrictions is to keep the weekend, as much as
   possible, focused on personal projects, and not dilute or divert my
