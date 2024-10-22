@@ -2,6 +2,8 @@
 
 Last major update: September 27, 2024
 
+Last nontrivial update: October 21, 2024
+
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
 though possibly less frequently (once in 2 or 3 months is also
@@ -59,6 +61,20 @@ reminder system:
   exceptional circumstances, such as ill health, time crunch, or
   inclement weather, do I need to devote planning effort to them.
 
+  NOTE: Starting October 2024, with the implementation of [best
+  practices around
+  sleep](https://github.com/vipulnaik/diet-exercise-health/blob/master/best-practices/best-practices-around-sleep.md)
+  and [best practices around exertion and
+  stimulation](https://github.com/vipulnaik/diet-exercise-health/blob/master/best-practices/best-practices-around-exertion-and-stimulation,md),
+  I have been putting in some effort into making sure that I do the
+  required chores early enough in the day so that I am not forced to
+  stay up late for timing reasons, and also making sure that I don't
+  try doing too many activities of various kinds in the same day that
+  might fatigue me. This has meant a bit more planning is needed than
+  was previously needed. But still, I don't need to plan just to
+  remember to do these activities, it's more about the scheduling
+  adjustment.
+
 * Small activities that arise due to "incoming" signals: This includes
   responding to email messages, alerts (whether at work or for my
   personal servers). As I have reasonable routines for keeping an eye
@@ -82,9 +98,12 @@ reminder system:
   a repository, etc. If these are one-shot tasks, that can be done in
   one or two sittings, I may use calendar reminders to nudge myself to
   do them around some time. For more complex tasks, I generally do
-  them in smaller increments. For personal projects, I'm starting to
-  manage these increments by using weekly issues that record what I
-  intend to do in personal projects this week.
+  them in smaller increments. For personal projects, to address a
+  problem of insufficient progress, I started around March/April 2024
+  to manage these increments by using weekly issues that record what I
+  intend to do in personal projects this week; this was successful in
+  getting things moving, but I did not continue the practice once
+  things got moving.
 
 * Ongoing tasks with no set required cadence and a lot of time
   flexibility: Examples include DLW data entry, Wikipedia work,
@@ -92,12 +111,18 @@ reminder system:
   done in a given week, and it makes sense to do more or less
   depending on my mood and time availability.
 
-As of April 2024, I am reasonably on top of all the cadence categories
+In April 2024, I am reasonably on top of all the cadence categories
 other than the last two (and not coincidentally, the last two
-categories mainly fall under personal projects). My struggle with the
-last two has been that they get effectively deprioritized in favor of
-the other cadence categories. There are two broad solutions I can
-think of:
+categories mainly fall under personal projects). By October 2024, I
+had wrapped up several of the one-time projects that had been looming
+large in April 2024, with the server migration work being the
+longest. During the process, I ignored the "Ongoing tasks with no set
+required cadence and a lot of time flexibility" cadence category. With
+the completion of the server migration in October 2024, my attention
+has now switched to these ongoing tasks as the cadence category I most
+want to improve in.
+
+My broad solutions are as follows:
 
 * Some things can be moved to the other cadence categories. For
   instance, ongoing tasks with no set cadence can be given an
@@ -108,6 +133,11 @@ think of:
   task construction, as well as the open-endedness of how much to work
   on it. Adding it to yet another TODO item on the already-fairly-long
   month change checklist won't work.
+
+* Starting mid-October 2024, I am planning to focus the weekends on
+  personal projects, by placing strict limits on day job and some
+  personal chores tasks. This focus will likely mean more of a focus
+  on these two cadence categories within personal projects.
 
 * Weekly issues where I outline roughly what I plan to do in these
   buckets, particularly for personal projects: The goal with the
@@ -120,25 +150,11 @@ think of:
   slightly less, or doing about the same but slightly different
   things, that's totally fine.
 
-  For instance, I didn't do *any* of the listed things in [the week of
-  2024-03-18 to
-  2024-03-24](https://github.com/vipulnaik/daily-updates/issues/1508)
-  and [the week of 2024-03-25 to
-  2024-03-31](https://github.com/vipulnaik/daily-updates/issues/1515),
-  and so far in [the week of 2024-04-01 to
-  2024-04-07](https://github.com/vipulnaik/daily-updates/issues/1523),
-  though I do expect to do at least a few things in this third week
-  (that is not yet over as of the time of writing the document). These
-  weeks have been unusual in terms of having a huge amount of personal
-  chores work, but nonetheless seeing very clearly that I had plans to
-  do work and haven't done *any* of it helps motivate me to pay more
-  attention to doing this in the future.
-
 ## Summary by quarter
 
 Quarter | Major one-time tasks (personal projects as well as other buckets) | Major ongoing activities (excluding stuff covered by regular checklists or daily routines) | Other ongoing activities (excluding stuff covered by regular checklists)
 -- | -- | -- | --
-Q4 2024 | wrap up remainder of MediaWiki site migration; destroy old server; DLW data entry backlog catch-up | guidance to the temporary contract workers, calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
+Q4 2024 | wrap up remainder of MediaWiki site migration (DONE); destroy old server; DLW data entry backlog catch-up | guidance to the temporary contract workers, calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 Q1 2025 | (mix of personal projects and personal chores) digital will | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 
 ## Work situation
@@ -295,20 +311,6 @@ To be more concrete, I'm planning to target the following with work:
     the two preceding weeks
   * At most 13.5 hours average (67.5 hours total) across that week and the
     four preceding weeks
-
-* **Temporary provision until end of November 2024, or when this round
-  of upgrades finishes, whichever is earlier**: I can count up to 2
-  hours per week of time spent on personal devops stuff (not
-  necessarily directly related to ugprades, since general devops stuff
-  is partly a reflection of my not having completed upgrades) toward
-  meeting the hours targets for my day job, including the conditional
-  minimum and absolute minimum, but I am not obliged to count it
-  toward the maximum. This temporary provision is to allow me to make
-  use of lulls in my day job to focus on personal projects devops work
-  that is time-sensitive and uses similar parts of my brain. Since
-  this work has a definite end, and is similar to my day job, I don't
-  see issues redirecting that time and energy towards day job once it
-  is done.
 
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
