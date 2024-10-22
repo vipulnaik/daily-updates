@@ -353,7 +353,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2019-05-23',1250,NULL,339,NULL),
   ('2019-05-24',1259,NULL,386,NULL),
   ('2019-05-25',1266,77,190,NULL),
-  ('2019-05-26',1268,NULL,345,NULL),  
+  ('2019-05-26',1268,NULL,345,NULL),
   /* Week of 2019-05-27 */
   ('2019-05-27',1271,NULL,285,'This was a holiday for Memorial Day, but I worked for close to the full day.'),
   ('2019-05-28',1273,NULL,451,NULL),
@@ -665,7 +665,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2020-02-20',NULL,NULL,NULL,NULL),
   ('2020-02-21',NULL,NULL,NULL,NULL),
   ('2020-02-22',NULL,NULL,NULL,NULL),
-  ('2020-02-23',NULL,NULL,NULL,NULL), 
+  ('2020-02-23',NULL,NULL,NULL,NULL),
   /* Week of 2020-02-24 */
   ('2020-02-24',NULL,NULL,NULL,'I flew to Seattle on this date to visit the headquarters of the new company I was working for; see https://vipulnaik.com/maven-experience/ for more.'),
   ('2020-02-25',NULL,NULL,NULL,NULL),
@@ -673,7 +673,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2020-02-27',NULL,NULL,NULL,NULL),
   ('2020-02-28',NULL,NULL,NULL,NULL),
   ('2020-02-29',NULL,NULL,NULL,NULL),
-  ('2020-03-01',NULL,NULL,NULL,NULL), 
+  ('2020-03-01',NULL,NULL,NULL,NULL),
   /* Week of 2020-03-02 */
   ('2020-03-02',NULL,NULL,NULL,NULL),
   ('2020-03-03',NULL,NULL,NULL,NULL),
@@ -2620,4 +2620,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-10-10',5794,1724,104,0,0,124,0,0,100,423,NULL),
   ('2024-10-11',5796,1725,40,0,7,156,0,0,205,409,NULL),
   ('2024-10-12',5797,1726,37,7,0,122,10,0,178,524,NULL),
-  ('2024-10-13',5798,1727,29,60,0,100,0,0,160,556,NULL);
+  ('2024-10-13',5798,1727,29,60,0,100,0,0,160,556,NULL),
+  /* Week of 2024-10-14 */
+  ('2024-10-14',5799,1728,108,2,0,108,0,0,120,431,NULL),
+  ('2024-10-15',5801,1729,141,3,7,15,0,0,95,585,NULL),
+  ('2024-10-16',5803,1730,54,10,0,32,0,0,335,471,NULL),
+  ('2024-10-17',5806,1731,74,0,0,196,3,0,85,546,NULL),
+  ('2024-10-18',5807,1732,28,0,0,217,0,0,85,412,NULL),
+  ('2024-10-19',5808,1733,10,205,0,23,0,0,75,523,NULL),
+  ('2024-10-20',NULL,1734,0,25,0,137,0,0,250,449,NULL);
