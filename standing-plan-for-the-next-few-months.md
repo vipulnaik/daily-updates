@@ -154,7 +154,7 @@ My broad solutions are as follows:
 
 Quarter | Major one-time tasks (personal projects as well as other buckets) | Major ongoing activities (excluding stuff covered by regular checklists or daily routines) | Other ongoing activities (excluding stuff covered by regular checklists)
 -- | -- | -- | --
-Q4 2024 | wrap up remainder of MediaWiki site migration (DONE); destroy old server; DLW data entry backlog catch-up | guidance to the temporary contract workers, calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
+Q4 2024 | wrap up remainder of MediaWiki site migration (DONE); destroy old server (DONE); DLW data entry backlog catch-up | guidance to the temporary contract workers, calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 Q1 2025 | (mix of personal projects and personal chores) digital will | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
 
 ## Work situation
