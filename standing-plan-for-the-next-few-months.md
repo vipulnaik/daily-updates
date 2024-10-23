@@ -255,6 +255,14 @@ To be more concrete, I'm planning to target the following with work:
     * I have exceeded the conditional minimum for personal projects
       for the week by at least 2 hours.
 
+    NOTE: For personal chores tasks that are at a quarterly or lower
+    frequency, it's fine to do them on weekends even under ordinary
+    conditions, but I should still consider shifting them around (to
+    the extent that there's flexibility) and make sure to both meet my
+    conditional minimum on personal projects *and* get the
+    uninterrupted time for the kinds of tasks within personal projects
+    that benefit from such time.
+
   * For non-scheduled/exploratory building and research work on my
     health, that falls under personal chores, I should try as much as
     possible to do them during the week, particularly on Wednesday and
