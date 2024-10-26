@@ -2634,4 +2634,4 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-10-22',5810,1736,61,93,0,65,3,0,135,568,NULL),
   ('2024-10-23',5811,1737,53,10,2,140,0,0,97,396,NULL),
   ('2024-10-24',5812,1738,148,3,0,40,0,0,190,455,NULL),
-  ('2024-10-25',5813,1739,49,18,0,196,0,0,125,350,'This was the day I got my influenza vaccine (flu shot); see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-10-25-flu-shot.md for details.');
+  ('2024-10-25',5813,1739,49,18,0,201,0,0,125,350,'This was the day I got my influenza vaccine (flu shot); see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-10-25-flu-shot.md for details.');
