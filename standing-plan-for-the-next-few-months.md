@@ -111,7 +111,7 @@ reminder system:
   done in a given week, and it makes sense to do more or less
   depending on my mood and time availability.
 
-In April 2024, I am reasonably on top of all the cadence categories
+In April 2024, I was reasonably on top of all the cadence categories
 other than the last two (and not coincidentally, the last two
 categories mainly fall under personal projects). By October 2024, I
 had wrapped up several of the one-time projects that had been looming
