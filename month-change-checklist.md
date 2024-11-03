@@ -21,6 +21,7 @@ To be executed on the 1st of the month, or soon after:
     - [ ] Temporary contract worker: Reagan Sang
     - [ ] Temporary contract worker: Hith
   - [ ] Check and (if necessary) update the contractwork balance of the preceding month to reflect what the contractwork portal says at https://contractwork.vipulnaik.com/payer.php?payer=Vipul+Naik
+- [ ] Review credit scores and credit reports across all sources and save copies of them
 - [ ] `wikipediaviews`: Switch month
 - [ ] `bart`: Update to include the latest month (and any other months since the last update)
 - [ ] `analytics-table`: Check data for all sites and see if any followup actions need to be taken, including possibly fixing broken analytics data
