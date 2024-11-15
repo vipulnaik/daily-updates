@@ -240,7 +240,7 @@ To be more concrete, I'm planning to target the following with work:
     longer chunks of time. I should do parts of them on the weekend
     only if one of these conditions hold:
 
-    * I wasn't able to do them during the weekdays due to things being
+    * I wasn't able to do them during the weekdays (due to things being
       busy), *and* it's not feasible to defer them to next week
       (either because they need to be done sooner, or because next
       week is also expected to be busy).
