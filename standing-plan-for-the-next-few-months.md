@@ -217,7 +217,13 @@ To be more concrete, I'm planning to target the following with work:
     target (see below).
 
   * I need to work on the weekend to meet my conditional minimum
-    weekly target (see below).
+    weekly target (see below) *and* I have either already achieved or
+    am on track to achieve my personal projects conditional minimum
+    weekly target. In cases where I have achieved my absolute minimum
+    weekly target for day job, but not my conditional minimum weekly
+    target, and I'm also not clearly on track to meeting my
+    conditional minimum weekly target for personal projects, I should
+    give priority to getting on track with personal projects.
 
   * I have already exceeded my minimum target on personal projects for
     the week by at least 2 hours, and spending time on day job over
@@ -412,11 +418,12 @@ To be more concrete, I'm planning to target the following with work:
 
 ### Electronics stuff
 
-- [ ] Targeting for Q4 2024: Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
+- [ ] Targeting for Q2 2025: Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
 
 ### Health stuff
 
-- [ ] Targeting for Q1 2025: Get next round of blood tests done
+- [ ] Targeting for Q2 2025: Get next round of blood tests done
+- [ ] Targeting for Q2 2025: Get DEXA scan done
 
 ## Devops/server maintenance work in 2024
 
