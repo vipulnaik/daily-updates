@@ -223,4 +223,30 @@ a definite end, and is similar to my day job, I don't see issues
 redirecting that time and energy towards day job once it is done.
 
 Initially set to be till September 2024, I extended this provision
-until November 2024.
+until November 2024, but ultimately sunset it in late October 2024
+after my Linode migration was completed.
+
+### Allowing the counting of 50% of tech learning time (up to 2 hours per week) toward conditional minimum only
+
+On 2024-11-17, I added this provision:
+
+> For work I do under personal projects or other activities that makes
+> me more familiar with technologies or systems that I use at work,
+> and where the knowledge is potentially useful to work, I can count
+> 50% of that time (up to 2 hours per week) toward my conditional
+> minimum but not toward my absolute minimum. For instance, if I spend
+> 5 hours in the week on day job and 4 hours on learning about stuff
+> related to browsers or website speed (stuff that may be useful to my
+> day job) I can count half of that 4 hours (2 hours) toward my
+> conditional minimum, with a total of 5 + 2 = 7 hours, meeting my
+> conditional minimum of 7 hours for day job.
+
+The goal was to work on things like the [timeline of web
+vitals](https://timelines.issarice.com/wiki/Timeline_of_web_vitals) or
+[timeline of Google
+Search](https://timelines.issarice.com/wiki/Timeline_of_Google_Search),
+as well as do related background research, on personal projects time,
+but still be able to use it partially to meet my day job hours. 50%
+reflects my rough sense that if I were just focused on acquiring the
+knowledge for the purpose of relevance to my day job, I would spend
+about half the time.
