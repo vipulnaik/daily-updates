@@ -322,16 +322,18 @@ To be more concrete, I'm planning to target the following with work:
   * At least 8 hours average (72 hours total) across that week and the
     eight preceding weeks
 
-* ADDED 2024-11-17: For work I do under personal projects or other
-  activities that makes me more familiar with technologies or systems
-  that I use at work, and where the knowledge is potentially useful to
-  work, I can count 50% of that time (up to 2 hours per week) toward
-  my conditional minimum but not toward my absolute minimum. For
-  instance, if I spend 5 hours in the week on day job and 4 hours on
-  learning about stuff related to browsers or website speed (stuff
-  that may be useful to my day job) I can count half of that 4 hours
-  (2 hours) toward my conditional minimum, with a total of 5 + 2 = 7
-  hours, meeting my conditional minimum of 7 hours for day job.
+* ADDED 2024-11-17, UPDATED 2024-12-01: For work I do under personal
+  projects or other activities that makes me more familiar with
+  technologies or systems that I use at work, and where the knowledge
+  is potentially useful to work, I can count 50% of that time (limit
+  of 2.5 hours per week for after applying the 50%, so effectively up
+  to 5 hours per week) toward my conditional minimum but not toward my
+  absolute minimum. For instance, if I spend 5 hours in the week on
+  day job and 4 hours on learning about stuff related to browsers or
+  website speed (stuff that may be useful to my day job) I can count
+  half of that 4 hours (2 hours) toward my conditional minimum, with a
+  total of 5 + 2 = 7 hours, meeting my conditional minimum of 7 hours
+  for day job.
 
 * I aim to follow these *conditional maximum* weekly targets: *at
   least one* of the following must be true:

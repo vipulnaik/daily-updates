@@ -250,3 +250,17 @@ but still be able to use it partially to meet my day job hours. 50%
 reflects my rough sense that if I were just focused on acquiring the
 knowledge for the purpose of relevance to my day job, I would spend
 about half the time.
+
+On 2024-12-01, I updated the provision to raise the limit to 2.5 hours:
+
+> For work I do under personal projects or other activities that makes
+> me more familiar with technologies or systems that I use at work,
+> and where the knowledge is potentially useful to work, I can count
+> 50% of that time (limit of 2.5 hours per week for after applying the
+> 50%, so effectively up to 5 hours per week) toward my conditional
+> minimum but not toward my absolute minimum. For instance, if I spend
+> 5 hours in the week on day job and 4 hours on learning about stuff
+> related to browsers or website speed (stuff that may be useful to my
+> day job) I can count half of that 4 hours (2 hours) toward my
+> conditional minimum, with a total of 5 + 2 = 7 hours, meeting my
+> conditional minimum of 7 hours for day job.
