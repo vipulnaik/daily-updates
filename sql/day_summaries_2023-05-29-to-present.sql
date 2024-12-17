@@ -644,4 +644,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2024-12-09',5890,1785,87,4,3,79,0,0,170,464,NULL),
   ('2024-12-10',5891,1786,59,0,3,192,2,0,85,472,NULL),
   ('2024-12-11',5892,1787,54,0,0,112,2,0,200,460,NULL),
-  ('2024-12-12',5893,1788,176,0,3,81,0,0,30,586,NULL);
+  ('2024-12-12',5893,1788,176,0,3,81,0,0,30,586,NULL),
+  ('2024-12-13',5894,1789,32,24,2,197,0,0,42,465,'On this day I got blood tests done; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2024/2024-12-13-blood-tests.md for more information.'),
+  ('2024-12-14',NULL,1790,0,20,2,157,0,0,255,539,NULL),
+  ('2024-12-15',5895,1791,31,0,0,100,0,0,290,472,NULL);
