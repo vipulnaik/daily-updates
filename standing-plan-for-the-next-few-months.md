@@ -1,8 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: September 27, 2024
-
-Last nontrivial update: October 21, 2024
+Last major update: December 28, 2024
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -54,12 +52,13 @@ reminder system:
   needed for these activities.
 
 * Activities embedded in my multi-day (less than a week) or weekly
-  routine: Examples include buying groceries, cooking, and updating my
-  daily update summaries. While these are generally time-tracked,
-  they're sufficiently embedded in my routine that I don't generally
-  need to make deliberate effort to do or remember them. Only in
-  exceptional circumstances, such as ill health, time crunch, or
-  inclement weather, do I need to devote planning effort to them.
+  routine (I call these "cyclic personal chores"): Examples include
+  buying groceries, cooking, and updating my daily update
+  summaries. While these are generally time-tracked, they're
+  sufficiently embedded in my routine that I don't generally need to
+  make deliberate effort to do or remember them. Only in exceptional
+  circumstances, such as ill health, time crunch, or inclement
+  weather, do I need to devote planning effort to them.
 
   NOTE: Starting October 2024, with the implementation of [best
   practices around
@@ -111,18 +110,10 @@ reminder system:
   done in a given week, and it makes sense to do more or less
   depending on my mood and time availability.
 
-In April 2024, I was reasonably on top of all the cadence categories
-other than the last two (and not coincidentally, the last two
-categories mainly fall under personal projects). By October 2024, I
-had wrapped up several of the one-time projects that had been looming
-large in April 2024, with the server migration work being the
-longest. During the process, I ignored the "Ongoing tasks with no set
-required cadence and a lot of time flexibility" cadence category. With
-the completion of the server migration in October 2024, my attention
-has now switched to these ongoing tasks as the cadence category I most
-want to improve in.
-
-My broad solutions are as follows:
+I've had a general sense that I spend less time than I should on the
+last two candece categories: one-time pojects and ongoing tasks with
+no set required cadence and a lot of time flexibility. My broad
+solutions are as follows:
 
 * Some things can be moved to the other cadence categories. For
   instance, ongoing tasks with no set cadence can be given an
@@ -136,45 +127,28 @@ My broad solutions are as follows:
 
 * Starting mid-October 2024, I am planning to focus the weekends on
   personal projects, by placing strict limits on day job and some
-  personal chores tasks. This focus will likely mean more of a focus
-  on these two cadence categories within personal projects.
+  personal chores tasks, if my overall time budget allows for it. This
+  focus will likely mean more of a focus on these two cadence
+  categories within personal projects.
 
 * Weekly issues where I outline roughly what I plan to do in these
-  buckets, particularly for personal projects: The goal with the
-  weekly issue isn't to set a very strict set of requirements for what
-  to do in the week, but rather to orient and prepare myself to do the
-  tasks and set an expectation that doing them is important. It's fine
-  to end up doing slightly different personal projects tasks than what
-  I outlined in the weekly issue, but if I'm systematically doing *way
-  less* than planned, that's a warning sign. If I'm ending up doing
-  slightly less, or doing about the same but slightly different
-  things, that's totally fine.
-
-## Summary by quarter
-
-Quarter | Major one-time tasks (personal projects as well as other buckets) | Major ongoing activities (excluding stuff covered by regular checklists or daily routines) | Other ongoing activities (excluding stuff covered by regular checklists)
--- | -- | -- | --
-Q4 2024 | wrap up remainder of MediaWiki site migration (DONE); destroy old server (DONE); DLW data entry backlog catch-up | guidance to the temporary contract workers, calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | Updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
-Q1 2025 | (mix of personal projects and personal chores) digital will | calculus subwiki expansion, learning subwiki expansion, continued DLW data entry | updates to my timelines, timelines wiki meta and complementary work, Wikipedia page creation
+  buckets, particularly for personal projects: I started doing this
+  around March/April 2024, but had effectively abandoned this by Q4
+  2024. However, it's something I might resume in the future.
 
 ## Work situation
 
-As of the end of August / start of September 2023, my work situation
-is pretty good; I am now aiming to stick to my half-time goal, with my
-median week being a little *less* than half-time, giving me some room
-to surge during periods when there are high-priority items. Based on
-feedback received from co-workers about my effective output over the
-past few months, this seems like a reasonably safe strategy in terms
-of producing enough output. With that said, I should revisit the
-strategy every few months and adjust upward or downward as needed.
+### General plan outside of the special circumstances of Q1 and Q2 2025
 
-To be more concrete, I'm planning to target the following with work:
+Special circumstances apply to Q1 and Q2 2025. The description below
+applies to my steady state outside of those times.
 
 * I will be work-focused on Monday, Tuesday, and Thursday, though I
-  might still take out time for time-sensitive personal chores. I aim
-  to spend at least 2 focused hours per day on average over these
-  three days; however, in many cases I may end up spending way more
-  than 2 hours on one of the days and less on others.
+  might still take out time for time-sensitive personal chores
+  (including all cyclic personal chores). I aim to spend at least 2
+  focused hours per day on average over these three days; however, in
+  many cases I may end up spending way more than 2 hours on one of the
+  days and less on others.
 
 * I will try to be responsive on Slack and work email on Wednesday and
   Friday. I expect that *de facto* I'll end up spending 30-60 minutes
@@ -231,70 +205,6 @@ To be more concrete, I'm planning to target the following with work:
     tasks (whether personal projects, personal finances, personal
     chores, or anything else).
 
-* Aspirationally, on the weekends, I also aim to follow these
-  additional guidelines regarding personal chores.
-
-  * I should of course continue to do all time-sensitive personal
-    chores that fall on the weekend, including cooking, food
-    purchases, and laundry, but should generally try where possible to
-    schedule them during the weekday if it's close to neutral as far
-    as the availability cycle considerations go.
-
-  * For month change checklist items that fall under personal chores,
-    where possible, I should complete them during the weekdays, using
-    Wednesday and Friday for the cases where those items require
-    longer chunks of time. I should do parts of them on the weekend
-    only if one of these conditions hold:
-
-    * I wasn't able to do them during the weekdays (due to things being
-      busy), *and* it's not feasible to defer them to next week
-      (either because they need to be done sooner, or because next
-      week is also expected to be busy).
-
-    * The totality of time I need to spend is relatively small, and
-      the closure benefits are high, or there are other considerations
-      that make it efficient to spend that time on the weekend.
-
-    * My mood/fatigue levels don't allow me to spend time on personal
-      projects or other higher-value things.
-
-    * I have exceeded the conditional minimum for personal projects
-      for the week by at least 2 hours.
-
-    NOTE: For personal chores tasks that are at a quarterly or lower
-    frequency, it's fine to do them on weekends even under ordinary
-    conditions, but I should still consider shifting them around (to
-    the extent that there's flexibility) and make sure to both meet my
-    conditional minimum on personal projects *and* get the
-    uninterrupted time for the kinds of tasks within personal projects
-    that benefit from such time.
-
-  * For non-scheduled/exploratory building and research work on my
-    health, that falls under personal chores, I should try as much as
-    possible to do them during the week, particularly on Wednesday and
-    Friday in cases where they need longer chunks of time. I should do
-    them during the weekend only in case they are time-sensitive and I
-    was not able to complete them prior, or if I have exceeded the
-    conditional minimum for personal projects for the week by at least
-    2 hours.
-
-  The goal with these restrictions is to keep the weekend, as much as
-  possible, focused on personal projects, and not dilute or divert my
-  energy and mindshare to things that aren't time-sensitive. With
-  proper planning, exploratory health work should not *become*
-  time-sensitive in most cases.
-
-  If I *do* have to do some of these tasks during the weekend, I
-  should, where possible, limit them to the end of the day so that
-  they don't set the tone for the rest of the day, and don't prevent
-  me from getting in the flow of personal projects work.
-
-  For now, it's still fine to continue to spend time with meals
-  etc. on medical education, that falls under the other activities
-  bucket. However, I may decide to pause this on weekends as well if I
-  feel that it's interfering with the mindshare I'd like to give to
-  personal projects.
-
 * I aim to follow these *absolute minimum* weekly targets:
 
   * At least 4 hours 30 minutes on weeks that I do not have any day
@@ -344,7 +254,93 @@ To be more concrete, I'm planning to target the following with work:
   * At most 13.5 hours average (67.5 hours total) across that week and the
     four preceding weeks
 
+### Adjusted schedule within Q1 and Q2 of 2025
+
+Details still need to be worked on, as I don't have full clarity on
+the responsibilities and how hectic things will be. Here is my current
+plan.
+
+#### For the period until 2025-01-26
+
+Everything remains the same as usual, with the exception that I lift
+the restrictions against doing work on Wednesdays, Fridays, and
+weekends. This is because it may be strategically wise to do work on
+the weekends to clear my plate of things ahead of the increased
+hours. Additional hours accumulated this way can also be used to
+smooth out / cancel against the increased hours requirements in future
+weeks.
+
+#### For the period from 2025-01-27 to 2025-04-20
+
+* (no change from the usual) I will be work-focused on Monday,
+  Tuesday, and Thursday, though I might still take out time for
+  time-sensitive personal chores (including all cyclic personal
+  chores). I aim to spend at least 2 focused hours per day on average
+  over these three days; however, in many cases I may end up spending
+  way more than 2 hours on one of the days and less on others.
+
+* (change on the LiftIgniter side of things) On Wednesday and Friday,
+  my focus within work will be on things related to LiftIgniter
+  customers and infrastructure. Outside of these, I will try to be
+  responsive on Slack and work email on Wednesday and Friday, but will
+  not be pursuing active work unless time-sensitive.
+
+* (change in terms of being more relaxed) For the weekends, while I
+  will aspire to follow the same rules as before, I'll be a bit looser
+  in terms of allowing myself to do work that I expect will put me in
+  a better position for coming weeks.
+
+* (thresholds multiplied by 1.5) I aim to follow these *absolute
+  minimum* weekly targets:
+
+  * At least 6 hours 45 minutes on weeks that I do not have any day
+    off of my three working days (either marked as PTO by me or a
+    company holiday)
+
+  * At least 4 hours 30 minutes on weeks that I have one day off of my
+    three working days (either marked as PTO by me or a company
+    holiday)
+
+  * At least 2 hours 15 minutes on weeks that I have marked two days
+    off of my three working days (either marked as PTO by me or a
+    company holiday)
+
+* (thresholds multiplied by 1.5 (approx)) I aim to follow these *conditional
+  minimum* weekly targets: *at least one* of the following must be
+  true:
+
+  * At least 10.5 hours in the week
+
+  * At least 10.75 hours average (32.25 hours total) across that week
+    and the two preceding weeks
+
+  * At least 11 hours average (55 hours total) across that week and
+    the four preceding weeks
+
+  * At least 11.25 hours average (78.75 hours total) across that week
+    and the six preceding weeks
+
+  * At least 11.5 hours average (92 hours total) across that week and
+    the eight preceding weeks
+
+* (thresholds multiplied by 1.5 (approx)) I aim to follow these
+  *conditional maximum* weekly targets: *at least one* of the
+  following must be true:
+
+  * At most 21 hours in the week
+  * At most 20.75 hours average (62.25 hours total) across that week and
+    the two preceding weeks
+  * At most 20.5 hours average (102.5 hours total) across that week and the
+    four preceding weeks
+
+#### For the period 2025-04-21 onward
+
+My tentative plan is to return to normal number of hours. The
+distribution between days is subject to some tweaking.
+
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
+
+### General plan outside of the special circumstances of Q1 and Q2 2025
 
 * I aim to follow this *conditional minimum* target each week for
   personal projects; *at least one* of the following must be true:
@@ -427,6 +423,90 @@ To be more concrete, I'm planning to target the following with work:
   * At most 2 hours average (10 hours total) on personal finances,
     income and taxes across that week and the four preceding weeks
 
+* Aspirationally, on the weekends, I also aim to follow these
+  additional guidelines regarding personal chores.
+
+  * I should of course continue to do all time-sensitive personal
+    chores that fall on the weekend, including cooking, food
+    purchases, and laundry, but should generally try where possible to
+    schedule them during the weekday if it's close to neutral as far
+    as the availability cycle considerations go.
+
+  * For month change checklist items that fall under personal chores,
+    where possible, I should complete them during the weekdays, using
+    Wednesday and Friday for the cases where those items require
+    longer chunks of time. I should do parts of them on the weekend
+    only if one of these conditions hold:
+
+    * I wasn't able to do them during the weekdays (due to things being
+      busy), *and* it's not feasible to defer them to next week
+      (either because they need to be done sooner, or because next
+      week is also expected to be busy).
+
+    * The totality of time I need to spend is relatively small, and
+      the closure benefits are high, or there are other considerations
+      that make it efficient to spend that time on the weekend.
+
+    * My mood/fatigue levels don't allow me to spend time on personal
+      projects or other higher-value things.
+
+    * I have exceeded the conditional minimum for personal projects
+      for the week by at least 2 hours.
+
+    NOTE: For personal chores tasks that are at a quarterly or lower
+    frequency, it's fine to do them on weekends even under ordinary
+    conditions, but I should still consider shifting them around (to
+    the extent that there's flexibility) and make sure to both meet my
+    conditional minimum on personal projects *and* get the
+    uninterrupted time for the kinds of tasks within personal projects
+    that benefit from such time.
+
+  * For non-scheduled/exploratory building and research work on my
+    health, that falls under personal chores, I should try as much as
+    possible to do them during the week, particularly on Wednesday and
+    Friday in cases where they need longer chunks of time. I should do
+    them during the weekend only in case they are time-sensitive and I
+    was not able to complete them prior, or if I have exceeded the
+    conditional minimum for personal projects for the week by at least
+    2 hours.
+
+  The goal with these restrictions is to keep the weekend, as much as
+  possible, focused on personal projects, and not dilute or divert my
+  energy and mindshare to things that aren't time-sensitive. With
+  proper planning, exploratory health work should not *become*
+  time-sensitive in most cases.
+
+  If I *do* have to do some of these tasks during the weekend, I
+  should, where possible, limit them to the end of the day so that
+  they don't set the tone for the rest of the day, and don't prevent
+  me from getting in the flow of personal projects work.
+
+  For now, it's still fine to continue to spend time with meals
+  etc. on medical education, that falls under the other activities
+  bucket. However, I may decide to pause this on weekends as well if I
+  feel that it's interfering with the mindshare I'd like to give to
+  personal projects.
+
+### Adjusted schedule within Q1 and Q2 of 2025
+
+* I am completely pausing any conditional minimum for personal
+  projects until 2025-04-20. After that, I will likely introduce a
+  conditional minimum at about half the normal conditional minimum
+  level.
+
+  However, my goal is to continue to stay on top of personal projects
+  to the extent needed in terms of obligations and promises to others,
+  while also trying to limit the extent of such obligations.
+
+* I continue to maintain conditional maximum targets for personal
+  chores and personal finances.
+
+* I am abandoning restrictions on personal chores tasks for the
+  weekend. This will allow me to handle overflows to the weekend of
+  personal chores tasks, while also positioning me better to
+  proactively complete personal chores tasks sooner rather than later
+  in anticipation of hard-to-predict busyness at work.
+
 ## Chores to catch up on
 
 ### Electronics stuff
@@ -438,18 +518,14 @@ To be more concrete, I'm planning to target the following with work:
 - [ ] Targeting for Q2 2025: Get next round of blood tests done
 - [ ] Targeting for Q2 2025: Get DEXA scan done
 
-## Devops/server maintenance work in 2024
+## Devops stuff
 
-### Server migration wrap-up (Q4 2024)
+#### MediaWiki upgrades (Q1 or Q2 of 2025)
 
-In Q3 2024, I did the bulk of the upgrade and migration work
-associated with my server. Some remaining mechanical work, and then
-some careful post-migration verification work, still remain. I plan to
-do these in Q4 2024. These are my priority for Q4 2024, even if it
-means slowing down some of my more creative and productive personal
-projects work.
+I should do a round of MediaWiki upgrades in Q1 or Q2 of 2025, and
+also make sure the upgrade process is as streamlined as possible.
 
-### Digital will (likely Q1 2025)
+### Digital will (likely Q2 2025)
 
 After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
@@ -457,7 +533,7 @@ is more robust.
 
 ## Subwiki stuff
 
-### Editing of subwikis (Q4 2024 onward, but deprioritized until the server migration has been completed)
+### Editing of subwikis (Q2 2025 onward)
 
 I plan to do off-and-on editing of the following subwikis: learning,
 calculus, market, and cellbio. These wikis are all strategic:
@@ -487,7 +563,7 @@ I might also pick up more higher-math-wiki editing, covering wikis
 such as groupprops, topospaces, commalg, and diffgeom, but this is
 likely to come a little later.
 
-### Setting up additional subwikis starting Q4 2024 or so (deferred until after the server migration is complete)
+### Setting up additional subwikis starting Q2 2025 or so (deferred until after the server migration is complete)
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
@@ -510,40 +586,40 @@ associated verification queries, all as part of [issue
 
 The system of verification queries is working well for flagging
 short-run issues. However, it's still a little difficult to look at
-the data and understand longer-run trends. Since Q4 2024 is likely to
-be somewhat busy, and Q1 2025 may be similarly busy, my tentative plan
-is to slot the food portal work for Q2 2025.
+the data and understand longer-run trends. Since Q1 2025 is expected
+to be busy, my tentative plan is to slot the food portal work for Q2
+2025.
 
-## Continuation of donations list website (DLW) in 2024: potentially ongoing work with catch-up focus in Q4 2024 (after completion of server migration)
+## Continuation of donations list website (DLW) starting Q2 2025
 
 I resumed DLW data entry work to some extent in Q4 2023 and then
 paused it in Q1 2024 to focus on my India trip. I did a little bit of
-work in Q1 2024, then paused to focus on the server migration. My
-guess is that DLW work will remain in an almost-fully paused state
-until the bulk of the server migration is done, after which point I'll
-be picking it up more.
+work in Q1 2024, then paused to focus on the server migration. With
+the server migration completed in Q4 2024, my attention was divided
+between several tasks for the rest of Q4, and then Q1 2025 is expected
+to be busy with work.
 
 While I have a lot to catch up with on DLW to begin with, I don't yet
 have a clear sense of what the steady-state ongoing work level will be
 once I have caught up.
 
-However, I do intend to put a lot of focus on this in Q4 2024 *after
-the server migration has been completed.*
+However, I do intend to put a lot of focus on this starting around Q2
+2025 and then moving forward.
 
 ## Timelines wiki work
 
-### Getting and staying on top of "Timelines I keep expanding regularly" (after completion of server migration work in Q4 2024)
+### Getting and staying on top of "Timelines I keep expanding regularly" (Q1 2025 and onward)
 
 See
 [here](https://timelines.issarice.com/wiki/User:Vipul#Timelines_I_keep_expanding_regularly_.28or_at_least.2C_aim_to.21.29)
 for details.
 
 I made some progress on this in Q3 2024, but at some point switched
-focus to finishing the server migration work. Once the server
-migration work has been completed, I plan to get back on top of
-this. With that said, if I'm in a "waiting" stage of the server
-migration work, I might use that time to do some work on timelines
-wiki.
+focus to finishing the server migration work. Q4 2024 was a bit busy
+with stuff and I wasn't able to make as much progress as I would have
+liked. This is something that is not super-time-intensive (as of end
+of 2024, only one timeline is out of date) so I expect to be on top of
+this in Q1 2025 and going forward.
 
 ### Work that has synergies with DLW work, and resultant EA Forum posts in 2024 or later
 
@@ -560,15 +636,13 @@ to then share with Sebastian and help inform his work as well. I also
 plan to make active efforts to articulate meta policies in
 collaboration with Issa and Sebastian.
 
-## Family and career planning work (planning to resume Q4 2024 or Q1 2025 after completing server migration work)
+## Family and career planning work (planning to resume Q3 2025)
 
 I want to think systematically about plans for family and career. In
 Q4 2023 I started writing (private) notes documenting my thoughts on a
 variety of aspects of this. I'm planning to start picking this up more
-in Q3 2024, though it is lower in priority than my devops work.
-
-I'm probably not going to say a lot about this publicly except that
-I'm thinking about the topic.
+in Q3 2025, once my increased work has ended and I have picked my
+personal projects back up.
 
 ## More reading/learning around AI safety
 
@@ -580,7 +654,7 @@ I will be discussing AI Watch further with Issa once Org Watch is caught up with
 
 This overlaps to some extent with timelines wiki work.
 
-### AI safety subwiki setup (Q4 2024 or later)
+### AI safety subwiki setup (Q2 2025 or later)
 
 I'll decide the details regarding this after the outcome of the AI
 Watch and timelines work.
@@ -685,7 +759,7 @@ up longer-term.
 
 ### Other ideas
 
-#### Idea: Retrospective post on EA Hotel donation (no specific timeline, maybe Q2 2023)
+#### Idea: Retrospective post on EA Hotel donation (no specific timeline)
 
 I would like to write a retrospective of my [EA Hotel
 donation](https://forum.effectivealtruism.org/posts/BM2DYWpM6rSxyZ7AS/my-q1-2019-ea-hotel-donation). I
@@ -698,15 +772,7 @@ evaluation of donations to small organizations with potential. It
 would be cool to do this before my next donation, but it's not a
 blocker.
 
-#### Idea: COVID-19 forecasts retrospective (timing unclear; possibly 2023 or 2024)
-
-I plan to write a retrospective of my [COVID-19 forecasts
-post](https://www.lesswrong.com/posts/pBPiZQYBF9niRAMSq/coronavirus-the-four-levels-of-social-distancing-and-when). The
-resurgence of the delta strain led me to decide to defer work on this
-retrospective. I think mid-2022 will be a good time, but I might
-choose an earlier or later time depending on how COVID-19 evolves.
-
-#### Idea: Daniel Pink MasterClass review (either before April 2022, or delayed till I renew my MasterClass subscription)
+#### Idea: Daniel Pink MasterClass review (delayed till I renew my MasterClass subscription, if I ever do it)
 
 I started writing a draft post
 https://github.com/vipulnaik/working-drafts/blob/master/lesswrong/daniel-pink-sales-and-persuasion-masterclass-review.md
