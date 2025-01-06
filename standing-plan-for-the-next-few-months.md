@@ -323,6 +323,14 @@ weeks.
   * At least 11.5 hours average (92 hours total) across that week and
     the eight preceding weeks
 
+  * NOTE: Early on during this period, there will be weeks where the
+    prior 2, 4, 6, or 8 weeks (for the above conditions) will be
+    partly or fully before the period of increased hours. In such
+    cases, add 3.5 hours per week to the hours for those weeks when
+    doing the calculation. Similarly, when coming off this period,
+    subtract 3.5 hours per week when including weeks within this
+    period for a final week after this period.
+
 * (thresholds multiplied by 1.5 (approx)) I aim to follow these
   *conditional maximum* weekly targets: *at least one* of the
   following must be true:
