@@ -7,9 +7,7 @@ To be executed on the 1st of the month, or soon after:
   - [ ] @riceissa
   - [ ] Gabriel Bobis
   - [ ] Temporary contract worker: Tajudeen Riliwan
-  - [ ] Temporary contract worker: Olivia Mora
   - [ ] Temporary contract worker: Reagan Sang
-  - [ ] Temporary contract worker: Hith
 - [ ] `personal-finances`: Update my balances, make sure statements are up to date, and make accrued expense updates if applicable (usually I do this only at change of quarter); also make Linode advance bill payment if applicable
   - Compare balances carefully between the previous month and this month to identify any unexpected balance jumps
   - Update to include contractwork payments due and payments made to:
@@ -17,9 +15,7 @@ To be executed on the 1st of the month, or soon after:
     - [ ] @riceissa
     - [ ] Gabriel Bobis
     - [ ] Temporary contract worker: Tajudeen Riliwan
-    - [ ] Temporary contract worker: Olivia Mora
     - [ ] Temporary contract worker: Reagan Sang
-    - [ ] Temporary contract worker: Hith
   - [ ] Check and (if necessary) update the contractwork balance of the preceding month to reflect what the contractwork portal says at https://contractwork.vipulnaik.com/payer.php?payer=Vipul+Naik
 - [ ] Review credit scores and credit reports across all sources and save copies of them
 - [ ] `wikipediaviews`: Switch month
