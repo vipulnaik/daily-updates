@@ -18,6 +18,7 @@ $monthSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   sum(coalesce(minutes_spent_on_house_chores, 0)) as minutes_spent_on_house_chores,
   sum(coalesce(minutes_spent_on_family_and_career_planning, 0)) as minutes_spent_on_family_and_career_planning,
   sum(coalesce(minutes_spent_on_other_activities, 0)) as minutes_spent_on_other_activities,
+  sum(coalesce(num_cpc_ltbcs, 0)) as num_cpc_ltbcs,
   sum(coalesce(screen_minutes_m1, 0)) as screen_minutes_m1,
   count(1) as num_days
   from day_summaries
@@ -49,6 +50,7 @@ print '<th>Time spent on personal chores per week</th>';
 print '<th>Time spent on house chores per week</th>';
 print '<th>Time spent on family and career planning per week</th>';
 print '<th>Time spent on other activities per week</th>';
+print '<th>Number of cyclic personal chores with long time block commitments</th>';
 print '<th>Total screen minutes per week (excluding screen time during meals)</th>';
 print '<th>Notes</th>';
 print "</tr>\n</thead>\n<tbody>\n";
@@ -65,6 +67,7 @@ for ($i = 0; $i < $monthSummariesResult -> num_rows; $i++) {
   foreach($typesOfTimeSpent as $columnFragment) {
     printBasedOnColumnFragment($row, $columnFragment, $adjustmentFactor);
   }
+  print '<td align="right">'.number_format($row['num_cpc_ltbcs'] * $adjustmentFactor, 2).'</td>';
   printMinutesWithNumDaysToolTip($adjustmentFactor * $row['screen_minutes_m1'], $row['num_days_with_screen_minutes_m1']);
   if (isset($notesMap[$row['start_date']])) {
     print "<td>".cleanNotes($notesMap[$row['start_date']])."</td>";

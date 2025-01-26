@@ -22,6 +22,7 @@ print '<th>Time spent on personal chores</th>';
 print '<th>Time spent on house chores</th>';
 print '<th>Time spent on family and career planning</th>';
 print '<th>Time spent on other activities</th>';
+print '<th>Number of cyclic personal chores with long time block commitments</th>';
 print '<th>Total screen minutes (excluding screen time during meals)</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
@@ -51,10 +52,11 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_day_job_equator']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_projects']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_finances']).'</td>';
-  print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_chores']).'</td>';  
-  print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_house_chores']).'</td>';  
+  print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_personal_chores']).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_house_chores']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_family_and_career_planning']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_other_activities']).'</td>';
+  print '<td align="right">'.($row['num_cpc_ltbcs'] ?? 'N/A').'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['screen_minutes_m1']).'</td>';
   if (isset($row['notes'])) {
     print '<td>'.cleanNotes($row['notes']).'</td>';
