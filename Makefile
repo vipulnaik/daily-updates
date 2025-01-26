@@ -25,8 +25,8 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries_2018-08-10-to-2020-07-15.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries_2020-07-16-to-2022-02-13.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries_2022-02-14-to-2023-05-28.sql
-	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries_2023-05-29-to-2025-01-12.sql
-	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries_2025-01-13-to-present.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries_2023-05-29-to-2024-12-29.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries_2024-12-30-to-present.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/week_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/month_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/year_summaries.sql
