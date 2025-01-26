@@ -11,6 +11,7 @@ create table day_summaries(
   `minutes_spent_on_house_chores` int(11),
   `minutes_spent_on_family_and_career_planning` int(11),
   `minutes_spent_on_other_activities` int(11),
+  `num_cpc_ltbcs` int(11), -- number of activities among these: rice prep, lentils prep, potatoes prep, meal prep, Trader Joe's trip, laundry
   `screen_minutes_m1` int(11),
   `notes` varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
