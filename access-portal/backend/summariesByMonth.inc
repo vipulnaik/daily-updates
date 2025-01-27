@@ -83,7 +83,7 @@ for ($i = 0; $i < $monthSummariesNotesResult -> num_rows; $i++) {
   if ($row['month_start_date'] <= "2018-07-01") {
      print "<tr><td>".$row['month_start_date']."</td>";
      print "<td>".$row['month_end_date']."</td>";
-     for ($j = 0; $j < 12; $j++) {
+     for ($j = 0; $j < 13; $j++) {
        print "<td>N/A</td>";
      }
      print "<td>".cleanNotes($row['notes'])."</td>";
