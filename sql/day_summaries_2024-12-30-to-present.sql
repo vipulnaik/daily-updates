@@ -29,4 +29,5 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-01-22',5942,1829,236,0,0,127,0,0,130,0,431,'On this day I got my blood tests done; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-01-22-blood-tests.md for details.'),
   ('2025-01-23',5943,1830,83,0,28,150,0,0,80,2,605,NULL),
   ('2025-01-24',5944,1831,80,20,0,39,12,0,133,1,438,NULL),
-  ('2025-01-25',NULL,1832,0,0,13,107,8,0,156,3,344,NULL);
+  ('2025-01-25',NULL,1832,0,0,13,107,8,0,156,3,344,NULL),
+  ('2025-01-26',5945,1833,2,0,15,271,0,0,35,1,428,NULL);
