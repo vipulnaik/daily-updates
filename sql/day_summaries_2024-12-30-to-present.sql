@@ -44,4 +44,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-02-04',5954,1842,149,0,0,19,0,0,30,1,653,NULL),
   ('2025-02-05',5955,1843,123,0,0,69,0,0,35,1,389,NULL),
   ('2025-02-06',5956,1844,68,0,2,185,0,0,105,2,356,NULL),
-  ('2025-02-07',5957,1845,81,0,0,91,0,0,125,1,551,NULL);
+  ('2025-02-07',5957,1845,81,0,0,91,0,0,125,1,551,NULL),
+  ('2025-02-08',5958,1846,100,0,3,62,0,0,50,2,348,NULL),
+  ('2025-02-09',5959,1847,49,45,33,16,0,0,127,0,499,'The reason for having zero cyclic personal chores was as follows. I had been planning to go shopping in the evening; however, timing constraints resulted in my having too little time to make a shopping trip, and also ruled out the possibility of doing laundry. I didn''t need to cook anything immediately (and in any case didn''t have enough ingredients for some of my cooking because I needed to shop for them first). I used the freed-up time to make progress on month change checklist items.');
