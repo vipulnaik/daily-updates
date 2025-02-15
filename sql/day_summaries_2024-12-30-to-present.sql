@@ -46,4 +46,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-02-06',5956,1844,68,0,2,185,0,0,105,2,356,NULL),
   ('2025-02-07',5957,1845,81,0,0,91,0,0,125,1,551,NULL),
   ('2025-02-08',5958,1846,100,0,3,62,0,0,50,2,348,NULL),
-  ('2025-02-09',5959,1847,49,45,33,16,0,0,127,0,499,'The reason for having zero cyclic personal chores was as follows. I had been planning to go shopping in the evening; however, timing constraints resulted in my having too little time to make a shopping trip, and also ruled out the possibility of doing laundry. I didn''t need to cook anything immediately (and in any case didn''t have enough ingredients for some of my cooking because I needed to shop for them first). I used the freed-up time to make progress on month change checklist items.');
+  ('2025-02-09',5959,1847,49,45,33,16,0,0,127,0,499,'The reason for having zero cyclic personal chores was as follows. I had been planning to go shopping in the evening; however, timing constraints resulted in my having too little time to make a shopping trip, and also ruled out the possibility of doing laundry. I didn''t need to cook anything immediately (and in any case didn''t have enough ingredients for some of my cooking because I needed to shop for them first). I used the freed-up time to make progress on month change checklist items.'),
+  /* Week of 2025-02-10 */
+  ('2025-02-10',5960,1848,129,0,0,76,0,0,48,2,412,NULL),
+  ('2025-02-11',5961,1849,190,0,1,69,0,0,155,2,451,'Some time-sensitive work for day job ended up running into an exception case, so I ended up staying up late and spending a bunch of time on work stuff, on top of a huge amount of time on cyclic personal chores earlier in the day. Since some of the screen time was past midnight, it shows up in the next day''s screen time.'),
+  ('2025-02-12',5962,1850,216,0,0,27,0,0,150,0,730,'I was continuing to wrap up time-sensitive work for day job; this explains why I did not have time to do any cyclic personal chores. The high screen time also partly reflects the screen time spent past midnight the previous day.'),
+  ('2025-02-13',5963,1851,119,0,3,90,0,0,35,1,426,NULL),
+  ('2025-02-14',5964,1852,45,0,1,30,0,0,130,1,485,NULL);
