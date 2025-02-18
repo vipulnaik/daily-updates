@@ -52,4 +52,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-02-11',5961,1849,190,0,1,69,0,0,155,2,451,'Some time-sensitive work for day job ended up running into an exception case, so I ended up staying up late and spending a bunch of time on work stuff, on top of a huge amount of time on cyclic personal chores earlier in the day. Since some of the screen time was past midnight, it shows up in the next day''s screen time.'),
   ('2025-02-12',5962,1850,216,0,0,27,0,0,150,0,730,'I was continuing to wrap up time-sensitive work for day job; this explains why I did not have time to do any cyclic personal chores. The high screen time also partly reflects the screen time spent past midnight the previous day.'),
   ('2025-02-13',5963,1851,119,0,3,90,0,0,35,1,426,NULL),
-  ('2025-02-14',5964,1852,45,0,1,30,0,0,130,1,485,NULL);
+  ('2025-02-14',5964,1852,45,0,1,30,0,0,130,1,485,NULL),
+  ('2025-02-15',5965,1853,5,0,19,167,0,0,110,2,193,NULL),
+  ('2025-02-16',5966,1854,40,0,3,62,0,0,90,0,432,'The reason for having zero cyclic personal chores is that I tried multiple times to start heavy laundry, but failed due to the laundry room being occupied. If I had succeeded, I would have had one cyclic personal chores. Also, my overall waking-up time was less than 14 hours due to waking up late and sleeping early (after the abort of heavy laundry), which explains my low accounted-for time.');
