@@ -54,4 +54,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-02-13',5963,1851,119,0,3,90,0,0,35,1,426,NULL),
   ('2025-02-14',5964,1852,45,0,1,30,0,0,130,1,485,NULL),
   ('2025-02-15',5965,1853,5,0,19,167,0,0,110,2,193,NULL),
-  ('2025-02-16',5966,1854,40,0,3,62,0,0,90,0,432,'The reason for having zero cyclic personal chores is that I tried multiple times to start heavy laundry, but failed due to the laundry room being occupied. If I had succeeded, I would have had one cyclic personal chores. Also, my overall waking-up time was less than 14 hours due to waking up late and sleeping early (after the abort of heavy laundry), which explains my low accounted-for time.');
+  ('2025-02-16',5966,1854,40,0,3,62,0,0,90,0,432,'The reason for having zero cyclic personal chores is that I tried multiple times to start heavy laundry, but failed due to the laundry room being occupied. If I had succeeded, I would have had one cyclic personal chores. Also, my overall waking-up time was less than 14 hours due to waking up late and sleeping early (after the abort of heavy laundry), which explains my low accounted-for time.'),
+  /* Week of 2025-02-17 */
+  ('2025-02-17',5967,1855,10,0,0,130,0,0,90,2,327,NULL),
+  ('2025-02-18',5968,1856,26,12,4,167,0,0,120,2,326,NULL),
+  ('2025-02-19',5969,1857,75,0,0,134,0,0,90,1,395,NULL),
+  ('2025-02-20',5970,1858,99,0,0,99,0,0,80,2,449,NULL),
+  ('2025-02-21',5971,1859,47,0,27,72,0,0,185,1,533,NULL),
+  ('2025-02-22',5972,1860,30,0,15,90,0,0,65,1,286,NULL),
+  ('2025-02-23',5973,1861,15,0,0,220,0,0,35,0,448,NULL);
