@@ -62,4 +62,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-02-20',5970,1858,99,0,0,99,0,0,80,2,449,NULL),
   ('2025-02-21',5971,1859,47,0,27,72,0,0,185,1,533,NULL),
   ('2025-02-22',5972,1860,30,0,15,90,0,0,65,1,286,NULL),
-  ('2025-02-23',5973,1861,15,0,0,220,0,0,35,0,448,NULL);
+  ('2025-02-23',5973,1861,15,0,0,220,0,0,35,0,448,NULL),
+  /* Week of 2025-02-24 */
+  ('2025-02-24',5974,1862,58,0,0,132,15,0,155,2,307,NULL),
+  ('2025-02-25',5975,1863,95,8,1,113,0,0,180,1,397,NULL),
+  ('2025-02-26',5976,1864,85,0,10,164,13,0,65,2,367,NULL),
+  ('2025-02-27',5977,1865,41,0,100,24,3,0,80,0,543,'The reason I ended up not doing any cyclic personal chores was a financial anomaly investigation that ended up taking a lot of time in bits and pieces throughout the day.'),
+  ('2025-02-28',5978,1866,58,0,22,102,0,0,230,0,526,'The reason I ended up not doing any cyclic personal chores was an Amazon Hub Locker trip for package pickup, as well as weekly chat with my mother in the evening.');
