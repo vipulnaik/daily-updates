@@ -70,4 +70,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-02-27',5977,1865,41,0,100,24,3,0,80,0,543,'The reason I ended up not doing any cyclic personal chores was a financial anomaly investigation that ended up taking a lot of time in bits and pieces throughout the day.'),
   ('2025-02-28',5978,1866,58,0,22,102,0,0,230,0,526,'The reason I ended up not doing any cyclic personal chores was an Amazon Hub Locker trip for package pickup, as well as weekly chat with my mother in the evening.'),
   ('2025-03-01',5979,1867,101,2,5,134,0,0,150,1,467,NULL),
-  ('2025-03-02',5980,1868,67,0,0,120,2,0,105,2,504,NULL);
+  ('2025-03-02',5980,1868,67,0,0,120,2,0,105,2,504,NULL),
+  /* Week of 2025-03-03 */
+  ('2025-03-03',5981,1869,146,0,2,71,0,0,83,1,422,NULL),
+  ('2025-03-04',5982,1870,117,0,0,80,5,0,55,2,452,NULL),
+  ('2025-03-05',5983,1871,172,0,0,84,0,0,95,2,531,NULL),
+  ('2025-03-06',5984,1872,93,0,3,50,0,0,85,0,505,'Although I had zero cyclic personal chores long time-block commitments on this day, I did make a trip to Berkeley Bowl and also did a bunch of dishwashing work.'),
+  ('2025-03-07',5985,1873,51,0,0,125,2,0,215,1,515,NULL),
+  ('2025-03-08',5986,1874,154,0,0,60,4,0,58,1,549,NULL),
+  ('2025-03-09',5987,1875,55,30,0,79,0,0,135,2,436,NULL);
