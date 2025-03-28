@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: December 28, 2024
+Last major update: March 27, 2025
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -270,7 +270,16 @@ hours. Additional hours accumulated this way can also be used to
 smooth out / cancel against the increased hours requirements in future
 weeks.
 
-#### For the period from 2025-01-27 to 2025-04-20
+#### For the period from 2025-01-27 to 2025-03-15 (originally intended to go to 2025-04-20)
+
+UPDATE 2025-03-27: I originally intended to be up to 75% work hours
+until 2025-04-20; however, on 2025-03-14 I put in a request to end the
+increased work hours in mid-March and return to 50% work hours after
+that. While this was due to reasons partly related to the specifics of
+my workload, it was also influenced by challenges dealing with my
+backlog of stuff outside of my day job, and the realization that at a
+75% load I would not be able to make as much progress with the backlog
+as I should.
 
 * (no change from the usual) I will be work-focused on Monday,
   Tuesday, and Thursday, though I might still take out time for
@@ -283,7 +292,14 @@ weeks.
   my focus within work will be on things related to LiftIgniter
   customers and infrastructure. Outside of these, I will try to be
   responsive on Slack and work email on Wednesday and Friday, but will
-  not be pursuing active work unless time-sensitive.
+  not be pursuing active work unless time-sensitive or necessary to
+  meet my hours obligations.
+
+  UPDATE 2025-03-27: It turned out that I ended up largely treating
+  Wednesday and Friday as interchangeable with Monday, Tuesday, and
+  Thursday, partly because the nature of cyclic personal chores (that
+  had a higher frequency in the winter) made it hard to maintain a
+  discipline of inter-day differences.
 
 * (change in terms of being more relaxed) For the weekends, while I
   will aspire to follow the same rules as before, I'll be a bit looser
@@ -341,10 +357,35 @@ weeks.
   * At most 20.5 hours average (102.5 hours total) across that week and the
     four preceding weeks
 
-#### For the period 2025-04-21 onward
+UPDATE 2025-03-27 (retrospective): Overall, it was much harder than
+anticipated for me to meet the minimum hour requirement for a 75% load
+across all weeks. This was partly due to an increase in cyclic
+personal chores load, and partly because some periodic tasks
+accumulated over time. It was easy to hit the 75% mark in some weeks,
+but doing so ended up deferring monthly, once-in-two-months, and
+quarterly tasks and these ended up bunching into other weeks, even
+with a little bit of strategic skipping of some tasks.
 
-My tentative plan is to return to normal number of hours. The
-distribution between days is subject to some tweaking.
+#### For the period 2025-03-16 to 2025-06-15
+
+My tentative plan is to return to a target of a normal number of
+hours. I also plan to return to the normal practice of not working on
+weekends outside of a few special circumstances.
+
+While I will *somewhat* increase how distinctly I treat (Monday,
+Tuesday, Thursday) and (Wednesday, Friday), I'll continue to be a bit
+loose about the distinction until 2025-06-15, with a priority of
+trying to hit and surpass my conditional minimum hours early enough in
+the week and maximize freedom from work during the weekend. This will
+make it easier for me to build surplus hours in the weeks where I can,
+which will earn me more flexibility in other weeks. I expect that over
+time, as I build a solid surplus in hours and feel more caught up with
+work, I will return to being more free of work on Wednesday and
+Friday. But the priority to begin with is to reclaim the weekend.
+
+#### For the period 2025-06-16 onward
+
+I expect to return to full normalcy by this time.
 
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
@@ -498,13 +539,23 @@ distribution between days is subject to some tweaking.
 ### Adjusted schedule within Q1 and Q2 of 2025
 
 * I am completely pausing any conditional minimum for personal
-  projects until 2025-04-20. After that, I will likely introduce a
+  projects until 2025-05-18. After that, I will likely introduce a
   conditional minimum at about half the normal conditional minimum
   level.
 
   However, my goal is to continue to stay on top of personal projects
   to the extent needed in terms of obligations and promises to others,
   while also trying to limit the extent of such obligations.
+
+  UPDATE 2025-03-27: Even though I ended my increased hours (to 75%)
+  on 2025-03-15, instead of the planned 2025-04-20, I am continuing to
+  defer conditional minimums for personal projects, in fact extending
+  the deferral end date from 2025-04-20 to 2025-05-18. This is because
+  of a huge backlog in personal finances and personal chores tasks
+  built up over the period of the increaed load, with some of these
+  tasks being particularly time-sensitive. In practice, I do expect to
+  gingerly return to personal projects a little before the new
+  deferral end date of 2025-05-18.
 
 * I continue to maintain conditional maximum targets for personal
   chores and personal finances.
