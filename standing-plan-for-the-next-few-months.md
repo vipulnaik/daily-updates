@@ -369,7 +369,19 @@ with a little bit of strategic skipping of some tasks.
 #### For the period 2025-03-16 to 2025-06-15
 
 My tentative plan is to return to a target of a normal number of
-hours. I also plan to return to the normal practice of not working on
+hours, with an increase of 15 minutes in all the weekly conditional
+minimum targets. The increase of 15 minutes is intended to make up for
+falling slightly below target during the 75% period. The increase of
+15 minutes should be relatively effortless and also aligns with the
+slight increase in workload when it comes to tasks that are somewhat
+time-sensitive.
+
+For instance, my one-week conditional minimum target will be 7 hours
+15 minutes instead of the usual 7 hours. My three-week conditional
+minimum average will be 7 hours 30 minutes instead of 7 hours 15
+minutes.
+
+I also plan to return to the normal practice of not working on
 weekends outside of a few special circumstances.
 
 While I will *somewhat* increase how distinctly I treat (Monday,
