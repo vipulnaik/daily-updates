@@ -94,4 +94,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-03-20',5998,1886,56,0,0,115,0,0,60,2,356,NULL),
   ('2025-03-21',5999,1887,42,0,0,120,0,0,115,1,484,'This was the day I got my COVID-19 booster dose; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md for details.'),
   ('2025-03-22',6000,1888,80,0,0,140,0,0,50,1,465,NULL),
-  ('2025-03-23',6001,1889,93,0,0,83,0,0,50,1,390,NULL);
+  ('2025-03-23',6001,1889,93,0,0,83,0,0,50,1,390,NULL),
+  /* Week of 2025-03-24 */
+  ('2025-03-24',6003,1890,34,5,120,23,0,0,108,1,535,NULL),
+  ('2025-03-25',6004,1891,114,0,3,58,0,0,100,1,519,NULL),
+  ('2025-03-26',6005,1892,154,0,0,82,0,5,40,2,449,NULL),
+  ('2025-03-27',6006,1893,119,0,0,148,0,15,50,2,436,NULL);
