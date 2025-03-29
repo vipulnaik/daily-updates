@@ -86,4 +86,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-03-13',5991,1879,134,0,0,117,0,0,215,2,501,NULL),
   ('2025-03-14',5992,1880,71,0,0,97,0,0,132,1,508,NULL),
   ('2025-03-15',5993,1881,57,0,5,60,0,0,133,1,478,NULL),
-  ('2025-03-16',5994,1882,165,0,0,6,0,0,40,0,474,'I did attempt to start laundry on this day but the laundry room was occupied and, based on my calculations, I decided that starting it later would delay me too much, so I cancelled my laundry plans. That is why I have zero cyclic personal chores for this day.');
+  ('2025-03-16',5994,1882,165,0,0,6,0,0,40,0,474,'I did attempt to start laundry on this day but the laundry room was occupied and, based on my calculations, I decided that starting it later would delay me too much, so I cancelled my laundry plans. That is why I have zero cyclic personal chores for this day.'),
+  /* Week of 2025-03-17 */
+  ('2025-03-17',5995,1883,111,5,0,0,0,0,255,1,672,NULL),
+  ('2025-03-18',5996,1884,57,0,2,50,0,0,200,1,476,NULL),
+  ('2025-03-19',5997,1885,54,0,0,60,0,0,185,1,510,NULL),
+  ('2025-03-20',5998,1886,56,0,0,115,0,0,60,2,356,NULL),
+  ('2025-03-21',5999,1887,42,0,0,120,0,0,115,1,484,'This was the day I got my COVID-19 booster dose; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-03-21-pfizer-covid-vaccine-updated-booster-dose.md for details.'),
+  ('2025-03-22',6000,1888,80,0,0,140,0,0,50,1,465,NULL),
+  ('2025-03-23',6001,1889,93,0,0,83,0,0,50,1,390,NULL);
