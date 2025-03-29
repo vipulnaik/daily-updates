@@ -78,4 +78,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-03-06',5984,1872,93,0,3,50,0,0,85,0,505,'Although I had zero cyclic personal chores long time-block commitments on this day, I did make a trip to Berkeley Bowl and also did a bunch of dishwashing work.'),
   ('2025-03-07',5985,1873,51,0,0,125,2,0,215,1,515,NULL),
   ('2025-03-08',5986,1874,154,0,0,60,4,0,58,1,549,NULL),
-  ('2025-03-09',5987,1875,57,30,0,79,0,0,135,2,436,NULL);
+  ('2025-03-09',5987,1875,57,30,0,79,0,0,135,2,436,NULL),
+  /* Week of 2025-03-10 */
+  ('2025-03-10',5988,1876,69,8,0,121,0,0,85,1,482,NULL),
+  ('2025-03-11',5989,1877,107,0,0,52,0,0,30,1,463,NULL),
+  ('2025-03-12',5990,1878,54,15,48,29,0,0,180,1,760,NULL),
+  ('2025-03-13',5991,1879,134,0,0,117,0,0,215,2,501,NULL),
+  ('2025-03-14',5992,1880,71,0,0,97,0,0,132,1,508,NULL),
+  ('2025-03-15',5993,1881,57,0,5,60,0,0,133,1,478,NULL),
+  ('2025-03-16',5994,1882,165,0,0,6,0,0,40,0,474,'I did attempt to start laundry on this day but the laundry room was occupied and, based on my calculations, I decided that starting it later would delay me too much, so I cancelled my laundry plans. That is why I have zero cyclic personal chores for this day.');
