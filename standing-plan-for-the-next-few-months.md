@@ -223,14 +223,18 @@ applies to my steady state outside of those times.
   least one* of the following must be true:
 
   * At least 7 hours in the week
-  * At least 7.25 hours average (21.75 hours total) across that week and
-    the two preceding weeks
-  * At least 7.5 hours average (37.5 hours total) across that week and
-    the four preceding weeks
-  * At least 7.75 hours average (54.25 hours total) across that week
-    and the six preceding weeks
-  * At least 8 hours average (72 hours total) across that week and the
-    eight preceding weeks
+
+  * At least 7 hours 10 minutes average (21 hours 30 minutes total)
+    across that week and the two preceding weeks
+
+  * At least 7 hours 20 minutes average (36 hours 40 minutes total)
+    across that week and the four preceding weeks
+
+  * At least 7 hours 30 hours average (52 hours 30 minutes total)
+    across that week and the six preceding weeks
+
+  * At least 7 hours 40 minutes average (69 hours total) across that
+    week and the eight preceding weeks
 
 * ADDED 2024-11-17, UPDATED 2024-12-01: For work I do under personal
   projects or other activities that makes me more familiar with
