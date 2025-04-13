@@ -102,4 +102,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-03-27',6006,1893,119,0,0,148,0,15,50,2,436,NULL),
   ('2025-03-28',6007,1894,105,0,0,54,0,0,85,1,619,NULL),
   ('2025-03-29',6008,1895,3,0,220,105,0,0,47,1,391,NULL),
-  ('2025-03-30',NULL,1896,0,0,20,170,0,0,126,1,517,NULL);
+  ('2025-03-30',NULL,1896,0,0,20,170,0,0,126,1,517,NULL),
+  /* Week of 2025-03-31 */
+  ('2025-03-31',6010,1897,28,13,56,133,0,0,85,1,641,NULL),
+  ('2025-04-01',6011,1898,112,0,34,19,0,0,30,0,444,'I did not have any cooking or food purchases due on this day; I had planned to do laundry, but failed to start it due to the laundry room being in use.'),
+  ('2025-04-02',6012,1899,100,0,4,119,0,0,53,1,440,NULL),
+  ('2025-04-03',6013,1900,121,13,0,90,0,0,10,2,412,NULL),
+  ('2025-04-04',6014,1901,21,25,10,262,0,0,47,1,466,NULL),
+  ('2025-04-05',NULL,1902,0,75,130,102,0,0,10,2,453,NULL),
+  ('2025-04-06',6015,1903,106,2,128,90,0,0,12,0,508,'I made an administrative and package pickup trip on this day that took enough of my day that I ended up not having time for cyclic personal chores.');
