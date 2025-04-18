@@ -118,4 +118,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-04-10',6020,1907,137,0,3,112,0,0,100,1,529,NULL),
   ('2025-04-11',6021,1908,41,0,0,18,0,0,345,1,662,NULL),
   ('2025-04-12',6022,1909,110,0,0,93,0,0,170,1,485,NULL),
-  ('2025-04-13',6023,1910,31,2,8,87,0,0,130,1,468,NULL);
+  ('2025-04-13',6023,1910,31,2,8,87,0,0,130,1,468,NULL),
+  /* Week of 2025-04-14 */
+  ('2025-04-14',6025,1911,101,0,0,53,0,0,139,1,508,NULL),
+  ('2025-04-15',6026,1912,65,0,4,84,0,0,77,1,449,NULL),
+  ('2025-04-16',6027,1913,132,0,0,220,0,0,35,1,354,'I had a dental cleaning appointment on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-04-16-dental-cleaning.md for details.'),
+  ('2025-04-17',6028,1914,113,2,4,38,0,0,210,1,697,'A lot of the screen time was time playing videos while I was doing chores around the house, so it is misleadingly high.');
