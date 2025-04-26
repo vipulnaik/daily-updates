@@ -220,7 +220,7 @@ timelines in that table.
 
 This will have to wait till May or June of 2025.
 
-### Other personal proejcts stuff
+### Other personal projects stuff
 
 This includes work on subject wikis and the donations list website. I
 have suspended till May 2025 all work here beyond a few items that
