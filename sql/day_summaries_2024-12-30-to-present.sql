@@ -123,4 +123,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-04-14',6025,1911,101,0,0,53,0,0,139,1,508,NULL),
   ('2025-04-15',6026,1912,65,0,4,84,0,0,77,1,449,NULL),
   ('2025-04-16',6027,1913,132,0,0,220,0,0,35,1,354,'I had a dental cleaning appointment on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-04-16-dental-cleaning.md for details.'),
-  ('2025-04-17',6028,1914,113,2,4,38,0,0,210,1,697,'A lot of the screen time was time playing videos while I was doing chores around the house, so it is misleadingly high.');
+  ('2025-04-17',6028,1914,113,2,4,38,0,0,210,1,697,'A lot of the screen time was time playing videos while I was doing chores around the house, so it is misleadingly high.'),
+  ('2025-04-18',6029,1915,14,0,0,218,0,0,63,1,441,NULL),
+  ('2025-04-19',NULL,1916,0,0,0,215,10,0,205,1,479,NULL),
+  ('2025-04-20',6030,1917,55,12,0,53,0,0,165,1,581,NULL);
