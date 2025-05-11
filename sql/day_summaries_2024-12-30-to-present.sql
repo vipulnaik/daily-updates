@@ -134,4 +134,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-04-24',6037,1921,230,0,0,90,0,0,115,1,639,NULL),
   ('2025-04-25',6041,1922,200,0,0,30,0,0,120,1,659,NULL),
   ('2025-04-26',6042,1923,44,5,0,220,0,0,150,1,537,NULL),
-  ('2025-04-27',6043,1924,62,0,0,94,0,0,190,2,512,NULL);
+  ('2025-04-27',6043,1924,62,0,0,94,0,0,190,2,512,NULL),
+  /* Week of 2025-04-28 */
+  ('2025-04-28',6045,1925,150,0,0,155,0,0,140,1,720,NULL),
+  ('2025-04-29',6047,1926,26,0,0,156,0,0,105,0,588,NULL),
+  ('2025-04-30',6049,1927,37,0,0,149,2,0,110,1,499,NULL),
+  ('2025-05-01',6050,1928,14,0,4,154,0,0,190,3,599,NULL),
+  ('2025-05-02',NULL,1929,0,0,0,329,0,0,50,1,180,'This was the day I flew out of San Francisco International Airport (SFO) toward Bengaluru International Airport (BLR). The screen time estimate is filled approximately because the official data is incorrect as it counts all the time when the laptop was turned off as screen time.'),
+  ('2025-05-03',NULL,1930,0,0,0,5,0,0,0,0,0,'This day was spent entirely in travel (and partially lost due to timezone shifts).'),
+  ('2025-05-04',6051,1931,5,0,0,315,10,0,0,0,420,'This was the day I arrived in India. Times from this point onward are in Indian Standard Time (IST). The screen time estimate is filled approximately because the official data is incorrect as it counts all the time when the laptop was turned off as screen time.');
