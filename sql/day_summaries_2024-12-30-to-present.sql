@@ -142,4 +142,11 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-05-01',6050,1928,14,0,4,154,0,0,190,3,599,NULL),
   ('2025-05-02',NULL,1929,0,0,0,329,0,0,50,1,180,'This was the day I flew out of San Francisco International Airport (SFO) toward Bengaluru International Airport (BLR). The screen time estimate is filled approximately because the official data is incorrect as it counts all the time when the laptop was turned off as screen time.'),
   ('2025-05-03',NULL,1930,0,0,0,5,0,0,0,0,0,'This day was spent entirely in travel (and partially lost due to timezone shifts).'),
-  ('2025-05-04',6051,1931,5,0,0,315,10,0,0,0,420,'This was the day I arrived in India. Times from this point onward are in Indian Standard Time (IST). The screen time estimate is filled approximately because the official data is incorrect as it counts all the time when the laptop was turned off as screen time.');
+  ('2025-05-04',6051,1931,5,0,0,315,10,0,0,0,420,'This was the day I arrived in India. Times from this point onward are in Indian Standard Time (IST). The screen time estimate is filled approximately because the official data is incorrect as it counts all the time when the laptop was turned off as screen time.'),
+  /* Week of 2025-05-05 */
+  ('2025-05-05',6052,1932,2,0,0,390,0,0,0,0,840,NULL),
+  ('2025-05-06',6053,1933,8,3,20,270,0,0,0,0,711,NULL),
+  ('2025-05-07',6054,1934,137,7,0,153,0,0,0,0,650,NULL),
+  ('2025-05-08',6056,1935,90,0,9,147,0,0,0,0,660,NULL),
+  ('2025-05-09',6057,1936,7,0,0,316,0,0,0,0,223,NULL),
+  ('2025-05-10',6058,1937,95,5,0,80,0,0,0,0,642,NULL);
