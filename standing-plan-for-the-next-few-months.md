@@ -584,23 +584,29 @@ I expect to return to full normalcy by this time.
 
 ## Chores to catch up on
 
-### Electronics stuff
-
-- [ ] Targeting for Q2 2025: Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
-
 ### Health stuff
 
-- [ ] Targeting for Q2 2025: Get next round of blood tests done
-- [ ] Targeting for Q2 2025: Get DEXA scan done
+- [ ] Targeting for late Q2 / early Q3 2025: Get next round of blood tests done
+- [ ] Targeting for Q3 2025: Get DEXA scan done
+- [ ] Enter nutrition data for food items purchased recently for which I haven't entered nutrition data yet
+- [ ] Work on processing food_preparations_and_openings start and end date information to get a more accurate nutritional picture
+- [ ] Get flow rate incentive spirometer and start using it regularly (after initial practice in India)
+- Figure out next steps of strength training / explosive energy training strategy (I haven't yet decided whether to do this before or after the first DEXA scan)
+  - [ ] Creatine
+  - [ ] Other exercises with heavy weights
+
+### Electronics stuff
+
+- [ ] Targeting for late Q2 / early Q3 2025: Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
 
 ## Devops stuff
 
-#### MediaWiki upgrades (Q1 or Q2 of 2025)
+#### MediaWiki upgrades (Q3 or Q4 of 2025)
 
 I should do a round of MediaWiki upgrades in Q1 or Q2 of 2025, and
 also make sure the upgrade process is as streamlined as possible.
 
-### Digital will (likely Q2 2025)
+### Digital will (likely Q4 2025)
 
 After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
