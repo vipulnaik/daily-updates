@@ -178,4 +178,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-06-02 */
   ('2025-06-02',6082,1960,85,85,12,76,0,0,60,0,542,NULL),
   ('2025-06-03',6084,1961,19,90,25,107,0,0,4,0,605,NULL),
-  ('2025-06-04',6085,1962,48,10,0,166,8,0,0,0,535,NULL);
+  ('2025-06-04',6085,1962,48,10,0,166,8,0,0,0,535,NULL),
+  ('2025-06-05',6086,1963,123,5,5,73,0,0,0,0,537,NULL),
+  ('2025-06-06',6087,1964,82,0,0,271,0,0,0,0,255,'This was the day I flew out of Bengaluru International Airport (BLR) to San Francisco International Airport (SFO) via Delhi International Airport (DEL). This was the last day that I record in Indian Standard Time (IST); the next day (2025-06-07) onward is in Pacific Time (PT), currently Pacific Daylight Time (PDT).');
