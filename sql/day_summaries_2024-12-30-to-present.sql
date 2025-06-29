@@ -198,4 +198,11 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-06-19',6101,1977,65,0,0,50,0,0,168,2,515,NULL),
   ('2025-06-20',6102,1978,28,4,0,195,0,0,200,1,543,'On this day I made an outside trip within Berkeley for an administrative task plus a bunch of other smaller tasks.'),
   ('2025-06-21',6103,1979,39,4,0,164,0,0,130,1,622,NULL),
-  ('2025-06-22',6104,1980,150,0,0,77,0,0,230,1,586,NULL);
+  ('2025-06-22',6104,1980,150,0,0,77,0,0,230,1,586,NULL),
+  /* Week of 2025-06-23 */
+  ('2025-06-23',6105,1981,182,0,9,40,0,0,135,1,666,'In addition to the cyclic personal chores with a long time block commitment, I also did two shorter shopping trips.'),
+  ('2025-06-24',6107,1982,50,3,0,107,2,0,125,1,521,NULL),
+  ('2025-06-25',6108,1983,82,0,0,139,0,0,125,2,492,NULL),
+  ('2025-06-26',6109,1984,217,0,1,25,0,0,175,1,679,NULL),
+  ('2025-06-27',6110,1985,21,0,0,154,0,0,65,1,499,NULL),
+  ('2025-06-28',6111,1986,32,0,0,157,0,0,105,1,511,NULL);
