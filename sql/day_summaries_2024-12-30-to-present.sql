@@ -190,4 +190,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-06-12',6093,1970,118,0,0,80,0,0,79,1,624,'I continued experiencing symptoms of my ongoing respiratory infection (likely the common cold); see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-06-respiratory-infection-likely-common-cold.md for details.'),
   ('2025-06-13',6094,1971,48,0,0,42,0,0,75,0,572,'I continued experiencing symptoms of my ongoing respiratory infection (likely the common cold); see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-06-respiratory-infection-likely-common-cold.md for details. This was one of the factors that led my day to being shorter than usual with less accounted-for time than usual, and in particular I ended up doing zero cyclic personal chores (my early attempt to start regular laundry failed, and I wasn''t able to start later as I got sleepy).'),
   ('2025-06-14',6095,1972,7,0,0,182,0,0,130,2,446,'I continued experiencing symptoms of my ongoing respiratory infection (likely the common cold); see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-06-respiratory-infection-likely-common-cold.md for details.'),
-  ('2025-06-15',6096,1973,15,5,4,45,0,0,125,1,477,'I continued experiencing symptoms of my ongoing respiratory infection (likely the common cold); see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-06-respiratory-infection-likely-common-cold.md for details. This also explains why the day ended up shorter than usual.');
+  ('2025-06-15',6096,1973,15,5,4,45,0,0,125,1,477,'I continued experiencing symptoms of my ongoing respiratory infection (likely the common cold); see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-06-respiratory-infection-likely-common-cold.md for details. This also explains why the day ended up shorter than usual.'),
+  /* Week of 2025-06-16 */
+  ('2025-06-16',6097,1974,67,0,0,140,0,0,85,2,430,NULL),
+  ('2025-06-17',6098,1975,31,10,0,90,0,0,85,1,546,NULL),
+  ('2025-06-18',6100,1976,41,0,0,115,0,0,260,1,590,NULL),
+  ('2025-06-19',6101,1977,65,0,0,50,0,0,168,2,515,NULL),
+  ('2025-06-20',6102,1978,28,4,0,195,0,0,200,1,543,'On this day I made an outside trip within Berkeley for an administrative task plus a bunch of other smaller tasks.'),
+  ('2025-06-21',6103,1979,39,4,0,164,0,0,130,1,622,NULL),
+  ('2025-06-22',6104,1980,150,0,0,77,0,0,230,1,586,NULL);
