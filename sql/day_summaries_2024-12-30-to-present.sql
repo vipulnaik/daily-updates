@@ -205,4 +205,5 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-06-25',6108,1983,82,0,0,139,0,0,125,2,492,NULL),
   ('2025-06-26',6109,1984,217,0,1,25,0,0,175,1,679,NULL),
   ('2025-06-27',6110,1985,21,0,0,154,0,0,65,1,499,NULL),
-  ('2025-06-28',6111,1986,32,0,0,157,0,0,105,1,511,NULL);
+  ('2025-06-28',6111,1986,32,0,0,157,0,0,105,1,511,NULL),
+  ('2025-06-29',NULL,1987,0,13,2,108,0,0,103,1,514,'This day was a little lower on total accounted-for time than it would otherwise have been, partly because the type of work I did was of the sort that contributes less to accounted-for time, and partly because I spent some non-meal non-multiplexed time watching Squid Game: Season 3.');
