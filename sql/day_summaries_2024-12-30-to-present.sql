@@ -206,4 +206,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-06-26',6109,1984,217,0,1,25,0,0,175,1,679,null),
   ('2025-06-27',6110,1985,21,0,0,154,0,0,65,1,499,null),
   ('2025-06-28',6111,1986,32,0,0,157,0,0,105,1,511,null),
-  ('2025-06-29',null,1987,0,13,2,118,0,0,103,1,514,'This day was a little lower on total accounted-for time than it would otherwise have been, partly because the type of work I did was of the sort that contributes less to accounted-for time, and partly because I spent some non-meal non-multiplexed time watching Squid Game: Season 3.');
+  ('2025-06-29',null,1987,0,13,2,118,0,0,103,1,514,'This day was a little lower on total accounted-for time than it would otherwise have been, partly because the type of work I did was of the sort that contributes less to accounted-for time, and partly because I spent some non-meal non-multiplexed time watching Squid Game: Season 3.'),
+  /* Week of 2025-06-30 */
+  ('2025-06-30',6112,1988,90,2,0,75,0,0,202,2,609,null),
+  ('2025-07-01',6113,1989,64,4,0,72,0,0,125,1,603,null),
+  ('2025-07-02',6114,1990,19,0,0,240,0,0,85,1,480,null),
+  ('2025-07-03',6115,1991,90,0,0,165,0,0,55,0,572,'I did a package pickup on this day in lieu of doing any cyclic personal chores.'),
+  ('2025-07-04',6116,1992,96,0,0,94,15,0,115,1,559,null);
