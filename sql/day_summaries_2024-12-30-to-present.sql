@@ -214,4 +214,11 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-07-03',6115,1991,90,0,0,165,0,0,55,0,572,'I did a package pickup on this day in lieu of doing any cyclic personal chores.'),
   ('2025-07-04',6116,1992,96,0,0,94,15,0,115,1,559,null),
   ('2025-07-05',6117,1993,60,0,20,60,0,0,180,1,602,null),
-  ('2025-07-06',6118,1994,71,0,0,190,0,0,125,1,591,null);
+  ('2025-07-06',6118,1994,71,0,0,190,0,0,125,1,591,null),
+  /* Week of 2025-07-07 */
+  ('2025-07-07',6119,1995,248,0,0,65,2,0,40,1,587,null),
+  ('2025-07-08',6120,1996,59,0,42,75,0,0,65,1,511,null),
+  ('2025-07-09',6121,1997,31,0,0,62,12,0,150,1,537,null),
+  ('2025-07-10',6122,1998,314,0,0,23,0,0,110,1,709,null),
+  ('2025-07-11',6123,1999,213,0,0,85,0,0,120,1,519,null),
+  ('2025-07-12',6124,2000,272,0,3,0,0,0,35,0,658,'The absence of cyclic personal chores with long time block commitments (and in fact, the absence of any recorded time on cyclic personal chores) is reflective of me finally cashing in on the summer dividend (where reduced food intake leads to reduced load of cooking and food purchases). I used this day to spend a lot of focused time on the day job, while still being able to do my full morning exercise.');
