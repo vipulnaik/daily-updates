@@ -221,4 +221,5 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-07-09',6121,1997,31,0,0,62,12,0,150,1,537,null),
   ('2025-07-10',6122,1998,314,0,0,23,0,0,110,1,709,null),
   ('2025-07-11',6123,1999,213,0,0,85,0,0,120,1,519,null),
-  ('2025-07-12',6124,2000,272,0,3,0,0,0,35,0,658,'The absence of cyclic personal chores with long time block commitments (and in fact, the absence of any recorded time on cyclic personal chores) is reflective of me finally cashing in on the summer dividend (where reduced food intake leads to reduced load of cooking and food purchases). I used this day to spend a lot of focused time on the day job, while still being able to do my full morning exercise.');
+  ('2025-07-12',6124,2000,272,0,3,0,0,0,35,0,658,'The absence of cyclic personal chores with long time block commitments (and in fact, the absence of any recorded time on cyclic personal chores) is reflective of me finally cashing in on the summer dividend (where reduced food intake leads to reduced load of cooking and food purchases). I used this day to spend a lot of focused time on the day job, while still being able to do my full morning exercise.'),
+  ('2025-07-13',6125,2001,180,0,0,12,0,0,140,1,687,null);
