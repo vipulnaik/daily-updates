@@ -222,4 +222,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-07-10',6122,1998,314,0,0,23,0,0,110,1,709,null),
   ('2025-07-11',6123,1999,213,0,0,85,0,0,120,1,519,null),
   ('2025-07-12',6124,2000,272,0,3,0,0,0,35,0,658,'The absence of cyclic personal chores with long time block commitments (and in fact, the absence of any recorded time on cyclic personal chores) is reflective of me finally cashing in on the summer dividend (where reduced food intake leads to reduced load of cooking and food purchases). I used this day to spend a lot of focused time on the day job, while still being able to do my full morning exercise.'),
-  ('2025-07-13',6125,2001,180,0,0,12,0,0,140,1,687,null);
+  ('2025-07-13',6125,2001,180,0,0,12,0,0,140,1,687,null),
+  /* Week of 2025-07-14 */
+  ('2025-07-14',6126,2002,235,0,0,63,0,0,90,1,719,null),
+  ('2025-07-15',6127,2003,172,0,0,58,0,0,55,0,699,'Due to a bunch of time-sensitive stuff at work, I ended up not doing any cyclic personal chores with long time block commitments (I had been planning to make a Trader Joe''s trip).'),
+  ('2025-07-16',6128,2004,120,7,0,87,0,0,72,1,539,null),
+  ('2025-07-17',6129,2005,156,0,0,85,0,0,115,2,584,null),
+  ('2025-07-18',6130,2006,68,0,0,100,0,0,75,0,451,'My Amazon Hub Locker trip took up the time I would normally spend on a cyclic personal chore, explaining why I had no cyclic personal chores with long time block commitments. Also, I had originally been planning to additionally do laundry at night, but fatigue from the past few days led me to decide against it.');
