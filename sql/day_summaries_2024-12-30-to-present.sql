@@ -228,4 +228,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-07-15',6127,2003,172,0,0,58,0,0,55,0,699,'Due to a bunch of time-sensitive stuff at work, I ended up not doing any cyclic personal chores with long time block commitments (I had been planning to make a Trader Joe''s trip).'),
   ('2025-07-16',6128,2004,120,7,0,87,0,0,72,1,539,null),
   ('2025-07-17',6129,2005,156,0,0,85,0,0,115,2,584,null),
-  ('2025-07-18',6130,2006,68,0,0,100,0,0,75,0,451,'My Amazon Hub Locker trip took up the time I would normally spend on a cyclic personal chore, explaining why I had no cyclic personal chores with long time block commitments. Also, I had originally been planning to additionally do laundry at night, but fatigue from the past few days led me to decide against it.');
+  ('2025-07-18',6130,2006,68,0,0,100,0,0,75,0,451,'My Amazon Hub Locker trip took up the time I would normally spend on a cyclic personal chore, explaining why I had no cyclic personal chores with long time block commitments. Also, I had originally been planning to additionally do laundry at night, but fatigue from the past few days led me to decide against it.'),
+  ('2025-07-19',6131,2007,5,10,0,204,0,0,85,2,379,null),
+  ('2025-07-20',6132,2008,90,15,0,51,0,0,145,1,503,null);
