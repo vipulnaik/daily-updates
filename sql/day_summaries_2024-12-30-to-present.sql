@@ -252,4 +252,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-08-05',6148,2024,106,0,0,7,0,0,185,1,677,null),
   ('2025-08-06',6149,2025,32,0,0,108,0,0,160,0,564,'I opted against doing cyclic personal chores on this day in order to focus on one-off administrative work.'),
   ('2025-08-07',6150,2026,181,0,0,38,0,0,131,1,654,null),
-  ('2025-08-08',6151,2027,5,2,0,230,0,0,165,1,546,null);
+  ('2025-08-08',6151,2027,5,2,0,230,0,0,165,1,546,null),
+  ('2025-08-09',6152,2028,3,9,0,227,0,0,225,2,579,null),
+  ('2025-08-10',6153,2029,6,0,0,264,5,0,35,2,282,null);
