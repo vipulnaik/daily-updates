@@ -254,4 +254,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-08-07',6150,2026,181,0,0,38,0,0,131,1,654,null),
   ('2025-08-08',6151,2027,5,2,0,230,0,0,165,1,546,null),
   ('2025-08-09',6152,2028,3,9,0,227,0,0,225,2,579,null),
-  ('2025-08-10',6153,2029,6,0,0,264,5,0,35,2,282,null);
+  ('2025-08-10',6153,2029,6,0,0,264,5,0,35,2,282,null),
+  /* Week of 2025-08-11 */
+  ('2025-08-11',6154,2030,101,0,0,194,11,0,77,0,635,'Due to my focus on an administrative task, I did not do any cyclic personal chores with long time block commitments. I did make a Berkeley Bowl trip, which requires a shorter time commitment.'),
+  ('2025-08-12',6155,2031,94,1,0,178,4,0,120,1,635,null),
+  ('2025-08-13',6156,2032,60,15,0,188,0,0,95,1,657,null);
