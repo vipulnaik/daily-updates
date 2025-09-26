@@ -273,11 +273,29 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-08-23',6166,2042,104,22,0,105,0,0,60,1,null,'I do not have screen time available for this date since I did not record it in time before the data expired from my laptop.'),
   ('2025-08-24',6167,2043,145,0,0,66,0,0,75,1,null,'I do not have screen time available for this date since I did not record it in time before the data expired from my laptop.');
   /* Week of 2025-08-25 */
-  /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates */
-  /* ('2025-08-25',...,545,null),
+  /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates
+  ('2025-08-25',...,545,null),
   ('2025-08-26',...,681,null),
   ('2025-08-27',...,581,null),
   ('2025-08-28',...,588,null),
   ('2025-08-29',...,513,null),
   ('2025-08-30',...,573,null),
   ('2025-08-31',...,766,null); */
+  /* Week of 2025-09-01 */
+  /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates
+  ('2025-09-01',...,678,null),
+  ('2025-09-02',...,649,null),
+  ('2025-09-03',...,686,null),
+  ('2025-09-04',...,747,null),
+  ('2025-09-05',...,736,null),
+  ('2025-09-06',...,584,null),
+  ('2025-09-07',...,457,null); */
+  /* Week of 2025-09-08 */
+  /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates
+  ('2025-09-08',...,429,null),
+  ('2025-09-09',...,565,null),
+  ('2025-09-10',...,558,null),
+  ('2025-09-11',...,556,null),
+  ('2025-09-12',...,596,null),
+  ('2025-09-13',...,505,null),
+  ('2025-09-14',...,506,null); */
