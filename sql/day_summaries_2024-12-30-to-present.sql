@@ -271,16 +271,15 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-08-21',6164,2040,180,0,0,66,0,0,85,1,null,'I do not have screen time available for this date since I did not record it in time before the data expired from my laptop.'),
   ('2025-08-22',6165,2041,30,5,0,180,0,0,170,1,null,'I do not have screen time available for this date since I did not record it in time before the data expired from my laptop.'),
   ('2025-08-23',6166,2042,104,22,0,105,0,0,60,1,null,'I do not have screen time available for this date since I did not record it in time before the data expired from my laptop.'),
-  ('2025-08-24',6167,2043,145,0,0,66,0,0,75,1,null,'I do not have screen time available for this date since I did not record it in time before the data expired from my laptop.');
+  ('2025-08-24',6167,2043,145,0,0,66,0,0,75,1,null,'I do not have screen time available for this date since I did not record it in time before the data expired from my laptop.'),
   /* Week of 2025-08-25 */
-  /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates
-  ('2025-08-25',...,545,null),
-  ('2025-08-26',...,681,null),
-  ('2025-08-27',...,581,null),
-  ('2025-08-28',...,588,null),
-  ('2025-08-29',...,513,null),
-  ('2025-08-30',...,573,null),
-  ('2025-08-31',...,766,null); */
+  ('2025-08-25',6168,2044,100,0,0,48,0,0,75,1,545,null),
+  ('2025-08-26',6169,2045,229,0,0,0,0,0,55,0,681,null),
+  ('2025-08-27',6170,2046,126,15,0,27,0,5,150,1,581,null),
+  ('2025-08-28',6171,2047,91,65,0,15,0,0,140,1,588,null),
+  ('2025-08-29',6172,2048,107,0,2,155,0,0,200,2,513,null),
+  ('2025-08-30',6173,2049,64,0,0,135,0,0,410,2,573,null),
+  ('2025-08-31',6174,2050,40,0,165,36,0,0,155,1,766,null);
   /* Week of 2025-09-01 */
   /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates
   ('2025-09-01',...,678,null),
