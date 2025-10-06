@@ -281,14 +281,13 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-08-30',6173,2049,64,0,0,135,0,0,410,2,573,null),
   ('2025-08-31',6174,2050,40,0,165,36,0,0,155,1,766,null),
   /* Week of 2025-09-01 */
-  ('2025-09-01',6175,2051,79,10,0,47,0,0,210,1,678,null),
+  ('2025-09-01',6175,2051,79,10,0,47,0,0,210,1,678,'This was an unusual day -- it was a holiday for Labor Day, and I spent a large part of the day doing periodic cleaning tasks around the house. I multiplexed these with listening to stuff, so the time is counted under the other activities bucket.'),
   ('2025-09-02',6176,2052,49,12,190,53,2,0,85,1,649,null),
-  ('2025-09-03',6177,2053,227,0,0,37,0,0,50,0,686,'I made a long-overdue Walgreens shopping trip. This does not count as a cyclic personal chore long time block commitment, but it does take a moderate amount of time so it eats into my ability to do long time block commitments.');
-  /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates
-  /* ('2025-09-04',...,747,null),
-  ('2025-09-05',...,736,null),
-  ('2025-09-06',...,584,null),
-  ('2025-09-07',...,457,null); */
+  ('2025-09-03',6177,2053,227,0,0,37,0,0,50,0,686,'This was a busy day at work, and I also made a long-overdue Walgreens shopping trip. This does not count as a cyclic personal chore with long time block commitment, but it does take a moderate amount of time so it eats into my ability to do long time block commitments in the time remaining from work.'),
+  ('2025-09-04',6178,2054,205,0,5,77,0,0,75,0,747,'This was a busy day at work, and I ended up using a lot of my non-work time on an administrative task, eating into the time I could have spent on cyclic personal chores with long time block commitments. Hence, I ended up not doing any cyclic personal chores with long time block commitments.'),
+  ('2025-09-05',6179,2055,87,0,105,16,0,0,173,1,736,null),
+  ('2025-09-06',6180,2056,40,0,195,70,0,0,105,1,584,null),
+  ('2025-09-07',6181,2057,43,2,5,160,0,0,130,2,457,null);
   /* Week of 2025-09-08 */
   /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates
   ('2025-09-08',...,429,null),
