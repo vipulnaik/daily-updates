@@ -287,13 +287,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-09-04',6178,2054,205,0,5,77,0,0,75,0,747,'This was a busy day at work, and I ended up using a lot of my non-work time on an administrative task, eating into the time I could have spent on cyclic personal chores with long time block commitments. Hence, I ended up not doing any cyclic personal chores with long time block commitments.'),
   ('2025-09-05',6179,2055,87,0,105,16,0,0,173,1,736,null),
   ('2025-09-06',6180,2056,40,0,195,70,0,0,105,1,584,null),
-  ('2025-09-07',6181,2057,43,2,5,160,0,0,130,2,457,null);
+  ('2025-09-07',6181,2057,43,2,5,160,0,0,130,2,457,null),
   /* Week of 2025-09-08 */
-  /* logging screen time only for now so that I have it even if it takes me some time to get to the rest of the daily updates
-  ('2025-09-08',...,429,null),
-  ('2025-09-09',...,565,null),
-  ('2025-09-10',...,558,null),
-  ('2025-09-11',...,556,null),
-  ('2025-09-12',...,596,null),
-  ('2025-09-13',...,505,null),
-  ('2025-09-14',...,506,null); */
+  ('2025-09-08',6182,2058,103,0,0,108,0,0,145,1,429,null),
+  ('2025-09-09',6183,2059,142,0,0,40,0,0,125,1,565,null),
+  ('2025-09-10',6184,2060,32,0,9,205,0,0,125,1,558,null),
+  ('2025-09-11',6185,2061,9,0,0,189,0,0,105,2,556,null),
+  ('2025-09-12',6186,2062,89,0,0,46,0,0,195,1,596,null),
+  ('2025-09-13',6187,2063,14,0,0,200,0,0,85,1,505,null),
+  ('2025-09-14',6188,2064,6,0,10,143,0,0,255,2,506,null);
