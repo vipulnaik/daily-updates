@@ -299,4 +299,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-09-15 */
   ('2025-09-15',6189,2065,233,0,0,23,0,0,100,1,656,null),
   ('2025-09-16',6190,2066,140,0,90,5,0,0,100,0,693,'It was a busy day at work, and I also spent a bunch of time on US tax stuff, so I ended up not doing any cyclic personal chores with long time block commitments.'),
-  ('2025-09-17',6191,2067,170,0,5,62,0,0,85,1,545,null);
+  ('2025-09-17',6191,2067,170,0,5,62,0,0,85,1,545,null),
+  ('2025-09-18',6192,2068,183,0,0,80,0,0,155,1,560,null),
+  ('2025-09-19',6193,2069,116,0,0,60,0,0,160,1,591,null),
+  ('2025-09-20',6194,2070,54,0,65,77,0,0,130,1,549,null),
+  ('2025-09-21',6195,2071,42,0,115,4,0,0,190,1,661,null);
