@@ -291,7 +291,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-09-08 */
   ('2025-09-08',6182,2058,103,0,0,108,0,0,145,1,429,null),
   ('2025-09-09',6183,2059,142,0,0,40,0,0,125,1,565,null),
-  ('2025-09-10',6184,2060,32,0,9,205,0,0,125,1,558,null),
+  ('2025-09-10',6184,2060,32,0,9,205,0,0,125,1,558,'I got my blood tests done on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-09-10-blood-tests.md for more information.'),
   ('2025-09-11',6185,2061,9,0,0,189,0,0,105,2,556,null),
   ('2025-09-12',6186,2062,89,0,0,46,0,0,195,1,596,null),
   ('2025-09-13',6187,2063,14,0,0,200,0,0,85,1,505,null),
@@ -311,4 +311,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-09-25',6198,2075,120,0,15,130,0,0,115,1,573,null),
   ('2025-09-26',6199,2076,14,0,0,176,0,0,210,2,439,null),
   ('2025-09-27',6200,2077,43,0,0,185,0,0,185,2,514,null),
-  ('2025-09-28',6201,2078,129,0,15,31,0,0,123,1,588,null);
+  ('2025-09-28',6201,2078,129,0,15,31,0,0,123,1,588,null),
+  /* Week of 2025-09-29 */
+  ('2025-09-29',6202,2079,156,0,0,3,0,0,135,1,639,null),
+  ('2025-09-30',6203,2080,271,0,0,23,0,0,65,0,701,'I ended up getting engrossed in day job work and missed my window of time to do laundry (my planned cyclic personal chore with long time block commitment for the day).'),
+  ('2025-10-01',6204,2081,127,0,75,41,12,0,75,1,627,null);
