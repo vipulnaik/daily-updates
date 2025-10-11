@@ -307,4 +307,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-09-22 */
   ('2025-09-22',6196,2072,91,0,6,35,0,0,130,1,602,null),
   ('2025-09-23',6197,2073,54,0,157,27,0,0,120,0,721,'As a result of my focus on US tax work, I missed the time window to start laundry, which would otherwise have been my cyclic personal chore with long time block commitment for the day. As a result, I ended up doing no cyclic personal chores with long time block commitments.'),
-  ('2025-09-24',null,2074,0,0,10,135,0,0,97,1,472,null);
+  ('2025-09-24',null,2074,0,0,10,135,0,0,97,1,472,null),
+  ('2025-09-25',6198,2075,120,0,15,130,0,0,115,1,573,null),
+  ('2025-09-26',6199,2076,14,0,0,176,0,0,210,2,439,null),
+  ('2025-09-27',6200,2077,43,0,0,185,0,0,185,2,514,null),
+  ('2025-09-28',6201,2078,129,0,15,31,0,0,123,1,588,null);
