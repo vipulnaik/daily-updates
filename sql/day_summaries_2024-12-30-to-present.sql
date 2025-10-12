@@ -315,4 +315,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-09-29 */
   ('2025-09-29',6202,2079,156,0,0,3,0,0,135,1,639,null),
   ('2025-09-30',6203,2080,271,0,0,23,0,0,65,0,701,'I ended up getting engrossed in day job work and missed my window of time to do laundry (my planned cyclic personal chore with long time block commitment for the day).'),
-  ('2025-10-01',6204,2081,127,0,75,41,12,0,75,1,627,null);
+  ('2025-10-01',6204,2081,127,0,75,41,12,0,75,1,627,null),
+  ('2025-10-02',6205,2082,75,0,0,120,0,0,110,1,522,null),
+  ('2025-10-03',6206,2083,50,0,0,180,0,0,115,0,490,'I used up the time I would normally spend on cyclic personal chores on an Amazon Hub Locker package pickup trip, hence I didn''t do any cyclic personal chores with long time block commitments on this day.'),
+  ('2025-10-04',6207,2084,16,0,0,160,0,0,255,2,562,null),
+  ('2025-10-05',6208,2085,30,0,0,106,0,0,135,0,646,'I intended to do laundry but the laundry machine was in use, so I was not able to do laundry, hence I ended up doing zero cyclic personal chores with long time block commitments.');
