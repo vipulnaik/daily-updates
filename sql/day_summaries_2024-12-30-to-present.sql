@@ -319,4 +319,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-10-02',6205,2082,75,0,0,120,0,0,110,1,522,null),
   ('2025-10-03',6206,2083,50,0,0,180,0,0,115,0,490,'I used up the time I would normally spend on cyclic personal chores on an Amazon Hub Locker package pickup trip, hence I didn''t do any cyclic personal chores with long time block commitments on this day.'),
   ('2025-10-04',6207,2084,16,0,0,160,0,0,255,2,562,null),
-  ('2025-10-05',6208,2085,30,0,0,106,0,0,135,0,646,'I intended to do laundry but the laundry machine was in use, so I was not able to do laundry, hence I ended up doing zero cyclic personal chores with long time block commitments.');
+  ('2025-10-05',6208,2085,30,0,0,106,0,0,135,0,646,'I intended to do laundry but the laundry machine was in use, so I was not able to do laundry, hence I ended up doing zero cyclic personal chores with long time block commitments.'),
+  /* Week of 2025-10-06 */
+  ('2025-10-06',6209,2086,79,0,0,130,12,0,115,1,609,null),
+  ('2025-10-07',6210,2087,83,0,0,95,0,0,143,1,470,null),
+  ('2025-10-08',6211,2088,45,0,0,33,0,0,317,1,605,null),
+  ('2025-10-09',6212,2089,117,0,1,74,0,0,95,1,612,null),
+  ('2025-10-10',6213,2090,81,15,0,37,2,0,240,0,651,'My intended cyclic personal chore with long time block commitment was laundry, but I failed to start it due to the laundry machine being in use. I didn''t have enough flexibility with my time to do another cyclic personal chore with long time block commitment.'),
+  ('2025-10-11',6214,2091,82,4,0,45,0,0,128,1,557,null),
+  ('2025-10-12',6215,2092,83,0,0,75,0,0,180,1,486,null);
