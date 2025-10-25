@@ -335,4 +335,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-10-16',6219,2096,221,0,0,2,0,0,105,0,731,'This ended up being a very busy day at the day job, including a focused session completing a task as well as a lot of smaller time-sensitive tasks. As a result, I ended up missing the time window to do cyclic personal chores with long time block commitments.'),
   ('2025-10-17',6220,2097,122,0,15,20,0,0,235,1,645,null),
   ('2025-10-18',6221,2098,16,0,0,136,0,0,185,2,557,null),
-  ('2025-10-19',6222,2099,4,18,0,177,0,0,145,2,432,null);
+  ('2025-10-19',6222,2099,4,18,0,177,0,0,145,2,432,null),
+  /* Week of 2025-10-20 */
+  ('2025-10-20',6223,2100,183,0,0,36,0,0,125,0,723,'This was a fairly busy day at work, with an unexpected time-sensitive task in the morning and early afternoon, with followup pieces later in the day. As a result, I missed the time window for doing either laundry or a Trader Joe''s trip, which were my two potential cyclic personal chores tasks with long time block commitments. I did make a Berkeley Bowl trip, which doesn''t count as a long time block commitment due to the trip being shorter.'),
+  ('2025-10-21',6224,2101,35,0,6,123,0,0,230,2,572,null),
+  ('2025-10-22',6225,2102,20,0,0,230,0,0,195,1,361 /* 6h 45s */,'I had my dental cleaning on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-10-22-dental-cleaning.md for details.'),
+  ('2025-10-23',6226,2103,114,0,0,42,0,0,193,1,643,null),
+  ('2025-10-24',6227,2104,131,0,0,26,0,0,275,1,686,null);
