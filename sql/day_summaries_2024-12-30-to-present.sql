@@ -85,7 +85,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-03-12',5990,1878,54,15,48,29,0,0,180,1,760,null),
   ('2025-03-13',5991,1879,134,0,0,117,0,0,215,2,501,null),
   ('2025-03-14',5992,1880,71,0,0,97,0,0,132,1,508,null),
-  ('2025-03-15',5993,1881,57,0,5,60,0,0,133,1,478,null),
+  ('2025-03-15',5993,1881,57,0,5,60,0,0,133,2,478,null),
   ('2025-03-16',5994,1882,165,0,0,6,0,0,40,0,474,'I did attempt to start laundry on this day but the laundry room was occupied and, based on my calculations, I decided that starting it later would delay me too much, so I cancelled my laundry plans. That is why I have zero cyclic personal chores for this day.'),
   /* Week of 2025-03-17 */
   ('2025-03-17',5995,1883,111,5,0,0,0,0,255,1,672,null),
@@ -134,9 +134,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-04-24',6037,1921,230,0,0,90,0,0,115,1,639,null),
   ('2025-04-25',6041,1922,200,0,0,30,0,0,120,1,659,null),
   ('2025-04-26',6042,1923,44,5,0,220,0,0,150,1,537,null),
-  ('2025-04-27',6043,1924,62,0,0,94,0,0,190,2,512,null),
+  ('2025-04-27',6043,1924,62,0,0,94,0,0,190,1,512,null),
   /* Week of 2025-04-28 */
-  ('2025-04-28',6045,1925,150,0,0,155,0,0,140,1,720,null),
+  ('2025-04-28',6045,1925,150,0,0,155,0,0,140,2,720,null),
   ('2025-04-29',6047,1926,26,0,0,156,0,0,105,0,588,null),
   ('2025-04-30',6049,1927,37,0,0,149,2,0,110,1,499,null),
   ('2025-05-01',6050,1928,14,0,4,154,0,0,190,3,599,null),
