@@ -292,7 +292,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-09-08',6182,2058,103,0,0,108,0,0,145,1,429,null),
   ('2025-09-09',6183,2059,142,0,0,40,0,0,125,1,565,null),
   ('2025-09-10',6184,2060,32,0,9,205,0,0,125,1,558,'I got my blood tests done on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-09-10-blood-tests.md for more information.'),
-  ('2025-09-11',6185,2061,9,0,0,189,0,0,105,2,556,null),
+  ('2025-09-11',6185,2061,9,0,0,189,0,0,105,1,556,null),
   ('2025-09-12',6186,2062,89,0,0,46,0,0,195,1,596,null),
   ('2025-09-13',6187,2063,14,0,0,200,0,0,85,1,505,null),
   ('2025-09-14',6188,2064,6,0,10,143,0,0,255,2,506,null),
@@ -300,7 +300,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-09-15',6189,2065,233,0,0,23,0,0,100,1,656,null),
   ('2025-09-16',6190,2066,140,0,90,5,0,0,100,0,693,'It was a busy day at work, and I also spent a bunch of time on US tax stuff, so I ended up not doing any cyclic personal chores with long time block commitments.'),
   ('2025-09-17',6191,2067,170,0,5,62,0,0,85,1,545,null),
-  ('2025-09-18',6192,2068,183,0,0,80,0,0,155,1,560,null),
+  ('2025-09-18',6192,2068,183,0,0,80,0,0,155,2,560,null),
   ('2025-09-19',6193,2069,116,0,0,60,0,0,160,1,591,null),
   ('2025-09-20',6194,2070,54,0,65,77,0,0,130,1,549,null),
   ('2025-09-21',6195,2071,42,0,115,4,0,0,190,1,661,null),
@@ -327,4 +327,12 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-10-09',6212,2089,117,0,1,74,0,0,95,1,612,null),
   ('2025-10-10',6213,2090,81,15,0,37,2,0,240,0,651,'My intended cyclic personal chore with long time block commitment was laundry, but I failed to start it due to the laundry machine being in use. I didn''t have enough flexibility with my time to do another cyclic personal chore with long time block commitment.'),
   ('2025-10-11',6214,2091,82,4,0,45,0,0,128,1,557,null),
-  ('2025-10-12',6215,2092,83,0,0,75,0,0,180,1,486,null);
+  ('2025-10-12',6215,2092,83,0,0,75,0,0,180,1,486,null),
+  /* Week of 2025-10-13 */
+  ('2025-10-13',6216,2093,73,0,0,134,0,0,110,2,509,null),
+  ('2025-10-14',6217,2094,178,0,0,46,0,0,120,0,635,'This ended up being a busy day at work and I ended up not doing any cyclic personal chores with long time block commitments.'),
+  ('2025-10-15',6218,2095,82,10,0,149,0,0,125,2,461,null),
+  ('2025-10-16',6219,2096,221,0,0,2,0,0,105,0,731,'This ended up being a very busy day at the day job, including a focused session completing a task as well as a lot of smaller time-sensitive tasks. As a result, I ended up missing the time window to do cyclic personal chores with long time block commitments.'),
+  ('2025-10-17',6220,2097,122,0,15,20,0,0,235,1,645,null),
+  ('2025-10-18',6221,2098,16,0,0,136,0,0,185,2,557,null),
+  ('2025-10-19',6222,2099,4,18,0,177,0,0,145,2,432,null);
