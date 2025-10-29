@@ -341,4 +341,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-10-21',6224,2101,35,0,6,123,0,0,230,2,572,null),
   ('2025-10-22',6225,2102,20,0,0,230,0,0,195,1,361 /* 6h 45s */,'I had my dental cleaning on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-10-22-dental-cleaning.md for details.'),
   ('2025-10-23',6226,2103,114,0,0,42,0,0,193,1,643,null),
-  ('2025-10-24',6227,2104,131,0,0,26,0,0,275,1,686,null);
+  ('2025-10-24',6227,2104,131,0,0,26,0,0,275,1,686,null),
+  ('2025-10-25',null,2105,0,0,0,182,0,0,210,1,687,null),
+  ('2025-10-26',6228,2106,76,0,0,125,0,0,213,1,489,null);
