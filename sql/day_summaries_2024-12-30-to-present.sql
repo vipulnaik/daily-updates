@@ -359,4 +359,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-11-06',6239,2117,136,0,0,112,0,0,140,1,569,null),
   ('2025-11-07',null,2118,0,0,0,177,0,0,325,1,186,'On this day, I made a trip to San Francisco to get a DEXA scan and also get lunch with work colleagues. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-11-07-bodyspec-dexa-scan.md for documentation of the DEXA scan.'),
   ('2025-11-08',6240,2119,75,0,0,223,0,0,111,0,670,'On this day, I got a flu shot and spent time documenting stuff related to the flu shot as well as the previous day''s DEXA scan. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-11-08-flu-shot.md for documentation of the flu shot. As a result of the flu shot and documentation work, I ended up not doing any cyclic personal chores with long time block commitments.'),
-  ('2025-11-09',6241,2120,33,6,60,103,0,0,205,1,738,null);
+  ('2025-11-09',6241,2120,33,6,60,103,0,0,205,1,738,null),
+  /* Week of 2025-11-10 */
+  ('2025-11-10',6242,2121,297,0,10,38,0,0,100,1,608,null),
+  ('2025-11-11',6243,2122,164,0,0,50,0,0,150,0,758,'In the morning, I got a finger cut; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-11-11-right-index-finger-impact-against-bottom-of-kitchen-shelves.md for documentation. To reduce aggravation of the injured area, I ended up opting to not do another round of laundry as I had been planning to do, and instead spent more time doing stuff on the computer. It was also overall a somewhat slower and more delayed day due to the previous day being intense.'),
+  ('2025-11-12',6244,2123,76,0,0,66,0,0,158,0,640,'For various scheduling reasons, and due to a desire to return to a more normal sleep schedule, I decided to skip laundry, and therefore ended up not doing any cyclic personal chores with long time block commitments (I did make a Berkeley Bowl trip).');
