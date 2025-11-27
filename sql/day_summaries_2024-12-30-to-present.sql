@@ -355,4 +355,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-11-03 */
   ('2025-11-03',6236,2114,217,0,0,87,0,0,105,1,588,null),
   ('2025-11-04',6237,2115,68,0,0,93,0,0,170,2,419,null),
-  ('2025-11-05',6238,2116,63,0,0,97,0,0,175,1,642,null);
+  ('2025-11-05',6238,2116,63,0,0,97,0,0,175,1,642,null),
+  ('2025-11-06',6239,2117,136,0,0,112,0,0,140,1,569,null),
+  ('2025-11-07',null,2118,0,0,0,177,0,0,325,1,186,'On this day, I made a trip to San Francisco to get a DEXA scan and also get lunch with work colleagues. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-11-07-bodyspec-dexa-scan.md for documentation of the DEXA scan.'),
+  ('2025-11-08',6240,2119,75,0,0,223,0,0,111,0,670,'On this day, I got a flu shot and spent time documenting stuff related to the flu shot as well as the previous day''s DEXA scan. See https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-11-08-flu-shot.md for documentation of the flu shot. As a result of the flu shot and documentation work, I ended up not doing any cyclic personal chores with long time block commitments.'),
+  ('2025-11-09',6241,2120,33,6,60,103,0,0,205,1,738,null);
