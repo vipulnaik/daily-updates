@@ -363,4 +363,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-11-10 */
   ('2025-11-10',6242,2121,297,0,10,38,0,0,100,1,608,null),
   ('2025-11-11',6243,2122,164,0,0,50,0,0,150,0,758,'In the morning, I got a finger cut; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2025/2025-11-11-right-index-finger-impact-against-bottom-of-kitchen-shelves.md for documentation. To reduce aggravation of the injured area, I ended up opting to not do another round of laundry as I had been planning to do, and instead spent more time doing stuff on the computer. It was also overall a somewhat slower and more delayed day due to the previous day being intense.'),
-  ('2025-11-12',6244,2123,76,0,0,66,0,0,158,0,640,'For various scheduling reasons, and due to a desire to return to a more normal sleep schedule, I decided to skip laundry, and therefore ended up not doing any cyclic personal chores with long time block commitments (I did make a Berkeley Bowl trip).');
+  ('2025-11-12',6244,2123,76,0,0,66,0,0,158,0,640,'For various scheduling reasons, and due to a desire to return to a more normal sleep schedule, I decided to skip laundry, and therefore ended up not doing any cyclic personal chores with long time block commitments (I did make a Berkeley Bowl trip).'),
+  ('2025-11-13',6245,2124,102,0,0,62,0,0,250,2,574,null),
+  ('2025-11-14',6246,2125,64,0,0,209,0,0,163,1,682,null),
+  ('2025-11-15',6247,2126,27,60,10,79,5,0,68,0,592,'I had plans to go to Trader Joe''s for grocery shopping but a forecast of rain led me to cancel the plans. Therefore, I ended up doing no cyclic personal chores with long time block commitments.'),
+  ('2025-11-16',6248,2127,41,0,0,137,0,0,160,2,439,null);
