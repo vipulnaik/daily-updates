@@ -387,4 +387,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-12-01 */
   ('2025-12-01',6263,2142,185,6,0,23,0,0,89,1,538,null),
   ('2025-12-02',6264,2143,90,0,0,103,0,0,63,1,533,null),
-  ('2025-12-03',6265,2144,96,0,0,38,0,0,245,2,442,null);
+  ('2025-12-03',6265,2144,96,0,0,38,0,0,245,2,442,null),
+  ('2025-12-04',6266,2145,225,0,0,10,0,0,115,0,712,'I had been planning to do laundry as my cyclic personal chore with long time block commitment, but I ended up looking into a bunch of work stuff in the afternoon and missed my time window to do laundry.'),
+  ('2025-12-05',6267,2146,57,0,0,85,0,0,215,1,483,null),
+  ('2025-12-06',6268,2147,8,5,0,101,0,0,130,2,291,null),
+  ('2025-12-07',6269,2148,26,0,0,99,0,0,197,2,520,null);
