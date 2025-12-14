@@ -391,4 +391,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-12-04',6266,2145,225,0,0,10,0,0,115,0,712,'I had been planning to do laundry as my cyclic personal chore with long time block commitment, but I ended up looking into a bunch of work stuff in the afternoon and missed my time window to do laundry.'),
   ('2025-12-05',6267,2146,57,0,0,85,0,0,215,1,483,null),
   ('2025-12-06',6268,2147,8,5,0,101,0,0,130,2,291,null),
-  ('2025-12-07',6269,2148,26,0,0,99,0,0,197,2,520,null);
+  ('2025-12-07',6269,2148,26,0,0,99,0,0,197,2,520,null),
+  /* Week of 2025-12-08 */
+  ('2025-12-08',6270,2149,38,2,0,93,0,0,190,1,460,null),
+  ('2025-12-09',6271,2150,21,0,30,140,0,0,190,0,491,'In lieu of cyclic personal chores, I made a trip for a hybrid of one-off administrative work, a periodic task, and a package pickup. I also spent a lot of time in the morning and early afternoon on a catch-up conversation.'),
+  ('2025-12-10',6272,2151,2,0,105,113,0,0,151,1,614,null),
+  ('2025-12-11',6273,2152,119,0,0,71,0,0,139,1,558,null),
+  ('2025-12-12',6274,2153,108,0,0,67,0,0,185,1,588,null);
