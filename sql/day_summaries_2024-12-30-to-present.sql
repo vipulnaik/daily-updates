@@ -397,4 +397,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-12-09',6271,2150,21,0,30,140,0,0,190,0,491,'In lieu of cyclic personal chores, I made a trip for a hybrid of one-off administrative work, a periodic task, and a package pickup. I also spent a lot of time in the morning and early afternoon on a catch-up conversation.'),
   ('2025-12-10',6272,2151,2,0,105,113,0,0,151,1,614,null),
   ('2025-12-11',6273,2152,119,0,0,71,0,0,139,1,558,null),
-  ('2025-12-12',6274,2153,108,0,0,67,0,0,185,1,588,null);
+  ('2025-12-12',6274,2153,108,0,0,67,0,0,185,1,588,null),
+  ('2025-12-13',6275,2154,8,0,0,225,0,0,177,1,603,null),
+  ('2025-12-14',6276,2155,48,0,0,113,0,0,160,1,567,null);
