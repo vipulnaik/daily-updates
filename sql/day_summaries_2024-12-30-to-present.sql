@@ -407,4 +407,8 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-12-18',6280,2159,210,0,0,25,0,0,105,1,526,null),
   ('2025-12-19',6281,2160,8,0,0,146,0,0,95,0,524,'It rained in the afternoon, so I could not do laundry or make a Trader Joe''s trip in the afternoon. I did make a Berkeley Bowl trip in the early afternoon before the rain started.'),
   ('2025-12-20',null,2161,0,15,15,137,0,0,180,1,570,null),
-  ('2025-12-21',6282,2162,22,0,7,67,0,0,185,1,697,null);
+  ('2025-12-21',6282,2162,22,0,7,67,0,0,185,1,697,null),
+  /* Week of 2025-12-22 */
+  ('2025-12-22',6283,2163,34,0,0,191,0,0,148,2,384,null),
+  ('2025-12-23',6284,2164,145,0,0,21,0,0,155,0,672,'I had been planning to make a shopping trip to Trader Joe''s, but rain resumed in the late afternoon around the time I was planning to leave, so I had to cancel the plan.'),
+  ('2025-12-24',6285,2165,80,0,0,155,0,0,150,2,370,null);
