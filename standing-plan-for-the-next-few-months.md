@@ -477,7 +477,7 @@ caught up on it.
 
 ### Health stuff (likely picking things off slowly in Q1 2026 and then a a faster rate in Q2 2026)
 
-See [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/things-to-investigate.md).
+See [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/todo-list.md).
 
 ### Electronics stuff (likely Q2 2026 as Q1 it'll be harder to schedule due to winter crunch)
 
