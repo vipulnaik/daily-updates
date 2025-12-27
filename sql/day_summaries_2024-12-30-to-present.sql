@@ -411,4 +411,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-12-22 */
   ('2025-12-22',6283,2163,34,0,0,191,0,0,148,2,384,null),
   ('2025-12-23',6284,2164,145,0,0,21,0,0,155,0,672,'I had been planning to make a shopping trip to Trader Joe''s, but rain resumed in the late afternoon around the time I was planning to leave, so I had to cancel the plan.'),
-  ('2025-12-24',6285,2165,80,0,0,155,0,0,150,2,370,null);
+  ('2025-12-24',6285,2165,80,0,0,155,0,0,150,2,370,null),
+  ('2025-12-25',6286,2166,8,0,15,124,0,0,200,1,594,null),
+  ('2025-12-26',6287,2167,87,0,12,90,0,0,229,0,588,'It was raining during the day and all my pending cyclic personal chores involved outdoor trips, so I did not do any cyclic personal chore and instead focused on hands-on computer work and desk work that needed longer focused time.');
