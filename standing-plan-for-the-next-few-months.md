@@ -557,7 +557,7 @@ However, I do intend to put a lot of focus on this starting around Q1
 
 ## Timelines wiki work
 
-### Getting and staying on top of "Timelines I keep expanding regularly" (Q1 2026 and onward)
+### Getting and staying on top of "Timelines I keep expanding regularly" (Q1 2026 (around March) and onward)
 
 See
 [here](https://timelines.issarice.com/wiki/User:Vipul#Timelines_I_keep_expanding_regularly_.28or_at_least.2C_aim_to.21.29)
@@ -567,10 +567,11 @@ I made some progress on this in Q3 2024, but at some point switched
 focus to finishing the server migration work. Q4 2024 was a bit busy
 with stuff and I wasn't able to make as much progress as I would have
 liked. This is something that is not super-time-intensive (as of end
-of 2024, only one timeline is out of date) so I expect to be on top of
-this in Q1 2025 and going forward.
+of 2024, only one timeline is out of date) so I expected to be on top
+of this in Q1 2025 and going forward. However, 2025 was a rough year,
+so I am deferring this now to around March 2026.
 
-### Work that has synergies with DLW work, and resultant EA Forum posts in 2024 or later
+### Work that has synergies with DLW work, and resultant EA Forum posts in 2026 or later
 
 I want to work on a bunch of timelines in the timelines wiki that have
 synergies with the work I'm doing on DLW. While doing this, the
