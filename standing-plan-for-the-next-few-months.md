@@ -1,6 +1,6 @@
 # Standing plan for the next few months
 
-Last major update: March 27, 2025
+Last major update: December 27, 2025
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -138,9 +138,9 @@ solutions are as follows:
 
 ## Work situation
 
-### General plan outside of the special circumstances of Q1 and Q2 2025
+### General plan outside of the special circumstances of Q1 and Q2 2026
 
-Special circumstances apply to Q1 and Q2 2025. The description below
+Special circumstances apply to Q1 and Q2 2026. The description below
 applies to my steady state outside of those times.
 
 * I will be work-focused on Monday, Tuesday, and Thursday, though I
@@ -258,154 +258,72 @@ applies to my steady state outside of those times.
   * At most 13.5 hours average (67.5 hours total) across that week and the
     four preceding weeks
 
-### Adjusted schedule within Q1 and Q2 of 2025
+### Adjusted schedule for Q1 and Q2 of 2026
 
-Details still need to be worked on, as I don't have full clarity on
-the responsibilities and how hectic things will be. Here is my current
-plan.
+I plan to follow the principles outlined for the general schedule,
+with the only change being to the conditional minimum hours. I plan to
+reduce conditional minimum hours requirements by 2 hours per week for
+Q1 2026 and by 1 hour per week for Q2 2026. So the rewritten
+conditional minimum hours criterion is as follows:
 
-#### For the period until 2025-01-26
+* For Q1 2026, I aim to follow these *conditional minimum* weekly
+  targets: *at least one* of the following must be true:
 
-Everything remains the same as usual, with the exception that I lift
-the restrictions against doing work on Wednesdays, Fridays, and
-weekends. This is because it may be strategically wise to do work on
-the weekends to clear my plate of things ahead of the increased
-hours. Additional hours accumulated this way can also be used to
-smooth out / cancel against the increased hours requirements in future
-weeks.
+  * At least 5 hours in the week
 
-#### For the period from 2025-01-27 to 2025-03-15 (originally intended to go to 2025-04-20)
+  * At least 5 hours 10 minutes average (15 hours 30 minutes total)
+    across that week and the two preceding weeks
 
-UPDATE 2025-03-27: I originally intended to be up to 75% work hours
-until 2025-04-20; however, on 2025-03-14 I put in a request to end the
-increased work hours in mid-March and return to 50% work hours after
-that. While this was due to reasons partly related to the specifics of
-my workload, it was also influenced by challenges dealing with my
-backlog of stuff outside of my day job, and the realization that at a
-75% load I would not be able to make as much progress with the backlog
-as I should.
+  * At least 5 hours 20 minutes average (26 hours 40 minutes total)
+    across that week and the four preceding weeks
 
-* (no change from the usual) I will be work-focused on Monday,
-  Tuesday, and Thursday, though I might still take out time for
-  time-sensitive personal chores (including all cyclic personal
-  chores). I aim to spend at least 2 focused hours per day on average
-  over these three days; however, in many cases I may end up spending
-  way more than 2 hours on one of the days and less on others.
+  * At least 5 hours 30 hours average (38 hours 30 minutes total)
+    across that week and the six preceding weeks
 
-* (change on the LiftIgniter side of things) On Wednesday and Friday,
-  my focus within work will be on things related to LiftIgniter
-  customers and infrastructure. Outside of these, I will try to be
-  responsive on Slack and work email on Wednesday and Friday, but will
-  not be pursuing active work unless time-sensitive or necessary to
-  meet my hours obligations.
+  * At least 5 hours 40 minutes average (51 hours total) across that
+    week and the eight preceding weeks
 
-  UPDATE 2025-03-27: It turned out that I ended up largely treating
-  Wednesday and Friday as interchangeable with Monday, Tuesday, and
-  Thursday, partly because the nature of cyclic personal chores (that
-  had a higher frequency in the winter) made it hard to maintain a
-  discipline of inter-day differences.
+* For Q2 2026, I aim to follow these *conditional minimum* weekly
+  targets: *at least one* of the following must be true:
 
-* (change in terms of being more relaxed) For the weekends, while I
-  will aspire to follow the same rules as before, I'll be a bit looser
-  in terms of allowing myself to do work that I expect will put me in
-  a better position for coming weeks.
+  * At least 6 hours in the week
 
-* (thresholds multiplied by 1.5) I aim to follow these *absolute
-  minimum* weekly targets:
+  * At least 6 hours 10 minutes average (18 hours 30 minutes total)
+    across that week and the two preceding weeks
 
-  * At least 6 hours 45 minutes on weeks that I do not have any day
-    off of my three working days (either marked as PTO by me or a
-    company holiday)
+  * At least 6 hours 20 minutes average (31 hours 40 minutes total)
+    across that week and the four preceding weeks
 
-  * At least 4 hours 30 minutes on weeks that I have one day off of my
-    three working days (either marked as PTO by me or a company
-    holiday)
+  * At least 6 hours 30 hours average (45 hours 30 minutes total)
+    across that week and the six preceding weeks
 
-  * At least 2 hours 15 minutes on weeks that I have marked two days
-    off of my three working days (either marked as PTO by me or a
-    company holiday)
+  * At least 6 hours 40 minutes average (60 hours total) across that
+    week and the eight preceding weeks
 
-* (thresholds multiplied by 1.5 (approx)) I aim to follow these *conditional
-  minimum* weekly targets: *at least one* of the following must be
-  true:
+The motivation behind the slight reduction is that I significantly
+exceeded my work hours goals in Q3 and Q4 2025, and relatedly also
+built a backlog on several other fronts. Even if I were to adhere to
+the reduced thresholds in Q1 and Q2 2026, it will not *fully*
+compensate for the excess effort, but it will at least partially
+compensate. In practice, I expect I will exceed these thresholds by a
+decent margin, but psychologically, the reduced thresholds will at
+least allow me to reduce my work effort relative to a counterfactual
+where I have higher thresholds. A bunch of other strategic and
+tactical adjustments will be needed to my work stream to help
+effectively reduce my work effort, but these are beyond the scope of
+this document.
 
-  * At least 10.5 hours in the week
-
-  * At least 10.75 hours average (32.25 hours total) across that week
-    and the two preceding weeks
-
-  * At least 11 hours average (55 hours total) across that week and
-    the four preceding weeks
-
-  * At least 11.25 hours average (78.75 hours total) across that week
-    and the six preceding weeks
-
-  * At least 11.5 hours average (92 hours total) across that week and
-    the eight preceding weeks
-
-  * NOTE: Early on during this period, there will be weeks where the
-    prior 2, 4, 6, or 8 weeks (for the above conditions) will be
-    partly or fully before the period of increased hours. In such
-    cases, add 3.5 hours per week to the hours for those weeks when
-    doing the calculation. Similarly, when coming off this period,
-    subtract 3.5 hours per week when including weeks within this
-    period for a final week after this period.
-
-* (thresholds multiplied by 1.5 (approx)) I aim to follow these
-  *conditional maximum* weekly targets: *at least one* of the
-  following must be true:
-
-  * At most 21 hours in the week
-  * At most 20.75 hours average (62.25 hours total) across that week and
-    the two preceding weeks
-  * At most 20.5 hours average (102.5 hours total) across that week and the
-    four preceding weeks
-
-UPDATE 2025-03-27 (retrospective): Overall, it was much harder than
-anticipated for me to meet the minimum hour requirement for a 75% load
-across all weeks. This was partly due to an increase in cyclic
-personal chores load, and partly because some periodic tasks
-accumulated over time. It was easy to hit the 75% mark in some weeks,
-but doing so ended up deferring monthly, once-in-two-months, and
-quarterly tasks and these ended up bunching into other weeks, even
-with a little bit of strategic skipping of some tasks.
-
-#### For the period 2025-03-16 to 2025-06-15
-
-My tentative plan is to return to a target of a normal number of
-hours, with an increase of 15 minutes in all the weekly conditional
-minimum targets. The increase of 15 minutes is intended to make up for
-falling slightly below target during the 75% period. The increase of
-15 minutes should be relatively effortless and also aligns with the
-slight increase in workload when it comes to tasks that are somewhat
-time-sensitive.
-
-For instance, my one-week conditional minimum target will be 7 hours
-15 minutes instead of the usual 7 hours. My three-week conditional
-minimum average will be 7 hours 30 minutes instead of 7 hours 15
-minutes.
-
-I also plan to return to the normal practice of not working on
-weekends outside of a few special circumstances.
-
-While I will *somewhat* increase how distinctly I treat (Monday,
-Tuesday, Thursday) and (Wednesday, Friday), I'll continue to be a bit
-loose about the distinction until 2025-06-15, with a priority of
-trying to hit and surpass my conditional minimum hours early enough in
-the week and maximize freedom from work during the weekend. This will
-make it easier for me to build surplus hours in the weeks where I can,
-which will earn me more flexibility in other weeks. I expect that over
-time, as I build a solid surplus in hours and feel more caught up with
-work, I will return to being more free of work on Wednesday and
-Friday. But the priority to begin with is to reclaim the weekend.
-
-#### For the period 2025-06-16 onward
-
-I expect to return to full normalcy by this time.
+I might continue rolling the reductions over to future quarters if I
+am averaging over 8 hours per week.
 
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
-### General plan outside of the special circumstances of Q1 and Q2 2025
+### General plan going forward (starting the weeek of 2026-01-12)
+
+I'm giving myself until 2026-01-12 to get organized on various fronts
+and catch up with many minor backlogs, now that I have committed to
+reducing my hours on work. Starting the week of 2026-01-12, I plan to
+follow the below guidelines.
 
 * I aim to follow this *conditional minimum* target each week for
   personal projects; *at least one* of the following must be true:
@@ -418,10 +336,6 @@ I expect to return to full normalcy by this time.
     projects across that week and the six preceding weeks
   * At least 5 hours average (45 hours total) on personal projects
     across that week and the eight preceding weeks
-
-  These conditional minimum targets were suspended during my India
-  trip and for the first few weeks after returning from India. They
-  take effect again *starting the week of 2024-04-08*.
 
   The following are some situations where these targets may be
   suspended:
@@ -552,61 +466,32 @@ I expect to return to full normalcy by this time.
   feel that it's interfering with the mindshare I'd like to give to
   personal projects.
 
-### Adjusted schedule within Q1 and Q2 of 2025
-
-* I am completely pausing any conditional minimum for personal
-  projects until 2025-05-18. After that, I will likely introduce a
-  conditional minimum at about half the normal conditional minimum
-  level.
-
-  However, my goal is to continue to stay on top of personal projects
-  to the extent needed in terms of obligations and promises to others,
-  while also trying to limit the extent of such obligations.
-
-  UPDATE 2025-03-27: Even though I ended my increased hours (to 75%)
-  on 2025-03-15, instead of the planned 2025-04-20, I am continuing to
-  defer conditional minimums for personal projects, in fact extending
-  the deferral end date from 2025-04-20 to 2025-05-18. This is because
-  of a huge backlog in personal finances and personal chores tasks
-  built up over the period of the increaed load, with some of these
-  tasks being particularly time-sensitive. In practice, I do expect to
-  gingerly return to personal projects a little before the new
-  deferral end date of 2025-05-18.
-
-* I continue to maintain conditional maximum targets for personal
-  chores and personal finances.
-
-* I am abandoning restrictions on personal chores tasks for the
-  weekend. This will allow me to handle overflows to the weekend of
-  personal chores tasks, while also positioning me better to
-  proactively complete personal chores tasks sooner rather than later
-  in anticipation of hard-to-predict busyness at work.
-
 ## Chores to catch up on
 
-### Health stuff
+### Getting back on top of personal finances and contract work (by mid-January 2026)
 
-- [ ] Targeting for late Q2 / early Q3 2025: Get next round of blood tests done
-- [ ] Targeting for Q3 2025: Get DEXA scan done
-- [ ] Enter nutrition data for food items purchased recently for which I haven't entered nutrition data yet
-- [ ] Work on processing food_preparations_and_openings start and end date information to get a more accurate nutritional picture
-- [ ] Get flow rate incentive spirometer and start using it regularly (after initial practice in India)
-- Figure out next steps of strength training / explosive energy training strategy (I haven't yet decided whether to do this before or after the first DEXA scan)
-  - [ ] Creatine
-  - [ ] Other exercises with heavy weights
+I have been somewhat irregular with personal finances and contract
+work stuff, and my goal for until mid-January 2026 is to focus on
+being fully caught up on it. After that point, my goal is to stay
+caught up on it.
 
-### Electronics stuff
+### Health stuff (likely picking things off slowly in Q1 2026 and then a a faster rate in Q2 2026)
 
-- [ ] Targeting for late Q2 / early Q3 2025: Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
+See [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/things-to-investigate.md).
+
+### Electronics stuff (likely Q2 2026 as Q1 it'll be harder to schedule due to winter crunch)
+
+- [ ] Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
+- [ ] Do periodic electronics disposal (used non-rechargeable batteries, electric gadgets)
 
 ## Devops stuff
 
-#### MediaWiki upgrades (Q3 or Q4 of 2025)
+#### MediaWiki upgrades (Q2 2026)
 
-I should do a round of MediaWiki upgrades in Q1 or Q2 of 2025, and
-also make sure the upgrade process is as streamlined as possible.
+I should do a round of MediaWiki upgrades in Q2 of 2026, and also make
+sure the upgrade process is as streamlined as possible.
 
-### Digital will (likely Q4 2025)
+### Digital will (likely Q2 2026)
 
 After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
@@ -614,7 +499,7 @@ is more robust.
 
 ## Subwiki stuff
 
-### Editing of subwikis (Q2 2025 onward)
+### Editing of subwikis (Q1 2026 onward)
 
 I plan to do off-and-on editing of the following subwikis: learning,
 calculus, market, and cellbio. These wikis are all strategic:
@@ -644,7 +529,7 @@ I might also pick up more higher-math-wiki editing, covering wikis
 such as groupprops, topospaces, commalg, and diffgeom, but this is
 likely to come a little later.
 
-### Setting up additional subwikis starting Q2 2025 or so (deferred until after the server migration is complete)
+### Setting up additional subwikis starting Q2 2026 or so (deferred until after the server migration is complete)
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
@@ -656,40 +541,23 @@ While there may be more subwikis to add, I expect that the process
 will get streamlined more and more and the incremental effort of
 adding new subwikis will be low.
 
-## Food portal (likely Q2 2025)
+## Food portal (likely Q3 2026)
 
-I added a bunch of food purchases verification queries in Q1 2024; see
-[here](https://github.com/vipulnaik/diet-exercise-health/blob/master/python/food_purchases_verification_queries.py)
-for details. I continued working on these in Q2 and then also started
-recording food preparations and openings, and started building out
-associated verification queries, all as part of [issue
-7](https://github.com/vipulnaik/diet-exercise-health/issues/7).
+## Continuation of donations list website (DLW) starting Q1 2026
 
-The system of verification queries is working well for flagging
-short-run issues. However, it's still a little difficult to look at
-the data and understand longer-run trends. Since Q1 2025 is expected
-to be busy, my tentative plan is to slot the food portal work for Q2
-2025.
-
-## Continuation of donations list website (DLW) starting Q2 2025
-
-I resumed DLW data entry work to some extent in Q4 2023 and then
-paused it in Q1 2024 to focus on my India trip. I did a little bit of
-work in Q1 2024, then paused to focus on the server migration. With
-the server migration completed in Q4 2024, my attention was divided
-between several tasks for the rest of Q4, and then Q1 2025 is expected
-to be busy with work.
+I want to resume work on DLW in Q1 2026 after getting back on top of
+personal finances and contract work.
 
 While I have a lot to catch up with on DLW to begin with, I don't yet
 have a clear sense of what the steady-state ongoing work level will be
 once I have caught up.
 
-However, I do intend to put a lot of focus on this starting around Q2
-2025 and then moving forward.
+However, I do intend to put a lot of focus on this starting around Q1
+2026 and then moving forward.
 
 ## Timelines wiki work
 
-### Getting and staying on top of "Timelines I keep expanding regularly" (Q1 2025 and onward)
+### Getting and staying on top of "Timelines I keep expanding regularly" (Q1 2026 and onward)
 
 See
 [here](https://timelines.issarice.com/wiki/User:Vipul#Timelines_I_keep_expanding_regularly_.28or_at_least.2C_aim_to.21.29)
@@ -717,14 +585,6 @@ to then share with Sebastian and help inform his work as well. I also
 plan to make active efforts to articulate meta policies in
 collaboration with Issa and Sebastian.
 
-## Family and career planning work (planning to resume Q3 2025)
-
-I want to think systematically about plans for family and career. In
-Q4 2023 I started writing (private) notes documenting my thoughts on a
-variety of aspects of this. I'm planning to start picking this up more
-in Q3 2025, once my increased work has ended and I have picked my
-personal projects back up.
-
 ## More reading/learning around AI safety
 
 ### Collaboration on AI Watch with Issa
@@ -735,12 +595,17 @@ I will be discussing AI Watch further with Issa once Org Watch is caught up with
 
 This overlaps to some extent with timelines wiki work.
 
-### AI safety subwiki setup (Q2 2025 or later)
+### AI safety subwiki setup (Q2 2026 or later)
 
 I'll decide the details regarding this after the outcome of the AI
 Watch and timelines work.
 
 ## Getting out some blog posts and corresponding background work
+
+This has no timeline and I don't plan to get to it until I am caught
+up on other fronts. I am still keeping the list for historical
+reference and the off-chance that I end up picking these up at some
+point.
 
 ### Aligning my web server series
 
