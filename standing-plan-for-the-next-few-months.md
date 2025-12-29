@@ -2,6 +2,8 @@
 
 Last major update: December 27, 2025
 
+Last substantive minor update: December 29, 2025
+
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
 though possibly less frequently (once in 2 or 3 months is also
@@ -207,17 +209,24 @@ applies to my steady state outside of those times.
 
 * I aim to follow these *absolute minimum* weekly targets:
 
-  * At least 4 hours 30 minutes on weeks that I do not have any day
+  * At least 3 hours on weeks that I do not have any day
     off of my three working days (either marked as PTO by me or a
     company holiday)
 
-  * At least 3 hours on weeks that I have one day off of my
+  * At least 2 hours on weeks that I have one day off of my
     three working days (either marked as PTO by me or a company
     holiday)
 
-  * At least 1 hour 30 minutes on weeks that I have marked two days
-    off of my three working days (either marked as PTO by me or a
-    company holiday)
+  * At least 1 hour on weeks that I have marked two days off of my
+    three working days (either marked as PTO by me or a company
+    holiday)
+
+  The goal of these minimum hours requirements is to make sure I
+  maintain sufficient ongoing contact with work, and also continue to
+  be seen as doing work, even if there is no specific incoming work
+  that needs my attention. Beyond these minimums, the guiding factor
+  in terms of how much time I spend at work should be my conditional
+  minimum hours, described in the next point.
 
 * I aim to follow these *conditional minimum* weekly targets: *at
   least one* of the following must be true:
@@ -315,6 +324,52 @@ this document.
 
 I might continue rolling the reductions over to future quarters if I
 am averaging over 8 hours per week.
+
+### Guidance on the approach I should take through the week
+
+At the start of the week, I will have a target minimum number of hours
+to put in in the week. This will be the larger of the absolute minimum
+(which is at most 3 hours, but could be less due to holidays or marked
+time off) and the conditional minimum (which can vary based on how
+many hours I put in in previous weeks, but is at most 7 hours in
+general, and at most 5 hours in Q1 2026 and at most 6 hours in Q2
+2026). If I've been putting in a lot of hours in recent weeks, I'm
+very likely in a situation where the absolute minimum hours are the
+binding requirement.
+
+The approach I take balances several considerations. First, I want to
+generally protect my weekends from work outside of small tasks, as
+outlined in the preceding subsection. This means that I ideally want
+to have achieved my minimum hours requirements by Friday. This is an
+argument in favor of "wrapping up" my hours quickly.
+
+But I also don't want to put in too many hours early in the week and
+then end up having a time-sensitive task later in the week, causing me
+to significantly overshoot my required hours. This is an argument in
+favor of going slow early in the week.
+
+Here is an approach that balances these considerations:
+
+* If the absolute minimum hours are the binding constraint (this is
+  very likely going to be the dominant pattern in Q1 2026 given the
+  reduced conditional minimum hours): I should limit myself early in
+  the week to time-sensitive stuff, periodic tasks, and small things
+  that pop up organically. By around Thursday, if I have not hit the
+  absolute minimum hours, I should pick up one of my longer-term, more
+  complex projects on which I can spend 2 to 3 hours, and use that to
+  make up the shortfall. If I am still falling short (which is
+  unlikely), I should decide between picking another longer-term,
+  complex task and picking smaller tasks to make up the gap. The
+  decision will depend on how far short I am falling and the
+  availability of tasks.
+
+* If I have to put in substantially more hours (4 or more hours): If
+  there does not appear to be enough by way of time-sensitive work
+  early in the week, I should pick up an item from a longer-term,
+  complex project on which I can spend 2 to 3 hours early in the
+  week. I should then revisit around Thursday and potentially pick
+  another such item if I have not hit my hours. If I'm still falling
+  short, I may need to pick more smaller tasks.
 
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
