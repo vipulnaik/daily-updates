@@ -371,6 +371,18 @@ Here is an approach that balances these considerations:
   another such item if I have not hit my hours. If I'm still falling
   short, I may need to pick more smaller tasks.
 
+In order to reduce decision paralysis later on, and to make the time I
+do spend more efficient, what I can do on Monday is to make sure I
+have a longer-term, complex project teed up and have a set of bullet
+points of the things I hope to execute in that project. Then I can set
+a Slack reminder for Thursday (or Friday if Thursday is a holiday) to
+revisit that list. The list can be in the Slack message, or elsewhere
+but linked from it. As I proceed through the week, if I have further
+ideas, I should simply edit the list rather than be tempted to start
+executing. If I end up meeting my minimum hours through time-sensitive
+stuff, I can reuse the reminder for the next week if it makes sense
+(though I might switch priorities to another complex project).
+
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
 ### General plan going forward (starting the weeek of 2026-01-12)
