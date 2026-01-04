@@ -30,7 +30,7 @@ $quarterSummariesNotesResult = $mysqli -> query($quarterSummariesNotesQuery);
 $notesMap = [];
 for ($i = 0; $i < $quarterSummariesNotesResult -> num_rows; $i++) {
   $row = $quarterSummariesNotesResult -> fetch_assoc();
-  $notesMap[$row['year'] + ' Q' + $row['quarter']] = $row['notes'];
+  $notesMap[$row['year'].' Q'.$row['quarter']] = $row['notes'];
 }
 print '<h4 id="summariesByQuarter">Summaries by quarter ('.$quarterSummariesResult -> num_rows.' rows)</h4>';
 print "\n";
