@@ -33,7 +33,7 @@ for ($i = 0; $i < $monthSummariesNotesResult -> num_rows; $i++) {
   $notesMap[$row['month_start_date']] = $row['notes'];
 }
 
-print '<h4 id="summariesByMonth">Summaries by month ('.$monthSummariesNotesResult -> num_rows.' rows)</h4>';
+print '<h4 id="summariesByMonth">Summaries by month ('.$monthSummariesNotesResult -> num_rows.' rows excluding current month)</h4>';
 print "\n";
 print '<table id="myTableSummariesByMonth" class="tablesorter">'."\n";
 print "<thead>\n";

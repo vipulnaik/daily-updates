@@ -32,7 +32,7 @@ for ($i = 0; $i < $yearSummariesNotesResult -> num_rows; $i++) {
   $row = $yearSummariesNotesResult -> fetch_assoc();
   $notesMap[$row['year']] = $row['notes'];
 }
-print '<h4 id="summariesByYear">Summaries by year ('.$yearSummariesNotesResult -> num_rows.' rows)</h4>';
+print '<h4 id="summariesByYear">Summaries by year ('.$yearSummariesNotesResult -> num_rows.' rows excluding current year)</h4>';
 print "\n";
 print '<table id="myTableSummariesByYear" class="tablesorter">'."\n";
 print "<thead>\n";
