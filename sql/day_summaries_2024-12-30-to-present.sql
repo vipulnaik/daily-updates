@@ -415,4 +415,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-12-25',6286,2166,8,0,15,124,0,0,200,1,594,null),
   ('2025-12-26',6287,2167,87,0,12,90,0,0,229,0,588,'It was raining during the day and all my pending cyclic personal chores involved outdoor trips, so I did not do any cyclic personal chore and instead focused on hands-on computer work and desk work that needed longer focused time.'),
   ('2025-12-27',6288,2168,30,0,15,89,0,0,240,0,564,'In lieu of cyclic personal chores, I made a trip to Walgreens that ended up taking a lot more time than anticipated (for the positive reason that I got more done than I had hoped to do). I also did some house cleaning work in the evening instead of doing laundry, since it was a better fit given how cold it was outdoors and given that I wanted to do something that was more time-bound so as not to sleep too late.'),
-  ('2025-12-28',6289,2169,44,0,0,50,1,0,190,2,464,'This day was packed with cyclic personal chores; in addition to doing two with long time block commitments, I also did a Berkeley Bowl trip.');
+  ('2025-12-28',6289,2169,44,0,0,50,1,0,190,2,464,'This day was packed with cyclic personal chores; in addition to doing two with long time block commitments, I also did a Berkeley Bowl trip.'),
+  /* Week of 2025-12-29 */
+  ('2025-12-29',6290,2170,6,0,0,145,0,0,185,2,329,null),
+  ('2025-12-30',null,2171,0,0,0,118,0,0,155,2,366,null),
+  ('2025-12-31',6291,2172,211,0,30,8,0,0,123,0,577,'It was raining on this day so I could not do any cyclic personal chores involving outdoor activity, and I didn''t have any due that were purely indoors (i.e., I didn''t have any cooking tasks due). So I did not do any cyclic personal chores.'),
+  ('2026-01-01',6292,2173,18,0,0,95,0,0,300,2,487,null),
+  ('2026-01-02',6293,2174,22,0,0,160,0,0,158,1,408,null);
