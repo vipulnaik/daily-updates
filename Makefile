@@ -16,6 +16,7 @@ reset:
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists day_summaries;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists week_summaries;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists month_summaries;"
+	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists quarter_summaries;"
 	mysql $(MYSQL_ARGS) $(DATABASE) -e "drop table if exists year_summaries;"
 
 
@@ -29,6 +30,7 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/day_summaries_2024-12-30-to-present.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/week_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/month_summaries.sql
+	mysql $(MYSQL_ARGS) $(DATABASE) < sql/quarter_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/year_summaries.sql
 	python3 python/day_summaries_verification_queries.py
 
