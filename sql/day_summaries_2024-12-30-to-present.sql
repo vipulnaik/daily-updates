@@ -421,4 +421,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-12-30',null,2171,0,0,0,118,0,0,155,2,366,null),
   ('2025-12-31',6291,2172,211,0,30,8,0,0,123,0,577,'It was raining on this day so I could not do any cyclic personal chores involving outdoor activity, and I didn''t have any due that were purely indoors (i.e., I didn''t have any cooking tasks due). So I did not do any cyclic personal chores.'),
   ('2026-01-01',6292,2173,18,0,0,95,0,0,300,2,487,null),
-  ('2026-01-02',6293,2174,22,0,0,160,0,0,158,1,408,null);
+  ('2026-01-02',6293,2174,22,0,0,160,0,0,158,1,408,null),
+  ('2026-01-03',6294,2175,4,5,10,149,0,0,138,0,
+  ('2026-01-04',6295,2176,2,5,6,145,0,0,191,1,
