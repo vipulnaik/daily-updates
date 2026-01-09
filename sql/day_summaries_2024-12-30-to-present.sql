@@ -423,4 +423,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-01-01',6292,2173,18,0,0,95,0,0,300,2,487,null),
   ('2026-01-02',6293,2174,22,0,0,160,0,0,158,1,408,null),
   ('2026-01-03',6294,2175,4,5,10,149,0,0,138,0,620,'It was raining on this day so I could not not do any cyclic personal chores involving outdoor activity, and I didn''t have any due that were purely indoors (i.e., I didn''t have any cooking tasks due). So I did not do any cyclic personal chores.'),
-  ('2026-01-04',6295,2176,2,5,6,145,0,0,191,1,502,null);
+  ('2026-01-04',6295,2176,2,5,6,145,0,0,191,1,502,null),
+  /* Week of 2026-01-05 */
+  ('2026-01-05',6296,2177,106,45,3,0,3,0,225,1,606,null),
+  ('2026-01-06',6297,2178,63,60,11,23,0,0,125,1,557,null),
+  ('2026-01-07',6298,2179,127,65,10,54,0,0,125,1,521,'The cyclic personal chore with long time block commitment was a combined Whole Foods / Berkeley Bowl trip. The Berkeley Bowl trip alone does not qualify to be considered as a long time block commitment, but the combined trip does.'),
+  ('2026-01-08',6299,2180,30,148,30,50,0,0,188,1,765,null);
