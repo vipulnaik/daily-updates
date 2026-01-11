@@ -1,5 +1,9 @@
-# Written by Claude Sonnet 4.5 over an hour with close and
-# extensive spec guidance from me
+# Written by Claude Sonnet 4.5 over a one-hour session
+# plus a later brief conversation with close and
+# extensive spec guidance from me; I validated against test data
+# of my own plus several daily update issues that I had already computed;
+# I needed to correct a couple of small bugs that it introduced
+# near the end
 import re
 import sys
 
@@ -297,6 +301,38 @@ def extract_metadata(filepath):
 
     return date, number, warnings
 
+def count_ltbc_items(text):
+    """
+    Count LTBC items in Personal chores section.
+    LTBC items are checked boxes in 'Cooking and food purchases' or 'Laundry' subsections
+    that don't contain 'NOT LTBC'.
+    Returns tuple: (count, warning)
+    """
+    sections, _ = split_into_sections(text)
+
+    if "Personal chores" not in sections:
+        return 0, None
+
+    personal_chores_text = sections["Personal chores"]
+    lines = personal_chores_text.split('\n')
+
+    count = 0
+    current_subsection = None
+
+    for line in lines:
+        if line.startswith('### '):
+            current_subsection = line[4:].strip()
+        elif line.strip().startswith('- [x] '):
+            if current_subsection in ['Cooking and food purchases', 'Laundry']:
+                if 'NOT LTBC' not in line:
+                    count += 1
+
+    warning = None
+    if count > 2:
+        warning = f"WARNING: LTBC count is {count} (expected 0, 1, or 2)"
+
+    return count, warning
+
 def get_file_content_after_metadata(filepath):
     """
     Get the file content after the metadata lines (skip first 9 lines).
@@ -335,6 +371,10 @@ if __name__ == "__main__":
     personal_content = get_file_content_after_metadata(personal_file)
     personal_totals = process_daily_update_sectioned_return_totals(personal_content)
 
+    ltbc_count, ltbc_warning = count_ltbc_items(personal_content)
+    if ltbc_warning:
+        print(f"\n{ltbc_warning}")
+
     print(f"\n=== FINAL ROW ===")
     personal_tuple_str = ','.join(map(str, personal_totals))
-    print(f"'{work_date}',{work_number},{personal_number},{work_total},{personal_tuple_str}")
+    print(f"'{work_date}',{work_number},{personal_number},{work_total},{personal_tuple_str},{ltbc_count}")
