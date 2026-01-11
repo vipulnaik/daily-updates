@@ -3,7 +3,8 @@
 # extensive spec guidance from me; I validated against test data
 # of my own plus several daily update issues that I had already computed;
 # I needed to correct a couple of small bugs that it introduced
-# near the end
+# near the end;
+# Edits 2026-01-11 onward are by me without using Claude Sonnet 4.5
 import re
 import sys
 
