@@ -188,8 +188,6 @@ def process_daily_update_sectioned_return_totals(text):
         print()
 
     totals = [section_results[section][1] for section in expected_sections]
-    print("Summary tuple:")
-    print(','.join(map(str, totals)))
 
     return totals
 
