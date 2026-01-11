@@ -278,6 +278,8 @@ def extract_metadata(filepath):
     Extract metadata from the daily update file.
     Returns tuple: (date, number, warnings)
     """
+    if 'null' in filepath:
+        return None, 'null', []
     with open(filepath, 'r') as f:
         lines = f.readlines()
 
@@ -354,7 +356,7 @@ if __name__ == "__main__":
     work_date, work_number, work_warnings = extract_metadata(work_file)
     personal_date, personal_number, personal_warnings = extract_metadata(personal_file)
 
-    if work_date != personal_date:
+    if work_date != None and work_date != personal_date:
         print(f"WARNING: Dates don't match - work: {work_date}, personal: {personal_date}")
 
     for warning in work_warnings + personal_warnings:
@@ -364,8 +366,12 @@ if __name__ == "__main__":
         print()
 
     print("=== WORK (UNSECTIONED) ===")
-    work_content = get_file_content_after_metadata(work_file)
-    work_total = process_daily_update_unsectioned_return_total(work_content)
+    if 'null' in work_file:
+        print("No work issue, so total is 0 minutes")
+        work_total = 0
+    else:
+        work_content = get_file_content_after_metadata(work_file)
+        work_total = process_daily_update_unsectioned_return_total(work_content)
 
     print("\n=== PERSONAL (SECTIONED) ===")
     personal_content = get_file_content_after_metadata(personal_file)
@@ -377,4 +383,4 @@ if __name__ == "__main__":
 
     print(f"\n=== FINAL ROW ===")
     personal_tuple_str = ','.join(map(str, personal_totals))
-    print(f"'{work_date}',{work_number},{personal_number},{work_total},{personal_tuple_str},{ltbc_count}")
+    print(f"'{personal_date}',{work_number},{personal_number},{work_total},{personal_tuple_str},{ltbc_count}")
