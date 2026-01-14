@@ -428,4 +428,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-01-05',6296,2177,106,45,3,0,3,0,225,1,606,null),
   ('2026-01-06',6297,2178,63,60,11,23,0,0,125,1,557,null),
   ('2026-01-07',6298,2179,127,65,10,54,0,0,125,1,521,'The cyclic personal chore with long time block commitment was a combined Whole Foods / Berkeley Bowl trip. The Berkeley Bowl trip alone does not qualify to be considered as a long time block commitment, but the combined trip does.'),
-  ('2026-01-08',6299,2180,30,148,30,50,0,0,188,1,765,null);
+  ('2026-01-08',6299,2180,30,148,30,50,0,0,188,1,765,null),
+  ('2026-01-09',6300,2181,51,25,0,69,0,0,180,1,582,null),
+  ('2026-01-10',null,2182,0,10,0,250,0,0,150,1,385,'I got a COVID vaccine booster dose on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2026/2026-01-10-pfizer-covid-vaccine-updated-booster-dose.md for details.'),
+  ('2026-01-11',6301,2183,55,25,0,82,0,0,155,1,545,null);
