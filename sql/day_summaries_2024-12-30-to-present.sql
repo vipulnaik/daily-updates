@@ -444,4 +444,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-01-19',6309,2191,32,0,0,110,0,0,185,1,420,null),
   ('2026-01-20',6310,2192,55,5,1,125,0,0,170,1,617,null),
   ('2026-01-21',6311,2193,56,0,0,199,0,0,95,1,578,null),
-  ('2026-01-22',6312,2194,83,130,0,64,0,0,78,1,518,null);
+  ('2026-01-22',6312,2194,83,130,0,64,0,0,78,1,518,null),
+  ('2026-01-23',6313,2195,85,25,0,70,65,0,100,1,544,null),
+  ('2026-01-24',6314,2196,10,20,85,39,0,0,180,1,634,null),
+  ('2026-01-25',6315,2197,18,20,0,85,0,0,131,0,545,'I ended up doing no cyclic personal chores with long time block commitments on this day. I was thinking of doing laundry, but I ended up missing good time windows to do it, and I did want to prioritize administrative work that was necessary for a planned trip the next day.');
