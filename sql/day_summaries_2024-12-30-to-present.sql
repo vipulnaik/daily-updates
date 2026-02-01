@@ -447,4 +447,10 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-01-22',6312,2194,83,130,0,64,0,0,78,1,518,null),
   ('2026-01-23',6313,2195,85,25,0,70,65,0,100,1,544,null),
   ('2026-01-24',6314,2196,10,20,85,39,0,0,180,1,634,null),
-  ('2026-01-25',6315,2197,18,20,0,85,0,0,131,0,545,'I ended up doing no cyclic personal chores with long time block commitments on this day. I was thinking of doing laundry, but I ended up missing good time windows to do it, and I did want to prioritize administrative work that was necessary for a planned trip the next day.');
+  ('2026-01-25',6315,2197,18,20,0,85,0,0,131,0,545,'I ended up doing no cyclic personal chores with long time block commitments on this day. I was thinking of doing laundry, but I ended up missing good time windows to do it, and I did want to prioritize administrative work that was necessary for a planned trip the next day.'),
+  /* Week of 2026-01-26 */
+  ('2026-01-26',6316,2198,5,5,8,193,1,0,68,1,509,null),
+  ('2026-01-27',6317,2199,7,0,0,40,0,0,245,1,638,null),
+  ('2026-01-28',6318,2200,4,0,2,90,0,0,133,1,440,null),
+  ('2026-01-29',6319,2201,128,60,0,85,0,0,110,1,472,null),
+  ('2026-01-30',6320,2202,73,30,20,77,0,0,160,1,503,null);
