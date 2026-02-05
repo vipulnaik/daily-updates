@@ -453,4 +453,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-01-27',6317,2199,7,0,0,40,0,0,245,1,638,null),
   ('2026-01-28',6318,2200,4,0,2,90,0,0,133,1,440,null),
   ('2026-01-29',6319,2201,128,60,0,85,0,0,110,1,472,null),
-  ('2026-01-30',6320,2202,73,30,20,77,0,0,160,1,503,null);
+  ('2026-01-30',6320,2202,73,30,20,77,0,0,160,1,503,null),
+  ('2026-01-31',null,2203,0,75,0,15,0,0,218,1,584,null),
+  ('2026-02-01',6321,2204,83,10,0,117,0,0,55,1,415,'On this day, I felt I had achieved a degree of cognitive saturation with using post-meal cleanup time to listen to cognitively challenging content (such as podcasts). So I tried something different with my second meal: I put on a Korean drama (Descendants of the Sun) that I had watched previously (and rewatched several portions of) while I was doing dishes. I did have the option of glancing over at the screen from a distance, but I would need to interrupt my flow to get close enough to read subtitles. My hope was that in addition to entertainment value, this would also help sharpen my Korean as I could no longer rely on subtitles and detailed visual cues and needed to understand based on a mix of the audio, approximate visual cues, and my memory of the storyline. Since I don''t count such entertainment time in my daily updates, my total accounted-for time was lower on this day, and I expect in general that my time in the other activities bucket and my total accounted-for time will be lower in the coming weeks as I continue this practice.');
