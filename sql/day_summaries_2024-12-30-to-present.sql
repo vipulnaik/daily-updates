@@ -461,4 +461,6 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-02-03',6323,2206,147,75,0,37,0,0,45,1,634,null),
   ('2026-02-04',6324,2207,79,30,2,58,0,0,70,1,667,null),
   ('2026-02-05',6325,2208,197,61,0,13,0,0,80,0,790,'This was a busy day at work, with a planned work meeting ending up splitting into two meetings and taking a long time. As a result of this and other delays, I wasn''t able to fit in a cyclic personal chore with long time block commitment.'),
-  ('2026-02-06',6326,2209,126,0,0,60,0,0,40,1,564,null);
+  ('2026-02-06',6326,2209,126,0,0,60,0,0,40,1,564,null),
+  ('2026-02-07',6327,2210,55,0,0,78,0,0,140,2,365,null),
+  ('2026-02-08',6328,2211,23,0,0,31,0,0,100,1,559,'This was a very short day (about 13.5 hours from waking up to going to sleep) and this explains the low number of accounted-for hours. The reason is that I woke up fairly late, after having a slight sleep backlog, feeling a little unwell, and having a very long day on Saturday due to personal chores bunched up from the week.');
