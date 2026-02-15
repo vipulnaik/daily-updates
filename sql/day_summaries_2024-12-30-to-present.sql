@@ -463,4 +463,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-02-05',6325,2208,197,61,0,13,0,0,80,0,790,'This was a busy day at work, with a planned work meeting ending up splitting into two meetings and taking a long time. As a result of this and other delays, I wasn''t able to fit in a cyclic personal chore with long time block commitment.'),
   ('2026-02-06',6326,2209,126,0,0,60,0,0,40,1,564,null),
   ('2026-02-07',6327,2210,55,0,0,78,0,0,140,2,365,null),
-  ('2026-02-08',6328,2211,23,0,0,31,0,0,100,1,559,'This was a very short day (about 13.5 hours from waking up to going to sleep) and this explains the low number of accounted-for hours. The reason is that I woke up fairly late, after having a slight sleep backlog, feeling a little unwell, and having a very long day on Saturday due to personal chores bunched up from the week.');
+  ('2026-02-08',6328,2211,23,0,0,31,0,0,100,1,559,'This was a very short day (about 13.5 hours from waking up to going to sleep) and this explains the low number of accounted-for hours. The reason is that I woke up fairly late, after having a slight sleep backlog, feeling a little unwell, and having a very long day on Saturday due to personal chores bunched up from the week.'),
+  /* Week of 2026-02-09 */
+  ('2026-02-09',6329,2212,31,0,0,102,0,0,70,1,487,null),
+  ('2026-02-10',6330,2213,20,0,0,104,0,0,140,1,454,null),
+  ('2026-02-11',6332,2214,59,0,90,80,16,0,76,0,781,'Due to circumstances beyond my control, I was not able to do cyclic personal chores and also ended up staying up till fairly late. On the plus side, I got a lot of hands-on computer time.'),
+  ('2026-02-12',6333,2215,15,2,30,47,0,0,169,2,453,null);
