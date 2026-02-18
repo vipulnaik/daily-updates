@@ -468,4 +468,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-02-09',6329,2212,31,0,0,102,0,0,70,1,487,null),
   ('2026-02-10',6330,2213,20,0,0,104,0,0,140,1,454,null),
   ('2026-02-11',6332,2214,59,0,90,80,16,0,76,0,781,'Due to circumstances beyond my control, I was not able to do cyclic personal chores and also ended up staying up till fairly late. On the plus side, I got a lot of hands-on computer time.'),
-  ('2026-02-12',6333,2215,15,2,30,47,0,0,169,2,453,null);
+  ('2026-02-12',6333,2215,15,2,30,47,0,0,169,2,453,null),
+  ('2026-02-13',6334,2216,14,1,1,79,0,0,148,0,438,'I made an administrative trip in the afternoon and later had a lengthy weekly conversation with my mother in the evening, and as a result, I did not have time for any cyclic personal chores with long time block commitments. On the plus side, I did get toiletries from Walgreens on the way back from my administrative trip.'),
+  ('2026-02-14',6335,2217,2,0,0,145,0,0,188,1,387,'I met a few people (including former work colleagues) in the afternoon. My intention had been to do two cyclic personal chores with long time block commitments: grocery shopping from Trader Joe''s and laundry. While I was able to do the former, I couldn''t do the latter within my desired time window because the laundry machine was in use.'),
+  ('2026-02-15',6336,2218,66,0,0,175,0,0,103,1,533,null);
