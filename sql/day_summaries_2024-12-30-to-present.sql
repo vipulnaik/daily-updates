@@ -479,4 +479,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-02-19',6340,2222,169,0,0,15,0,0,267,0,752,'I had intended to do laundry on this day, but I ended up having a lengthy one-off conversation and missed the time window to do laundry. I also didn''t want to go to sleep too late because of a work meeting the next day, so I decided to defer laundry to the next day. As a result, I ended up not doing any cyclic personal chores with long time block commitments.'),
   ('2026-02-20',6341,2223,22,2,0,79,30,0,173,0,544,'I had been planning to do laundry on this day, but failed because the laundry room was occupied. I did make a Berkeley Bowl trip earlier in the day, but that doesn''t count as a cyclic personal chore with long time block commitment. As a result, I ended up having no cyclic personal chores with long time block commitments on this day.'),
   ('2026-02-21',6342,2224,65,30,0,69,8,0,130,3,509,'Having gone four days without any cyclic personal chores with long time block commitments, I had a huge backlog of these, so I ended up squeezing three of these in a single day.'),
-  ('2026-02-22',6343,2225,5,0,8,150,0,0,50,2,345,null);
+  ('2026-02-22',6343,2225,5,0,8,150,0,0,50,2,345,null),
+  /* Week of 2026-02-23 */
+  ('2026-02-23',6344,2226,23,0,20,35,42,0,110,0,686,'I had originally been planning to go grocery shopping in the evening, but an increase in the probability of rain led me to cancel the plan. Since shopping and laundry were my only two candidate cyclic personal chores with long time block commitments, and both were affected by the rain, I ended up doing no cyclic personal chores with long time block commitments.'),
+  ('2026-02-24',6345,2227,121,0,0,32,0,0,110,2,552,null),
+  ('2026-02-25',6346,2228,76,0,2,60,0,0,195,1,636,null),
+  ('2026-02-26',6347,2229,81,0,0,71,0,0,35,1,546,null);
