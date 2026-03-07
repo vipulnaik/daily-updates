@@ -484,4 +484,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-02-23',6344,2226,23,0,20,35,42,0,110,0,686,'I had originally been planning to go grocery shopping in the evening, but an increase in the probability of rain led me to cancel the plan. Since shopping and laundry were my only two candidate cyclic personal chores with long time block commitments, and both were affected by the rain, I ended up doing no cyclic personal chores with long time block commitments.'),
   ('2026-02-24',6345,2227,121,0,0,32,0,0,110,2,552,null),
   ('2026-02-25',6346,2228,76,0,2,60,0,0,195,1,636,null),
-  ('2026-02-26',6347,2229,81,0,0,71,0,0,35,1,546,null);
+  ('2026-02-26',6347,2229,81,0,0,71,0,0,35,1,546,null),
+  ('2026-02-27',6348,2230,131,0,0,89,0,0,215,1,478,null),
+  ('2026-02-28',6349,2231,63,0,0,114,0,0,65,2,554,null),
+  ('2026-03-01',6350,2232,147,0,0,70,1,0,25,1,582,null);
