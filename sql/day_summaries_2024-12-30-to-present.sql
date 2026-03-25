@@ -495,4 +495,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-03-05',6354,2236,151,0,0,96,0,0,115,1,481,null),
   ('2026-03-06',6355,2237,132,0,92,9,0,0,95,0,657,'On this day I deliberately opted against cyclic personal chores; I had the option to do laundry, but it was not quite a full load. I also wanted to get more hands-on computer time to make progress on day job stuff.'),
   ('2026-03-07',6356,2238,144,40,15,44,0,0,120,1,720,null),
-  ('2026-03-08',6357,2239,122,0,0,45,0,0,238,1,517,null);
+  ('2026-03-08',6357,2239,122,0,0,45,0,0,238,1,517,null),
+  /* Week of 2026-03-09 */
+  ('2026-03-09',6358,2240,127,0,0,53,0,0,100,1,672,null),
+  ('2026-03-10',6359,2241,12,0,0,79,0,0,215,1,460,null),
+  ('2026-03-11',6360,2242,145,0,0,77,0,0,207,1,547,null),
+  ('2026-03-12',6361,2243,185,0,18,27,0,0,140,1,833,null);
