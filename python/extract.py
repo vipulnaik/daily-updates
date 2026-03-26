@@ -13,9 +13,12 @@ def extract_time_from_line(line):
     Extract time information from a checked box line.
     Returns tuple: (minutes, warning_message)
     """
+    warning = None
     match = re.match(r'^- \[x\]\s*([^:]+):', line)
     if not match:
-        return 0, None
+        if re.match(r'^- \[x\]', line):
+            warning = f"WARNING: Checkbox line without colon: {line.strip()}"
+        return 0, warning
 
     time_expr = match.group(1).strip()
 
@@ -35,7 +38,6 @@ def extract_time_from_line(line):
     if minute_match:
         minutes = int(minute_match.group(1))
 
-    warning = None
     if hours >= 4:
         warning = f"WARNING: Hours >= 4 in line: {line.strip()}"
     if minutes >= 60:
