@@ -508,4 +508,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-03-16',6363,2247,144,0,0,27,0,0,105,1,695,null),
   ('2026-03-17',6364,2248,23,5,0,129,0,0,5,1,570,null),
   ('2026-03-18',6365,2249,10,0,0,282,0,0,38,2,374,null),
-  ('2026-03-19',6366,2250,148,0,0,187,0,0,70,1,685,null);
+  ('2026-03-19',6366,2250,148,0,0,187,0,0,70,1,685,null),
+  ('2026-03-20',null,2251,0,0,1,231,0,0,155,1,569,null),
+  ('2026-03-21',null,2252,0,0,10,154,0,0,102,0,666,'The lack of cyclic personal chores with long time block commitments deserves explanation. A Trader Joe''s trip and regular laundry were both possibilities, but I ended up getting sufficiently delayed in the evening and missing the time window to comfortably fit either. The Trader Joe''s trip could not be fit because of the store''s closing time; doing laundry would have pushed my sleeping time too late and I wanted to keep my sleeping time healthy so as not to be too off prior to Monday''s administrative trip. I knew I had the option of doing two cyclic personal chores with long time block commitments the next day instead, and that''s what I opted for.'),
+  ('2026-03-22',null,2253,0,0,15,283,0,0,115,2,425,null);
