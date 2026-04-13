@@ -524,4 +524,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-03-30',6373,2261,61,0,95,98,0,0,14,0,724,'I got fairly delayed with my first meal, and I wanted to make progress on tax stuff after that, so I did not hav enough of a time window to do laundry as I had hoped to do. I therefore ended up doing no cyclic personal chores with long time block commitment.'),
   ('2026-03-31',6374,2262,53,0,80,92,0,0,25,0,646,'The situation was very similar to the previous day: I got fairly delayed with my first meal, and I wanted to make progress on tax stuff after that, so I did not hav enough of a time window to do laundry as I had hoped to do. I therefore ended up doing no cyclic personal chores with long time block commitment. The only slight difference worth noting is that I did make a trip to Berkeley Bowl in the early afternoon, which is a cyclic personal chore albeit not one with long time block commitment.'),
   ('2026-04-01',6375,2263,54,2,10,136,5,0,5,1,655,null),
-  ('2026-04-02',6376,2264,68,0,0,160,8,0,20,2,536,null);
+  ('2026-04-02',6376,2264,68,0,0,160,8,0,20,2,536,null),
+  ('2026-04-03',null,2265,0,0,5,145,0,0,77,1,578,null),
+  ('2026-04-04',null,2266,0,0,83,184,0,0,0,1,625,null),
+  ('2026-04-05',6377,2267,1,2,0,266,0,0,45,2,499,null);
