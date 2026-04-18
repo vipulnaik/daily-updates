@@ -532,4 +532,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-04-06',6378,2268,23,0,5,130,5,0,15,1,661,null),
   ('2026-04-07',6379,2269,10,0,0,207,0,0,40,1,484,null),
   ('2026-04-08',6380,2270,62,0,0,224,0,0,9,1,598,null),
-  ('2026-04-09',6381,2271,116,0,0,185,0,0,15,1,631,null);
+  ('2026-04-09',6381,2271,116,0,0,185,0,0,15,1,631,null),
+  ('2026-04-10',6382,2272,35,0,16,229,0,0,8,1,627,null),
+  ('2026-04-11',6383,2273,31,0,0,119,0,0,71,0,661,'It was raining on this day and the cyclic personal chores with long time block commitment that I had to do next all involved outside trips, so I skipped doing cyclic personal chores with long time block commitment.'),
+  ('2026-04-12',6384,2274,43,10,2,132,0,0,4,0,620,'It was raining for most of the day and the cyclic personal chores with long time block commitment that I had to do next all involved outside trips, so I skipped doing cyclic personal chores with long time block commitment. The rain did stop briefly in the evening, but the period of stoppage was brief and uncertain, so I fit in a Walgreens trip (which has a shorter time commitment) instead of doing a cyclic personal chore with long time block commitment.');
