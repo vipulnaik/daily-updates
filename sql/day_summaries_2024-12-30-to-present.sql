@@ -540,4 +540,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-04-13',6386,2275,28,0,0,270,0,0,19,2,366,null),
   ('2026-04-14',6387,2276,37,4,6,214,0,0,9,2,681,null),
   ('2026-04-15',6388,2277,194,30,3,78,0,0,24,1,678,null),
-  ('2026-04-16',6389,2278,50,28,0,50,0,0,176,1,597,null);
+  ('2026-04-16',6389,2278,50,28,0,50,0,0,176,1,597,null),
+  ('2026-04-17',6390,2279,127,0,0,109,4,0,18,0,600,'I was considering laundry, but got delayed with stuff during the day and did not want to stay up too late, so I decided to skip doing laundry. Therefore, I ended up not doing any cyclic personal chores with long time block commitment.'),
+  ('2026-04-18',6391,2280,56,0,0,133,5,0,178,2,649,null),
+  ('2026-04-19',6392,2281,150,80,0,150,0,0,77,1,555,null);
