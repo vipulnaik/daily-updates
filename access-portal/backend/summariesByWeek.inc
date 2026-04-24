@@ -51,7 +51,7 @@ print '<th>Time spent on personal chores</th>';
 print '<th>Time spent on house chores</th>';
 print '<th>Time spent on family and career planning</th>';
 print '<th>Time spent on other activities</th>';
-print '<th>Number of cyclic personal chores with long time block commitments</th>';
+print '<th>Number of cyclic personal chores with long time block commitment</th>';
 print '<th>Total screen minutes (excluding screen time during meals)</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
