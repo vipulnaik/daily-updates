@@ -551,4 +551,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-04-23',6397,2285,67,0,0,151,3,10,30,1,648,null),
   ('2026-04-24',6398,2286,55,30,0,95,0,50,174,2,376,null),
   ('2026-04-25',null,2287,0,118,3,83,0,0,76,1,593,null),
-  ('2026-04-26',null,2288,0,235,2,51,0,0,57,1,702,null);
+  ('2026-04-26',null,2288,0,235,2,51,0,0,57,1,702,null),
+  /* Week of 2026-04-27 */
+  ('2026-04-27',6399,2289,78,52,0,78,0,10,86,1,625,null),
+  ('2026-04-28',6401,2290,257,0,0,30,0,35,34,0,697,'I ended up spending a long chunk of time in the afternoon and evening on a work investigation, and as a result, I did not get time to do any cyclic personal chores with long time block commitments (I had been thinking of making a Trader Joe''s trip).'),
+  ('2026-04-29',6402,2291,25,5,0,215,0,55,106,2,495,null),
+  ('2026-04-30',6403,2292,123,0,2,62,0,60,30,1,685,null);
