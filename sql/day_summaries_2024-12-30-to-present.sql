@@ -75,7 +75,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2025-03-03',5981,1869,146,0,2,71,0,0,83,1,422,null),
   ('2025-03-04',5982,1870,117,0,0,80,5,0,55,2,452,null),
   ('2025-03-05',5983,1871,172,0,0,84,0,0,95,2,531,null),
-  ('2025-03-06',5984,1872,93,0,3,50,0,0,85,0,505,'Although I had zero cyclic personal chores long time-block commitments on this day, I did make a trip to Berkeley Bowl and also did a bunch of dishwashing work.'),
+  ('2025-03-06',5984,1872,93,0,3,50,0,0,85,0,505,'Although I had zero cyclic personal chores with long time-block commitment on this day, I did make a trip to Berkeley Bowl and also did a bunch of dishwashing work.'),
   ('2025-03-07',5985,1873,51,0,0,125,2,0,215,1,515,null),
   ('2025-03-08',5986,1874,154,0,0,60,4,0,58,1,549,null),
   ('2025-03-09',5987,1875,57,30,0,79,0,0,135,2,436,null),
@@ -283,7 +283,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   /* Week of 2025-09-01 */
   ('2025-09-01',6175,2051,79,10,0,47,0,0,210,1,678,'This was an unusual day -- it was a holiday for Labor Day, and I spent a large part of the day doing periodic cleaning tasks around the house. I multiplexed these with listening to stuff, so the time is counted under the other activities bucket.'),
   ('2025-09-02',6176,2052,49,12,190,53,2,0,85,1,649,null),
-  ('2025-09-03',6177,2053,227,0,0,37,0,0,50,0,686,'This was a busy day at work, and I also made a long-overdue Walgreens shopping trip. This does not count as a cyclic personal chore with long time block commitment, but it does take a moderate amount of time so it eats into my ability to do long time block commitments in the time remaining from work.'),
+  ('2025-09-03',6177,2053,227,0,0,37,0,0,50,0,686,'This was a busy day at work, and I also made a long-overdue Walgreens shopping trip. This does not count as a cyclic personal chore with long time block commitment, but it does take a moderate amount of time so it eats into my ability to do cyclic personal chores with long time block commitment in the time remaining from work.'),
   ('2025-09-04',6178,2054,205,0,5,77,0,0,75,0,747,'This was a busy day at work, and I ended up using a lot of my non-work time on an administrative task, eating into the time I could have spent on cyclic personal chores with long time block commitment. Hence, I ended up not doing any cyclic personal chores with long time block commitment.'),
   ('2025-09-05',6179,2055,87,0,105,16,0,0,173,1,736,null),
   ('2025-09-06',6180,2056,40,0,195,70,0,0,105,1,584,null),
@@ -554,7 +554,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-04-26',null,2288,0,235,2,51,0,0,57,1,702,null),
   /* Week of 2026-04-27 */
   ('2026-04-27',6399,2289,78,52,0,78,0,10,86,1,625,null),
-  ('2026-04-28',6401,2290,257,0,0,30,0,35,34,0,697,'I ended up spending a long chunk of time in the afternoon and evening on a work investigation, and as a result, I did not get time to do any cyclic personal chores with long time block commitments (I had been thinking of making a Trader Joe''s trip).'),
+  ('2026-04-28',6401,2290,257,0,0,30,0,35,34,0,697,'I ended up spending a long chunk of time in the afternoon and evening on a work investigation, and as a result, I did not get time to do any cyclic personal chores with long time block commitment (I had been thinking of making a Trader Joe''s trip).'),
   ('2026-04-29',6402,2291,25,5,0,215,0,55,106,2,495,null),
   ('2026-04-30',6403,2292,123,0,2,62,0,60,30,1,685,null),
   ('2026-05-01',6404,2293,3,8,2,224,0,18,112,1,515,'I had my dental cleaning on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2026/2026-05-01-dental-cleaning.md for details.'),
