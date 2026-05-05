@@ -556,4 +556,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-04-27',6399,2289,78,52,0,78,0,10,86,1,625,null),
   ('2026-04-28',6401,2290,257,0,0,30,0,35,34,0,697,'I ended up spending a long chunk of time in the afternoon and evening on a work investigation, and as a result, I did not get time to do any cyclic personal chores with long time block commitments (I had been thinking of making a Trader Joe''s trip).'),
   ('2026-04-29',6402,2291,25,5,0,215,0,55,106,2,495,null),
-  ('2026-04-30',6403,2292,123,0,2,62,0,60,30,1,685,null);
+  ('2026-04-30',6403,2292,123,0,2,62,0,60,30,1,685,null),
+  ('2026-05-01',6404,2293,3,8,2,224,0,18,112,1,515,'I had my dental cleaning on this day; see https://github.com/vipulnaik/diet-exercise-health/blob/master/events/2026/2026-05-01-dental-cleaning.md for details.'),
+  ('2026-05-02',6405,2294,65,150,1,50,0,50,27,0,744,'I had been planning to make a Trader Joe''s trip in the evening, but I got delayed with a mix of day job work and personal projects work, and ended up missing the time window. Therefore, I ended up not doing any cyclic personal chores with long time block commitment on this day.'),
+  ('2026-05-03',6406,2295,7,30,3,117,0,16,133,1,610,null);
