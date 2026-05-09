@@ -89,6 +89,7 @@ def split_into_sections(text):
     current_section = None
     current_content = []
     found_sections = []
+    warnings = []
 
     for line in lines:
         if line.startswith('## '):
@@ -98,10 +99,14 @@ def split_into_sections(text):
             section_name = line[3:].strip()
 
             if section_name not in expected_sections:
-                print(f"WARNING: Unrecognized section name: '{section_name}'")
+                warning = f"WARNING: Unrecognized section name: '{section_name}'"
+                warnings.append(warning)
+                print(warning)
 
             if section_name in found_sections:
-                print(f"WARNING: Duplicate section found: '{section_name}'")
+                warning = f"WARNING: Duplicate section found: '{section_name}'"
+                warnings.append(warning)
+                print(warning)
 
             found_sections.append(section_name)
             current_section = section_name
@@ -120,54 +125,23 @@ def split_into_sections(text):
         if section in expected_indices:
             current_index = expected_indices[section]
             if current_index < last_index:
-                print(f"WARNING: Sections are out of order: '{section}' appears after a later section")
+                warning = f"WARNING: Sections are out of order: '{section}' appears after a later section"
+                warnings.append(warning)
+                print(warning)
             last_index = current_index
 
-    return sections, expected_sections
+    return sections, expected_sections, warnings
 
 def process_daily_update_sectioned(text):
     """
     Process daily update markdown text with sections.
-    """
-    sections, expected_sections = split_into_sections(text)
-
-    section_results = {}
-    all_warnings = []
-
-    for section_name in expected_sections:
-        if section_name in sections:
-            time_values, total, warnings = process_section(sections[section_name], section_name)
-            section_results[section_name] = (time_values, total)
-            all_warnings.extend(warnings)
-        else:
-            section_results[section_name] = ([], 0)
-
-    for warning in all_warnings:
-        print(warning)
-
-    if all_warnings:
-        print()
-
-    for section_name in expected_sections:
-        time_values, total = section_results[section_name]
-        print(f"{section_name}:")
-        print(f"  Times: {time_values}")
-        print(f"  Total: {total} minutes")
-        print()
-
-    totals = [section_results[section][1] for section in expected_sections]
-    print("Summary tuple:")
-    print(','.join(map(str, totals)))
-
-def process_daily_update_sectioned_return_totals(text):
-    """
-    Process daily update markdown text with sections.
     Returns list of totals for each section.
     """
-    sections, expected_sections = split_into_sections(text)
+    all_warnings = []
+    sections, expected_sections, splitting_warnings = split_into_sections(text)
 
     section_results = {}
-    all_warnings = []
+    all_warnings.extend(splitting_warnings)
 
     for section_name in expected_sections:
         if section_name in sections:
@@ -192,40 +166,9 @@ def process_daily_update_sectioned_return_totals(text):
 
     totals = [section_results[section][1] for section in expected_sections]
 
-    return totals
+    return totals, all_warnings
 
 def process_daily_update_unsectioned(text):
-    """
-    Process daily update markdown text without section breakdown.
-    Just return total time across all checked boxes.
-    """
-    lines = text.strip().split('\n')
-
-    for line in lines:
-        if line.strip().startswith('- [ ]'):
-            print(f"!!! ERROR: Found unchecked box: {line.strip()}")
-            sys.exit(1)
-
-    time_values = []
-    warnings = []
-
-    for line in lines:
-        if line.strip().startswith('- [x]'):
-            minutes, warning = extract_time_from_line(line)
-            time_values.append(minutes)
-            if warning:
-                warnings.append(warning)
-
-    for warning in warnings:
-        print(warning)
-
-    if warnings:
-        print()
-
-    print(f"Extracted times (in minutes): {time_values}")
-    print(f"Total minutes: {sum(time_values)}")
-
-def process_daily_update_unsectioned_return_total(text):
     """
     Process daily update markdown text without section breakdown.
     Returns the total minutes.
@@ -256,23 +199,7 @@ def process_daily_update_unsectioned_return_total(text):
     print(f"Extracted times (in minutes): {time_values}")
     print(f"Total minutes: {sum(time_values)}")
 
-    return sum(time_values)
-
-def process_daily_update(text, mode='sectioned'):
-    """
-    Wrapper function to process daily update.
-
-    Args:
-        text: The markdown text to process
-        mode: Either 'sectioned' or 'unsectioned'
-    """
-    if mode == 'sectioned':
-        process_daily_update_sectioned(text)
-    elif mode == 'unsectioned':
-        process_daily_update_unsectioned(text)
-    else:
-        print(f"ERROR: Unknown mode '{mode}'. Use 'sectioned' or 'unsectioned'.")
-        sys.exit(1)
+    return sum(time_values), warnings
 
 def extract_metadata(filepath):
     """
@@ -311,7 +238,7 @@ def count_ltbc_items(text):
     that don't contain 'NOT LTBC'.
     Returns tuple: (count, warning)
     """
-    sections, _ = split_into_sections(text)
+    sections, _, _ = split_into_sections(text)
 
     if "Personal chores" not in sections:
         return 0, None
@@ -351,19 +278,22 @@ if __name__ == "__main__":
         print("Usage: python script.py <work_file> <personal_file>")
         sys.exit(1)
 
+    warning_count = 0
     work_file = sys.argv[1]
     personal_file = sys.argv[2]
 
-    work_date, work_number, work_warnings = extract_metadata(work_file)
-    personal_date, personal_number, personal_warnings = extract_metadata(personal_file)
+    work_date, work_number, work_metadata_warnings = extract_metadata(work_file)
+    personal_date, personal_number, personal_metadata_warnings = extract_metadata(personal_file)
+    warning_count += len(work_metadata_warnings) + len(personal_metadata_warnings)
 
     if work_date != None and work_date != personal_date:
         print(f"WARNING: Dates don't match - work: {work_date}, personal: {personal_date}")
+        warning_count += 1
 
-    for warning in work_warnings + personal_warnings:
+    for warning in work_metadata_warnings + personal_metadata_warnings:
         print(warning)
 
-    if work_warnings or personal_warnings:
+    if work_metadata_warnings or personal_metadata_warnings:
         print()
 
     print("=== WORK (UNSECTIONED) ===")
@@ -372,16 +302,22 @@ if __name__ == "__main__":
         work_total = 0
     else:
         work_content = get_file_content_after_metadata(work_file)
-        work_total = process_daily_update_unsectioned_return_total(work_content)
+        work_total, work_data_warnings  = process_daily_update_unsectioned(work_content)
 
     print("\n=== PERSONAL (SECTIONED) ===")
     personal_content = get_file_content_after_metadata(personal_file)
-    personal_totals = process_daily_update_sectioned_return_totals(personal_content)
+    personal_totals, personal_data_warnings = process_daily_update_sectioned(personal_content)
+
+    warning_count += len(work_data_warnings) + len(personal_data_warnings)
 
     ltbc_count, ltbc_warning = count_ltbc_items(personal_content)
     if ltbc_warning:
         print(f"\n{ltbc_warning}")
+        warning_count += 1
 
     print(f"\n=== FINAL ROW ===")
     personal_tuple_str = ','.join(map(str, personal_totals))
-    print(f"'{personal_date}',{work_number},{personal_number},{work_total},{personal_tuple_str},{ltbc_count}")
+    warnings_reminder = ""
+    if warning_count > 0:
+        warnings_reminder = "/* warnings exist */"
+    print(f"{warnings_reminder}'{personal_date}',{work_number},{personal_number},{work_total},{personal_tuple_str},{ltbc_count}")
