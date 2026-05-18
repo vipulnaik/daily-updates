@@ -565,9 +565,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-05-05',6409,2297,113,3,5,42,0,3,46,1,652,null),
   ('2026-05-06',6410,2298,32,0,35,85,0,35,94,1,681,null),
   ('2026-05-07',6411,2299,81,0,8,160,0,38,48,2,467,null),
-  ('2026-05-08',6412,2300,54,4,3,57,0,10,90,0,515,'I made a Berkeley Bowl trip in the late afternoon / early evening, so laundry had to wait till the night. However, the laundry room was in use at night, so I ended up not doing any laundry, and thereby ending up with zero cyclic personal chores with long time block commitment.'),
-  ('2026-05-09',6413,2301,7,0,5,145,0,3,182,2,744,null),
-  ('2026-05-10',6414,2302,66,0,55,47,0,0,121,1,610,null),
+  ('2026-05-08',6412,2300,54,4,3,57,0,10,90,0,570,'I made a Berkeley Bowl trip in the late afternoon / early evening, so laundry had to wait till the night. However, the laundry room was in use at night, so I ended up not doing any laundry, and thereby ending up with zero cyclic personal chores with long time block commitment.'),
+  ('2026-05-09',6413,2301,7,0,5,145,0,3,182,2,392,null),
+  ('2026-05-10',6414,2302,66,0,55,47,0,0,121,1,665,null),
   /* Week of 2026-05-11 */
   ('2026-05-11',6416,2303,42,0,0,242,0,0,125,1,730,null),
   ('2026-05-12',6417,2304,8,0,72,236,0,0,36,1,612,null),
