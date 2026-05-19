@@ -26,7 +26,7 @@ def extract_time_from_line(line):
     Returns tuple: (minutes, warning_message)
     """
     warning = None
-    match = re.match(r'^- \[x\]\s*([^:]+):', line)
+    match = re.match(r'^- \[x\]\s*([^:]+): ', line)
     if not match:
         if re.match(r'^- \[x\]', line):
             warning = f"WARNING: Checkbox line without colon: {line.strip()}"
