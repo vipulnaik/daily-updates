@@ -300,6 +300,7 @@ if __name__ == "__main__":
     if 'null' in work_file:
         print("No work issue, so total is 0 minutes")
         work_total = 0
+        work_data_warnings = []
     else:
         work_content = get_file_content_after_metadata(work_file)
         work_total, work_data_warnings  = process_daily_update_unsectioned(work_content)
