@@ -54,8 +54,11 @@ def extract_time_from_line(line):
         warning = f"WARNING: Hours >= 4 in line: {line.strip()}"
     if minutes >= 60:
         warning = f"WARNING: Minutes >= 60 in line: {line.strip()}"
+    if hours == 0 and minutes == 0 and "time tracked" not in time_expr:
+        warning = f"WARNING: Time expression not of expected format: '{time_expr}'"
 
     total_minutes = 60 * hours + minutes
+
     return total_minutes, warning
 
 def process_section(text, section_name):
