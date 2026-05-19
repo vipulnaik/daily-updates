@@ -112,6 +112,16 @@ def split_into_sections(text):
             current_section = section_name
             current_content = []
         else:
+            if line.startswith('### '):
+                subsection_name = line[3:].strip()
+                if subsection_name in expected_sections:
+                    warning = f"WARNING: Subsection has name expected of section: '{subsection_name}'"
+                    warnings.append(warning)
+                    print(warning)
+                if current_section is None:
+                    warning = f"WARNING: Subsection appeared before any section: '{subsection_name}'"
+                    warnings.append(warning)
+                    print(warning)
             if current_section is not None:
                 current_content.append(line)
 
