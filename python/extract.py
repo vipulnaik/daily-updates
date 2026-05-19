@@ -4,7 +4,19 @@
 # of my own plus several daily update issues that I had already computed;
 # I needed to correct a couple of small bugs that it introduced
 # near the end;
-# Edits 2026-01-11 onward are by me without using Claude Sonnet 4.5
+# Edits 2026-01-11 onward are by me without using Claude Sonnet 4.5.
+
+# For data since the creation of the script and until 2026-05-17, I did
+# a manual summation for each day before the script run and compared the two;
+# this helped me catch a case of poor data that the script didn't flag, and
+# also gave me ideas for other validation checks to add.
+
+# Starting with data 2026-05-18 onward, I plan to still eyeball the
+# issues prior to script run for any problems that are clear on
+# eyeballing, but manual prior summation will be done only occasionally
+# as a sanity check. Manual posterior summation should be done if any of the
+# sums feels meaningfully off.
+
 import re
 import sys
 
