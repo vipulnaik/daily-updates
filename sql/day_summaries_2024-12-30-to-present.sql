@@ -575,4 +575,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-05-14',6419,2306,2,0,15,156,0,0,115,2,444,null),
   ('2026-05-15',6420,2307,190,2,0,8,0,7,275,0,754,'I had been planning to do heavy laundry on this day, but I was not able to do it in the afternoon or early evening as the laundry room was in use. I could not use the night slot as I was chatting with my mother at night. Hence, I ended up doing no cyclic personal chores with long time block commitment.'),
   ('2026-05-16',6421,2308,55,2,0,65,0,0,123,0,688,'I had been planning to do heavy laundry on this day, but I was not able to do it because the laundry room was in use when I checked. Hence, I ended up doing no cyclic personal chores with long time block commitment.'),
-  ('2026-05-17',null,2309,0,0,5,160,0,0,155,2,662,null);
+  ('2026-05-17',null,2309,0,0,5,160,0,0,155,2,662,null),
+  /* Week of 2026-05-18 */
+  ('2026-05-18',6422,2310,58,3,10,144,0,0,77,1,708,null),
+  ('2026-05-19',6424,2311,9,0,0,220,0,0,15,2,470,null),
+  ('2026-05-20',6425,2312,124,0,0,90,0,0,102,0,660,'I had been planning to make a trip to get groceries from Trader Joe''s, but I got somewhat delayed due to somewhat complicated day job tasks, and I ended up missing the time window to make the trip. Hence, I ended up doing no cyclic personal chores with long time block commitment.'),
+  ('2026-05-21',6426,2313,158,0,29,61,1,0,107,1,645,null);
