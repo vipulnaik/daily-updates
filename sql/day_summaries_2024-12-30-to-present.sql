@@ -588,4 +588,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-05-25',6429,2317,170,0,0,90,0,0,17,0,630,'There was no natural cyclic personal chore with long time block commitment to do that day. I could have gotten ahead by doing heavy laundry, but decided to wait a couple of days to do heavy laundry so that I could do a larger load. I decided to focus on some day job work that required a longer concentrated session.'),
   ('2026-05-26',6431,2318,258,0,2,41,0,0,11,1,715,null),
   ('2026-05-27',6432,2319,284,0,0,40,0,0,0,1,715 /* same as previous day */,null),
-  ('2026-05-28',6433,2320,77,0,0,175,0,0,6,2,488,null);
+  ('2026-05-28',6433,2320,77,0,0,175,0,0,6,2,488,null),
+  ('2026-05-29',6434,2321,131,0,2,20,0,2,25,0,666,'Due to a number of small day job items, I ended up getting delayed with my daily exercise and first meal (I did not want to skip exercise, as I had skipped all or most exercises for the past two days in a row). I was therefore not able to fit a Trader Joe''s trip in the evening as originally hoped for. I therefore ended up doing no cyclic personal chores with long time block commitment.'),
+  ('2026-05-30',6435,2322,77,0,1,93,0,0,20,2,471,null),
+  ('2026-05-31',6436,2323,59,0,10,150,1,0,25,1,569,null);
