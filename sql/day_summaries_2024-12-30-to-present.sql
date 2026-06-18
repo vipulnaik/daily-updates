@@ -596,4 +596,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-06-01',6437,2324,150,10,25,42,0,0,32,0,621,'A long session of work on day job early in the day, plus a necessary trip to Berkeley Bowl to stock up on yogurt, meant that I did not have time in the day to do any cyclic personal chore with long time block commitment.'),
   ('2026-06-02',6439,2325,131,0,0,35,0,0,100,1,684,null),
   ('2026-06-03',6440,2326,25,0,4,84,0,0,41,1,696,null),
-  ('2026-06-04',6441,2327,147,0,0,17,0,0,167,0,648,'The planned cyclic personal chore with long time block commitment for the day was a Trader Joe''s trip, but I ended up not being able to fit the time for it.');
+  ('2026-06-04',6441,2327,147,0,0,17,0,0,167,0,648,'The planned cyclic personal chore with long time block commitment for the day was a Trader Joe''s trip, but I ended up not being able to fit the time for it.'),
+  ('2026-06-05',6442,2328,177,0,0,60,24,0,91,1,637,null),
+  ('2026-06-06',6443,2329,237,0,0,42,45,0,118,1,616,null),
+  ('2026-06-07',6444,2330,116,0,0,55,0,38,67,1,597,null);
