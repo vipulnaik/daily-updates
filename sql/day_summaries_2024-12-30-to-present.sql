@@ -604,4 +604,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-06-08',6446,2331,108,90,0,39,0,3,213,1,645,null),
   ('2026-06-09',6447,2332,102,4,0,2,0,5,227,0,815,'This was a fairly fragmented day mixing in a lot of day job stuff and several LLM conversations in the gaps in between, and as a result I ended up not having time for cyclic personal chores with long time block commitment.'),
   ('2026-06-10',6448,2333,226,3,0,62,0,0,31,1,540,null),
-  ('2026-06-11',6449,2334,105,0,0,109,0,0,146,1,652,null);
+  ('2026-06-11',6449,2334,105,0,0,109,0,0,146,1,652,null),
+  ('2026-06-12',6450,2335,38,0,4,87,0,26,67,1,530,null),
+  ('2026-06-13',6451,2336,155,2,0,40,0,135,2,0,650,'The morning and early afternoon were occupied by reaching a logical point with a multi-week stream of day job work. As I didn''t have a lot of time in the evening, I decided to make a Walgreens toiletries trip instead of a cyclic personal chore with long time block commitment.'),
+  ('2026-06-14',6452,2337,66,3,0,37,0,8,87,1,650,null);
