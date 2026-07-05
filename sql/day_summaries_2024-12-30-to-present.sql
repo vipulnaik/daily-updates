@@ -612,4 +612,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-06-15',6453,2338,48,0,4,191,0,0,51,2,488,null),
   ('2026-06-16',6454,2339,55,0,0,44,0,5,58,1,589,null),
   ('2026-06-17',6455,2340,180,0,0,33,0,17,32,1,651,null),
-  ('2026-06-18',6457,2341,25,0,40,118,0,13,0,0,624,'I made a Berkeley Bowl trip that squeezed some of my time; I also made a failed attempt to start laundry. As a result, I was not able to do any cyclic personal chores with long time block commitment.');
+  ('2026-06-18',6457,2341,25,0,40,118,0,13,0,0,624,'I made a Berkeley Bowl trip that squeezed some of my time; I also made a failed attempt to start laundry. As a result, I was not able to do any cyclic personal chores with long time block commitment.'),
+  ('2026-06-19',6458,2342,136,0,0,132,0,11,52,2,586,null),
+  ('2026-06-20',6459,2343,88,0,0,127,1,0,29,1,562,null),
+  ('2026-06-21',6460,2344,220,0,0,28,0,0,34,1,666,null);
