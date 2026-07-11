@@ -615,4 +615,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-06-18',6457,2341,25,0,40,118,0,13,0,0,624,'I made a Berkeley Bowl trip that squeezed some of my time; I also made a failed attempt to start laundry. As a result, I was not able to do any cyclic personal chores with long time block commitment.'),
   ('2026-06-19',6458,2342,136,0,0,132,0,11,52,2,586,null),
   ('2026-06-20',6459,2343,88,0,0,127,1,0,29,1,562,null),
-  ('2026-06-21',6460,2344,220,0,0,28,0,0,34,1,666,null);
+  ('2026-06-21',6460,2344,220,0,0,28,0,0,34,1,666,null),
+  /* Week of 2026-06-22 */
+  ('2026-06-22',6462,2345,261,0,0,25,0,13,7,1,692,null),
+  ('2026-06-23',6463,2346,42,0,0,14,0,0,249,0,433,'On this day I made a trip to San Francisco to meet friends/colleagues for dinner. The large amonut of time used up in the trip meant I could not fit in any cyclic personal chores with long time block commitment.'),
+  ('2026-06-24',6464,2347,26,0,0,97,4,25,128,1,541,null),
+  ('2026-06-25',6465,2348,301,0,0,0,0,35,70,0,730,'This ended up being a very intense day on the day job and I missed the time window to do cyclic personal chores with long time block commitment (in fact, I spent no accounted time in the personal chores bucket).');
