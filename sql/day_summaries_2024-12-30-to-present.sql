@@ -620,4 +620,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-06-22',6462,2345,261,0,0,25,0,13,7,1,692,null),
   ('2026-06-23',6463,2346,42,0,0,14,0,0,249,0,433,'On this day I made a trip to San Francisco to meet friends/colleagues for dinner. The large amonut of time used up in the trip meant I could not fit in any cyclic personal chores with long time block commitment.'),
   ('2026-06-24',6464,2347,26,0,0,97,4,25,128,1,541,null),
-  ('2026-06-25',6465,2348,301,0,0,0,0,35,70,0,730,'This ended up being a very intense day on the day job and I missed the time window to do cyclic personal chores with long time block commitment (in fact, I spent no accounted time in the personal chores bucket).');
+  ('2026-06-25',6465,2348,301,0,0,0,0,35,70,0,730,'This ended up being a very intense day on the day job and I missed the time window to do cyclic personal chores with long time block commitment (in fact, I spent no accounted time in the personal chores bucket).'),
+  ('2026-06-26',6466,2349,231,0,0,107,0,7,38,1,662,null),
+  ('2026-06-27',6467,2350,127,0,0,55,0,29,2,2,617,null),
+  ('2026-06-28',6468,2351,88,0,0,76,0,29,10,0,710,'I had hoped to fit in a Trader Joe''s trip, but delays driven by waking up late, more time with exercise, and a bunch of day job things delaying me at particular times left me with very little margin. I also didn''t want to delay things too much as I wanted to shift my sleep schedule to earlier. Therefore, I ended up not making the Trader Joe''s trip and also not fitting in any other cyclic personal chore with long time block commitment.');
