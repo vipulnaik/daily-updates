@@ -1,8 +1,8 @@
 # Standing plan for the next few months
 
-Last major update: April 12, 2026 (reflecting the end of Q1 2026 and
-the plans Q2 2026 onward, but mostly with deferral and shifting rather
-than a major structural rewrite)
+Last major update: July 12, 2026 (relaxation of day job hours
+requirements, making temporary provisions permanent, with a provision
+for reversing them if needed)
 
 I use this as a living document for my standing plan for the next
 months. I expect to update the document somewhere around once a month;
@@ -140,10 +140,7 @@ solutions are as follows:
 
 ## Work situation
 
-### General plan outside of the special circumstances of Q1 and Q2 2026
-
-Special circumstances apply to Q1 and Q2 2026. The description below
-applies to my steady state outside of those times.
+### General plan per quarter
 
 * I will be work-focused on Monday, Tuesday, and Thursday, though I
   might still take out time for time-sensitive personal chores
@@ -231,19 +228,25 @@ applies to my steady state outside of those times.
 * I aim to follow these *conditional minimum* weekly targets: *at
   least one* of the following must be true:
 
-  * At least 7 hours in the week
+  * At least 5 hours in the week
 
-  * At least 7 hours 10 minutes average (21 hours 30 minutes total)
+  * At least 5 hours 10 minutes average (15 hours 30 minutes total)
     across that week and the two preceding weeks
 
-  * At least 7 hours 20 minutes average (36 hours 40 minutes total)
+  * At least 5 hours 20 minutes average (26 hours 40 minutes total)
     across that week and the four preceding weeks
 
-  * At least 7 hours 30 hours average (52 hours 30 minutes total)
+  * At least 5 hours 30 hours average (38 hours 30 minutes total)
     across that week and the six preceding weeks
 
-  * At least 7 hours 40 minutes average (69 hours total) across that
+  * At least 5 hours 40 minutes average (51 hours total) across that
     week and the eight preceding weeks
+
+  These are deliberately lower than what I expect my effective average
+  to be, due to the existence of multi-week surges on complex projects
+  and alert investigations that tend to happen a few times a year. A
+  provision allowing for an increase in hours in a given quarter is in
+  the next subsection.
 
 * ADDED 2024-11-17, UPDATED 2024-12-01: For work I do under personal
   projects or other activities that makes me more familiar with
@@ -267,80 +270,42 @@ applies to my steady state outside of those times.
   * At most 13.5 hours average (67.5 hours total) across that week and the
     four preceding weeks
 
-### Adjusted schedule for Q2 and Q3 of 2026
+### Provision for increasing conditional minimums per quarter
 
-I plan to follow the principles outlined for the general schedule,
-with the only change being to the conditional minimum hours. I plan to
-reduce conditional minimum hours requirements by 2 hours per week for
-Q2 2026 and by 1 hour per week for Q3 2026. So the rewritten
-conditional minimum hours criterion is as follows:
+What I've found is that even in quarters where I set a conditional
+weekly minimum of about 5 hours on the day job (the new default
+described in the preceding subsection) my actual average turns out to
+be well over 7 hours, and often over 8 or 9 hours, due to surges
+driven by time-sensitive incoming tasks and complex multi-week
+workstreams. Therefore, setting 5 hours as the target minimum bakes in
+my tendency to overshoot some of the time and pull the average
+up. What the low target minimum buys me is week-over-week flexibility:
+I don't need to find things to do at work to fill in the time when I
+have genuinely few demands.
 
-* For Q2 2026, I aim to follow these *conditional minimum* weekly
-  targets: *at least one* of the following must be true:
+However, if I end up consistently not overshooting, the target minimum
+of 5 hours might end up being too little. To protect against this, I
+should, as part of quarterly review, make sure that I set my
+conditional minimum for the upcoming quarter so that the average of
+that and the three completed quarters is at least 7 hours.
 
-  * At least 5 hours in the week
-
-  * At least 5 hours 10 minutes average (15 hours 30 minutes total)
-    across that week and the two preceding weeks
-
-  * At least 5 hours 20 minutes average (26 hours 40 minutes total)
-    across that week and the four preceding weeks
-
-  * At least 5 hours 30 hours average (38 hours 30 minutes total)
-    across that week and the six preceding weeks
-
-  * At least 5 hours 40 minutes average (51 hours total) across that
-    week and the eight preceding weeks
-
-* For Q3 2026, I aim to follow these *conditional minimum* weekly
-  targets: *at least one* of the following must be true:
-
-  * At least 6 hours in the week
-
-  * At least 6 hours 10 minutes average (18 hours 30 minutes total)
-    across that week and the two preceding weeks
-
-  * At least 6 hours 20 minutes average (31 hours 40 minutes total)
-    across that week and the four preceding weeks
-
-  * At least 6 hours 30 hours average (45 hours 30 minutes total)
-    across that week and the six preceding weeks
-
-  * At least 6 hours 40 minutes average (60 hours total) across that
-    week and the eight preceding weeks
-
-The motivation behind the slight reduction is that I significantly
-exceeded my work hours goals in Q3 and Q4 2025, and relatedly also
-built a backlog on several other fronts. My original plan when
-entering Q1 2026 had been to apply to Q1 and Q2 2026 the reduced
-thresholds that are provided above for Q2 and Q3 2026. However, Q1
-2026 averaged out to be a normal quarter; while parts were
-slower-than-normal, there was a busy period in the middle and the
-average worked out to normal. So it's sort of net neutral in the
-overall work hours picture, so I'm shifting the reduced hours plan by
-a quarter to Q2 and Q3 2026.
-
-Even if I were to adhere to the reduced thresholds in Q2 and Q3 2026,
-it will not *fully* compensate for the excess effort, but it will at
-least partially compensate. In practice, I expect I will exceed these
-thresholds by a decent margin, but psychologically, the reduced
-thresholds will at least allow me to reduce my work effort relative to
-a counterfactual where I have higher thresholds. A bunch of other
-strategic and tactical adjustments will be needed to my work stream to
-help effectively reduce my work effort, but these are beyond the scope
-of this document.
+In particular, this means that if the average of the three most
+recently completed quarters is at least 8 hours, I don't need to do
+anything; the default conditional minimum of 5 hours is fine. On the
+other hand, if the average of the three most recently completed
+quarters is under 8 hours, I might need increase the conditional
+minimum for the upcoming quarter by a little bit to guarantee clearing
+the threshold of an average of 7 hours across the four quarters.
 
 ### Guidance on the approach I should take through the week
 
 At the start of the week, I will have a target minimum number of hours
 to put in in the week. This will be the larger of the absolute minimum
 (which is at most 3 hours, but could be less due to holidays or marked
-time off) and the conditional minimum (which can vary based on how
-many hours I put in in previous weeks, but is at most 7 hours in
-general, and at most 5 hours in Q2 2026 and at most 6 hours in Q2
-2026). If I've been putting in a lot of hours in recent weeks, I'm
-very likely in a situation where the absolute minimum hours are the
-binding requirement.
+time off) and the conditional minimum of about 5 hours. If I've been
+putting in a lot of hours in recent weeks, I'm very likely in a
+situation where the absolute minimum hours are the binding
+requirement.
 
 The approach I take balances several considerations. First, I want to
 generally protect my weekends from work outside of small tasks, as
@@ -356,17 +321,16 @@ favor of going slow early in the week.
 Here is an approach that balances these considerations:
 
 * If the absolute minimum hours are the binding constraint (this is
-  very likely going to be the dominant pattern in Q2 2026 given the
-  reduced conditional minimum hours): I should limit myself early in
-  the week to time-sensitive stuff, periodic tasks, and small things
-  that pop up organically. By around Thursday, if I have not hit the
-  absolute minimum hours, I should pick up one of my longer-term, more
-  complex projects on which I can spend 2 to 3 hours, and use that to
-  make up the shortfall. If I am still falling short (which is
-  unlikely), I should decide between picking another longer-term,
-  complex task and picking smaller tasks to make up the gap. The
-  decision will depend on how far short I am falling and the
-  availability of tasks.
+  very likely going to be the dominant pattern for most quarters): I
+  should limit myself early in the week to time-sensitive stuff,
+  periodic tasks, and small things that pop up organically. By around
+  Thursday, if I have not hit the absolute minimum hours, I should
+  pick up one of my longer-term, more complex projects on which I can
+  spend 2 to 3 hours, and use that to make up the shortfall. If I am
+  still falling short (which is unlikely), I should decide between
+  picking another longer-term, complex task and picking smaller tasks
+  to make up the gap. The decision will depend on how far short I am
+  falling and the availability of tasks.
 
 * If I have to put in substantially more hours (4 or more hours): If
   there does not appear to be enough by way of time-sensitive work
@@ -390,11 +354,11 @@ stuff, I can reuse the reminder for the next week if it makes sense
 
 ## Target time distribution between personal projects, personal finances, personal chores, etc.
 
-### General plan going forward (starting the weeek of 2026-01-12)
+### General plan going forward (starting the weeek of 2026-09-07)
 
-I'm giving myself until 2026-01-12 to get organized on various fronts
+I'm giving myself until 2026-09-07 to get organized on various fronts
 and catch up with many minor backlogs, now that I have committed to
-reducing my hours on work. Starting the week of 2026-01-12, I plan to
+reducing my hours on work. Starting the week of 2026-09-07, I plan to
 follow the below guidelines.
 
 * I aim to follow this *conditional minimum* target each week for
@@ -540,30 +504,32 @@ follow the below guidelines.
 
 ## Chores to catch up on
 
-### Getting back on top of personal finances and contract work (April 2026)
+### Finances, taxes, and contract work mini-backlog (July/August 2026)
 
-I have been somewhat irregular with personal finances and contract
-work stuff, and my goal for April 2026 is to catch up with the
-one-month backlog for balances data entry and catch up with contract
-work data entry.
+I largely caught on on finances, taxes, and contract work backlog in
+April/May 2026. But then I picked up a complex workstream on the day
+job starting late May 2026, and this led me to build another smaller
+backlog. The surge portion of the complex workstream wrapped up with
+the end of June 2026, so I expect to return to a focus on finances,
+taxes, and contract work backlog in July/August 2026.
 
-### Health stuff (Q2 2026 and Q3 2026)
+### Health stuff (Q3 2026)
 
 See [here](https://github.com/vipulnaik/diet-exercise-health/blob/master/notes/todo-list.md).
 
-### Electronics stuff (likely Q2 2026 as Q1 it'll be harder to schedule due to winter crunch)
+### Electronics stuff (likely Q3 2026)
 
 - [ ] Dispose of old cellphone, its swollen original battery, and its probably-not-well-functioning replacement battery
 - [ ] Do periodic electronics disposal (used non-rechargeable batteries, electric gadgets)
 
 ## Devops stuff
 
-#### MediaWiki upgrades (Q2 2026)
+#### MediaWiki upgrades (Q4 2026)
 
-I should do a round of MediaWiki upgrades in Q2 of 2026, and also make
+I should do a round of MediaWiki upgrades in Q4 of 2026, and also make
 sure the upgrade process is as streamlined as possible.
 
-### Digital will (likely Q3 2026)
+### Digital will (likely Q4 2026)
 
 After the more cleaned-up state I create with the server migration,
 I'd like to revisit my digital will and restructure it in a way that
@@ -571,7 +537,7 @@ is more robust.
 
 ## Subwiki stuff
 
-### Editing of subwikis (Q3 2026 onward)
+### Editing of subwikis (Q4 2026 onward)
 
 I plan to do off-and-on editing of the following subwikis: learning,
 calculus, market, and cellbio. These wikis are all strategic:
@@ -601,7 +567,7 @@ I might also pick up more higher-math-wiki editing, covering wikis
 such as groupprops, topospaces, commalg, and diffgeom, but this is
 likely to come a little later.
 
-### Setting up additional subwikis starting Q2 2026 or so (deferred until after the server migration is complete)
+### Setting up additional subwikis starting Q4 2026 or so (deferred until after the server migration is complete)
 
 Once I have streamlined by subwiki setup process and moved to a new
 server, I'll streamline the process for setting up brand *new*
@@ -613,26 +579,26 @@ While there may be more subwikis to add, I expect that the process
 will get streamlined more and more and the incremental effort of
 adding new subwikis will be low.
 
-## Food portal (likely Q3 2026)
+## Food portal (likely Q1 2027)
 
 I've been doing a lot of the leg work in bits and pieces, with a bunch
 of it done in Q1 2026.
 
-## Continuation of donations list website (DLW) starting Q2 2026
+## Continuation of donations list website (DLW) starting Q3 or Q4 2026
 
-I want to resume work on DLW in Q2 2026 after getting back on top of
-personal finances and contract work.
+I want to resume work on DLW in Q3 or Q4 2026 after getting back on
+top of personal finances and contract work.
 
 While I have a lot to catch up with on DLW to begin with, I don't yet
 have a clear sense of what the steady-state ongoing work level will be
 once I have caught up.
 
-However, I do intend to put a lot of focus on this starting around Q1
-2026 and then moving forward.
+However, I do intend to put a lot of focus on this starting around Q3
+or Q4 2026 and then moving forward.
 
 ## Timelines wiki work
 
-### Getting and staying on top of "Timelines I keep expanding regularly" (Q2 2026 (around June) and onward)
+### Getting and staying on top of "Timelines I keep expanding regularly" (Q4 2026 (around December) and onward)
 
 See
 [here](https://timelines.issarice.com/wiki/User:Vipul#Timelines_I_keep_expanding_regularly_.28or_at_least.2C_aim_to.21.29)
@@ -671,7 +637,7 @@ I will be discussing AI Watch further with Issa once Org Watch is caught up with
 
 This overlaps to some extent with timelines wiki work.
 
-### AI safety subwiki setup (Q2 2026 or later)
+### AI safety subwiki setup (Q4 2026 or later)
 
 I'll decide the details regarding this after the outcome of the AI
 Watch and timelines work.
