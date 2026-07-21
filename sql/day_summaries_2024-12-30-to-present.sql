@@ -628,4 +628,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-06-29',6469,2352,79,0,0,111,0,0,249,2,467,null),
   ('2026-06-30',6470,2353,395,0,0,7,0,20,46,0,919,'I had to investigate three time-sensitive issues related to the day job in the evening and night, and this prevented me from doing any cyclic personal chore with long time block commitment (I had been considering doing laundry). The unusually high screen time accurately reflects the long back-to-back debugging sessions.'),
   ('2026-07-01',6472,2354,83,0,0,79,0,0,24,1,718,null),
-  ('2026-07-02',6473,2355,203,51,0,89,0,4,22,0,633,'I attempted to get heavy laundry started at night but the laundry room was in use. This turned out to be a blessing in disguise as it gave me time at night to wrap up a work investigation where I had achieved a breakthrough a few hours prior.');
+  ('2026-07-02',6473,2355,203,51,0,89,0,4,22,0,633,'I attempted to get heavy laundry started at night but the laundry room was in use. This turned out to be a blessing in disguise as it gave me time at night to wrap up a work investigation where I had achieved a breakthrough a few hours prior.'),
+  ('2026-07-03',6474,2356,101,4,0,90,0,4,51,2,612,null),
+  ('2026-07-04',6475,2357,64,0,0,101,0,45,80,1,572,null),
+  ('2026-07-05',6476,2358,69,0,0,144,0,0,100,1,644,null);
