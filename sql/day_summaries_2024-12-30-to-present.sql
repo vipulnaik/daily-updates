@@ -631,4 +631,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-07-02',6473,2355,203,51,0,89,0,4,22,0,633,'I attempted to get heavy laundry started at night but the laundry room was in use. This turned out to be a blessing in disguise as it gave me time at night to wrap up a work investigation where I had achieved a breakthrough a few hours prior.'),
   ('2026-07-03',6474,2356,101,4,0,90,0,4,51,2,612,null),
   ('2026-07-04',6475,2357,64,0,0,101,0,45,80,1,572,null),
-  ('2026-07-05',6476,2358,69,0,0,144,0,0,100,1,644,null);
+  ('2026-07-05',6476,2358,69,0,0,144,0,0,100,1,644,null),
+  /* Week of 2026-07-06 */
+  ('2026-07-06',6477,2359,131,0,0,75,0,16,69,1,709,null),
+  ('2026-07-07',6478,2360,223,0,3,0,0,18,114,0,776,'The morning and early afternoon were very packed with time-sensitive day job items, delaying me somewhat. I also wanted to not sleep too late, as I had a lengthy morning / early afternoon catch-up meeting the next day. So, I ended up not easily being able to fit in a cyclic personal chore with long time block commitment.'),
+  ('2026-07-08',6480,2361,103,0,0,23,0,22,302,0,728,'A long catch-up meeting with work colleagues (but mostly not about work) took up my morning and early afternoon; after that, I had a few work items to catch up on. Together, these ended up taking a lot of my time and prevented me from being able to fit in any cyclic personal chores with long time block commitment. I did manage to fit in a Walgreens trip instead.'),
+  ('2026-07-09',6481,2362,273,0,49,8,0,22,118,0,685,'A complex and time-sensitive day job investigation in the afternoon ended up delaying me quite a bit. I did try to do regular laundry later in the day, but the laundry room was in use. Since this attempt was made very late in the day, I did not have a chance to retry.');
