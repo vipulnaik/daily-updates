@@ -647,4 +647,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-07-16',6490,2369,370,0,0,35,0,0,25,1,868,'I spent a huge amount of time on a complex investigation on the day job, continuing a thread from an investigation done two weeks ago. This involved keeping the laptop running even while I was away from it (having a meal) explaining the high screen time.'),
   ('2026-07-17',6491,2370,185,0,30,10,0,0,42,0,805,'This was a day of both physiological recovery from a very intense preceding day and continued wrapping up of day job threads started the preceding day. The delay in waking up and further delay as I worked to wrap up the threads led to a time squeeze that prevented fitting in any cyclic personal chore with long time block commitment. Note that some of the screen time reported for this day is from past midnight from the previous day, and it is this overflow from the previous day that accounts for the high total.'),
   ('2026-07-18',6492,2371,92,0,50,29,0,0,111,1,582,null),
-  ('2026-07-19',6493,2372,181,0,0,29,0,0,130,1,723,null);
+  ('2026-07-19',6493,2372,181,0,0,29,0,0,130,1,723,null),
+  /* Week of 2026-07-20 */
+  ('2026-07-20',6494,2373,19,0,115,8,0,0,220,0,680,'I chose to spend a large chunk of time on India tax work, and this displaced time that I might otherwise have spen on laundry. I therefore ended up doing no cyclic personal chore with long time block commitment.'),
+  ('2026-07-21',6496,2374,115,13,0,70,0,0,146,1,654,null),
+  ('2026-07-22',6497,2375,162,40,30,62,0,0,12,1,741,null),
+  ('2026-07-23',6498,2376,55,115,0,135,0,0,58,2,690,'My screen time is misleadingly high relative to active usage, as I kept the laptop open to run scripts while not actively using it.');
