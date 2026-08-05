@@ -652,4 +652,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-07-20',6494,2373,19,0,115,8,0,0,220,0,680,'I chose to spend a large chunk of time on India tax work, and this displaced time that I might otherwise have spen on laundry. I therefore ended up doing no cyclic personal chore with long time block commitment.'),
   ('2026-07-21',6496,2374,115,13,0,70,0,0,146,1,654,null),
   ('2026-07-22',6497,2375,162,40,30,62,0,0,12,1,741,null),
-  ('2026-07-23',6498,2376,55,115,0,135,0,0,58,2,690,'My screen time is misleadingly high relative to active usage, as I kept the laptop open to run scripts while not actively using it.');
+  ('2026-07-23',6498,2376,55,115,0,135,0,0,58,2,690,'My screen time is misleadingly high relative to active usage, as I kept the laptop open to run scripts while not actively using it.'),
+  ('2026-07-24',6499,2377,151,47,40,23,0,2,74,1,786,null),
+  ('2026-07-25',6500,2378,108,0,38,79,0,0,28,1,737,null),
+  ('2026-07-26',6501,2379,46,140,0,60,0,0,7,1,628,null);
