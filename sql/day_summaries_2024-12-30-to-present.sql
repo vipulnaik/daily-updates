@@ -655,4 +655,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-07-23',6498,2376,55,115,0,135,0,0,58,2,690,'My screen time is misleadingly high relative to active usage, as I kept the laptop open to run scripts while not actively using it.'),
   ('2026-07-24',6499,2377,151,47,40,23,0,2,74,1,786,null),
   ('2026-07-25',6500,2378,108,0,38,79,0,0,28,1,737,null),
-  ('2026-07-26',6501,2379,46,140,0,60,0,0,7,1,628,null);
+  ('2026-07-26',6501,2379,46,140,0,60,0,0,7,1,628,null),
+  /* Week of 2026-07-27 */
+  ('2026-07-27',6503,2380,87,145,0,100,0,12,5,1,641,null),
+  ('2026-07-28',6504,2381,252,100,1,3,0,16,7,0,764,'This was an intense day on the day job, with several time-sensitive items showing up in the early afternoon. I then also spent a bunch of time on a math research task (much of it in interludes, but it still added up to quite a bit of time). The time squeeze led to me not being able to fit in any cyclic personal chore with long time block commitment.'),
+  ('2026-07-29',6505,2382,42,210,0,34,0,0,0,1,732,null),
+  ('2026-07-30',6506,2383,115,45,0,80,0,0,40,0,862,'I did make an attempt to start regular laundry but failed. Hence, I ended up doing no cyclic personal chore with long time block commitment.');
