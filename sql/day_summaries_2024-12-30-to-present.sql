@@ -663,4 +663,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-07-30',6506,2383,115,45,0,80,0,0,40,0,862,'I did make an attempt to start regular laundry but failed. Hence, I ended up doing no cyclic personal chore with long time block commitment.'),
   ('2026-07-31',6507,2384,81,99,0,34,0,0,55,0,708,'I got delayed in the early afternoon, and in order to not disrupt the timing of my weekly chat with my mother, I ended up not doing any cyclic personal chore with long time block commitment.'),
   ('2026-08-01',6508,2385,21,335,0,60,0,0,35,1,743,'I spent a huge amount of time on a math/computer science research problem; this was partly due to the forward momentum created by working with a LLM. The progress was fairly commensurate with the effort expended, but the concentrated nature of the effort was still inconvenient for other priorities.'),
-  ('2026-08-02',6509,2386,171,40,0,80,0,0,85,1,620,null);
+  ('2026-08-02',6509,2386,171,40,0,80,0,0,85,1,620,null),
+  /* Week of 2026-08-03 */
+  ('2026-08-03',6510,2387,52,25,0,52,0,0,225,2,592,null),
+  ('2026-08-04',6511,2388,52,173,0,35,0,0,124,1,796,null),
+  ('2026-08-05',6512,2389,3,355,0,35,0,0,0,1,746,'I ended up spending a huge amount of time on a personal projects task (fleshing out APS theory on Groupprops) that I had originally anticipated would be much quicker.'),
+  ('2026-08-06',6513,2390,10,286,0,70,0,0,2,1,703,null);
