@@ -660,4 +660,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-07-27',6503,2380,87,145,0,100,0,12,5,1,641,null),
   ('2026-07-28',6504,2381,252,100,1,3,0,16,7,0,764,'This was an intense day on the day job, with several time-sensitive items showing up in the early afternoon. I then also spent a bunch of time on a math research task (much of it in interludes, but it still added up to quite a bit of time). The time squeeze led to me not being able to fit in any cyclic personal chore with long time block commitment.'),
   ('2026-07-29',6505,2382,42,210,0,34,0,0,0,1,732,null),
-  ('2026-07-30',6506,2383,115,45,0,80,0,0,40,0,862,'I did make an attempt to start regular laundry but failed. Hence, I ended up doing no cyclic personal chore with long time block commitment.');
+  ('2026-07-30',6506,2383,115,45,0,80,0,0,40,0,862,'I did make an attempt to start regular laundry but failed. Hence, I ended up doing no cyclic personal chore with long time block commitment.'),
+  ('2026-07-31',6507,2384,81,99,0,34,0,0,55,0,708,'I got delayed in the early afternoon, and in order to not disrupt the timing of my weekly chat with my mother, I ended up not doing any cyclic personal chore with long time block commitment.'),
+  ('2026-08-01',6508,2385,21,335,0,60,0,0,35,1,743,'I spent a huge amount of time on a math/computer science research problem; this was partly due to the forward momentum created by working with a LLM. The progress was fairly commensurate with the effort expended, but the concentrated nature of the effort was still inconvenient for other priorities.'),
+  ('2026-08-02',6509,2386,171,40,0,80,0,0,85,1,620,null);
