@@ -668,4 +668,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-08-03',6510,2387,52,25,0,52,0,0,225,2,592,null),
   ('2026-08-04',6511,2388,52,173,0,35,0,0,124,1,796,null),
   ('2026-08-05',6512,2389,3,355,0,35,0,0,0,1,746,'I ended up spending a huge amount of time on a personal projects task (fleshing out APS theory on Groupprops) that I had originally anticipated would be much quicker.'),
-  ('2026-08-06',6513,2390,10,286,0,70,0,0,2,1,703,null);
+  ('2026-08-06',6513,2390,10,286,0,70,0,0,2,1,703,null),
+  ('2026-08-07',6514,2391,18,205,6,68,0,0,137,1,718,null),
+  ('2026-08-08',6515,2392,30,260,0,0,0,0,132,1,775,'I spent a huge amount of time on the ARK conjecture work, including a long collaborator meeting plus several followup items'),
+  ('2026-08-09',6516,2393,40,105,0,105,0,0,260,1,488,null);
