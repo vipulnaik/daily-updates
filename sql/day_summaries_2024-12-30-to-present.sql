@@ -671,4 +671,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-08-06',6513,2390,10,286,0,70,0,0,2,1,703,null),
   ('2026-08-07',6514,2391,18,205,6,68,0,0,137,1,718,null),
   ('2026-08-08',6515,2392,30,260,0,0,0,0,132,1,775,'I spent a huge amount of time on the ARK conjecture work, including a long collaborator meeting plus several followup items'),
-  ('2026-08-09',6516,2393,40,105,0,105,0,0,260,1,488,'On this day, I met a few college friends for lunch and post-lunch tea in downtown Berkeley in the early afternoon.');
+  ('2026-08-09',6516,2393,40,105,0,105,0,0,260,1,488,'On this day, I met a few college friends for lunch and post-lunch tea in downtown Berkeley in the early afternoon.'),
+  /* Week of 2026-08-10 */
+  ('2026-08-10',6517,2394,9,200,0,35,0,0,133,2,559,null),
+  ('2026-08-11',6518,2395,42,200,0,63,0,10,150,1,789,null),
+  ('2026-08-12',6519,2396,129,40,0,96,0,5,95,0,562,'I made an Amazon Hub Locker + Walgreens trip instead of doing a cyclic personal chore with long time block commitment. The timing worked out well; I didn''t have enough laundry to do and didn''t have any cooking due.'),
+  ('2026-08-13',6521,2397,200,3,0,58,0,0,10,1,793,null);
