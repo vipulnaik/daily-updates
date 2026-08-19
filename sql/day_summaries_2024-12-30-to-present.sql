@@ -676,4 +676,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-08-10',6517,2394,9,200,0,35,0,0,133,2,559,null),
   ('2026-08-11',6518,2395,42,200,0,63,0,10,150,1,789,null),
   ('2026-08-12',6519,2396,129,40,0,96,0,5,95,0,562,'I made an Amazon Hub Locker + Walgreens trip instead of doing a cyclic personal chore with long time block commitment. The timing worked out well; I didn''t have enough laundry to do and didn''t have any cooking due.'),
-  ('2026-08-13',6521,2397,200,3,0,58,0,0,10,1,793,null);
+  ('2026-08-13',6521,2397,200,3,0,58,0,0,10,1,793,null),
+  ('2026-08-14',6522,2398,26,35,0,4,0,5,263,0,517,'I made a trip to San Bruno to meet a friend. Since the trip took up a chunk of my day, I ended up not doing any cyclic personal chore with long time block commitment.'),
+  ('2026-08-15',6523,2399,20,187,0,78,0,0,52,1,486,null),
+  ('2026-08-16',6524,2400,63,161,0,58,0,0,64,1,597,null);
