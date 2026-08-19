@@ -1,4 +1,4 @@
-end=${2:-2403}
+end=${2:-`gh issue list --state all --limit 1 --json number --jq '.[0].number'`}
 start=${1:-`bc -l <<< "$end - 21"`}
 grace=3
 echo "downloading issues $start to $end after $grace seconds"
