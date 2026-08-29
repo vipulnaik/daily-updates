@@ -687,4 +687,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-08-20',6528,2404,196,43,0,1,0,0,143,0,813,'A few lengthy day job investigations through the day, as well as wrapping up of several longstanding day job items, led me to a time squeeze and I ended up not getting enough time to fit in my planned cyclic personal chore with long time block commitment (a Trader Joe''s trip).'),
   ('2026-08-21',6529,2405,47,59,0,61,0,0,175,1,606,null),
   ('2026-08-22',null,2406,0,42,60,160,0,0,100,1,562,null),
-  ('2026-08-23',6530,2407,9,30,112,34,0,0,107,1,692,null);
+  ('2026-08-23',6530,2407,9,30,112,34,0,0,107,1,692,null),
+  /* Week of 2026-08-24 */
+  ('2026-08-24',6531,2408,30,84,30,105,0,0,194,1,635,null),
+  ('2026-08-25',6532,2409,3,25,2,113,0,0,255,2,482,null),
+  ('2026-08-26',6533,2410,41,10,0,53,0,4,93,0,681,'I made a Berkeley Bowl trip, which was a cyclic personal chore but does not count as a long time block commitment. This trip did use up enough time that I wasn''t able to fit in a cyclic personal chore before my second meal. I was thinking of doing laundry after my second meal, but ultimately decided it was more important to sleep early to move my sleep cycle forward and be able to comfortably attend a morning meeting the next day.'),
+  ('2026-08-27',6534,2411,142,17,15,41,0,0,170,2,610,null);
