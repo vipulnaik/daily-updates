@@ -13,7 +13,6 @@ To be executed on the 1st of the month, or soon after:
     - [ ] @riceissa
     - [ ] Gabriel Bobis
   - [ ] Check and (if necessary) update the contractwork balance of the preceding month to reflect what the contractwork portal says at https://contractwork.vipulnaik.com/payer.php?payer=Vipul+Naik
-- [ ] `wikipediaviews`: Switch month
 - [ ] `bart`: Update to include the latest month (and any other months since the last update)
 - [ ] `analytics-table`: Check data for all sites and see if any followup actions need to be taken, including possibly fixing broken analytics data
 - [ ] `aiwatch` (for Org Watch): Check that data has been refreshed recently and run priority-based queries to see how things are going
