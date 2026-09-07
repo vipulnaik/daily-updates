@@ -695,4 +695,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-08-27',6534,2411,142,17,15,41,0,0,170,2,610,null),
   ('2026-08-28',6535,2412,21,110,0,193,0,0,68,0,717,'I had originally planned a Trader Joe’s trip, but decided it would be too hard to fit that plus my second meal before the time of weekly chat with my mother, and keeping my sleep cycle intact was more important, so I skipped. Delays earlier in the day, while small individually, had added up to make things just a wee bit too tight.'),
   ('2026-08-29',6536,2413,109,0,23,88,0,0,22,1,663,null),
-  ('2026-08-30',6537,2414,32,4,5,193,0,0,10,1,513,null);
+  ('2026-08-30',6537,2414,32,4,5,193,0,0,10,1,513,null),
+  /* Week of 2026-08-31 */
+  ('2026-08-31',6538,2415,168,0,0,28,0,3,44,1,608,null),
+  ('2026-09-01',6539,2416,25,0,138,64,0,8,82,1,718,null),
+  ('2026-09-02',6540,2417,73,25,28,70,0,0,97,1,519,null),
+  ('2026-09-03',6541,2418,186,78,55,23,0,7,80,1,615,null);
