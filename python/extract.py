@@ -268,6 +268,8 @@ def count_ltbc_items(text):
     if "Personal chores" not in sections:
         return 0, None
 
+    warning = None
+
     personal_chores_text = sections["Personal chores"]
     lines = personal_chores_text.split('\n')
 
@@ -281,8 +283,14 @@ def count_ltbc_items(text):
             if current_subsection in ['Cooking and food purchases', 'Laundry']:
                 if 'NOT LTBC' not in line:
                     count += 1
+                    if 'days ago' in line or 'yesterday' in line or 'sday' in line or 'nday' in line or 'iday' in line:
+                        warning = f"WARNING: A LTBC-eligible line mentioning a previous day was not marked NOT LTBC; line: {line}"
+                    if 'Berkeley Bowl' in line:
+                        warning = f"WARNING: A LTBC-eligible line mentioning Berkeley Bowl was not marked NOT LTBC; line {line}"
+                else:
+                    if 'Trader Joe' in line:
+                        warning = f"WARNING: A line about Trader Joe's was marked NOT LTBC; line {line}"
 
-    warning = None
     if count > 2:
         warning = f"WARNING: LTBC count is {count} (expected 0, 1, or 2)"
 
