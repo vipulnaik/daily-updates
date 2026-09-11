@@ -700,4 +700,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-08-31',6538,2415,168,0,0,28,0,3,44,1,608,null),
   ('2026-09-01',6539,2416,25,0,138,64,0,8,82,1,718,null),
   ('2026-09-02',6540,2417,73,25,28,70,0,0,97,1,519,null),
-  ('2026-09-03',6541,2418,186,78,55,23,0,7,80,1,615,null);
+  ('2026-09-03',6541,2418,186,78,55,23,0,7,80,1,615,null),
+  ('2026-09-04',6542,2419,14,77,170,0,0,0,115,0,746,'I spent a lot of time on United States tax work on this day, and as a result, ended up not being able to fit in any cyclic personal chore with long time block commitment. Even more remarkably, I didn''t spend any accounted-for time on personal chores on this day, which is very unusual.'),
+  ('2026-09-05',6543,2420,4,210,10,52,1,0,12,1,799,null),
+  ('2026-09-06',6544,2421,4,125,60,55,0,0,135,0,761,'I spent a lot of time on United States tax work and on math research (ARK conjecture). The latter turned out to be spread across the day and ended up delaying me throughout the day, and as a result, I wasn''t able to fit in any cyclic personal chore with long time block commitment. I did make a Berkeley Bowl trip, that I was able to fit in by skipping exercise.');
