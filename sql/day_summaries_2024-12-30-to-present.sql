@@ -703,4 +703,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-09-03',6541,2418,186,78,55,23,0,7,80,1,615,null),
   ('2026-09-04',6542,2419,14,77,170,0,0,0,115,0,746,'I spent a lot of time on United States tax work on this day, and as a result, ended up not being able to fit in any cyclic personal chore with long time block commitment. Even more remarkably, I didn''t spend any accounted-for time on personal chores on this day, which is very unusual.'),
   ('2026-09-05',6543,2420,4,210,10,52,1,0,12,1,799,null),
-  ('2026-09-06',6544,2421,4,125,60,55,0,0,135,0,761,'I spent a lot of time on United States tax work and on math research (ARK conjecture). The latter turned out to be spread across the day and ended up delaying me throughout the day, and as a result, I wasn''t able to fit in any cyclic personal chore with long time block commitment. I did make a Berkeley Bowl trip, that I was able to fit in by skipping exercise.');
+  ('2026-09-06',6544,2421,4,125,60,55,0,0,135,0,761,'I spent a lot of time on United States tax work and on math research (ARK conjecture). The latter turned out to be spread across the day and ended up delaying me throughout the day, and as a result, I wasn''t able to fit in any cyclic personal chore with long time block commitment. I did make a Berkeley Bowl trip, that I was able to fit in by skipping exercise.'),
+  /* Week of 2026-09-07 */
+  ('2026-09-07',6545,2422,2,130,25,104,0,0,63,2,492,null),
+  ('2026-09-08',6546,2423,67,22,185,44,0,0,49,1,709,null),
+  ('2026-09-09',6547,2424,55,175,0,35,0,0,73,1,743,null),
+  ('2026-09-10',6548,2425,78,0,65,77,0,0,23,1,681,null);
