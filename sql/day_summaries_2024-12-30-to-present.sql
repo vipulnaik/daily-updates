@@ -711,4 +711,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-09-10',6548,2425,78,0,65,77,0,0,23,1,681,null),
   ('2026-09-11',6549,2426,23,10,53,22,0,0,96,0,764,'I skipped doing cyclic personal chores with long time block commitments on this day in order to sleep early and do weekly chat with mother (in particular, the weekly chat meant I wanted to finish my second meal before the chat, which meant I would not be able to fit in a cyclic personal chore with long time block commitment before the second meal).'),
   ('2026-09-12',6550,2427,20,135,0,70,0,0,15,1,575,null),
-  ('2026-09-13',6551,2428,158,10,0,118,0,0,9,1,534,null);
+  ('2026-09-13',6551,2428,158,10,0,118,0,0,9,1,534,null),
+  /* Week of 2026-09-14 */
+  ('2026-09-14',6552,2429,75,40,2,99,0,0,95,0,506,'I made a trip in the evening to Amazon Hub Locker and Walgreens; this used up the slot that I would normally use for a cyclic personal chore with long time block commitment, so I ended up doing no cyclic personal chore with long time block commitment.'),
+  ('2026-09-15',6553,2430,70,60,45,13,0,0,78,1,688,null),
+  ('2026-09-16',6554,2431,156,0,0,28,0,0,15,0,705,'I made two attempts to do laundry, which was my top priority cyclic personal chore with long time block commitment. Neither attempt succeeded, and because I prioritized laundry, I ended up not doing any other cyclic personal chore with long time block commitment either.'),
+  ('2026-09-17',6555,2432,173,6,0,60,0,0,30,1,623,null);
