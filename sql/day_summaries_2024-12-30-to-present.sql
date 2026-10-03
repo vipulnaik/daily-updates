@@ -724,4 +724,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-09-21',6559,2436,39,35,0,167,0,0,29,2,421,null),
   ('2026-09-22',6560,2437,127,95,0,38,0,0,15,1,688,null),
   ('2026-09-23',6561,2438,7,90,32,35,0,0,48,1,610,null),
-  ('2026-09-24',6562,2439,84,116,0,33,0,0,130,2,662,null);
+  ('2026-09-24',6562,2439,84,116,0,33,0,0,130,2,662,null),
+  ('2026-09-25',6563,2440,47,45,0,67,0,0,91,1,601,null),
+  ('2026-09-26',6564,2441,79,5,70,73,30,0,105,1,638,'Due to an unexpected house situation, I was not able to complete the potatoes prep I started on this day.'),
+  ('2026-09-27',6566,2442,29,7,40,55,35,0,59,1,629,'I wraped up potatoes prep from the previous day. While the total amount of time spent was not much, this still qualifies as a long time block commitment because it involved multiple long stretches: the pot cooking and the later cleanup; the active time commitment was similar to that for rice prep, which does count as a long time block commitment. Effectively, this means that a single potatoes prep generated two days with long time block commitment.');
