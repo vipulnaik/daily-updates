@@ -732,4 +732,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-09-28',6567,2443,66,19,25,38,2,10,37,1,630,null),
   ('2026-09-29',6568,2444,142,0,0,145,0,0,141,1,692,null),
   ('2026-09-30',6569,2445,191,0,0,64,0,0,26,1,657,null),
-  ('2026-10-01',6570,2446,205,0,0,95,0,0,114,1,659,null);
+  ('2026-10-01',6570,2446,205,0,0,95,0,0,114,1,659,null),
+  ('2026-10-02',6571,2447,105,0,30,45,0,0,53,0,685,'While I didn''t do any cyclic personal chores with long time block commitment, I did several cyclic personal chore tasks: two wrap-up tasks from previous days, and one Berkeley Bowl trip. These used up enough chunks of my day that I wasn''t able to fit in a cyclic personal chore with long time block commitment.'),
+  ('2026-10-03',6572,2448,12,1,1,257,0,0,8,1,742,null),
+  ('2026-10-04',6573,2449,6,0,60,89,0,0,0,1,540,null);
