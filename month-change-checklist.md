@@ -18,6 +18,7 @@ To be executed on the 1st of the month, or soon after:
 - [ ] `aiwatch` (for Org Watch): Check that data has been refreshed recently and run priority-based queries to see how things are going
 - [ ] Timelines Wiki: Take a look at traffic trends; review my own to-do list at https://timelines.issarice.com/wiki/User:Vipul and think through the strategy
 
-To be executed at next Monday:
+To be executed along with the daily updates update that finishes the
+previous month:
 
-- [ ] `daily-updates`: Add in a month summary along with the weekly summary work
+- [ ] `daily-updates`: Add in a month summary for the previous month
