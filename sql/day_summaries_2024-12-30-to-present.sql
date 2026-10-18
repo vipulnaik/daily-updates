@@ -743,4 +743,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-10-08',6577,2453,77,34,30,12,0,0,105,1,714,null),
   ('2026-10-09',6578,2454,99,10,60,33,0,0,120,0,708,'On this day, I completed some time-sensitive work on US taxes, and also had a conversation with my mother in the evening, so I was not able to fit in any cyclic personal chore with long time block commitment.'),
   ('2026-10-10',6579,2455,43,0,0,148,0,0,0,0,608,'A bunch of setup and software update stuff took a large fraction of my day, squeezing my time and making it harder to fit in any cyclic personal chore with long time block commitment. Also, I spent a large amount of time on post-meal cleanup and related activities that is not reflected in accounted-for time, explaining how the accounted-for time is low.'),
-  ('2026-10-11',6580,2456,49,0,10,64,0,0,48,1,555,null);
+  ('2026-10-11',6580,2456,49,0,10,64,0,0,48,1,555,null),
+  /* Week of 2026-10-12 */
+  ('2026-10-12',6581,2457,26,0,0,111,0,0,141,2,533,null),
+  ('2026-10-13',6582,2458,121,0,0,40,1,10,27,1,615,null),
+  ('2026-10-14',6583,2459,144,0,0,30,0,0,53,0,670,'This ended up being a busy day on day job, with a few day job tasks ending up stretching long enough that I was squeezed out of being able to fit in any cyclic personal chore with long time block commitment.'),
+  ('2026-10-15',6585,2460,120,0,0,45,0,5,85,0,754,'Like the previous day, this was also a busy day on day job, with day job tasks stretching long enough that I was not able to comfortably fit in any cyclic personal chore with long time block commitment. Rather than try to squeeze one in, I put priority on making progress through my dishwashing backlog (that doesn''t count as a long time block commitment) and not delaying my sleep time.');
