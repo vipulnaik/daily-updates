@@ -1,5 +1,5 @@
 /* Now that Equator work has been completed, we skip Equator-related columns from the insert */
-insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_and_career_planning, minutes_spent_on_other_activities, screen_minutes_m1, notes) values
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_and_career_planning, minutes_spent_on_other_activities, screen_minutes_primary_laptop, notes) values
   /* Week of 2023-05-29 */
   ('2023-05-29',4963,1219,91,0,0,185,0,0,0,409,null),
   ('2023-05-30',4964,1220,180,105,5,50,0,0,0,626,null),

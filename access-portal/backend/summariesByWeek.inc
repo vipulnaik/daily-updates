@@ -9,7 +9,7 @@ $weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   sum(case when minutes_spent_on_house_chores is not null then 1 else 0 end) as num_days_with_house_chores_data,
   sum(case when minutes_spent_on_family_and_career_planning is not null then 1 else 0 end) as num_days_with_family_and_career_planning_data,
   sum(case when minutes_spent_on_other_activities is not null then 1 else 0 end) as num_days_with_other_activities_data,
-  sum(case when screen_minutes_m1 is not null then 1 else 0 end) as num_days_with_screen_minutes_m1,
+  sum(case when screen_minutes_primary_laptop is not null then 1 else 0 end) as num_days_with_screen_minutes_primary_laptop,
   sum(coalesce(minutes_spent_on_day_job_liftigniter_and_arena, 0)) as minutes_spent_on_day_job_liftigniter_and_arena,
   sum(coalesce(minutes_spent_on_day_job_equator, 0)) as minutes_spent_on_day_job_equator,
   sum(coalesce(minutes_spent_on_personal_projects, 0)) as minutes_spent_on_personal_projects,
@@ -19,7 +19,7 @@ $weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   sum(coalesce(minutes_spent_on_family_and_career_planning, 0)) as minutes_spent_on_family_and_career_planning,
   sum(coalesce(minutes_spent_on_other_activities, 0)) as minutes_spent_on_other_activities,
   sum(coalesce(num_cpc_ltbcs, 0)) as num_cpc_ltbcs,
-  sum(coalesce(screen_minutes_m1, 0)) as screen_minutes_m1,
+  sum(coalesce(screen_minutes_primary_laptop, 0)) as screen_minutes_primary_laptop,
   count(1) as num_days
   from day_summaries
   group by round(unix_timestamp(cast(date as datetime)) / (60 * 60 * 24 * 7))
@@ -68,7 +68,7 @@ for ($i = 0; $i < $weekSummariesResult -> num_rows; $i++) {
     printBasedOnColumnFragment($row, $columnFragment, 1);
   }
   print '<td align="right">'.$row['num_cpc_ltbcs'].'</td>';
-  printMinutesWithNumDaysToolTip($row['screen_minutes_m1'], $row['num_days_with_screen_minutes_m1']);
+  printMinutesWithNumDaysToolTip($row['screen_minutes_primary_laptop'], $row['num_days_with_screen_minutes_primary_laptop']);
   if (isset($notesMap[$row['start_date']])) {
     print "<td>".cleanNotes($notesMap[$row['start_date']])."</td>";
   }

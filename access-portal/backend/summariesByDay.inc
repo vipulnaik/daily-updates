@@ -57,7 +57,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_family_and_career_planning']).'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_other_activities']).'</td>';
   print '<td align="right">'.($row['num_cpc_ltbcs'] ?? 'N/A').'</td>';
-  print '<td align="right">'.convertToHoursAndMinutes($row['screen_minutes_m1']).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes($row['screen_minutes_primary_laptop']).'</td>';
   if (isset($row['notes'])) {
     print '<td>'.cleanNotes($row['notes']).'</td>';
   }

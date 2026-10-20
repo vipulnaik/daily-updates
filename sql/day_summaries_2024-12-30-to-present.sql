@@ -1,4 +1,4 @@
-insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_and_career_planning, minutes_spent_on_other_activities, num_cpc_ltbcs, screen_minutes_m1, notes) values
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_and_career_planning, minutes_spent_on_other_activities, num_cpc_ltbcs, screen_minutes_primary_laptop, notes) values
   /* Week of 2024-12-30 */
   ('2024-12-30',5919,1806,139,2,0,89,0,0,47,0,567,null),
   ('2024-12-31',5920,1807,111,3,0,72,0,0,150,1,457,null),

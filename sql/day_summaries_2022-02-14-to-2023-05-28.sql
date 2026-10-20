@@ -111,7 +111,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
   ('2022-05-20',4467,57,877,104,145,0,0,168,0,0,null),
   ('2022-05-21',4468,58,878,4,60,100,0,205,10,0,null); /* Sunday in next insert */
 
-insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_day_job_equator,minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_other_activities, screen_minutes_m1, notes) values
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_day_job_equator,minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_other_activities, screen_minutes_primary_laptop, notes) values
   ('2022-05-22',4469,null,879,4,0,220,0,90,0,15,752,null),
   /* Week of 2022-05-23 */
   ('2022-05-23',4470,59,880,115,205,0,30,37,0,10,535,null),
@@ -278,7 +278,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_
 /* Starting 2022-10-10, I include a new category of "family planning"
    and also stop using the LI/Arena daily update. I move the column
    for minutes spent on Arena to the end, since it's usually zero now. */
-insert into day_summaries(date, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_equator, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_and_career_planning, minutes_spent_on_other_activities, minutes_spent_on_day_job_liftigniter_and_arena, screen_minutes_m1, notes) values
+insert into day_summaries(date, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_equator, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_and_career_planning, minutes_spent_on_other_activities, minutes_spent_on_day_job_liftigniter_and_arena, screen_minutes_primary_laptop, notes) values
   /* Week of 2022-10-10 */
   ('2022-10-10',181,1008,35,195,0,210,0,0,0,0,531,'Although this was a working day, I ended up spending a bunch of time dealing with somewhat-time-sensitive server devops stuff. Since I also needed to cook, I ended up spending very little time on work.'),
   ('2022-10-11',182,1009,206,15,0,50,0,0,0,0,613,null),
@@ -449,7 +449,7 @@ insert into day_summaries(date, day_job_equator_daily_update, personal_daily_upd
   ('2023-03-05',null,1147,0,80,0,160,0,0,25,30,434,null);
 
 /* For the next few weeks, I started work at Arena Group, while still wrapping up a few loose ends at Equator (I retained access to Equator daily updates for these few weeks) */
-insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_day_job_equator, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_and_career_planning, minutes_spent_on_other_activities, screen_minutes_m1, notes) values
+insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, day_job_equator_daily_update, personal_daily_update, minutes_spent_on_day_job_liftigniter_and_arena, minutes_spent_on_day_job_equator, minutes_spent_on_personal_projects, minutes_spent_on_personal_finances, minutes_spent_on_personal_chores, minutes_spent_on_house_chores, minutes_spent_on_family_and_career_planning, minutes_spent_on_other_activities, screen_minutes_primary_laptop, notes) values
   /* Week of 2023-03-06 */
   ('2023-03-06',4822,325,null,440,4,0,0,0,0,0,0,790,'This was my first day back at The Arena Group, and a lot of the day was taken up in onboarding and setup activities.'),
   ('2023-03-07',4825,326,1148,246,40,10,0,42,0,0,0,601,null),
