@@ -253,6 +253,9 @@ def extract_metadata(filepath):
     if len(lines) >= 9 and lines[8].startswith('number:'):
         number_str = lines[8].split('number:')[1].strip()
         number = int(number_str)
+    elif len(lines) >= 15 and lines[14].startswith('number:'):
+        number_str = lines[14].split('number:')[1].strip()
+        number = int(number_str)
 
     return date, number, warnings
 
