@@ -1,6 +1,6 @@
 create table week_summaries(
-  `week_start_date` date primary key not null,
-  `notes` varchar(3000)
+  week_start_date date primary key not null,
+  notes varchar(3000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 insert into week_summaries(week_start_date, notes) values
