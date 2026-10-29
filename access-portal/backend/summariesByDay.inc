@@ -23,7 +23,8 @@ print '<th>Time spent on house chores</th>';
 print '<th>Time spent on family and career planning</th>';
 print '<th>Time spent on other activities</th>';
 print '<th>Number of cyclic personal chores with long time block commitment</th>';
-print '<th>Total screen minutes (excluding screen time during meals)</th>';
+print '<th>Screen minutes on primary laptop (generally excludes meals and meal prep)</th>';
+print '<th>Screen minutes on secondary laptop (generally only covers meals and meal prep)</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
@@ -58,6 +59,7 @@ for ($i = 0; $i < $summariesResult -> num_rows; $i++) {
   print '<td align="right">'.convertToHoursAndMinutes($row['minutes_spent_on_other_activities']).'</td>';
   print '<td align="right">'.($row['num_cpc_ltbcs'] ?? 'N/A').'</td>';
   print '<td align="right">'.convertToHoursAndMinutes($row['screen_minutes_primary_laptop']).'</td>';
+  print '<td align="right">'.convertToHoursAndMinutes($row['screen_minutes_secondary_laptop']).'</td>';
   if (isset($row['notes'])) {
     print '<td>'.cleanNotes($row['notes']).'</td>';
   }

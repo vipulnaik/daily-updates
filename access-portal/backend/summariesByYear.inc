@@ -20,6 +20,7 @@ $yearSummariesQuery = "select year(date) as year,
   sum(coalesce(minutes_spent_on_other_activities, 0)) as minutes_spent_on_other_activities,
   sum(coalesce(num_cpc_ltbcs, 0)) as num_cpc_ltbcs,
   sum(coalesce(screen_minutes_primary_laptop, 0)) as screen_minutes_primary_laptop,
+  sum(coalesce(screen_minutes_secondary_laptop, 0)) as screen_minutes_secondary_laptop,
   count(1) as num_days
   from day_summaries
   group by year(date)
@@ -49,7 +50,8 @@ print '<th>Time spent on house chores per week</th>';
 print '<th>Time spent on family and career planning per week</th>';
 print '<th>Time spent on other activities per week</th>';
 print '<th>Number of cyclic personal chores with long time block commitment per week</th>';
-print '<th>Total screen minutes per week (excluding screen time during meals)</th>';
+print '<th>Screen minutes on primary laptop (generally excludes meals and meal prep)</th>';
+print '<th>Screen minutes on secondary laptop (generally only covers meals and meal prep)</th>';
 print '<th>Notes</th>';
 print "</tr>\n</thead>\n<tbody>\n";
 
@@ -66,6 +68,7 @@ for ($i = 0; $i < $yearSummariesResult -> num_rows; $i++) {
   }
   print '<td align="right">'.number_format($row['num_cpc_ltbcs'] * $adjustmentFactor, 2).'</td>';
   printMinutesWithNumDaysToolTip($adjustmentFactor * $row['screen_minutes_primary_laptop'], $row['num_days_with_screen_minutes_primary_laptop']);
+  printMinutesWithNumDaysToolTip($adjustmentFactor * $row['screen_minutes_secondary_laptop'], $row['num_days_with_screen_minutes_secondary_laptop']);
   if (isset($notesMap[$row['year']])) {
     print "<td>".cleanNotes($notesMap[$row['year']])."</td>";
   }
@@ -77,7 +80,7 @@ for ($i = 0; $i < $yearSummariesNotesResult -> num_rows; $i++) {
   $row = $yearSummariesNotesResult -> fetch_assoc();
   if ($row['year'] <= "2017") {
     print "<tr><td>".$row['year']."</td>";
-    for ($j = 0; $j < 13; $j++) {
+    for ($j = 0; $j < 14; $j++) {
       print "<td>N/A</td>";
     }
     print "<td>".cleanNotes($row['notes'])."</td>";

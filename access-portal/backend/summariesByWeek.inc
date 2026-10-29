@@ -20,6 +20,7 @@ $weekSummariesQuery = "select min(date) as start_date, max(date) as end_date,
   sum(coalesce(minutes_spent_on_other_activities, 0)) as minutes_spent_on_other_activities,
   sum(coalesce(num_cpc_ltbcs, 0)) as num_cpc_ltbcs,
   sum(coalesce(screen_minutes_primary_laptop, 0)) as screen_minutes_primary_laptop,
+  sum(coalesce(screen_minutes_secondary_laptop, 0)) as screen_minutes_secondary_laptop,
   count(1) as num_days
   from day_summaries
   group by round(unix_timestamp(cast(date as datetime)) / (60 * 60 * 24 * 7))
@@ -52,7 +53,8 @@ print '<th>Time spent on house chores</th>';
 print '<th>Time spent on family and career planning</th>';
 print '<th>Time spent on other activities</th>';
 print '<th>Number of cyclic personal chores with long time block commitment</th>';
-print '<th>Total screen minutes (excluding screen time during meals)</th>';
+print '<th>Screen minutes on primary laptop (generally excludes meals and meal prep)</th>';
+print '<th>Screen minutes on secondary laptop (generally only covers meals and meal prep)</th>';
 print '<th>Notes</th>';
 print "</tr></thead>\n<tbody>\n";
 
@@ -69,6 +71,7 @@ for ($i = 0; $i < $weekSummariesResult -> num_rows; $i++) {
   }
   print '<td align="right">'.$row['num_cpc_ltbcs'].'</td>';
   printMinutesWithNumDaysToolTip($row['screen_minutes_primary_laptop'], $row['num_days_with_screen_minutes_primary_laptop']);
+  printMinutesWithNumDaysToolTip($row['screen_minutes_secondary_laptop'], $row['num_days_with_screen_minutes_secondary_laptop']);
   if (isset($notesMap[$row['start_date']])) {
     print "<td>".cleanNotes($notesMap[$row['start_date']])."</td>";
   }
