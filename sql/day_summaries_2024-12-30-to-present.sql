@@ -748,4 +748,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-10-12',6581,2457,26,0,0,111,0,0,141,2,533,null),
   ('2026-10-13',6582,2458,121,0,0,40,1,10,27,1,615,null),
   ('2026-10-14',6583,2459,144,0,0,30,0,0,53,0,670,'This ended up being a busy day on day job, with a few day job tasks ending up stretching long enough that I was squeezed out of being able to fit in any cyclic personal chore with long time block commitment.'),
-  ('2026-10-15',6585,2460,120,0,0,45,0,5,85,0,754,'Like the previous day, this was also a busy day on day job, with day job tasks stretching long enough that I was not able to comfortably fit in any cyclic personal chore with long time block commitment. Rather than try to squeeze one in, I put priority on making progress through my dishwashing backlog (that doesn''t count as a long time block commitment) and not delaying my sleep time.');
+  ('2026-10-15',6585,2460,120,0,0,45,0,5,85,0,754,'Like the previous day, this was also a busy day on day job, with day job tasks stretching long enough that I was not able to comfortably fit in any cyclic personal chore with long time block commitment. Rather than try to squeeze one in, I put priority on making progress through my dishwashing backlog (that doesn''t count as a long time block commitment) and not delaying my sleep time.'),
+  ('2026-10-16',6586,2461,148,1,0,161,0,6,92,2,533,null),
+  ('2026-10-17',6588,2462,23,93,0,154,0,0,87,1,682,null),
+  ('2026-10-18',6589,2463,4,25,16,180,0,0,45,1,611,null);
