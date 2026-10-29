@@ -247,7 +247,7 @@ def extract_metadata(filepath):
     # Allow space or tab between "author:" and "vipulnaik"
     if len(lines) >= 3:
         author_line = lines[2].strip()
-        if not (author_line == 'author: vipulnaik' or author_line == 'author:\tvipulnaik'):
+        if not (author_line == 'author: vipulnaik' or author_line == 'author: vipulnaik (Vipul Naik)' or author_line == 'author:\tvipulnaik' or author_line == 'author:\tvipulnaik (Vipul Naik)'):
             warnings.append(f"WARNING: Line 3 in {filepath} is not 'author: vipulnaik' or 'author:\\tvipulnaik'")
 
     if len(lines) >= 9 and lines[8].startswith('number:'):
