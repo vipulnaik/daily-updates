@@ -24,4 +24,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-10-19',6590,2464,6,21,18,96,5,0,11,0,680,158,'I tackled several small personal chore items and also cleared a bunch of backlog in dish cleaning during post-meal cleanup, hence I was not able to fit in any cyclic personal chores with long time block commitment (I did sort laundry from the previous day).'),
   ('2026-10-20',6591,2465,64,17,0,112,0,0,80,1,570,138,null),
   ('2026-10-21',6592,2466,3,28,2,110,0,0,51,1,611,154,null),
-  ('2026-10-22',6593,2467,81,20,20,132,0,6,11,2,565,308,null);
+  ('2026-10-22',6593,2467,81,20,20,132,0,6,11,2,565,308,null),
+  ('2026-10-23',6594,2468,26,2,0,127,0,0,25,0,652,228,'I had originally expected to do regular laundry on this day, but I ended up spending a bunch of time catching up on several small items and, given the delays, decided against trying to fit in regular laundry.'),
+  ('2026-10-24',6595,2469,48,10,0,308,0,0,45,1,662,141,null),
+  ('2026-10-25',6596,2470,18,38,0,73,0,0,95,1,571,181,null);
