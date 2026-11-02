@@ -19,4 +19,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-10-15',6585,2460,120,0,0,45,0,5,85,0,754,169,'Like the previous day, this was also a busy day on day job, with day job tasks stretching long enough that I was not able to comfortably fit in any cyclic personal chore with long time block commitment. Rather than try to squeeze one in, I put priority on making progress through my dishwashing backlog (that doesn''t count as a long time block commitment) and not delaying my sleep time.'),
   ('2026-10-16',6586,2461,148,1,0,161,0,6,92,2,533,214,null),
   ('2026-10-17',6588,2462,23,93,0,154,0,0,87,1,682,180,null),
-  ('2026-10-18',6589,2463,4,25,16,180,0,0,45,1,611,169,null);
+  ('2026-10-18',6589,2463,4,25,16,180,0,0,45,1,611,169,null),
+  /* Week of 2026-10-19 */
+  ('2026-10-19',6590,2464,6,21,18,96,5,0,11,0,680,158,'I tackled several small personal chore items and also cleared a bunch of backlog in dish cleaning during post-meal cleanup, hence I was not able to fit in any cyclic personal chores with long time block commitment (I did sort laundry from the previous day).'),
+  ('2026-10-20',6591,2465,64,17,0,112,0,0,80,1,570,138,null),
+  ('2026-10-21',6592,2466,3,28,2,110,0,0,51,1,611,154,null),
+  ('2026-10-22',6593,2467,81,20,20,132,0,6,11,2,565,308,null);
