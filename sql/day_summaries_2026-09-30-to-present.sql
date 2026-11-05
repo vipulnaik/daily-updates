@@ -27,4 +27,9 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-10-22',6593,2467,81,20,20,132,0,6,11,2,565,308,null),
   ('2026-10-23',6594,2468,26,2,0,127,0,0,25,0,652,228,'I had originally expected to do regular laundry on this day, but I ended up spending a bunch of time catching up on several small items and, given the delays, decided against trying to fit in regular laundry.'),
   ('2026-10-24',6595,2469,48,10,0,308,0,0,45,1,662,141,null),
-  ('2026-10-25',6596,2470,18,38,0,73,0,0,95,1,571,181,null);
+  ('2026-10-25',6596,2470,18,38,0,73,0,0,95,1,571,181,null),
+  /* Week of 2026-10-26 */
+  ('2026-10-26',6597,2471,128,12,0,83,0,0,100,2,602,240,null),
+  ('2026-10-27',6599,2472,180,0,0,90,0,0,24,0,694,225,'I spent a bunch of time on day job stuff early in the day and then spent a bunch of time later in the day on wrapping up health documentation stuff that I had started in the past few days. Together, these squeezed things enough that I ended up not having time to fit in any cyclic personal chore with long time block commitment.'),
+  ('2026-10-28',null,2473,0,0,0,154,0,0,81,1,706,164,'This ended up being the ideal Wednesday from the day job perspective, with no day job time (I still checked email and Slack and read and replied to a few messages, but these were not enough to warrant an issue creation).'),
+  ('2026-10-29',6600,2474,106,0,0,85,0,4,33,1,556,167,null);
