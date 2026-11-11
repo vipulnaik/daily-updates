@@ -75,6 +75,9 @@ def process_section(text, section_name):
         if line.strip().startswith('- []'):
             print(f"!!! ERROR: Found collapsed box in section '{section_name}': {line.strip()}")
             sys.exit(1)
+        if line.strip().startswith('- [') and not line.strip().startswith('- [x]'):
+            print(f"!!! ERROR: Found checkbox-line line without checked box in section '{section_name}': {line.strip()}")
+            sys.exit(1)
 
     time_values = []
     warnings = []
@@ -206,6 +209,12 @@ def process_daily_update_unsectioned(text):
     for line in lines:
         if line.strip().startswith('- [ ]'):
             print(f"!!! ERROR: Found unchecked box: {line.strip()}")
+            sys.exit(1)
+        if line.strip().startswith('- []'):
+            print(f"!!! ERROR: Found collapsed box: {line.strip()}")
+            sys.exit(1)
+        if line.strip().startswith('- [') and not line.strip().startswith('- [x]'):
+            print(f"!!! ERROR: Found checkbox-line line without checked box: {line.strip()}")
             sys.exit(1)
 
     time_values = []
