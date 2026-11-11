@@ -1,5 +1,5 @@
 create table year_summaries(
-  year year,
+  year year primary key,
   notes varchar(2000)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 

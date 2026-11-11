@@ -34,6 +34,10 @@ read:
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/quarter_summaries.sql
 	mysql $(MYSQL_ARGS) $(DATABASE) < sql/year_summaries.sql
 	python3 python/day_summaries_verification_queries.py
+	python3 python/week_summaries_verification_queries.py
+	python3 python/month_summaries_verification_queries.py
+	python3 python/quarter_summaries_verification_queries.py
+	python3 python/year_summaries_verification_queries.py
 
 .PHONY: fetch_table_sorting
 fetch_table_sorting:
