@@ -72,6 +72,9 @@ def process_section(text, section_name):
         if line.strip().startswith('- [ ]'):
             print(f"!!! ERROR: Found unchecked box in section '{section_name}': {line.strip()}")
             sys.exit(1)
+        if line.strip().startswith('- []'):
+            print(f"!!! ERROR: Found collapsed box in section '{section_name}': {line.strip()}")
+            sys.exit(1)
 
     time_values = []
     warnings = []
