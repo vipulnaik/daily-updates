@@ -20,3 +20,4 @@ do
         gh issue view $i > $i.md
         echo "Downloaded issue $i"
 done
+./check-syntax.sh
