@@ -311,6 +311,8 @@ def count_ltbc_items(text):
                 else:
                     if 'Trader Joe' in line:
                         warning = f"WARNING: A line about Trader Joe's was marked NOT LTBC; line {line}"
+                    if ('rice prep' in line or 'Rice prep' in line) and not 'yesterday' in line:
+                        warning = f"WARNING: A line about rice prep not referencing yesterday was marked NOT LTBC; line {line}"
 
     if count > 2:
         warning = f"WARNING: LTBC count is {count} (expected 0, 1, or 2)"
