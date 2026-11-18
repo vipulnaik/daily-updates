@@ -308,6 +308,8 @@ def count_ltbc_items(text):
                         warning = f"WARNING: A LTBC-eligible line mentioning a previous day was not marked NOT LTBC; line: {line}"
                     if 'Berkeley Bowl' in line:
                         warning = f"WARNING: A LTBC-eligible line mentioning Berkeley Bowl was not marked NOT LTBC; line {line}"
+                    if 'laundry' in line and ('failed attempt' in line or 'Failed attempt' in line) and not 'including' in line:
+                        warning = f"WARNING: A laundry failed attempt line was not marked NOT LTBC; line {line}"
                 else:
                     if 'Trader Joe' in line:
                         warning = f"WARNING: A line about Trader Joe's was marked NOT LTBC; line {line}"
