@@ -32,4 +32,7 @@ insert into day_summaries(date, day_job_liftigniter_and_arena_daily_update, pers
   ('2026-10-26',6597,2471,128,12,0,83,0,0,100,2,602,240,null),
   ('2026-10-27',6599,2472,180,0,0,90,0,0,24,0,694,225,'I spent a bunch of time on day job stuff early in the day and then spent a bunch of time later in the day on wrapping up health documentation stuff that I had started in the past few days. Together, these squeezed things enough that I ended up not having time to fit in any cyclic personal chore with long time block commitment.'),
   ('2026-10-28',null,2473,0,0,0,154,0,0,81,1,706,164,'This ended up being the ideal Wednesday from the day job perspective, with no day job time (I still checked email and Slack and read and replied to a few messages, but these were not enough to warrant an issue creation).'),
-  ('2026-10-29',6600,2474,108,0,0,85,0,4,33,1,556,167,null);
+  ('2026-10-29',6600,2474,108,0,0,85,0,4,33,1,556,167,null),
+  ('2026-10-30',6601,2475,103,0,1,45,0,0,98,1,484,248,null),
+  ('2026-10-31',6602,2476,35,0,10,95,0,0,30,1,659,219,null),
+  ('2026-11-01',6603,2477,19,0,91,103,0,0,21,0,653,158,'Instead of doing a cyclic personal chore with long time block commitment, I spent the equivalent chunk of time on devops work (software installation and setup). I do not have a clear memory of why I made the choice, but I believe it had to do with trying to use the daylight saving switch to move my schedule to a little earlier and not yield the entire savings.');
